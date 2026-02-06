@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-06T19:21:13.615Z",
+  "generatedAt": "2026-02-06T22:12:10.154Z",
   "items": [
     {
       "id": "acoustic_guitar",
@@ -542,8 +542,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -558,8 +557,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Electrical Components => x3 Rubber Parts"
           ]
         }
       ]
@@ -634,8 +632,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -650,8 +647,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -915,8 +911,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x6 Plastic Parts",
           "recycleChains": [
-            "recycle => x6 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x6 Plastic Parts"
           ]
         },
         {
@@ -931,8 +926,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x6 Plastic Parts",
           "recycleChains": [
-            "recycle => x6 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x6 Plastic Parts"
           ]
         },
         {
@@ -1408,8 +1402,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -1424,8 +1417,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -1709,8 +1701,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -1725,8 +1716,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -1979,8 +1969,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -1995,8 +1984,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -2249,8 +2237,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Mechanical Components => x3 Metal Parts",
-            "recycle => x4 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -2265,8 +2252,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Mechanical Components => x3 Metal Parts",
-            "recycle => x4 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -2519,8 +2505,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x5 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x5 Mechanical Components => x3 Metal Parts",
-            "recycle => x5 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x5 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -2535,8 +2520,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x5 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x5 Mechanical Components => x3 Metal Parts",
-            "recycle => x5 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x5 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -2746,8 +2730,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -2762,8 +2745,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -3002,10 +2984,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Complex Gun Parts => x3 Simple Gun Parts => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Complex Gun Parts => x3 Simple Gun Parts => x2 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 ARC Motion Core => x2 ARC Alloy => x2 Metal Parts"
+            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -3020,10 +2999,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Complex Gun Parts => x3 Simple Gun Parts => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Complex Gun Parts => x3 Simple Gun Parts => x2 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 ARC Motion Core => x2 ARC Alloy => x2 Metal Parts"
+            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -4155,8 +4131,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -4171,8 +4146,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -4426,8 +4400,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -4442,8 +4415,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -4697,8 +4669,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Mechanical Components => x3 Metal Parts",
-            "recycle => x4 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -4713,8 +4684,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Mechanical Components => x3 Metal Parts",
-            "recycle => x4 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -4968,8 +4938,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x5 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x5 Mechanical Components => x3 Metal Parts",
-            "recycle => x5 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x5 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -4984,8 +4953,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x5 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x5 Mechanical Components => x3 Metal Parts",
-            "recycle => x5 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x5 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -5424,9 +5392,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 ARC Alloy => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -5441,9 +5407,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 ARC Alloy => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -5818,9 +5782,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -5835,9 +5797,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -6106,9 +6066,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -6123,9 +6081,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -6394,9 +6350,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -6411,9 +6365,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -6682,9 +6634,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -6699,9 +6649,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -7755,9 +7703,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Light Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -7772,9 +7718,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Light Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -8203,9 +8147,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Light Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -8220,9 +8162,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Light Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -8651,9 +8591,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x4 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x4 Light Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -8668,9 +8606,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x4 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x4 Light Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -9099,9 +9035,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x5 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x5 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x5 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x4 Light Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x5 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -9116,9 +9050,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x5 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x5 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x5 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x4 Light Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x5 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -9247,9 +9179,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 ARC Alloy => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -9264,9 +9194,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 ARC Alloy => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -9439,7 +9367,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Battery => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Battery => x2 Metal Parts",
             "recycle => x6 Metal Parts"
           ]
         },
@@ -9455,7 +9382,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Battery => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Battery => x2 Metal Parts",
             "recycle => x6 Metal Parts"
           ]
         }
@@ -9665,7 +9591,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Sensors => x1 Wires",
           "recycleChains": [
-            "recycle => x3 Sensors => x1 Wires",
             "recycle => x2 Wires"
           ]
         },
@@ -9686,7 +9611,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Sensors => x1 Wires",
           "recycleChains": [
-            "recycle => x3 Sensors => x1 Wires",
             "recycle => x2 Wires"
           ]
         },
@@ -9707,7 +9631,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Sensors => x1 Wires",
           "recycleChains": [
-            "recycle => x3 Sensors => x1 Wires",
             "recycle => x2 Wires"
           ]
         },
@@ -9724,7 +9647,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Sensors => x1 Wires",
           "recycleChains": [
-            "recycle => x3 Sensors => x1 Wires",
             "recycle => x2 Wires"
           ]
         }
@@ -10271,8 +10193,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -10287,8 +10208,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -10378,8 +10298,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -10394,8 +10313,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -10485,8 +10403,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -10501,8 +10418,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -10592,8 +10508,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Mechanical Components => x3 Metal Parts",
-            "recycle => x4 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -10608,8 +10523,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Mechanical Components => x3 Metal Parts",
-            "recycle => x4 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -11908,8 +11822,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -11924,8 +11837,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -11940,9 +11852,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -11957,9 +11867,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         }
       ]
@@ -12356,8 +12264,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -12372,8 +12279,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -12388,9 +12294,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -12405,9 +12309,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         }
       ]
@@ -13028,8 +12930,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -13044,8 +12945,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -16129,10 +16029,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Complex Gun Parts => x3 Simple Gun Parts => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Complex Gun Parts => x3 Simple Gun Parts => x2 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 ARC Motion Core => x2 ARC Alloy => x2 Metal Parts"
+            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -16147,10 +16044,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Complex Gun Parts => x3 Simple Gun Parts => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Complex Gun Parts => x3 Simple Gun Parts => x2 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 ARC Motion Core => x2 ARC Alloy => x2 Metal Parts"
+            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -17150,8 +17044,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -17166,8 +17059,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -17394,8 +17286,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -17410,8 +17301,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -17545,9 +17435,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -17562,9 +17450,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -17780,8 +17666,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -17796,8 +17681,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -17955,9 +17839,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -17972,9 +17854,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -18192,8 +18072,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -18208,8 +18087,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -18341,9 +18219,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -18358,9 +18234,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -19153,8 +19027,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x6 Metal Parts",
           "recycleChains": [
-            "recycle => x6 Metal Parts",
-            "recycle => x1 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x6 Metal Parts"
           ]
         },
         {
@@ -19169,8 +19042,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x6 Metal Parts",
           "recycleChains": [
-            "recycle => x6 Metal Parts",
-            "recycle => x1 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x6 Metal Parts"
           ]
         }
       ]
@@ -19375,8 +19247,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -19391,8 +19262,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -20363,9 +20233,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x1 Sensors => x1 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -20380,9 +20248,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x1 Sensors => x1 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -20711,8 +20577,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Speaker Component => x2 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -20727,8 +20592,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Speaker Component => x2 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -20744,7 +20608,6 @@
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
             "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
             "recycle => x1 Speaker Component => x3 Rubber Parts"
           ]
         },
@@ -20761,7 +20624,6 @@
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
             "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
             "recycle => x1 Speaker Component => x3 Rubber Parts"
           ]
         }
@@ -20847,7 +20709,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x2 Electrical Components => x3 Plastic Parts",
             "recycle => x5 Plastic Parts"
           ]
         },
@@ -20863,7 +20724,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x2 Electrical Components => x3 Plastic Parts",
             "recycle => x5 Plastic Parts"
           ]
         },
@@ -22607,8 +22467,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x6 Metal Parts",
           "recycleChains": [
-            "recycle => x6 Metal Parts",
-            "recycle => x1 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x6 Metal Parts"
           ]
         },
         {
@@ -22623,8 +22482,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x6 Metal Parts",
           "recycleChains": [
-            "recycle => x6 Metal Parts",
-            "recycle => x1 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x6 Metal Parts"
           ]
         }
       ]
@@ -22871,8 +22729,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -22887,8 +22744,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -22960,8 +22816,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x7 Rubber Parts",
           "recycleChains": [
-            "recycle => x7 Rubber Parts",
-            "recycle => x1 Speaker Component => x3 Rubber Parts"
+            "recycle => x7 Rubber Parts"
           ]
         },
         {
@@ -22976,8 +22831,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x7 Rubber Parts",
           "recycleChains": [
-            "recycle => x7 Rubber Parts",
-            "recycle => x1 Speaker Component => x3 Rubber Parts"
+            "recycle => x7 Rubber Parts"
           ]
         },
         {
@@ -23549,7 +23403,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Voltage Converter => x1 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Voltage Converter => x1 Rubber Parts",
             "recycle => x1 Voltage Converter => x1 Wires => x2 Rubber Parts"
           ]
         },
@@ -23565,7 +23418,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Voltage Converter => x1 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Voltage Converter => x1 Rubber Parts",
             "recycle => x1 Voltage Converter => x1 Wires => x2 Rubber Parts"
           ]
         }
@@ -23891,8 +23743,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -23907,8 +23758,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -24494,9 +24344,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -24511,9 +24359,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -24766,9 +24612,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -24783,9 +24627,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -25038,9 +24880,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x4 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -25055,9 +24895,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x4 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -25310,9 +25148,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x4 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x5 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -25327,9 +25163,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x4 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x5 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -25776,8 +25610,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -25792,8 +25625,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -26025,8 +25857,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -26041,8 +25872,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -26280,8 +26110,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Mechanical Components => x3 Metal Parts",
-            "recycle => x4 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -26296,8 +26125,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Mechanical Components => x3 Metal Parts",
-            "recycle => x4 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -26535,8 +26363,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x5 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x5 Mechanical Components => x3 Metal Parts",
-            "recycle => x5 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x5 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -26551,8 +26378,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x5 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x5 Mechanical Components => x3 Metal Parts",
-            "recycle => x5 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x5 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -26863,7 +26689,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Voltage Converter => x1 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Voltage Converter => x1 Rubber Parts",
             "recycle => x1 Voltage Converter => x1 Wires => x2 Rubber Parts"
           ]
         },
@@ -26879,7 +26704,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Voltage Converter => x1 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Voltage Converter => x1 Rubber Parts",
             "recycle => x1 Voltage Converter => x1 Wires => x2 Rubber Parts"
           ]
         }
@@ -26922,7 +26746,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Magnet => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Magnet => x2 Metal Parts",
             "recycle => x4 Metal Parts"
           ]
         },
@@ -26938,7 +26761,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Magnet => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Magnet => x2 Metal Parts",
             "recycle => x4 Metal Parts"
           ]
         }
@@ -27141,7 +26963,6 @@
           "recycleChain": "recycle => x1 Exodus Modules => x2 Processor => x1 Wires => x2 Rubber Parts",
           "recycleChains": [
             "recycle => x1 Exodus Modules => x2 Processor => x1 Wires => x2 Rubber Parts",
-            "recycle => x4 Voltage Converter => x1 Rubber Parts",
             "recycle => x4 Voltage Converter => x1 Wires => x2 Rubber Parts"
           ]
         },
@@ -27158,7 +26979,6 @@
           "recycleChain": "recycle => x1 Exodus Modules => x2 Processor => x1 Wires => x2 Rubber Parts",
           "recycleChains": [
             "recycle => x1 Exodus Modules => x2 Processor => x1 Wires => x2 Rubber Parts",
-            "recycle => x4 Voltage Converter => x1 Rubber Parts",
             "recycle => x4 Voltage Converter => x1 Wires => x2 Rubber Parts"
           ]
         }
@@ -27600,10 +27420,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Complex Gun Parts => x3 Simple Gun Parts => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Complex Gun Parts => x3 Simple Gun Parts => x2 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 ARC Motion Core => x2 ARC Alloy => x2 Metal Parts"
+            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -27618,10 +27435,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Complex Gun Parts => x3 Simple Gun Parts => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Complex Gun Parts => x3 Simple Gun Parts => x2 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Magnetic Accelerator => x1 ARC Motion Core => x2 ARC Alloy => x2 Metal Parts"
+            "recycle => x2 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -28222,8 +28036,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x12 Metal Parts",
           "recycleChains": [
-            "recycle => x12 Metal Parts",
-            "recycle => x1 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x12 Metal Parts"
           ]
         },
         {
@@ -28238,8 +28051,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x12 Metal Parts",
           "recycleChains": [
-            "recycle => x12 Metal Parts",
-            "recycle => x1 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x12 Metal Parts"
           ]
         }
       ]
@@ -28412,8 +28224,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -28428,8 +28239,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -28632,8 +28442,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -28648,8 +28457,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -28943,9 +28751,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 ARC Alloy => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -28960,9 +28766,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 ARC Alloy => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -29741,8 +29545,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -29757,8 +29560,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -30542,8 +30344,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -30558,8 +30359,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -30574,9 +30374,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -30591,9 +30389,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         }
       ]
@@ -30869,8 +30665,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -30885,8 +30680,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -30901,9 +30695,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -30918,9 +30710,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         }
       ]
@@ -31196,8 +30986,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -31212,8 +31001,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -31228,9 +31016,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -31245,9 +31031,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         }
       ]
@@ -31575,9 +31359,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x1 ARC Motion Core => x2 ARC Alloy => x2 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -31592,9 +31374,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x1 ARC Motion Core => x2 ARC Alloy => x2 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -31791,10 +31571,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x1 Magnetic Accelerator => x1 ARC Motion Core => x2 ARC Alloy => x2 Metal Parts",
-            "recycle => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -31809,10 +31586,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x1 Magnetic Accelerator => x1 ARC Motion Core => x2 ARC Alloy => x2 Metal Parts",
-            "recycle => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -32124,10 +31898,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x1 Magnetic Accelerator => x1 ARC Motion Core => x2 ARC Alloy => x2 Metal Parts",
-            "recycle => x1 Power Rod => x1 ARC Circuitry => x2 ARC Alloy => x2 Metal Parts"
+            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -32142,10 +31913,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x1 Magnetic Accelerator => x1 ARC Motion Core => x2 ARC Alloy => x2 Metal Parts",
-            "recycle => x1 Power Rod => x1 ARC Circuitry => x2 ARC Alloy => x2 Metal Parts"
+            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -32160,9 +31928,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x2 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x2 Rubber Parts",
-            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -32177,9 +31943,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x2 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x2 Rubber Parts",
-            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -32966,9 +32730,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Magnet => x2 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -32983,9 +32745,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Magnet => x2 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -33087,8 +32847,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -33103,8 +32862,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -33226,8 +32984,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -33242,8 +32999,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -34243,8 +33999,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -34259,8 +34014,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -34870,9 +34624,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -34887,9 +34639,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -35188,9 +34938,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -35205,9 +34953,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -35506,9 +35252,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -35523,9 +35267,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -35824,9 +35566,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -35841,9 +35581,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -36121,8 +35859,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -36137,8 +35874,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -36414,8 +36150,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Speaker Component => x2 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -36430,8 +36165,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Speaker Component => x2 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -36447,7 +36181,6 @@
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
             "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
             "recycle => x1 Speaker Component => x3 Rubber Parts"
           ]
         },
@@ -36464,7 +36197,6 @@
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
             "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
             "recycle => x1 Speaker Component => x3 Rubber Parts"
           ]
         }
@@ -37565,8 +37297,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -37581,8 +37312,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -37920,7 +37650,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Processor => x1 Wires",
           "recycleChains": [
-            "recycle => x1 Processor => x1 Wires",
             "recycle => x2 Wires"
           ]
         },
@@ -37941,7 +37670,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Processor => x1 Wires",
           "recycleChains": [
-            "recycle => x1 Processor => x1 Wires",
             "recycle => x2 Wires"
           ]
         },
@@ -37962,7 +37690,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Processor => x1 Wires",
           "recycleChains": [
-            "recycle => x1 Processor => x1 Wires",
             "recycle => x2 Wires"
           ]
         },
@@ -37979,7 +37706,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Processor => x1 Wires",
           "recycleChains": [
-            "recycle => x1 Processor => x1 Wires",
             "recycle => x2 Wires"
           ]
         }
@@ -38299,10 +38025,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x1 Magnetic Accelerator => x1 ARC Motion Core => x2 ARC Alloy => x2 Metal Parts",
-            "recycle => x1 Power Rod => x1 ARC Circuitry => x2 ARC Alloy => x2 Metal Parts"
+            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -38317,10 +38040,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x1 Magnetic Accelerator => x1 ARC Motion Core => x2 ARC Alloy => x2 Metal Parts",
-            "recycle => x1 Power Rod => x1 ARC Circuitry => x2 ARC Alloy => x2 Metal Parts"
+            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -38335,9 +38055,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x2 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x2 Rubber Parts",
-            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -38352,9 +38070,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x2 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Magnetic Accelerator => x1 Advanced Mechanical Components => x1 Mechanical Components => x2 Rubber Parts",
-            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -38671,7 +38387,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Sensors => x1 Wires => x2 Rubber Parts",
           "recycleChains": [
-            "recycle => x2 Sensors => x1 Wires => x2 Rubber Parts",
             "recycle => x2 Speaker Component => x3 Rubber Parts"
           ]
         },
@@ -38687,7 +38402,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Sensors => x1 Wires => x2 Rubber Parts",
           "recycleChains": [
-            "recycle => x2 Sensors => x1 Wires => x2 Rubber Parts",
             "recycle => x2 Speaker Component => x3 Rubber Parts"
           ]
         },
@@ -38882,7 +38596,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Sensors => x1 Wires => x2 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Sensors => x1 Wires => x2 Rubber Parts",
             "recycle => x1 Speaker Component => x3 Rubber Parts"
           ]
         },
@@ -38898,7 +38611,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Sensors => x1 Wires => x2 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Sensors => x1 Wires => x2 Rubber Parts",
             "recycle => x1 Speaker Component => x3 Rubber Parts"
           ]
         },
@@ -39516,8 +39228,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -39532,8 +39243,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -39748,8 +39458,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -39764,8 +39473,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -40457,9 +40165,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -40474,9 +40180,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -40752,9 +40456,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -40769,9 +40471,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -41047,9 +40747,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -41064,9 +40762,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -41342,9 +41038,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -41359,9 +41053,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -41964,8 +41656,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x2 Advanced Electrical Components => x1 Wires => x2 Rubber Parts"
+            "recycle => x2 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -41980,8 +41671,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x2 Advanced Electrical Components => x1 Wires => x2 Rubber Parts"
+            "recycle => x2 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -42323,8 +42013,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x2 Electrical Components => x3 Plastic Parts",
-            "recycle => x2 Processor => x1 Plastic Parts"
+            "recycle => x2 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -42339,8 +42028,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x2 Electrical Components => x3 Plastic Parts",
-            "recycle => x2 Processor => x1 Plastic Parts"
+            "recycle => x2 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -42355,8 +42043,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x2 Electrical Components => x3 Rubber Parts",
-            "recycle => x2 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x2 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -42371,8 +42058,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x2 Electrical Components => x3 Rubber Parts",
-            "recycle => x2 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x2 Electrical Components => x3 Rubber Parts"
           ]
         }
       ]
@@ -43164,7 +42850,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Mechanical Components => x3 Metal Parts",
             "recycle => x4 Metal Parts"
           ]
         },
@@ -43180,7 +42865,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Mechanical Components => x3 Metal Parts",
             "recycle => x4 Metal Parts"
           ]
         },
@@ -43383,8 +43067,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x8 Metal Parts",
           "recycleChains": [
-            "recycle => x8 Metal Parts",
-            "recycle => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x8 Metal Parts"
           ]
         },
         {
@@ -43399,8 +43082,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x8 Metal Parts",
           "recycleChains": [
-            "recycle => x8 Metal Parts",
-            "recycle => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x8 Metal Parts"
           ]
         }
       ]
@@ -43966,7 +43648,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 ARC Alloy => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x2 ARC Alloy => x2 Metal Parts",
             "recycle => x3 Mechanical Components => x3 Metal Parts"
           ]
         },
@@ -43982,7 +43663,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 ARC Alloy => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x2 ARC Alloy => x2 Metal Parts",
             "recycle => x3 Mechanical Components => x3 Metal Parts"
           ]
         },
@@ -44790,8 +44470,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -44806,8 +44485,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -45020,8 +44698,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -45036,8 +44713,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -45575,7 +45251,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 ARC Alloy => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x3 ARC Alloy => x2 Metal Parts",
             "recycle => x3 Mechanical Components => x3 Metal Parts"
           ]
         },
@@ -45591,7 +45266,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 ARC Alloy => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x3 ARC Alloy => x2 Metal Parts",
             "recycle => x3 Mechanical Components => x3 Metal Parts"
           ]
         },
@@ -45816,9 +45490,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x2 Electrical Components => x3 Rubber Parts",
-            "recycle => x2 Voltage Converter => x1 Rubber Parts",
-            "recycle => x2 Voltage Converter => x1 Wires => x2 Rubber Parts"
+            "recycle => x2 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -45833,9 +45505,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x2 Electrical Components => x3 Rubber Parts",
-            "recycle => x2 Voltage Converter => x1 Rubber Parts",
-            "recycle => x2 Voltage Converter => x1 Wires => x2 Rubber Parts"
+            "recycle => x2 Electrical Components => x3 Rubber Parts"
           ]
         }
       ]
@@ -46242,8 +45912,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -46258,8 +45927,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -46497,8 +46165,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -46513,8 +46180,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -47241,8 +46907,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -47257,8 +46922,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Power Rod => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -48014,9 +47678,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Sensors => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -48031,9 +47693,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Sensors => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -48185,8 +47845,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Exodus Modules => x2 Magnet => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Exodus Modules => x2 Magnet => x2 Metal Parts",
-            "recycle => x1 Sensors => x1 Metal Parts"
+            "recycle => x1 Exodus Modules => x2 Magnet => x2 Metal Parts"
           ]
         },
         {
@@ -48201,8 +47860,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Exodus Modules => x2 Magnet => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Exodus Modules => x2 Magnet => x2 Metal Parts",
-            "recycle => x1 Sensors => x1 Metal Parts"
+            "recycle => x1 Exodus Modules => x2 Magnet => x2 Metal Parts"
           ]
         },
         {
@@ -49138,8 +48796,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -49154,8 +48811,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Mod Components => x1 Steel Spring => x2 Metal Parts"
+            "recycle => x1 Mod Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -50217,8 +49873,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x12 Metal Parts",
           "recycleChains": [
-            "recycle => x12 Metal Parts",
-            "recycle => x1 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x12 Metal Parts"
           ]
         },
         {
@@ -50233,8 +49888,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x12 Metal Parts",
           "recycleChains": [
-            "recycle => x12 Metal Parts",
-            "recycle => x1 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x12 Metal Parts"
           ]
         }
       ]
@@ -50457,8 +50111,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -50473,8 +50126,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -50813,7 +50465,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 ARC Alloy => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x2 ARC Alloy => x2 Metal Parts",
             "recycle => x2 Mechanical Components => x3 Metal Parts"
           ]
         },
@@ -50829,7 +50480,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 ARC Alloy => x2 Metal Parts",
           "recycleChains": [
-            "recycle => x2 ARC Alloy => x2 Metal Parts",
             "recycle => x2 Mechanical Components => x3 Metal Parts"
           ]
         },
@@ -51678,8 +51328,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -51694,8 +51343,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -51710,9 +51358,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -51727,9 +51373,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         }
       ]
@@ -52006,8 +51650,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -52022,8 +51665,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -52038,9 +51680,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -52055,9 +51695,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         }
       ]
@@ -52330,8 +51968,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -52346,8 +51983,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -52362,9 +51998,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -52379,9 +52013,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         }
       ]
@@ -52939,8 +52571,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -52955,8 +52586,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts",
-            "recycle => x1 Processor => x1 Plastic Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Plastic Parts"
           ]
         },
         {
@@ -52971,9 +52601,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         },
         {
@@ -52988,9 +52616,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts",
-            "recycle => x1 Advanced Electrical Components => x1 Wires => x2 Rubber Parts",
-            "recycle => x1 Processor => x1 Wires => x2 Rubber Parts"
+            "recycle => x1 Advanced Electrical Components => x1 Electrical Components => x3 Rubber Parts"
           ]
         }
       ]
@@ -53203,9 +52829,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -53220,9 +52844,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -53491,9 +53113,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -53508,9 +53128,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -53779,9 +53397,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x4 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x4 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -53796,9 +53412,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x4 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x4 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -54067,9 +53681,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x5 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x5 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x5 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x4 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x5 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -54084,9 +53696,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x5 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x5 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x5 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x4 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x5 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -54235,8 +53845,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x7 Rubber Parts",
           "recycleChains": [
-            "recycle => x7 Rubber Parts",
-            "recycle => x1 Sensors => x1 Wires => x2 Rubber Parts"
+            "recycle => x7 Rubber Parts"
           ]
         },
         {
@@ -54251,8 +53860,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x7 Rubber Parts",
           "recycleChains": [
-            "recycle => x7 Rubber Parts",
-            "recycle => x1 Sensors => x1 Wires => x2 Rubber Parts"
+            "recycle => x7 Rubber Parts"
           ]
         },
         {
@@ -54878,9 +54486,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -54895,9 +54501,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -55142,9 +54746,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -55159,9 +54761,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -55406,9 +55006,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -55423,9 +55021,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -55670,9 +55266,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -55687,9 +55281,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -56226,8 +55818,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Metal Parts",
-            "recycle => x5 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Metal Parts"
           ]
         },
         {
@@ -56242,8 +55833,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Metal Parts",
-            "recycle => x5 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Metal Parts"
           ]
         }
       ]
@@ -56497,9 +56087,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -56514,9 +56102,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x1 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x1 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -56808,9 +56394,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -56825,9 +56409,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -57119,9 +56701,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -57136,9 +56716,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -57430,9 +57008,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -57447,9 +57023,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Medium Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -58471,7 +58045,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Rubber Parts",
             "recycle => x1 Wires => x2 Rubber Parts"
           ]
         },
@@ -58487,7 +58060,6 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x1 Rubber Parts",
           "recycleChains": [
-            "recycle => x1 Rubber Parts",
             "recycle => x1 Wires => x2 Rubber Parts"
           ]
         }
@@ -58710,9 +58282,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -58727,9 +58297,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x2 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -59009,9 +58577,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -59026,9 +58592,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x2 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x3 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x2 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -59344,9 +58908,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x4 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -59361,9 +58923,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x3 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x4 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x3 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -59639,9 +59199,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x4 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x5 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
@@ -59656,9 +59214,7 @@
           "viaRecycle": true,
           "recycleChain": "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
           "recycleChains": [
-            "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts",
-            "recycle => x4 Advanced Mechanical Components => x1 Steel Spring => x2 Metal Parts",
-            "recycle => x5 Heavy Gun Parts => x2 Simple Gun Parts => x2 Metal Parts"
+            "recycle => x4 Advanced Mechanical Components => x1 Mechanical Components => x3 Metal Parts"
           ]
         },
         {
