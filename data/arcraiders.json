@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-06T22:18:56.896Z",
+  "generatedAt": "2026-02-07T18:02:56.870Z",
   "items": [
     {
       "id": "acoustic_guitar",
@@ -977,6 +977,24 @@
       "recyclesInto": {},
       "imageFilename": "https://cdn.arctracker.io/items/alien_duck.png",
       "updatedAt": "02/01/2026",
+      "questsRequiredFor": [],
+      "hideoutRequiredFor": []
+    },
+    {
+      "id": "ancient_fort_security_code",
+      "name": {
+        "en": "Ancient Fort Security Code"
+      },
+      "description": {
+        "en": "One of four security codes needed to unlock the Locked Gate on Blue Gate. Found at Ancient Fort."
+      },
+      "type": "Key",
+      "rarity": "Common",
+      "value": 100,
+      "weightKg": 0.25,
+      "stackSize": 1,
+      "imageFilename": "https://cdn.arctracker.io/items/security_code.png",
+      "updatedAt": "02/06/2026",
       "questsRequiredFor": [],
       "hideoutRequiredFor": []
     },
@@ -33035,6 +33053,23 @@
       ]
     },
     {
+      "id": "moisture_meter",
+      "name": {
+        "en": "Moisture Meter"
+      },
+      "description": {
+        "en": "A quest item that must be delivered to Tian Wen to complete the Unexpected Initiative quest."
+      },
+      "type": "Trinket",
+      "rarity": "Common",
+      "weightKg": 0.25,
+      "questItem": true,
+      "imageFilename": "https://cdn.arctracker.io/items/moisture_meter.png",
+      "updatedAt": "02/06/2026",
+      "questsRequiredFor": [],
+      "hideoutRequiredFor": []
+    },
+    {
       "id": "moss",
       "name": {
         "en": "Moss"
@@ -34244,6 +34279,23 @@
           ]
         }
       ]
+    },
+    {
+      "id": "nutrient_meter",
+      "name": {
+        "en": "Nutrient Meter"
+      },
+      "description": {
+        "en": "A quest item that must be delivered to Tian Wen to complete the Unexpected Initiative quest."
+      },
+      "type": "Trinket",
+      "rarity": "Common",
+      "weightKg": 0.25,
+      "questItem": true,
+      "imageFilename": "https://cdn.arctracker.io/items/nutrient_meter.png",
+      "updatedAt": "02/06/2026",
+      "questsRequiredFor": [],
+      "hideoutRequiredFor": []
     },
     {
       "id": "oil",
@@ -36201,6 +36253,24 @@
           ]
         }
       ]
+    },
+    {
+      "id": "pilgrims_peak_security_code",
+      "name": {
+        "en": "Pilgrim's Peak Security Code"
+      },
+      "description": {
+        "en": "One of four security codes needed to unlock the Locked Gate on Blue Gate. Found at Pilgrim's Peak."
+      },
+      "type": "Key",
+      "rarity": "Common",
+      "value": 100,
+      "weightKg": 0.25,
+      "stackSize": 1,
+      "imageFilename": "https://cdn.arctracker.io/items/security_code.png",
+      "updatedAt": "02/06/2026",
+      "questsRequiredFor": [],
+      "hideoutRequiredFor": []
     },
     {
       "id": "plastic_parts",
@@ -38671,6 +38741,24 @@
       "hideoutRequiredFor": []
     },
     {
+      "id": "raiders_refuge_security_code",
+      "name": {
+        "en": "Raider's Refuge Security Code"
+      },
+      "description": {
+        "en": "One of four security codes needed to unlock the Locked Gate on Blue Gate. Found at Raider's Refuge."
+      },
+      "type": "Key",
+      "rarity": "Common",
+      "value": 100,
+      "weightKg": 0.25,
+      "stackSize": 1,
+      "imageFilename": "https://cdn.arctracker.io/items/security_code.png",
+      "updatedAt": "02/06/2026",
+      "questsRequiredFor": [],
+      "hideoutRequiredFor": []
+    },
+    {
       "id": "rattler_i",
       "name": {
         "en": "Rattler I"
@@ -39700,6 +39788,24 @@
       },
       "imageFilename": "https://cdn.arctracker.io/items/red_light_stick.png",
       "updatedAt": "01/09/2026",
+      "questsRequiredFor": [],
+      "hideoutRequiredFor": []
+    },
+    {
+      "id": "reinforced_reception_security_code",
+      "name": {
+        "en": "Reinforced Reception Security Code"
+      },
+      "description": {
+        "en": "One of four security codes needed to unlock the Locked Gate on Blue Gate. Found at Reinforced Reception."
+      },
+      "type": "Key",
+      "rarity": "Common",
+      "value": 100,
+      "weightKg": 0.25,
+      "stackSize": 1,
+      "imageFilename": "https://cdn.arctracker.io/items/security_code.png",
+      "updatedAt": "02/06/2026",
       "questsRequiredFor": [],
       "hideoutRequiredFor": []
     },
