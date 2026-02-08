@@ -48,17 +48,13 @@
           "hideoutId": "equipment_bench",
           "hideoutName": "Gear Bench",
           "level": 3,
-          "quantity": 5,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 5
         },
         {
           "hideoutId": "utility_bench",
           "hideoutName": "Utility Station",
           "level": 3,
-          "quantity": 5,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 5
         }
       ]
     },
@@ -79,9 +75,7 @@
           "hideoutId": "weapon_bench",
           "hideoutName": "Gunsmith",
           "level": 3,
-          "quantity": 5,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 5
         }
       ]
     },
@@ -212,9 +206,7 @@
           "hideoutId": "med_station",
           "hideoutName": "Medical Lab",
           "level": 3,
-          "quantity": 8,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 8
         }
       ]
     },
@@ -309,17 +301,13 @@
           "hideoutId": "scrappy",
           "hideoutName": "Scrappy",
           "level": 3,
-          "quantity": 3,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 3
         },
         {
           "hideoutId": "scrappy",
           "hideoutName": "Scrappy",
           "level": 5,
-          "quantity": 12,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 12
         }
       ]
     },
@@ -346,25 +334,19 @@
           "hideoutId": "explosives_bench",
           "hideoutName": "Explosives Station",
           "level": 1,
-          "quantity": 6,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 6
         },
         {
           "hideoutId": "med_station",
           "hideoutName": "Medical Lab",
           "level": 1,
-          "quantity": 6,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 6
         },
         {
           "hideoutId": "utility_bench",
           "hideoutName": "Utility Station",
           "level": 1,
-          "quantity": 6,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 6
         }
       ]
     },
@@ -384,9 +366,7 @@
           "hideoutId": "refiner",
           "hideoutName": "Refiner",
           "level": 3,
-          "quantity": 10,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 10
         }
       ]
     },
@@ -424,9 +404,7 @@
           "hideoutId": "refiner",
           "hideoutName": "Refiner",
           "level": 2,
-          "quantity": 5,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 5
         }
       ]
     },
@@ -452,9 +430,7 @@
           "hideoutId": "refiner",
           "hideoutName": "Refiner",
           "level": 1,
-          "quantity": 5,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 5
         }
       ]
     },
@@ -584,9 +560,7 @@
           "hideoutId": "equipment_bench",
           "hideoutName": "Gear Bench",
           "level": 3,
-          "quantity": 6,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 6
         }
       ]
     },
@@ -858,9 +832,7 @@
           "hideoutId": "refiner",
           "hideoutName": "Refiner",
           "level": 3,
-          "quantity": 6,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 6
         }
       ]
     },
@@ -1072,9 +1044,7 @@
           "hideoutId": "scrappy",
           "hideoutName": "Scrappy",
           "level": 4,
-          "quantity": 1,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 1
         }
       ]
     },
@@ -1310,9 +1280,7 @@
           "hideoutId": "med_station",
           "hideoutName": "Medical Lab",
           "level": 2,
-          "quantity": 2,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 2
         }
       ]
     },
@@ -1332,9 +1300,7 @@
           "hideoutId": "explosives_bench",
           "hideoutName": "Explosives Station",
           "level": 2,
-          "quantity": 5,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 5
         }
       ]
     },
@@ -1429,9 +1395,7 @@
           "hideoutId": "utility_bench",
           "hideoutName": "Utility Station",
           "level": 2,
-          "quantity": 2,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 2
         }
       ]
     },
@@ -1575,9 +1539,7 @@
           "hideoutId": "scrappy",
           "hideoutName": "Scrappy",
           "level": 2,
-          "quantity": 1,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 1
         }
       ]
     },
@@ -1647,9 +1609,7 @@
           "hideoutId": "med_station",
           "hideoutName": "Medical Lab",
           "level": 2,
-          "quantity": 5,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 5
         }
       ]
     },
@@ -1670,17 +1630,13 @@
           "hideoutId": "equipment_bench",
           "hideoutName": "Gear Bench",
           "level": 2,
-          "quantity": 5,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 5
         },
         {
           "hideoutId": "utility_bench",
           "hideoutName": "Utility Station",
           "level": 2,
-          "quantity": 5,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 5
         }
       ]
     },
@@ -1786,9 +1742,7 @@
           "hideoutId": "explosives_bench",
           "hideoutName": "Explosives Station",
           "level": 3,
-          "quantity": 5,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 5
         }
       ]
     },
@@ -2009,17 +1963,13 @@
           "hideoutId": "equipment_bench",
           "hideoutName": "Gear Bench",
           "level": 1,
-          "quantity": 30,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 30
         },
         {
           "hideoutId": "med_station",
           "hideoutName": "Medical Lab",
           "level": 1,
-          "quantity": 50,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 50
         }
       ]
     },
@@ -2121,9 +2071,7 @@
           "hideoutId": "refiner",
           "hideoutName": "Refiner",
           "level": 2,
-          "quantity": 8,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 8
         }
       ]
     },
@@ -2309,9 +2257,7 @@
           "hideoutId": "utility_bench",
           "hideoutName": "Utility Station",
           "level": 3,
-          "quantity": 3,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 3
         }
       ]
     },
@@ -2624,9 +2570,7 @@
           "hideoutId": "equipment_bench",
           "hideoutName": "Gear Bench",
           "level": 2,
-          "quantity": 5,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 5
         }
       ]
     },
@@ -2780,9 +2724,7 @@
           "hideoutId": "equipment_bench",
           "hideoutName": "Gear Bench",
           "level": 3,
-          "quantity": 3,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 3
         }
       ]
     },
@@ -2946,9 +2888,7 @@
           "hideoutId": "explosives_bench",
           "hideoutName": "Explosives Station",
           "level": 3,
-          "quantity": 3,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 3
         }
       ]
     },
@@ -2997,9 +2937,7 @@
           "hideoutId": "utility_bench",
           "hideoutName": "Utility Station",
           "level": 3,
-          "quantity": 4,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 4
         }
       ]
     },
@@ -3016,9 +2954,7 @@
           "hideoutId": "scrappy",
           "hideoutName": "Scrappy",
           "level": 3,
-          "quantity": 3,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 3
         }
       ]
     },
@@ -3322,9 +3258,7 @@
           "hideoutId": "weapon_bench",
           "hideoutName": "Gunsmith",
           "level": 2,
-          "quantity": 5,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 5
         }
       ]
     },
@@ -3395,17 +3329,13 @@
           "hideoutId": "refiner",
           "hideoutName": "Refiner",
           "level": 1,
-          "quantity": 60,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 60
         },
         {
           "hideoutId": "weapon_bench",
           "hideoutName": "Gunsmith",
           "level": 1,
-          "quantity": 20,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 20
         }
       ]
     },
@@ -3468,9 +3398,7 @@
           "hideoutId": "refiner",
           "hideoutName": "Refiner",
           "level": 3,
-          "quantity": 3,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 3
         }
       ]
     },
@@ -3486,9 +3414,7 @@
           "hideoutId": "scrappy",
           "hideoutName": "Scrappy",
           "level": 5,
-          "quantity": 12,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 12
         }
       ]
     },
@@ -3637,9 +3563,7 @@
           "hideoutId": "scrappy",
           "hideoutName": "Scrappy",
           "level": 4,
-          "quantity": 6,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 6
         }
       ]
     },
@@ -3766,17 +3690,13 @@
           "hideoutId": "equipment_bench",
           "hideoutName": "Gear Bench",
           "level": 1,
-          "quantity": 25,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 25
         },
         {
           "hideoutId": "utility_bench",
           "hideoutName": "Utility Station",
           "level": 1,
-          "quantity": 50,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 50
         }
       ]
     },
@@ -3811,9 +3731,7 @@
           "hideoutId": "explosives_bench",
           "hideoutName": "Explosives Station",
           "level": 2,
-          "quantity": 5,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 5
         }
       ]
     },
@@ -3866,9 +3784,7 @@
           "hideoutId": "equipment_bench",
           "hideoutName": "Gear Bench",
           "level": 2,
-          "quantity": 3,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 3
         }
       ]
     },
@@ -3907,9 +3823,7 @@
           "hideoutId": "scrappy",
           "hideoutName": "Scrappy",
           "level": 4,
-          "quantity": 6,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 6
         }
       ]
     },
@@ -4225,9 +4139,7 @@
           "hideoutId": "explosives_bench",
           "hideoutName": "Explosives Station",
           "level": 3,
-          "quantity": 3,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 3
         }
       ]
     },
@@ -4310,17 +4222,13 @@
           "hideoutId": "explosives_bench",
           "hideoutName": "Explosives Station",
           "level": 1,
-          "quantity": 50,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 50
         },
         {
           "hideoutId": "weapon_bench",
           "hideoutName": "Gunsmith",
           "level": 1,
-          "quantity": 30,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 30
         }
       ]
     },
@@ -4409,9 +4317,7 @@
           "hideoutId": "weapon_bench",
           "hideoutName": "Gunsmith",
           "level": 3,
-          "quantity": 3,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 3
         }
       ]
     },
@@ -4428,9 +4334,7 @@
           "hideoutId": "med_station",
           "hideoutName": "Medical Lab",
           "level": 3,
-          "quantity": 3,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 3
         }
       ]
     },
@@ -4446,9 +4350,7 @@
           "hideoutId": "weapon_bench",
           "hideoutName": "Gunsmith",
           "level": 2,
-          "quantity": 3,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 3
         }
       ]
     },
@@ -4514,9 +4416,7 @@
           "hideoutId": "weapon_bench",
           "hideoutName": "Gunsmith",
           "level": 3,
-          "quantity": 4,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 4
         }
       ]
     },
@@ -4858,9 +4758,7 @@
           "hideoutId": "utility_bench",
           "hideoutName": "Utility Station",
           "level": 2,
-          "quantity": 6,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 6
         }
       ]
     },
@@ -5152,9 +5050,7 @@
           "hideoutId": "med_station",
           "hideoutName": "Medical Lab",
           "level": 3,
-          "quantity": 5,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 5
         }
       ]
     },
@@ -5171,9 +5067,7 @@
           "hideoutId": "explosives_bench",
           "hideoutName": "Explosives Station",
           "level": 2,
-          "quantity": 3,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 3
         }
       ]
     },
@@ -5408,9 +5302,7 @@
           "hideoutId": "med_station",
           "hideoutName": "Medical Lab",
           "level": 2,
-          "quantity": 8,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 8
         }
       ]
     },
@@ -5427,9 +5319,7 @@
           "hideoutId": "refiner",
           "hideoutName": "Refiner",
           "level": 2,
-          "quantity": 3,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 3
         }
       ]
     },
@@ -5697,9 +5587,7 @@
           "hideoutId": "scrappy",
           "hideoutName": "Scrappy",
           "level": 5,
-          "quantity": 3,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 3
         }
       ]
     },
@@ -5843,9 +5731,7 @@
           "hideoutId": "weapon_bench",
           "hideoutName": "Gunsmith",
           "level": 2,
-          "quantity": 8,
-          "otherRequirements": [],
-          "description": ""
+          "quantity": 8
         }
       ]
     },
