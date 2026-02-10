@@ -4212,7 +4212,19 @@
       "name": "Moisture Meter",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "questsRequiredFor": [
+        {
+          "questId": "ss10q",
+          "questName": "Unexpected Initiative",
+          "trader": "Tian Wen",
+          "questOrder": 12,
+          "mapNames": [
+            "Buried City"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "moss",
@@ -4379,7 +4391,19 @@
       "name": "Nutrient Meter",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "questsRequiredFor": [
+        {
+          "questId": "ss10q",
+          "questName": "Unexpected Initiative",
+          "trader": "Tian Wen",
+          "questOrder": 12,
+          "mapNames": [
+            "Buried City"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "oil",
