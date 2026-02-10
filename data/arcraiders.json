@@ -7,7 +7,11 @@
       "rarity": "Legendary",
       "value": 7000,
       "weightKg": 1,
-      "stackSize": 1
+      "stackSize": 1,
+      "recyclesInto": {
+        "metal_parts": 4,
+        "wires": 6
+      }
     },
     {
       "id": "adrenaline_shot",
@@ -20,6 +24,10 @@
       "recipe": {
         "chemicals": 3,
         "plastic_parts": 3
+      },
+      "recyclesInto": {
+        "chemicals": 1,
+        "plastic_parts": 1
       }
     },
     {
@@ -29,7 +37,10 @@
       "rarity": "Rare",
       "value": 640,
       "weightKg": 0.5,
-      "stackSize": 5
+      "stackSize": 5,
+      "recyclesInto": {
+        "arc_powercell": 2
+      }
     },
     {
       "id": "advanced_electrical_components",
@@ -42,6 +53,10 @@
       "recipe": {
         "electrical_components": 2,
         "wires": 3
+      },
+      "recyclesInto": {
+        "electrical_components": 1,
+        "wires": 1
       },
       "hideoutRequiredFor": [
         {
@@ -70,6 +85,10 @@
         "mechanical_components": 2,
         "steel_spring": 2
       },
+      "recyclesInto": {
+        "mechanical_components": 1,
+        "steel_spring": 1
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "weapon_bench",
@@ -86,7 +105,10 @@
       "rarity": "Uncommon",
       "value": 1000,
       "weightKg": 0.2,
-      "stackSize": 10
+      "stackSize": 10,
+      "recyclesInto": {
+        "assorted_seeds": 3
+      }
     },
     {
       "id": "air_freshener",
@@ -104,7 +126,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "plastic_parts": 6,
+        "processor": 1
+      }
     },
     {
       "id": "alien_duck",
@@ -135,6 +161,9 @@
       "recipe": {
         "duct_tape": 1,
         "plastic_parts": 6
+      },
+      "recyclesInto": {
+        "plastic_parts": 6
       }
     },
     {
@@ -156,6 +185,10 @@
       "recipe": {
         "duct_tape": 3,
         "mechanical_components": 2
+      },
+      "recyclesInto": {
+        "duct_tape": 1,
+        "mechanical_components": 1
       }
     },
     {
@@ -177,6 +210,10 @@
       "recipe": {
         "duct_tape": 5,
         "mod_components": 2
+      },
+      "recyclesInto": {
+        "duct_tape": 2,
+        "mod_components": 1
       }
     },
     {
@@ -190,6 +227,9 @@
       "recipe": {
         "chemicals": 10,
         "great_mullein": 2
+      },
+      "recyclesInto": {
+        "chemicals": 10
       },
       "questsRequiredFor": [
         {
@@ -229,6 +269,10 @@
       "recipe": {
         "mechanical_components": 5,
         "simple_gun_parts": 6
+      },
+      "recyclesInto": {
+        "mechanical_components": 2,
+        "simple_gun_parts": 2
       }
     },
     {
@@ -238,7 +282,11 @@
       "type": "Hand Cannon",
       "rarity": "Uncommon",
       "value": 7000,
-      "weightKg": 5
+      "weightKg": 5,
+      "recyclesInto": {
+        "mechanical_components": 3,
+        "simple_gun_parts": 3
+      }
     },
     {
       "id": "anvil_iii",
@@ -247,7 +295,11 @@
       "type": "Hand Cannon",
       "rarity": "Uncommon",
       "value": 10000,
-      "weightKg": 5
+      "weightKg": 5,
+      "recyclesInto": {
+        "mechanical_components": 4,
+        "simple_gun_parts": 4
+      }
     },
     {
       "id": "anvil_iv",
@@ -256,7 +308,11 @@
       "type": "Hand Cannon",
       "rarity": "Uncommon",
       "value": 13000,
-      "weightKg": 5
+      "weightKg": 5,
+      "recyclesInto": {
+        "mechanical_components": 5,
+        "simple_gun_parts": 5
+      }
     },
     {
       "id": "anvil_splitter",
@@ -264,7 +320,11 @@
       "type": "Modification",
       "rarity": "Legendary",
       "value": 7000,
-      "weightKg": 0.5
+      "weightKg": 0.5,
+      "recyclesInto": {
+        "mod_components": 1,
+        "processor": 1
+      }
     },
     {
       "id": "aphelion_blueprint",
@@ -286,6 +346,10 @@
         "complex_gun_parts": 3,
         "magnetic_accelerator": 3,
         "matriarch_reactor": 1
+      },
+      "recyclesInto": {
+        "complex_gun_parts": 1,
+        "magnetic_accelerator": 2
       }
     },
     {
@@ -296,6 +360,9 @@
       "value": 640,
       "weightKg": 0.2,
       "stackSize": 10,
+      "recyclesInto": {
+        "assorted_seeds": 3
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "scrappy",
@@ -319,6 +386,9 @@
       "value": 200,
       "weightKg": 0.25,
       "stackSize": 15,
+      "recyclesInto": {
+        "metal_parts": 2
+      },
       "questsRequiredFor": [
         {
           "questId": "ss2",
@@ -361,6 +431,9 @@
       "recipe": {
         "arc_alloy": 8
       },
+      "recyclesInto": {
+        "arc_alloy": 2
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "refiner",
@@ -377,7 +450,10 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 1,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "chemicals": 16
+      }
     },
     {
       "id": "arc_flex_rubber",
@@ -386,7 +462,10 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 1,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "rubber_parts": 16
+      }
     },
     {
       "id": "arc_motion_core",
@@ -398,6 +477,9 @@
       "stackSize": 5,
       "recipe": {
         "arc_alloy": 8
+      },
+      "recyclesInto": {
+        "arc_alloy": 2
       },
       "hideoutRequiredFor": [
         {
@@ -415,7 +497,10 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 1,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "metal_parts": 12
+      }
     },
     {
       "id": "arc_powercell",
@@ -441,7 +526,10 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 1,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "plastic_parts": 14
+      }
     },
     {
       "id": "arc_thermo_lining",
@@ -450,7 +538,10 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 1,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "fabric": 16
+      }
     },
     {
       "id": "arpeggio_i",
@@ -463,6 +554,10 @@
       "recipe": {
         "mechanical_components": 6,
         "simple_gun_parts": 6
+      },
+      "recyclesInto": {
+        "mechanical_components": 2,
+        "simple_gun_parts": 2
       }
     },
     {
@@ -472,7 +567,11 @@
       "type": "Assault Rifle",
       "rarity": "Uncommon",
       "value": 8000,
-      "weightKg": 7
+      "weightKg": 7,
+      "recyclesInto": {
+        "mechanical_components": 3,
+        "simple_gun_parts": 3
+      }
     },
     {
       "id": "arpeggio_iii",
@@ -481,7 +580,11 @@
       "type": "Assault Rifle",
       "rarity": "Uncommon",
       "value": 11500,
-      "weightKg": 7
+      "weightKg": 7,
+      "recyclesInto": {
+        "mechanical_components": 4,
+        "simple_gun_parts": 4
+      }
     },
     {
       "id": "arpeggio_iv",
@@ -490,7 +593,11 @@
       "type": "Assault Rifle",
       "rarity": "Uncommon",
       "value": 15000,
-      "weightKg": 7
+      "weightKg": 7,
+      "recyclesInto": {
+        "mechanical_components": 5,
+        "simple_gun_parts": 5
+      }
     },
     {
       "id": "assorted_seeds",
@@ -524,6 +631,9 @@
       "stackSize": 5,
       "recipe": {
         "fabric": 5
+      },
+      "recyclesInto": {
+        "fabric": 2
       }
     },
     {
@@ -545,6 +655,9 @@
       "stackSize": 3,
       "recipe": {
         "mechanical_components": 1
+      },
+      "recyclesInto": {
+        "metal_parts": 4
       }
     },
     {
@@ -555,6 +668,10 @@
       "value": 5000,
       "weightKg": 1,
       "stackSize": 3,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "arc_alloy": 2
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "equipment_bench",
@@ -572,6 +689,9 @@
       "value": 250,
       "weightKg": 0.25,
       "stackSize": 15,
+      "recyclesInto": {
+        "metal_parts": 2
+      },
       "questsRequiredFor": [
         {
           "questId": "ss10y",
@@ -613,6 +733,10 @@
         "advanced_mechanical_components": 3,
         "canister": 3,
         "heavy_gun_parts": 3
+      },
+      "recyclesInto": {
+        "advanced_mechanical_components": 1,
+        "heavy_gun_parts": 2
       }
     },
     {
@@ -622,7 +746,11 @@
       "type": "Assault Rifle",
       "rarity": "Epic",
       "value": 11000,
-      "weightKg": 11
+      "weightKg": 11,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "heavy_gun_parts": 2
+      }
     },
     {
       "id": "bettina_iii",
@@ -631,7 +759,11 @@
       "type": "Assault Rifle",
       "rarity": "Epic",
       "value": 14000,
-      "weightKg": 11
+      "weightKg": 11,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "heavy_gun_parts": 3
+      }
     },
     {
       "id": "bettina_iv",
@@ -640,7 +772,11 @@
       "type": "Assault Rifle",
       "rarity": "Epic",
       "value": 17000,
-      "weightKg": 11
+      "weightKg": 11,
+      "recyclesInto": {
+        "advanced_mechanical_components": 3,
+        "heavy_gun_parts": 3
+      }
     },
     {
       "id": "bicycle_pump",
@@ -649,7 +785,11 @@
       "rarity": "Rare",
       "value": 2000,
       "weightKg": 3,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "canister": 4,
+        "metal_parts": 10
+      }
     },
     {
       "id": "binoculars",
@@ -661,6 +801,10 @@
       "recipe": {
         "plastic_parts": 8,
         "rubber_parts": 4
+      },
+      "recyclesInto": {
+        "plastic_parts": 4,
+        "rubber_parts": 2
       }
     },
     {
@@ -695,6 +839,10 @@
       "stackSize": 5,
       "recipe": {
         "explosive_compound": 1,
+        "oil": 2
+      },
+      "recyclesInto": {
+        "metal_parts": 4,
         "oil": 2
       }
     },
@@ -761,6 +909,9 @@
       "stackSize": 5,
       "recipe": {
         "chemicals": 3
+      },
+      "recyclesInto": {
+        "chemicals": 1
       }
     },
     {
@@ -790,6 +941,10 @@
         "exodus_modules": 2,
         "light_gun_parts": 3,
         "magnetic_accelerator": 1
+      },
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "light_gun_parts": 2
       }
     },
     {
@@ -799,7 +954,11 @@
       "type": "SMG",
       "rarity": "Epic",
       "value": 17000,
-      "weightKg": 7
+      "weightKg": 7,
+      "recyclesInto": {
+        "advanced_mechanical_components": 3,
+        "light_gun_parts": 3
+      }
     },
     {
       "id": "bobcat_iii",
@@ -808,7 +967,11 @@
       "type": "SMG",
       "rarity": "Epic",
       "value": 22000,
-      "weightKg": 7
+      "weightKg": 7,
+      "recyclesInto": {
+        "advanced_mechanical_components": 4,
+        "light_gun_parts": 4
+      }
     },
     {
       "id": "bobcat_iv",
@@ -817,7 +980,11 @@
       "type": "SMG",
       "rarity": "Epic",
       "value": 27000,
-      "weightKg": 7
+      "weightKg": 7,
+      "recyclesInto": {
+        "advanced_mechanical_components": 5,
+        "light_gun_parts": 4
+      }
     },
     {
       "id": "bombardier_cell",
@@ -827,6 +994,10 @@
       "value": 5000,
       "weightKg": 1,
       "stackSize": 3,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "arc_alloy": 2
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "refiner",
@@ -852,7 +1023,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "battery": 2,
+        "metal_parts": 6
+      }
     },
     {
       "id": "broken_guidance_system",
@@ -861,7 +1036,10 @@
       "rarity": "Rare",
       "value": 2000,
       "weightKg": 3,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "processor": 4
+      }
     },
     {
       "id": "broken_handheld_radio",
@@ -870,7 +1048,11 @@
       "rarity": "Rare",
       "value": 2000,
       "weightKg": 3,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "sensors": 3,
+        "wires": 2
+      }
     },
     {
       "id": "broken_taser",
@@ -879,7 +1061,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "battery": 2,
+        "wires": 2
+      }
     },
     {
       "id": "burgerboy",
@@ -941,6 +1127,10 @@
       "recipe": {
         "mechanical_components": 3,
         "simple_gun_parts": 3
+      },
+      "recyclesInto": {
+        "mechanical_components": 1,
+        "simple_gun_parts": 2
       }
     },
     {
@@ -950,7 +1140,11 @@
       "type": "Pistol",
       "rarity": "Uncommon",
       "value": 5000,
-      "weightKg": 4
+      "weightKg": 4,
+      "recyclesInto": {
+        "mechanical_components": 2,
+        "simple_gun_parts": 2
+      }
     },
     {
       "id": "burletta_iii",
@@ -959,7 +1153,11 @@
       "type": "Pistol",
       "rarity": "Uncommon",
       "value": 7000,
-      "weightKg": 4
+      "weightKg": 4,
+      "recyclesInto": {
+        "mechanical_components": 3,
+        "simple_gun_parts": 3
+      }
     },
     {
       "id": "burletta_iv",
@@ -968,7 +1166,11 @@
       "type": "Pistol",
       "rarity": "Uncommon",
       "value": 10000,
-      "weightKg": 4
+      "weightKg": 4,
+      "recyclesInto": {
+        "mechanical_components": 4,
+        "simple_gun_parts": 4
+      }
     },
     {
       "id": "burned_arc_circuitry",
@@ -977,7 +1179,10 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 1,
-      "stackSize": 5
+      "stackSize": 5,
+      "recyclesInto": {
+        "arc_alloy": 2
+      }
     },
     {
       "id": "burnt_out_candles",
@@ -995,7 +1200,10 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 0.8,
-      "stackSize": 5
+      "stackSize": 5,
+      "recyclesInto": {
+        "plastic_parts": 8
+      }
     },
     {
       "id": "candle_holder",
@@ -1004,7 +1212,10 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "metal_parts": 8
+      }
     },
     {
       "id": "candleberries",
@@ -1013,7 +1224,10 @@
       "rarity": "Rare",
       "value": 460,
       "weightKg": 0.5,
-      "stackSize": 10
+      "stackSize": 10,
+      "recyclesInto": {
+        "assorted_seeds": 2
+      }
     },
     {
       "id": "canister",
@@ -1022,7 +1236,10 @@
       "rarity": "Uncommon",
       "value": 300,
       "weightKg": 0.25,
-      "stackSize": 15
+      "stackSize": 15,
+      "recyclesInto": {
+        "plastic_parts": 3
+      }
     },
     {
       "id": "cans_backpack_attachment",
@@ -1104,6 +1321,10 @@
       "recipe": {
         "plastic_parts": 6,
         "rubber_parts": 6
+      },
+      "recyclesInto": {
+        "plastic_parts": 3,
+        "rubber_parts": 3
       }
     },
     {
@@ -1118,6 +1339,10 @@
       "recipe": {
         "electrical_components": 2,
         "magnet": 3
+      },
+      "recyclesInto": {
+        "electrical_components": 1,
+        "magnet": 1
       }
     },
     {
@@ -1140,6 +1365,10 @@
       "recipe": {
         "advanced_electrical_components": 2,
         "processor": 3
+      },
+      "recyclesInto": {
+        "advanced_electrical_components": 1,
+        "processor": 1
       }
     },
     {
@@ -1162,6 +1391,10 @@
       "recipe": {
         "advanced_electrical_components": 2,
         "processor": 3
+      },
+      "recyclesInto": {
+        "advanced_electrical_components": 1,
+        "processor": 1
       }
     },
     {
@@ -1174,6 +1407,9 @@
       "recipe": {
         "metal_parts": 6,
         "wires": 1
+      },
+      "recyclesInto": {
+        "metal_parts": 5
       }
     },
     {
@@ -1194,6 +1430,10 @@
       "recipe": {
         "mechanical_components": 2,
         "wires": 4
+      },
+      "recyclesInto": {
+        "mechanical_components": 1,
+        "wires": 1
       }
     },
     {
@@ -1216,6 +1456,10 @@
       "recipe": {
         "mod_components": 2,
         "wires": 8
+      },
+      "recyclesInto": {
+        "mod_components": 1,
+        "wires": 2
       }
     },
     {
@@ -1238,6 +1482,9 @@
         "heavy_gun_parts": 2,
         "light_gun_parts": 2,
         "medium_gun_parts": 2
+      },
+      "recyclesInto": {
+        "simple_gun_parts": 3
       }
     },
     {
@@ -1247,7 +1494,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "chemicals": 5,
+        "oil": 2
+      }
     },
     {
       "id": "cooling_coil",
@@ -1256,7 +1507,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "chemicals": 6,
+        "steel_spring": 2
+      }
     },
     {
       "id": "cooling_fan",
@@ -1265,7 +1520,11 @@
       "rarity": "Rare",
       "value": 2000,
       "weightKg": 3,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "plastic_parts": 14,
+        "wires": 4
+      }
     },
     {
       "id": "cracked_bioscanner",
@@ -1275,6 +1534,10 @@
       "value": 1000,
       "weightKg": 2,
       "stackSize": 3,
+      "recyclesInto": {
+        "battery": 3,
+        "rubber_parts": 3
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "med_station",
@@ -1295,6 +1558,9 @@
       "recipe": {
         "chemicals": 6
       },
+      "recyclesInto": {
+        "chemicals": 3
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "explosives_bench",
@@ -1311,7 +1577,10 @@
       "rarity": "Uncommon",
       "value": 270,
       "weightKg": 0.8,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "plastic_parts": 4
+      }
     },
     {
       "id": "dam_control_tower_key",
@@ -1362,7 +1631,10 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 0.25,
-      "stackSize": 5
+      "stackSize": 5,
+      "recyclesInto": {
+        "arc_alloy": 2
+      }
     },
     {
       "id": "damaged_arc_powercell",
@@ -1371,7 +1643,10 @@
       "rarity": "Common",
       "value": 293,
       "weightKg": 0.25,
-      "stackSize": 5
+      "stackSize": 5,
+      "recyclesInto": {
+        "arc_alloy": 1
+      }
     },
     {
       "id": "damaged_fireball_burner",
@@ -1380,7 +1655,10 @@
       "rarity": "Common",
       "value": 270,
       "weightKg": 1,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "arc_alloy": 1
+      }
     },
     {
       "id": "damaged_heat_sink",
@@ -1390,6 +1668,10 @@
       "value": 1000,
       "weightKg": 2,
       "stackSize": 3,
+      "recyclesInto": {
+        "metal_parts": 6,
+        "wires": 2
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "utility_bench",
@@ -1406,7 +1688,10 @@
       "rarity": "Common",
       "value": 640,
       "weightKg": 0.3,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "arc_alloy": 2
+      }
     },
     {
       "id": "damaged_rocketeer_driver",
@@ -1415,7 +1700,10 @@
       "rarity": "Common",
       "value": 2000,
       "weightKg": 0.25,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "arc_alloy": 3
+      }
     },
     {
       "id": "damaged_snitch_scanner",
@@ -1433,7 +1721,10 @@
       "rarity": "Common",
       "value": 270,
       "weightKg": 0.083,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "arc_alloy": 1
+      }
     },
     {
       "id": "damaged_wasp_driver",
@@ -1442,7 +1733,10 @@
       "rarity": "Common",
       "value": 270,
       "weightKg": 0.25,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "arc_alloy": 1
+      }
     },
     {
       "id": "dart_board",
@@ -1474,6 +1768,10 @@
       "recipe": {
         "arc_circuitry": 2,
         "explosive_compound": 3
+      },
+      "recyclesInto": {
+        "arc_circuitry": 1,
+        "explosive_compound": 1
       }
     },
     {
@@ -1497,6 +1795,10 @@
       "recipe": {
         "moss": 1,
         "plastic_parts": 9
+      },
+      "recyclesInto": {
+        "moss": 1,
+        "plastic_parts": 1
       }
     },
     {
@@ -1506,7 +1808,11 @@
       "rarity": "Uncommon",
       "value": 1000,
       "weightKg": 0.8,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "fabric": 9,
+        "rubber_parts": 9
+      }
     },
     {
       "id": "degraded_arc_rubber",
@@ -1515,7 +1821,10 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 1,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "rubber_parts": 11
+      }
     },
     {
       "id": "diving_goggles",
@@ -1524,7 +1833,10 @@
       "rarity": "Rare",
       "value": 640,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "rubber_parts": 12
+      }
     },
     {
       "id": "dog_collar",
@@ -1534,6 +1846,10 @@
       "value": 640,
       "weightKg": 0.8,
       "stackSize": 3,
+      "recyclesInto": {
+        "fabric": 8,
+        "metal_parts": 1
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "scrappy",
@@ -1563,6 +1879,9 @@
       "recipe": {
         "metal_parts": 3,
         "rubber_parts": 3
+      },
+      "recyclesInto": {
+        "metal_parts": 2
       }
     },
     {
@@ -1572,7 +1891,10 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 1,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "plastic_parts": 9
+      }
     },
     {
       "id": "duct_tape",
@@ -1581,7 +1903,10 @@
       "rarity": "Uncommon",
       "value": 300,
       "weightKg": 0.25,
-      "stackSize": 15
+      "stackSize": 15,
+      "recyclesInto": {
+        "fabric": 3
+      }
     },
     {
       "id": "durable_cloth",
@@ -1593,6 +1918,9 @@
       "stackSize": 10,
       "recipe": {
         "fabric": 14
+      },
+      "recyclesInto": {
+        "fabric": 6
       },
       "questsRequiredFor": [
         {
@@ -1624,6 +1952,10 @@
       "recipe": {
         "plastic_parts": 8,
         "rubber_parts": 4
+      },
+      "recyclesInto": {
+        "plastic_parts": 3,
+        "rubber_parts": 3
       },
       "hideoutRequiredFor": [
         {
@@ -1682,6 +2014,10 @@
         "complex_gun_parts": 3,
         "magnetic_accelerator": 3,
         "queen_reactor": 1
+      },
+      "recyclesInto": {
+        "complex_gun_parts": 1,
+        "magnetic_accelerator": 2
       }
     },
     {
@@ -1698,7 +2034,11 @@
       "rarity": "Epic",
       "value": 2750,
       "weightKg": 1,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "magnet": 2,
+        "processor": 2
+      }
     },
     {
       "id": "experimental_seed_sample",
@@ -1723,7 +2063,11 @@
       "rarity": "Rare",
       "value": 640,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "fabric": 4,
+        "rubber_parts": 8
+      }
     },
     {
       "id": "explosive_compound",
@@ -1736,6 +2080,9 @@
       "recipe": {
         "crude_explosives": 2,
         "oil": 2
+      },
+      "recyclesInto": {
+        "crude_explosives": 2
       },
       "hideoutRequiredFor": [
         {
@@ -1767,6 +2114,10 @@
       "recipe": {
         "explosive_compound": 1,
         "sensors": 1
+      },
+      "recyclesInto": {
+        "oil": 2,
+        "sensors": 1
       }
     },
     {
@@ -1788,6 +2139,10 @@
       "recipe": {
         "mod_components": 2,
         "wires": 8
+      },
+      "recyclesInto": {
+        "mod_components": 1,
+        "wires": 1
       }
     },
     {
@@ -1800,6 +2155,9 @@
       "recipe": {
         "plastic_parts": 6,
         "steel_spring": 1
+      },
+      "recyclesInto": {
+        "plastic_parts": 6
       }
     },
     {
@@ -1821,6 +2179,10 @@
       "recipe": {
         "mechanical_components": 2,
         "steel_spring": 3
+      },
+      "recyclesInto": {
+        "mechanical_components": 1,
+        "steel_spring": 1
       }
     },
     {
@@ -1842,6 +2204,10 @@
       "recipe": {
         "mod_components": 2,
         "steel_spring": 5
+      },
+      "recyclesInto": {
+        "mod_components": 1,
+        "steel_spring": 2
       }
     },
     {
@@ -1854,6 +2220,9 @@
       "recipe": {
         "plastic_parts": 6,
         "steel_spring": 1
+      },
+      "recyclesInto": {
+        "plastic_parts": 6
       }
     },
     {
@@ -1874,6 +2243,10 @@
       "recipe": {
         "mechanical_components": 2,
         "steel_spring": 3
+      },
+      "recyclesInto": {
+        "mechanical_components": 1,
+        "steel_spring": 1
       }
     },
     {
@@ -1896,6 +2269,10 @@
       "recipe": {
         "mod_components": 2,
         "steel_spring": 5
+      },
+      "recyclesInto": {
+        "mod_components": 1,
+        "steel_spring": 2
       }
     },
     {
@@ -1908,6 +2285,9 @@
       "recipe": {
         "plastic_parts": 6,
         "steel_spring": 1
+      },
+      "recyclesInto": {
+        "plastic_parts": 6
       }
     },
     {
@@ -1930,6 +2310,10 @@
       "recipe": {
         "mechanical_components": 2,
         "steel_spring": 3
+      },
+      "recyclesInto": {
+        "mechanical_components": 1,
+        "steel_spring": 1
       }
     },
     {
@@ -1948,7 +2332,11 @@
       "type": "Modification",
       "rarity": "Rare",
       "value": 5000,
-      "weightKg": 0.75
+      "weightKg": 0.75,
+      "recyclesInto": {
+        "mod_components": 1,
+        "steel_spring": 2
+      }
     },
     {
       "id": "fabric",
@@ -2002,6 +2390,10 @@
       "recipe": {
         "metal_parts": 5,
         "rubber_parts": 2
+      },
+      "recyclesInto": {
+        "metal_parts": 2,
+        "rubber_parts": 1
       }
     },
     {
@@ -2011,7 +2403,11 @@
       "type": "Battle Rifle",
       "rarity": "Common",
       "value": 1000,
-      "weightKg": 8
+      "weightKg": 8,
+      "recyclesInto": {
+        "metal_parts": 4,
+        "rubber_parts": 3
+      }
     },
     {
       "id": "ferro_iii",
@@ -2020,7 +2416,11 @@
       "type": "Battle Rifle",
       "rarity": "Common",
       "value": 2000,
-      "weightKg": 8
+      "weightKg": 8,
+      "recyclesInto": {
+        "metal_parts": 6,
+        "simple_gun_parts": 1
+      }
     },
     {
       "id": "ferro_iv",
@@ -2029,7 +2429,11 @@
       "type": "Battle Rifle",
       "rarity": "Common",
       "value": 2900,
-      "weightKg": 8
+      "weightKg": 8,
+      "recyclesInto": {
+        "mechanical_components": 1,
+        "simple_gun_parts": 2
+      }
     },
     {
       "id": "fertilizer",
@@ -2038,7 +2442,10 @@
       "rarity": "Uncommon",
       "value": 1000,
       "weightKg": 0.4,
-      "stackSize": 5
+      "stackSize": 5,
+      "recyclesInto": {
+        "assorted_seeds": 2
+      }
     },
     {
       "id": "film_reel",
@@ -2066,6 +2473,10 @@
       "value": 640,
       "weightKg": 0.5,
       "stackSize": 3,
+      "recyclesInto": {
+        "arc_alloy": 1,
+        "chemicals": 1
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "refiner",
@@ -2086,6 +2497,9 @@
       "recipe": {
         "chemicals": 2,
         "plastic_parts": 4
+      },
+      "recyclesInto": {
+        "plastic_parts": 3
       }
     },
     {
@@ -2108,6 +2522,9 @@
       "recipe": {
         "explosive_compound": 1,
         "pop_trigger": 3
+      },
+      "recyclesInto": {
+        "explosive_compound": 1
       }
     },
     {
@@ -2177,6 +2594,10 @@
       "recipe": {
         "air_freshener": 1,
         "fireball_burner": 1
+      },
+      "recyclesInto": {
+        "canister": 1,
+        "fireball_burner": 1
       }
     },
     {
@@ -2196,6 +2617,10 @@
       "value": 3000,
       "weightKg": 1.5,
       "stackSize": 3,
+      "recyclesInto": {
+        "advanced_mechanical_components": 1,
+        "sensors": 1
+      },
       "questsRequiredFor": [
         {
           "questId": "12_snap_and_salvage",
@@ -2225,7 +2650,10 @@
       "rarity": "Epic",
       "value": 4000,
       "weightKg": 0.25,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "explosive_compound": 3
+      }
     },
     {
       "id": "free_loadout_augment",
@@ -2242,7 +2670,11 @@
       "rarity": "Rare",
       "value": 3000,
       "weightKg": 1.5,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "advanced_electrical_components": 1,
+        "speaker_component": 1
+      }
     },
     {
       "id": "fried_motherboard",
@@ -2252,6 +2684,10 @@
       "value": 2000,
       "weightKg": 3,
       "stackSize": 3,
+      "recyclesInto": {
+        "electrical_components": 2,
+        "plastic_parts": 5
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "utility_bench",
@@ -2282,7 +2718,10 @@
       "rarity": "Rare",
       "value": 640,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "metal_parts": 8
+      }
     },
     {
       "id": "garlic_press",
@@ -2291,7 +2730,10 @@
       "rarity": "Uncommon",
       "value": 1000,
       "weightKg": 0.8,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "metal_parts": 12
+      }
     },
     {
       "id": "gas_grenade_trap",
@@ -2317,6 +2759,10 @@
       "recipe": {
         "chemicals": 4,
         "rubber_parts": 2
+      },
+      "recyclesInto": {
+        "chemicals": 1,
+        "rubber_parts": 1
       }
     },
     {
@@ -2339,6 +2785,10 @@
       "recipe": {
         "chemicals": 4,
         "rubber_parts": 2
+      },
+      "recyclesInto": {
+        "chemicals": 1,
+        "rubber_parts": 1
       }
     },
     {
@@ -2348,7 +2798,11 @@
       "rarity": "Epic",
       "value": 3500,
       "weightKg": 1.5,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "battery": 3,
+        "exodus_modules": 1
+      }
     },
     {
       "id": "gentle_duck",
@@ -2367,6 +2821,9 @@
       "value": 300,
       "weightKg": 0.25,
       "stackSize": 15,
+      "recyclesInto": {
+        "assorted_seeds": 2
+      },
       "questsRequiredFor": [
         {
           "questId": "ss10c",
@@ -2398,6 +2855,9 @@
       "stackSize": 5,
       "recipe": {
         "chemicals": 3
+      },
+      "recyclesInto": {
+        "chemicals": 1
       }
     },
     {
@@ -2410,6 +2870,10 @@
       "recipe": {
         "metal_parts": 2,
         "plastic_parts": 5
+      },
+      "recyclesInto": {
+        "metal_parts": 2,
+        "rubber_parts": 1
       }
     },
     {
@@ -2419,7 +2883,11 @@
       "type": "Pistol",
       "rarity": "Common",
       "value": 1000,
-      "weightKg": 3
+      "weightKg": 3,
+      "recyclesInto": {
+        "metal_parts": 4,
+        "rubber_parts": 3
+      }
     },
     {
       "id": "hairpin_iii",
@@ -2428,7 +2896,11 @@
       "type": "Pistol",
       "rarity": "Common",
       "value": 2000,
-      "weightKg": 3
+      "weightKg": 3,
+      "recyclesInto": {
+        "metal_parts": 6,
+        "simple_gun_parts": 1
+      }
     },
     {
       "id": "hairpin_iv",
@@ -2437,7 +2909,11 @@
       "type": "Pistol",
       "rarity": "Common",
       "value": 2900,
-      "weightKg": 3
+      "weightKg": 3,
+      "recyclesInto": {
+        "mechanical_components": 1,
+        "simple_gun_parts": 2
+      }
     },
     {
       "id": "headphones",
@@ -2446,7 +2922,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "rubber_parts": 7,
+        "speaker_component": 1
+      }
     },
     {
       "id": "heavy_ammo",
@@ -2472,6 +2952,10 @@
       "recipe": {
         "canister": 2,
         "explosive_compound": 1
+      },
+      "recyclesInto": {
+        "oil": 1,
+        "rubber_parts": 2
       }
     },
     {
@@ -2494,6 +2978,9 @@
       "stackSize": 5,
       "recipe": {
         "simple_gun_parts": 4
+      },
+      "recyclesInto": {
+        "simple_gun_parts": 2
       }
     },
     {
@@ -2506,6 +2993,10 @@
       "recipe": {
         "power_rod": 1,
         "voltage_converter": 2
+      },
+      "recyclesInto": {
+        "arc_circuitry": 2,
+        "voltage_converter": 1
       }
     },
     {
@@ -2519,6 +3010,10 @@
       "recipe": {
         "durable_cloth": 1,
         "great_mullein": 1
+      },
+      "recyclesInto": {
+        "assorted_seeds": 2,
+        "fabric": 5
       }
     },
     {
@@ -2540,6 +3035,10 @@
       "recipe": {
         "duct_tape": 5,
         "mod_components": 2
+      },
+      "recyclesInto": {
+        "duct_tape": 2,
+        "mod_components": 1
       }
     },
     {
@@ -2550,6 +3049,10 @@
       "value": 2000,
       "weightKg": 0.75,
       "stackSize": 3,
+      "recyclesInto": {
+        "arc_alloy": 2,
+        "electrical_components": 2
+      },
       "questsRequiredFor": [
         {
           "questId": "ss9",
@@ -2581,7 +3084,10 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 0.8,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "chemicals": 11
+      }
     },
     {
       "id": "hullcracker_blueprint",
@@ -2605,6 +3111,10 @@
         "exodus_modules": 1,
         "heavy_gun_parts": 3,
         "magnetic_accelerator": 1
+      },
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "heavy_gun_parts": 2
       }
     },
     {
@@ -2614,7 +3124,11 @@
       "type": "Special",
       "rarity": "Epic",
       "value": 13000,
-      "weightKg": 7
+      "weightKg": 7,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "heavy_gun_parts": 3
+      }
     },
     {
       "id": "hullcracker_iii",
@@ -2623,7 +3137,11 @@
       "type": "Special",
       "rarity": "Epic",
       "value": 17000,
-      "weightKg": 7
+      "weightKg": 7,
+      "recyclesInto": {
+        "advanced_mechanical_components": 3,
+        "heavy_gun_parts": 4
+      }
     },
     {
       "id": "hullcracker_iv",
@@ -2632,7 +3150,11 @@
       "type": "Special",
       "rarity": "Epic",
       "value": 22000,
-      "weightKg": 7
+      "weightKg": 7,
+      "recyclesInto": {
+        "advanced_mechanical_components": 4,
+        "heavy_gun_parts": 5
+      }
     },
     {
       "id": "humidifier",
@@ -2641,7 +3163,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "canister": 2,
+        "wires": 2
+      }
     },
     {
       "id": "ice_cream_scooper",
@@ -2650,7 +3176,10 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 0.8,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "metal_parts": 7
+      }
     },
     {
       "id": "il_toro_blueprint",
@@ -2673,6 +3202,10 @@
       "recipe": {
         "mechanical_components": 5,
         "simple_gun_parts": 6
+      },
+      "recyclesInto": {
+        "mechanical_components": 2,
+        "simple_gun_parts": 2
       }
     },
     {
@@ -2682,7 +3215,11 @@
       "type": "Shotgun",
       "rarity": "Uncommon",
       "value": 7000,
-      "weightKg": 8
+      "weightKg": 8,
+      "recyclesInto": {
+        "mechanical_components": 3,
+        "simple_gun_parts": 3
+      }
     },
     {
       "id": "il_toro_iii",
@@ -2691,7 +3228,11 @@
       "type": "Shotgun",
       "rarity": "Uncommon",
       "value": 10000,
-      "weightKg": 8
+      "weightKg": 8,
+      "recyclesInto": {
+        "mechanical_components": 4,
+        "simple_gun_parts": 4
+      }
     },
     {
       "id": "il_toro_iv",
@@ -2700,7 +3241,11 @@
       "type": "Shotgun",
       "rarity": "Uncommon",
       "value": 13000,
-      "weightKg": 8
+      "weightKg": 8,
+      "recyclesInto": {
+        "mechanical_components": 5,
+        "simple_gun_parts": 5
+      }
     },
     {
       "id": "impure_arc_coolant",
@@ -2709,7 +3254,10 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 0.33,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "chemicals": 12
+      }
     },
     {
       "id": "industrial_battery",
@@ -2719,6 +3267,10 @@
       "value": 1000,
       "weightKg": 2,
       "stackSize": 3,
+      "recyclesInto": {
+        "battery": 2,
+        "chemicals": 7
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "equipment_bench",
@@ -2735,7 +3287,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "metal_parts": 5,
+        "voltage_converter": 1
+      }
     },
     {
       "id": "industrial_magnet",
@@ -2744,7 +3300,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "magnet": 2,
+        "metal_parts": 4
+      }
     },
     {
       "id": "ion_sputter",
@@ -2754,6 +3314,10 @@
       "value": 6000,
       "weightKg": 1.5,
       "stackSize": 3,
+      "recyclesInto": {
+        "exodus_modules": 1,
+        "voltage_converter": 4
+      },
       "questsRequiredFor": [
         {
           "questId": "with_a_view",
@@ -2788,6 +3352,10 @@
       "recipe": {
         "battery": 1,
         "electrical_components": 1
+      },
+      "recyclesInto": {
+        "battery": 1,
+        "plastic_parts": 2
       }
     },
     {
@@ -2817,6 +3385,10 @@
         "complex_gun_parts": 3,
         "magnetic_accelerator": 3,
         "queen_reactor": 1
+      },
+      "recyclesInto": {
+        "complex_gun_parts": 1,
+        "magnetic_accelerator": 2
       }
     },
     {
@@ -2830,6 +3402,10 @@
       "recipe": {
         "metal_parts": 6,
         "rubber_parts": 8
+      },
+      "recyclesInto": {
+        "metal_parts": 3,
+        "rubber_parts": 2
       }
     },
     {
@@ -2839,7 +3415,11 @@
       "type": "Assault Rifle",
       "rarity": "Common",
       "value": 2000,
-      "weightKg": 7
+      "weightKg": 7,
+      "recyclesInto": {
+        "metal_parts": 6,
+        "rubber_parts": 6
+      }
     },
     {
       "id": "kettle_iii",
@@ -2848,7 +3428,11 @@
       "type": "Assault Rifle",
       "rarity": "Common",
       "value": 3000,
-      "weightKg": 7
+      "weightKg": 7,
+      "recyclesInto": {
+        "metal_parts": 12,
+        "simple_gun_parts": 1
+      }
     },
     {
       "id": "kettle_iv",
@@ -2857,7 +3441,11 @@
       "type": "Assault Rifle",
       "rarity": "Common",
       "value": 5000,
-      "weightKg": 7
+      "weightKg": 7,
+      "recyclesInto": {
+        "mechanical_components": 2,
+        "simple_gun_parts": 2
+      }
     },
     {
       "id": "kinetic_converter_blueprint",
@@ -2874,7 +3462,11 @@
       "type": "Modification",
       "rarity": "Legendary",
       "value": 7000,
-      "weightKg": 0.75
+      "weightKg": 0.75,
+      "recyclesInto": {
+        "duct_tape": 2,
+        "mod_components": 1
+      }
     },
     {
       "id": "laboratory_reagents",
@@ -2883,6 +3475,10 @@
       "rarity": "Rare",
       "value": 2000,
       "weightKg": 3,
+      "recyclesInto": {
+        "chemicals": 16,
+        "crude_explosives": 3
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "explosives_bench",
@@ -2922,6 +3518,10 @@
       "value": 5000,
       "weightKg": 1,
       "stackSize": 3,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "arc_alloy": 3
+      },
       "questsRequiredFor": [
         {
           "questId": "ss10x5",
@@ -2949,6 +3549,9 @@
       "value": 640,
       "weightKg": 0.2,
       "stackSize": 10,
+      "recyclesInto": {
+        "assorted_seeds": 3
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "scrappy",
@@ -3006,6 +3609,9 @@
       "stackSize": 5,
       "recipe": {
         "simple_gun_parts": 4
+      },
+      "recyclesInto": {
+        "simple_gun_parts": 2
       }
     },
     {
@@ -3019,6 +3625,10 @@
       "recipe": {
         "chemicals": 3,
         "plastic_parts": 2
+      },
+      "recyclesInto": {
+        "chemicals": 1,
+        "plastic_parts": 1
       }
     },
     {
@@ -3030,6 +3640,9 @@
       "weightKg": 5,
       "recipe": {
         "arc_alloy": 2,
+        "plastic_parts": 4
+      },
+      "recyclesInto": {
         "plastic_parts": 4
       }
     },
@@ -3051,6 +3664,10 @@
       "recipe": {
         "duct_tape": 5,
         "mod_components": 2
+      },
+      "recyclesInto": {
+        "duct_tape": 1,
+        "mod_components": 1
       }
     },
     {
@@ -3063,6 +3680,10 @@
       "stackSize": 5,
       "recipe": {
         "chemicals": 5,
+        "plastic_parts": 1
+      },
+      "recyclesInto": {
+        "chemicals": 1,
         "plastic_parts": 1
       }
     },
@@ -3077,6 +3698,10 @@
       "recipe": {
         "plastic_parts": 6,
         "rubber_parts": 6
+      },
+      "recyclesInto": {
+        "plastic_parts": 3,
+        "rubber_parts": 3
       }
     },
     {
@@ -3090,6 +3715,10 @@
       "recipe": {
         "electrical_components": 2,
         "magnet": 3
+      },
+      "recyclesInto": {
+        "electrical_components": 1,
+        "magnet": 1
       }
     },
     {
@@ -3103,6 +3732,10 @@
       "recipe": {
         "advanced_electrical_components": 2,
         "processor": 3
+      },
+      "recyclesInto": {
+        "advanced_electrical_components": 1,
+        "processor": 1
       }
     },
     {
@@ -3125,6 +3758,10 @@
       "recipe": {
         "advanced_electrical_components": 2,
         "processor": 3
+      },
+      "recyclesInto": {
+        "advanced_electrical_components": 1,
+        "processor": 1
       }
     },
     {
@@ -3146,6 +3783,10 @@
       "recipe": {
         "advanced_electrical_components": 2,
         "processor": 3
+      },
+      "recyclesInto": {
+        "advanced_electrical_components": 1,
+        "processor": 1
       }
     },
     {
@@ -3180,6 +3821,9 @@
       "recipe": {
         "electrical_components": 1,
         "speaker_component": 1
+      },
+      "recyclesInto": {
+        "speaker_component": 1
       }
     },
     {
@@ -3189,7 +3833,10 @@
       "rarity": "Uncommon",
       "value": 300,
       "weightKg": 0.25,
-      "stackSize": 15
+      "stackSize": 15,
+      "recyclesInto": {
+        "metal_parts": 2
+      }
     },
     {
       "id": "magnetic_accelerator",
@@ -3202,6 +3849,10 @@
       "recipe": {
         "advanced_mechanical_components": 2,
         "arc_motion_core": 2
+      },
+      "recyclesInto": {
+        "advanced_mechanical_components": 1,
+        "arc_motion_core": 1
       }
     },
     {
@@ -3212,6 +3863,10 @@
       "value": 6000,
       "weightKg": 1.5,
       "stackSize": 3,
+      "recyclesInto": {
+        "magnetic_accelerator": 1,
+        "steel_spring": 1
+      },
       "questsRequiredFor": [
         {
           "questId": "12_snap_and_salvage",
@@ -3239,7 +3894,11 @@
       "rarity": "Legendary",
       "value": 13000,
       "weightKg": 10,
-      "stackSize": 1
+      "stackSize": 1,
+      "recyclesInto": {
+        "magnetic_accelerator": 1,
+        "power_rod": 1
+      }
     },
     {
       "id": "mechanical_components",
@@ -3252,6 +3911,10 @@
       "recipe": {
         "metal_parts": 7,
         "rubber_parts": 3
+      },
+      "recyclesInto": {
+        "metal_parts": 3,
+        "rubber_parts": 2
       },
       "hideoutRequiredFor": [
         {
@@ -3293,6 +3956,9 @@
       "stackSize": 5,
       "recipe": {
         "simple_gun_parts": 4
+      },
+      "recyclesInto": {
+        "simple_gun_parts": 2
       }
     },
     {
@@ -3305,6 +3971,9 @@
       "recipe": {
         "arc_circuitry": 1,
         "battery": 4
+      },
+      "recyclesInto": {
+        "arc_circuitry": 1
       }
     },
     {
@@ -3314,7 +3983,10 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 0.8,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "metal_parts": 8
+      }
     },
     {
       "id": "metal_parts",
@@ -3346,7 +4018,11 @@
       "rarity": "Rare",
       "value": 3000,
       "weightKg": 1.5,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "advanced_mechanical_components": 1,
+        "magnet": 3
+      }
     },
     {
       "id": "mini_centrifuge",
@@ -3355,7 +4031,11 @@
       "rarity": "Rare",
       "value": 3000,
       "weightKg": 1.5,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "advanced_mechanical_components": 1,
+        "canister": 2
+      }
     },
     {
       "id": "mod_components",
@@ -3368,6 +4048,10 @@
       "recipe": {
         "mechanical_components": 2,
         "steel_spring": 2
+      },
+      "recyclesInto": {
+        "mechanical_components": 1,
+        "steel_spring": 1
       }
     },
     {
@@ -3384,7 +4068,10 @@
       "rarity": "Rare",
       "value": 500,
       "weightKg": 0.3,
-      "stackSize": 10
+      "stackSize": 10,
+      "recyclesInto": {
+        "assorted_seeds": 3
+      }
     },
     {
       "id": "motor",
@@ -3393,6 +4080,10 @@
       "rarity": "Rare",
       "value": 2000,
       "weightKg": 3,
+      "recyclesInto": {
+        "mechanical_components": 2,
+        "oil": 2
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "refiner",
@@ -3446,6 +4137,9 @@
       "recipe": {
         "metal_parts": 6,
         "wires": 1
+      },
+      "recyclesInto": {
+        "metal_parts": 5
       }
     },
     {
@@ -3468,6 +4162,10 @@
       "recipe": {
         "mechanical_components": 2,
         "wires": 4
+      },
+      "recyclesInto": {
+        "mechanical_components": 1,
+        "wires": 1
       }
     },
     {
@@ -3489,6 +4187,10 @@
       "recipe": {
         "mod_components": 2,
         "wires": 8
+      },
+      "recyclesInto": {
+        "mod_components": 1,
+        "wires": 2
       }
     },
     {
@@ -3502,6 +4204,9 @@
       "recipe": {
         "plastic_parts": 2,
         "speaker_component": 1
+      },
+      "recyclesInto": {
+        "speaker_component": 1
       }
     },
     {
@@ -3511,7 +4216,10 @@
       "rarity": "Uncommon",
       "value": 270,
       "weightKg": 0.8,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "metal_parts": 3
+      }
     },
     {
       "id": "nutrient_meter",
@@ -3527,7 +4235,10 @@
       "rarity": "Uncommon",
       "value": 300,
       "weightKg": 0.25,
-      "stackSize": 15
+      "stackSize": 15,
+      "recyclesInto": {
+        "chemicals": 3
+      }
     },
     {
       "id": "old_world_books",
@@ -3558,6 +4269,9 @@
       "value": 640,
       "weightKg": 0.2,
       "stackSize": 10,
+      "recyclesInto": {
+        "assorted_seeds": 2
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "scrappy",
@@ -3587,6 +4301,10 @@
         "advanced_mechanical_components": 2,
         "medium_gun_parts": 3,
         "wires": 7
+      },
+      "recyclesInto": {
+        "advanced_mechanical_components": 1,
+        "medium_gun_parts": 2
       }
     },
     {
@@ -3596,7 +4314,11 @@
       "type": "Sniper Rifle",
       "rarity": "Rare",
       "value": 10000,
-      "weightKg": 7
+      "weightKg": 7,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "medium_gun_parts": 2
+      }
     },
     {
       "id": "osprey_iii",
@@ -3605,7 +4327,11 @@
       "type": "Sniper Rifle",
       "rarity": "Rare",
       "value": 13000,
-      "weightKg": 7
+      "weightKg": 7,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "medium_gun_parts": 3
+      }
     },
     {
       "id": "osprey_iv",
@@ -3614,7 +4340,11 @@
       "type": "Sniper Rifle",
       "rarity": "Rare",
       "value": 17000,
-      "weightKg": 7
+      "weightKg": 7,
+      "recyclesInto": {
+        "advanced_mechanical_components": 3,
+        "medium_gun_parts": 3
+      }
     },
     {
       "id": "padded_stock_blueprint",
@@ -3635,6 +4365,10 @@
       "recipe": {
         "duct_tape": 5,
         "mod_components": 2
+      },
+      "recyclesInto": {
+        "duct_tape": 1,
+        "mod_components": 1
       }
     },
     {
@@ -3665,6 +4399,10 @@
       "recipe": {
         "advanced_electrical_components": 2,
         "speaker_component": 4
+      },
+      "recyclesInto": {
+        "advanced_electrical_components": 1,
+        "speaker_component": 1
       }
     },
     {
@@ -3716,7 +4454,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 0.8,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "fabric": 6,
+        "oil": 2
+      }
     },
     {
       "id": "pop_trigger",
@@ -3726,6 +4468,10 @@
       "value": 640,
       "weightKg": 0.5,
       "stackSize": 3,
+      "recyclesInto": {
+        "arc_alloy": 1,
+        "crude_explosives": 1
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "explosives_bench",
@@ -3742,7 +4488,11 @@
       "rarity": "Rare",
       "value": 2000,
       "weightKg": 3,
-      "stackSize": 1
+      "stackSize": 1,
+      "recyclesInto": {
+        "battery": 2,
+        "wires": 6
+      }
     },
     {
       "id": "poster_of_natural_wonders",
@@ -3769,7 +4519,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "battery": 2,
+        "wires": 2
+      }
     },
     {
       "id": "power_cable",
@@ -3779,6 +4533,9 @@
       "value": 1000,
       "weightKg": 2,
       "stackSize": 3,
+      "recyclesInto": {
+        "wires": 4
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "equipment_bench",
@@ -3800,6 +4557,10 @@
         "advanced_electrical_components": 2,
         "arc_circuitry": 2
       },
+      "recyclesInto": {
+        "advanced_electrical_components": 1,
+        "arc_circuitry": 1
+      },
       "questsRequiredFor": [
         {
           "questId": "ss10x15",
@@ -3818,6 +4579,9 @@
       "rarity": "Common",
       "value": 640,
       "stackSize": 10,
+      "recyclesInto": {
+        "assorted_seeds": 3
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "scrappy",
@@ -3834,7 +4598,11 @@
       "rarity": "Rare",
       "value": 500,
       "weightKg": 0.2,
-      "stackSize": 5
+      "stackSize": 5,
+      "recyclesInto": {
+        "plastic_parts": 1,
+        "wires": 1
+      }
     },
     {
       "id": "projector",
@@ -3843,7 +4611,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "processor": 1,
+        "wires": 2
+      }
     },
     {
       "id": "pulse_mine_blueprint",
@@ -3865,6 +4637,9 @@
       "recipe": {
         "crude_explosives": 1,
         "wires": 1
+      },
+      "recyclesInto": {
+        "chemicals": 6
       }
     },
     {
@@ -3874,7 +4649,11 @@
       "type": "Recyclable",
       "rarity": "Legendary",
       "value": 13000,
-      "weightKg": 10
+      "weightKg": 10,
+      "recyclesInto": {
+        "magnetic_accelerator": 1,
+        "power_rod": 1
+      }
     },
     {
       "id": "radio_relay",
@@ -3883,7 +4662,11 @@
       "rarity": "Rare",
       "value": 3000,
       "weightKg": 1.5,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "sensors": 2,
+        "speaker_component": 2
+      }
     },
     {
       "id": "radio_renegade",
@@ -3898,7 +4681,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "sensors": 1,
+        "speaker_component": 1
+      }
     },
     {
       "id": "raider_hatch_key",
@@ -3934,6 +4721,9 @@
       "recipe": {
         "metal_parts": 16,
         "rubber_parts": 12
+      },
+      "recyclesInto": {
+        "metal_parts": 8
       }
     },
     {
@@ -3943,7 +4733,10 @@
       "type": "Assault Rifle",
       "rarity": "Common",
       "value": 3000,
-      "weightKg": 6
+      "weightKg": 6,
+      "recyclesInto": {
+        "metal_parts": 12
+      }
     },
     {
       "id": "rattler_iii",
@@ -3952,7 +4745,11 @@
       "type": "Assault Rifle",
       "rarity": "Common",
       "value": 5000,
-      "weightKg": 6
+      "weightKg": 6,
+      "recyclesInto": {
+        "mechanical_components": 3,
+        "simple_gun_parts": 1
+      }
     },
     {
       "id": "rattler_iv",
@@ -3961,7 +4758,11 @@
       "type": "Assault Rifle",
       "rarity": "Common",
       "value": 7000,
-      "weightKg": 6
+      "weightKg": 6,
+      "recyclesInto": {
+        "mechanical_components": 4,
+        "simple_gun_parts": 2
+      }
     },
     {
       "id": "recorder",
@@ -3969,7 +4770,10 @@
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 1000,
-      "weightKg": 0.2
+      "weightKg": 0.2,
+      "recyclesInto": {
+        "plastic_parts": 10
+      }
     },
     {
       "id": "red_coral_jewelry",
@@ -4000,6 +4804,9 @@
       "stackSize": 5,
       "recipe": {
         "chemicals": 3
+      },
+      "recyclesInto": {
+        "chemicals": 1
       }
     },
     {
@@ -4019,7 +4826,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 0.8,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "plastic_parts": 7,
+        "sensors": 1
+      }
     },
     {
       "id": "remote_raider_flare_blueprint",
@@ -4041,6 +4852,10 @@
       "recipe": {
         "chemicals": 2,
         "rubber_parts": 4
+      },
+      "recyclesInto": {
+        "chemicals": 1,
+        "rubber_parts": 1
       }
     },
     {
@@ -4055,6 +4870,10 @@
         "advanced_mechanical_components": 2,
         "medium_gun_parts": 3,
         "oil": 5
+      },
+      "recyclesInto": {
+        "advanced_mechanical_components": 1,
+        "medium_gun_parts": 2
       }
     },
     {
@@ -4064,7 +4883,11 @@
       "type": "Battle Rifle",
       "rarity": "Rare",
       "value": 10000,
-      "weightKg": 10
+      "weightKg": 10,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "medium_gun_parts": 2
+      }
     },
     {
       "id": "renegade_iii",
@@ -4073,7 +4896,11 @@
       "type": "Battle Rifle",
       "rarity": "Rare",
       "value": 13000,
-      "weightKg": 10
+      "weightKg": 10,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "medium_gun_parts": 3
+      }
     },
     {
       "id": "renegade_iv",
@@ -4082,7 +4909,11 @@
       "type": "Battle Rifle",
       "rarity": "Rare",
       "value": 17000,
-      "weightKg": 10
+      "weightKg": 10,
+      "recyclesInto": {
+        "advanced_mechanical_components": 3,
+        "medium_gun_parts": 3
+      }
     },
     {
       "id": "resin",
@@ -4100,7 +4931,11 @@
       "rarity": "Uncommon",
       "value": 1000,
       "weightKg": 0.8,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "durable_cloth": 1,
+        "magnet": 1
+      }
     },
     {
       "id": "rocket_thruster",
@@ -4109,7 +4944,11 @@
       "rarity": "Rare",
       "value": 2000,
       "weightKg": 3,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "metal_parts": 6,
+        "synthesized_fuel": 2
+      }
     },
     {
       "id": "rocketeer_driver",
@@ -4119,6 +4958,10 @@
       "value": 5000,
       "weightKg": 1,
       "stackSize": 3,
+      "recyclesInto": {
+        "advanced_electrical_components": 2,
+        "arc_alloy": 3
+      },
       "questsRequiredFor": [
         {
           "questId": "ss10v",
@@ -4150,7 +4993,10 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 0.2,
-      "stackSize": 10
+      "stackSize": 10,
+      "recyclesInto": {
+        "assorted_seeds": 1
+      }
     },
     {
       "id": "rope",
@@ -4159,7 +5005,10 @@
       "rarity": "Rare",
       "value": 500,
       "weightKg": 0.3,
-      "stackSize": 5
+      "stackSize": 5,
+      "recyclesInto": {
+        "fabric": 5
+      }
     },
     {
       "id": "rosary",
@@ -4178,6 +5027,10 @@
       "value": 3000,
       "weightKg": 1.5,
       "stackSize": 3,
+      "recyclesInto": {
+        "electrical_components": 2,
+        "processor": 2
+      },
       "questsRequiredFor": [
         {
           "questId": "with_a_view",
@@ -4207,7 +5060,10 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "rubber_parts": 18
+      }
     },
     {
       "id": "rubber_parts",
@@ -4239,7 +5095,11 @@
       "rarity": "Rare",
       "value": 2000,
       "weightKg": 3,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "rubber_parts": 18,
+        "steel_spring": 3
+      }
     },
     {
       "id": "ruined_augment",
@@ -4248,7 +5108,11 @@
       "rarity": "Common",
       "value": 270,
       "weightKg": 0.5,
-      "stackSize": 1
+      "stackSize": 1,
+      "recyclesInto": {
+        "plastic_parts": 2,
+        "rubber_parts": 2
+      }
     },
     {
       "id": "ruined_baton",
@@ -4257,7 +5121,11 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 0.8,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "metal_parts": 6,
+        "rubber_parts": 3
+      }
     },
     {
       "id": "ruined_handcuffs",
@@ -4266,7 +5134,10 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 0.8,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "metal_parts": 8
+      }
     },
     {
       "id": "ruined_parachute",
@@ -4275,7 +5146,10 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 0.8,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "fabric": 10
+      }
     },
     {
       "id": "ruined_riot_shield",
@@ -4284,7 +5158,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "plastic_parts": 10,
+        "rubber_parts": 6
+      }
     },
     {
       "id": "ruined_tactical_vest",
@@ -4293,7 +5171,11 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 0.8,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "fabric": 5,
+        "magnet": 1
+      }
     },
     {
       "id": "rusted_bolts",
@@ -4302,7 +5184,10 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 0.8,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "metal_parts": 8
+      }
     },
     {
       "id": "rusted_gear",
@@ -4312,6 +5197,10 @@
       "value": 2000,
       "weightKg": 3,
       "stackSize": 3,
+      "recyclesInto": {
+        "mechanical_components": 2,
+        "metal_parts": 4
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "weapon_bench",
@@ -4329,6 +5218,10 @@
       "value": 2000,
       "weightKg": 3,
       "stackSize": 3,
+      "recyclesInto": {
+        "antiseptic": 1,
+        "syringe": 2
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "med_station",
@@ -4345,6 +5238,10 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
+      "recyclesInto": {
+        "metal_parts": 8,
+        "steel_spring": 1
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "weapon_bench",
@@ -4361,7 +5258,10 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 1,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "metal_parts": 8
+      }
     },
     {
       "id": "sample_cleaner",
@@ -4370,7 +5270,11 @@
       "rarity": "Rare",
       "value": 3000,
       "weightKg": 1.5,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "assorted_seeds": 14,
+        "electrical_components": 2
+      }
     },
     {
       "id": "seeker_grenade_blueprint",
@@ -4392,6 +5296,9 @@
       "recipe": {
         "arc_alloy": 2,
         "crude_explosives": 1
+      },
+      "recyclesInto": {
+        "crude_explosives": 1
       }
     },
     {
@@ -4401,7 +5308,11 @@
       "rarity": "Rare",
       "value": 500,
       "weightKg": 0.3,
-      "stackSize": 5
+      "stackSize": 5,
+      "recyclesInto": {
+        "metal_parts": 1,
+        "wires": 1
+      }
     },
     {
       "id": "sentinel_firing_core",
@@ -4411,6 +5322,10 @@
       "value": 3000,
       "weightKg": 1,
       "stackSize": 3,
+      "recyclesInto": {
+        "arc_alloy": 2,
+        "mechanical_components": 3
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "weapon_bench",
@@ -4427,7 +5342,10 @@
       "rarity": "Uncommon",
       "value": 1000,
       "weightKg": 0.2,
-      "stackSize": 1
+      "stackSize": 1,
+      "recyclesInto": {
+        "plastic_parts": 10
+      }
     },
     {
       "id": "shield_recharger",
@@ -4440,6 +5358,9 @@
       "recipe": {
         "arc_powercell": 1,
         "rubber_parts": 5
+      },
+      "recyclesInto": {
+        "rubber_parts": 4
       }
     },
     {
@@ -4465,6 +5386,9 @@
       "recipe": {
         "metal_parts": 6,
         "wires": 1
+      },
+      "recyclesInto": {
+        "metal_parts": 5
       }
     },
     {
@@ -4486,6 +5410,10 @@
       "recipe": {
         "mechanical_components": 2,
         "wires": 4
+      },
+      "recyclesInto": {
+        "mechanical_components": 1,
+        "wires": 1
       }
     },
     {
@@ -4507,6 +5435,10 @@
       "recipe": {
         "mod_components": 2,
         "wires": 8
+      },
+      "recyclesInto": {
+        "mod_components": 1,
+        "wires": 2
       }
     },
     {
@@ -4528,6 +5460,10 @@
       "recipe": {
         "mod_components": 2,
         "wires": 8
+      },
+      "recyclesInto": {
+        "mod_components": 1,
+        "wires": 1
       }
     },
     {
@@ -4550,6 +5486,10 @@
       "recipe": {
         "advanced_electrical_components": 1,
         "voltage_converter": 1
+      },
+      "recyclesInto": {
+        "battery": 2,
+        "electrical_components": 1
       }
     },
     {
@@ -4563,6 +5503,10 @@
       "recipe": {
         "crude_explosives": 1,
         "steel_spring": 2
+      },
+      "recyclesInto": {
+        "crude_explosives": 1,
+        "metal_parts": 1
       }
     },
     {
@@ -4572,7 +5516,11 @@
       "rarity": "Rare",
       "value": 3000,
       "weightKg": 1,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "arc_alloy": 3,
+        "mechanical_components": 3
+      }
     },
     {
       "id": "signal_amplifier",
@@ -4581,7 +5529,11 @@
       "rarity": "Rare",
       "value": 3000,
       "weightKg": 1.5,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "electrical_components": 2,
+        "voltage_converter": 2
+      }
     },
     {
       "id": "silencer_i_blueprint",
@@ -4602,6 +5554,10 @@
       "recipe": {
         "mechanical_components": 2,
         "wires": 4
+      },
+      "recyclesInto": {
+        "mechanical_components": 1,
+        "wires": 1
       }
     },
     {
@@ -4623,6 +5579,10 @@
       "recipe": {
         "mod_components": 2,
         "wires": 8
+      },
+      "recyclesInto": {
+        "mod_components": 1,
+        "wires": 2
       }
     },
     {
@@ -4640,7 +5600,11 @@
       "type": "Modification",
       "rarity": "Epic",
       "value": 7000,
-      "weightKg": 0.75
+      "weightKg": 0.75,
+      "recyclesInto": {
+        "mod_components": 1,
+        "wires": 3
+      }
     },
     {
       "id": "silver_teaspoon_set",
@@ -4658,7 +5622,10 @@
       "rarity": "Uncommon",
       "value": 330,
       "weightKg": 0.3,
-      "stackSize": 10
+      "stackSize": 10,
+      "recyclesInto": {
+        "metal_parts": 2
+      }
     },
     {
       "id": "smoke_grenade_blueprint",
@@ -4693,6 +5660,10 @@
       "recipe": {
         "canister": 1,
         "chemicals": 14
+      },
+      "recyclesInto": {
+        "canister": 1,
+        "chemicals": 2
       }
     },
     {
@@ -4705,6 +5676,10 @@
       "stackSize": 3,
       "recipe": {
         "crude_explosives": 2,
+        "magnet": 1
+      },
+      "recyclesInto": {
+        "chemicals": 1,
         "magnet": 1
       }
     },
@@ -4728,6 +5703,10 @@
         "exodus_modules": 1,
         "power_rod": 2,
         "rope": 3
+      },
+      "recyclesInto": {
+        "power_rod": 1,
+        "rope": 3
       }
     },
     {
@@ -4738,6 +5717,10 @@
       "value": 2000,
       "weightKg": 0.75,
       "stackSize": 3,
+      "recyclesInto": {
+        "arc_alloy": 1,
+        "electrical_components": 2
+      },
       "questsRequiredFor": [
         {
           "questId": "ss9",
@@ -4813,7 +5796,11 @@
       "rarity": "Rare",
       "value": 500,
       "weightKg": 0.3,
-      "stackSize": 5
+      "stackSize": 5,
+      "recyclesInto": {
+        "plastic_parts": 2,
+        "rubber_parts": 3
+      }
     },
     {
       "id": "spectrometer",
@@ -4822,7 +5809,11 @@
       "rarity": "Rare",
       "value": 3000,
       "weightKg": 1.5,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "advanced_electrical_components": 1,
+        "sensors": 1
+      }
     },
     {
       "id": "spectrum_analyzer",
@@ -4830,7 +5821,11 @@
       "type": "Recyclable",
       "rarity": "Epic",
       "value": 3500,
-      "weightKg": 1.5
+      "weightKg": 1.5,
+      "recyclesInto": {
+        "exodus_modules": 1,
+        "sensors": 1
+      }
     },
     {
       "id": "spotter_relay",
@@ -4839,7 +5834,11 @@
       "rarity": "Uncommon",
       "value": 2000,
       "weightKg": 1,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "arc_alloy": 1,
+        "electrical_components": 2
+      }
     },
     {
       "id": "spring_cushion",
@@ -4848,7 +5847,11 @@
       "rarity": "Rare",
       "value": 2000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "durable_cloth": 2,
+        "steel_spring": 2
+      }
     },
     {
       "id": "stable_stock_i",
@@ -4859,6 +5862,9 @@
       "weightKg": 0.25,
       "recipe": {
         "duct_tape": 1,
+        "rubber_parts": 6
+      },
+      "recyclesInto": {
         "rubber_parts": 6
       }
     },
@@ -4881,6 +5887,10 @@
       "recipe": {
         "duct_tape": 3,
         "mechanical_components": 2
+      },
+      "recyclesInto": {
+        "duct_tape": 1,
+        "mechanical_components": 1
       }
     },
     {
@@ -4902,6 +5912,10 @@
       "recipe": {
         "duct_tape": 5,
         "mod_components": 2
+      },
+      "recyclesInto": {
+        "duct_tape": 2,
+        "mod_components": 1
       }
     },
     {
@@ -4920,7 +5934,10 @@
       "rarity": "Uncommon",
       "value": 300,
       "weightKg": 0.25,
-      "stackSize": 15
+      "stackSize": 15,
+      "recyclesInto": {
+        "metal_parts": 2
+      }
     },
     {
       "id": "stella_montis_archives_key",
@@ -4967,6 +5984,10 @@
       "recipe": {
         "antiseptic": 1,
         "durable_cloth": 2
+      },
+      "recyclesInto": {
+        "antiseptic": 1,
+        "fabric": 1
       }
     },
     {
@@ -4980,6 +6001,10 @@
       "recipe": {
         "metal_parts": 8,
         "rubber_parts": 4
+      },
+      "recyclesInto": {
+        "metal_parts": 3,
+        "rubber_parts": 2
       }
     },
     {
@@ -4989,7 +6014,11 @@
       "type": "SMG",
       "rarity": "Common",
       "value": 2000,
-      "weightKg": 5
+      "weightKg": 5,
+      "recyclesInto": {
+        "metal_parts": 6,
+        "rubber_parts": 6
+      }
     },
     {
       "id": "stitcher_iii",
@@ -4998,7 +6027,11 @@
       "type": "SMG",
       "rarity": "Common",
       "value": 3000,
-      "weightKg": 5
+      "weightKg": 5,
+      "recyclesInto": {
+        "metal_parts": 12,
+        "simple_gun_parts": 1
+      }
     },
     {
       "id": "stitcher_iv",
@@ -5007,7 +6040,11 @@
       "type": "SMG",
       "rarity": "Common",
       "value": 5000,
-      "weightKg": 5
+      "weightKg": 5,
+      "recyclesInto": {
+        "mechanical_components": 2,
+        "simple_gun_parts": 2
+      }
     },
     {
       "id": "surge_shield_recharger",
@@ -5020,6 +6057,9 @@
       "recipe": {
         "advanced_arc_powercell": 1,
         "electrical_components": 1
+      },
+      "recyclesInto": {
+        "electrical_components": 1
       }
     },
     {
@@ -5030,6 +6070,10 @@
       "value": 2000,
       "weightKg": 1,
       "stackSize": 3,
+      "recyclesInto": {
+        "arc_alloy": 2,
+        "mechanical_components": 2
+      },
       "questsRequiredFor": [
         {
           "questId": "ss10d",
@@ -5062,6 +6106,10 @@
       "value": 700,
       "weightKg": 0.5,
       "stackSize": 5,
+      "recyclesInto": {
+        "oil": 1,
+        "plastic_parts": 1
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "explosives_bench",
@@ -5079,6 +6127,10 @@
       "value": 500,
       "weightKg": 0.3,
       "stackSize": 5,
+      "recyclesInto": {
+        "chemicals": 2,
+        "plastic_parts": 3
+      },
       "questsRequiredFor": [
         {
           "questId": "ss10c",
@@ -5102,6 +6154,10 @@
       "recipe": {
         "plastic_parts": 6,
         "rubber_parts": 6
+      },
+      "recyclesInto": {
+        "plastic_parts": 3,
+        "rubber_parts": 3
       }
     },
     {
@@ -5116,6 +6172,10 @@
       "recipe": {
         "electrical_components": 2,
         "magnet": 3
+      },
+      "recyclesInto": {
+        "electrical_components": 1,
+        "magnet": 1
       }
     },
     {
@@ -5138,6 +6198,10 @@
       "recipe": {
         "advanced_electrical_components": 2,
         "processor": 3
+      },
+      "recyclesInto": {
+        "advanced_electrical_components": 1,
+        "processor": 1
       }
     },
     {
@@ -5159,6 +6223,10 @@
       "recipe": {
         "advanced_electrical_components": 2,
         "processor": 3
+      },
+      "recyclesInto": {
+        "advanced_electrical_components": 1,
+        "processor": 1
       }
     },
     {
@@ -5181,6 +6249,10 @@
       "recipe": {
         "advanced_electrical_components": 2,
         "processor": 3
+      },
+      "recyclesInto": {
+        "advanced_electrical_components": 1,
+        "processor": 1
       }
     },
     {
@@ -5203,6 +6275,10 @@
       "recipe": {
         "electrical_components": 1,
         "sensors": 1
+      },
+      "recyclesInto": {
+        "plastic_parts": 1,
+        "sensors": 1
       }
     },
     {
@@ -5212,14 +6288,20 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 1,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "fabric": 12
+      }
     },
     {
       "id": "tattered_clothes",
       "name": "Tattered Clothes",
       "type": "Recyclable",
       "rarity": "Uncommon",
-      "value": 640
+      "value": 640,
+      "recyclesInto": {
+        "fabric": 11
+      }
     },
     {
       "id": "telemetry_transceiver",
@@ -5228,7 +6310,11 @@
       "rarity": "Rare",
       "value": 3000,
       "weightKg": 1.5,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "advanced_electrical_components": 1,
+        "processor": 1
+      }
     },
     {
       "id": "tempest_blueprint",
@@ -5251,6 +6337,10 @@
         "exodus_modules": 2,
         "magnetic_accelerator": 1,
         "medium_gun_parts": 3
+      },
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "medium_gun_parts": 2
       }
     },
     {
@@ -5260,7 +6350,11 @@
       "type": "Assault Rifle",
       "rarity": "Epic",
       "value": 17000,
-      "weightKg": 11
+      "weightKg": 11,
+      "recyclesInto": {
+        "advanced_mechanical_components": 3,
+        "medium_gun_parts": 3
+      }
     },
     {
       "id": "tempest_iii",
@@ -5269,7 +6363,11 @@
       "type": "Assault Rifle",
       "rarity": "Epic",
       "value": 22000,
-      "weightKg": 11
+      "weightKg": 11,
+      "recyclesInto": {
+        "advanced_mechanical_components": 4,
+        "medium_gun_parts": 4
+      }
     },
     {
       "id": "tempest_iv",
@@ -5278,7 +6376,11 @@
       "type": "Assault Rifle",
       "rarity": "Epic",
       "value": 27000,
-      "weightKg": 11
+      "weightKg": 11,
+      "recyclesInto": {
+        "advanced_mechanical_components": 5,
+        "medium_gun_parts": 4
+      }
     },
     {
       "id": "thermostat",
@@ -5287,7 +6389,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "rubber_parts": 7,
+        "sensors": 1
+      }
     },
     {
       "id": "tick_pod",
@@ -5297,6 +6403,10 @@
       "value": 640,
       "weightKg": 0.5,
       "stackSize": 3,
+      "recyclesInto": {
+        "arc_alloy": 2,
+        "chemicals": 2
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "med_station",
@@ -5314,6 +6424,10 @@
       "value": 1000,
       "weightKg": 2,
       "stackSize": 3,
+      "recyclesInto": {
+        "plastic_parts": 5,
+        "wires": 3
+      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "refiner",
@@ -5330,7 +6444,10 @@
       "rarity": "Rare",
       "value": 640,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "fabric": 12
+      }
     },
     {
       "id": "torn_book",
@@ -5362,6 +6479,10 @@
         "advanced_mechanical_components": 2,
         "medium_gun_parts": 3,
         "steel_spring": 6
+      },
+      "recyclesInto": {
+        "advanced_mechanical_components": 1,
+        "medium_gun_parts": 2
       }
     },
     {
@@ -5371,7 +6492,11 @@
       "type": "LMG",
       "rarity": "Rare",
       "value": 10000,
-      "weightKg": 12
+      "weightKg": 12,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "medium_gun_parts": 2
+      }
     },
     {
       "id": "torrente_iii",
@@ -5380,7 +6505,11 @@
       "type": "LMG",
       "rarity": "Rare",
       "value": 13000,
-      "weightKg": 12
+      "weightKg": 12,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "medium_gun_parts": 3
+      }
     },
     {
       "id": "torrente_iv",
@@ -5389,7 +6518,11 @@
       "type": "LMG",
       "rarity": "Rare",
       "value": 16000,
-      "weightKg": 12
+      "weightKg": 12,
+      "recyclesInto": {
+        "advanced_mechanical_components": 3,
+        "medium_gun_parts": 3
+      }
     },
     {
       "id": "trailblazer_blueprint",
@@ -5411,6 +6544,9 @@
       "recipe": {
         "explosive_compound": 1,
         "synthesized_fuel": 1
+      },
+      "recyclesInto": {
+        "crude_explosives": 2
       }
     },
     {
@@ -5433,6 +6569,10 @@
       "recipe": {
         "crude_explosives": 2,
         "processor": 1
+      },
+      "recyclesInto": {
+        "chemicals": 1,
+        "processor": 1
       }
     },
     {
@@ -5451,7 +6591,11 @@
       "rarity": "Rare",
       "value": 2000,
       "weightKg": 3,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "mechanical_components": 1,
+        "oil": 3
+      }
     },
     {
       "id": "unusable_weapon",
@@ -5459,7 +6603,11 @@
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
-      "weightKg": 3
+      "weightKg": 3,
+      "recyclesInto": {
+        "metal_parts": 4,
+        "simple_gun_parts": 5
+      }
     },
     {
       "id": "vase",
@@ -5490,6 +6638,10 @@
         "advanced_mechanical_components": 2,
         "magnet": 5,
         "medium_gun_parts": 3
+      },
+      "recyclesInto": {
+        "advanced_mechanical_components": 1,
+        "medium_gun_parts": 2
       }
     },
     {
@@ -5499,7 +6651,11 @@
       "type": "Pistol",
       "rarity": "Rare",
       "value": 10000,
-      "weightKg": 5
+      "weightKg": 5,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "medium_gun_parts": 2
+      }
     },
     {
       "id": "venator_iii",
@@ -5508,7 +6664,11 @@
       "type": "Pistol",
       "rarity": "Rare",
       "value": 13000,
-      "weightKg": 5
+      "weightKg": 5,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "medium_gun_parts": 3
+      }
     },
     {
       "id": "venator_iv",
@@ -5517,7 +6677,11 @@
       "type": "Pistol",
       "rarity": "Rare",
       "value": 17000,
-      "weightKg": 5
+      "weightKg": 5,
+      "recyclesInto": {
+        "advanced_mechanical_components": 3,
+        "medium_gun_parts": 3
+      }
     },
     {
       "id": "vertical_grip_i",
@@ -5528,6 +6692,9 @@
       "weightKg": 0.25,
       "recipe": {
         "duct_tape": 1,
+        "plastic_parts": 6
+      },
+      "recyclesInto": {
         "plastic_parts": 6
       }
     },
@@ -5551,6 +6718,10 @@
       "recipe": {
         "duct_tape": 3,
         "mechanical_components": 2
+      },
+      "recyclesInto": {
+        "duct_tape": 1,
+        "mechanical_components": 1
       }
     },
     {
@@ -5572,6 +6743,10 @@
       "recipe": {
         "duct_tape": 5,
         "mod_components": 2
+      },
+      "recyclesInto": {
+        "duct_tape": 2,
+        "mechanical_components": 2
       }
     },
     {
@@ -5611,6 +6786,10 @@
       "recipe": {
         "antiseptic": 2,
         "syringe": 1
+      },
+      "recyclesInto": {
+        "chemicals": 4,
+        "syringe": 1
       }
     },
     {
@@ -5632,6 +6811,10 @@
       "recipe": {
         "antiseptic": 3,
         "canister": 1
+      },
+      "recyclesInto": {
+        "antiseptic": 1,
+        "canister": 2
       }
     },
     {
@@ -5650,7 +6833,11 @@
       "rarity": "Rare",
       "value": 500,
       "weightKg": 0.3,
-      "stackSize": 5
+      "stackSize": 5,
+      "recyclesInto": {
+        "rubber_parts": 1,
+        "wires": 1
+      }
     },
     {
       "id": "vulcano_blueprint",
@@ -5673,6 +6860,10 @@
         "exodus_modules": 1,
         "heavy_gun_parts": 3,
         "magnetic_accelerator": 1
+      },
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "heavy_gun_parts": 2
       }
     },
     {
@@ -5683,7 +6874,11 @@
       "rarity": "Epic",
       "value": 13000,
       "weightKg": 9.25,
-      "stackSize": 1
+      "stackSize": 1,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "heavy_gun_parts": 3
+      }
     },
     {
       "id": "vulcano_iii",
@@ -5692,7 +6887,11 @@
       "type": "Shotgun",
       "rarity": "Epic",
       "value": 17000,
-      "weightKg": 8
+      "weightKg": 8,
+      "recyclesInto": {
+        "advanced_mechanical_components": 3,
+        "heavy_gun_parts": 4
+      }
     },
     {
       "id": "vulcano_iv",
@@ -5701,7 +6900,11 @@
       "type": "Shotgun",
       "rarity": "Epic",
       "value": 22000,
-      "weightKg": 8
+      "weightKg": 8,
+      "recyclesInto": {
+        "advanced_mechanical_components": 4,
+        "heavy_gun_parts": 5
+      }
     },
     {
       "id": "wasp_driver",
@@ -5711,6 +6914,10 @@
       "value": 1000,
       "weightKg": 0.6,
       "stackSize": 3,
+      "recyclesInto": {
+        "arc_alloy": 1,
+        "electrical_components": 1
+      },
       "questsRequiredFor": [
         {
           "questId": "ss9",
@@ -5742,7 +6949,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "canister": 3,
+        "rubber_parts": 2
+      }
     },
     {
       "id": "water_pump",
@@ -5751,7 +6962,11 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
-      "stackSize": 3
+      "stackSize": 3,
+      "recyclesInto": {
+        "metal_parts": 4,
+        "oil": 2
+      }
     },
     {
       "id": "wires",
@@ -5761,6 +6976,9 @@
       "value": 200,
       "weightKg": 0.25,
       "stackSize": 15,
+      "recyclesInto": {
+        "rubber_parts": 2
+      },
       "questsRequiredFor": [
         {
           "questId": "ss10y",
@@ -5821,6 +7039,10 @@
       "recipe": {
         "arc_motion_core": 2,
         "explosive_compound": 3
+      },
+      "recyclesInto": {
+        "arc_motion_core": 1,
+        "explosive_compound": 1
       }
     },
     {
@@ -5843,6 +7065,9 @@
       "stackSize": 5,
       "recipe": {
         "chemicals": 3
+      },
+      "recyclesInto": {
+        "chemicals": 1
       }
     },
     {
@@ -5854,6 +7079,10 @@
       "weightKg": 0.4,
       "recipe": {
         "mechanical_components": 1,
+        "rope": 1
+      },
+      "recyclesInto": {
+        "metal_parts": 1,
         "rope": 1
       }
     }
