@@ -235,8 +235,8 @@
         {
           "questId": "ss10c",
           "questName": "Doctor's Orders",
-          "trader": "Celeste",
-          "questOrder": 7,
+          "trader": "Lance",
+          "questOrder": 1,
           "mapNames": [],
           "quantity": 2
         }
@@ -406,16 +406,6 @@
       "recyclesInto": {
         "metal_parts": 2
       },
-      "questsRequiredFor": [
-        {
-          "questId": "ss2",
-          "questName": "Clearer Skies",
-          "trader": "Shani",
-          "questOrder": 14,
-          "mapNames": [],
-          "quantity": 3
-        }
-      ],
       "hideoutRequiredFor": [
         {
           "hideoutId": "explosives_bench",
@@ -527,6 +517,18 @@
       "value": 270,
       "weightKg": 0.5,
       "stackSize": 5,
+      "questsRequiredFor": [
+        {
+          "questId": "a_prime_specimen",
+          "questName": "A Prime Specimen",
+          "trader": "Shani",
+          "questOrder": 1,
+          "mapNames": [
+            "The Blue Gate"
+          ],
+          "quantity": 2
+        }
+      ],
       "hideoutRequiredFor": [
         {
           "hideoutId": "refiner",
@@ -727,20 +729,10 @@
       },
       "questsRequiredFor": [
         {
-          "questId": "ss10y",
-          "questName": "After Rain Comes",
-          "trader": "Celeste",
-          "questOrder": 3,
-          "mapNames": [
-            "Buried City"
-          ],
-          "quantity": 2
-        },
-        {
           "questId": "ss3",
           "questName": "Trash Into Treasure",
           "trader": "Shani",
-          "questOrder": 17,
+          "questOrder": 22,
           "mapNames": [],
           "quantity": 1
         }
@@ -1352,19 +1344,7 @@
       "imageFilename": "celestes_journal.png",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25,
-      "questsRequiredFor": [
-        {
-          "questId": "ss10t",
-          "questName": "Celeste's Journals",
-          "trader": "Celeste",
-          "questOrder": 4,
-          "mapNames": [
-            "Dam Battlegrounds"
-          ],
-          "quantity": 2
-        }
-      ]
+      "weightKg": 0.25
     },
     {
       "id": "cheer",
@@ -2007,8 +1987,8 @@
         {
           "questId": "ss10c",
           "questName": "Doctor's Orders",
-          "trader": "Celeste",
-          "questOrder": 7,
+          "trader": "Lance",
+          "questOrder": 1,
           "mapNames": [],
           "quantity": 1
         }
@@ -2633,57 +2613,21 @@
       "name": "First Wave Compass",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25,
-      "questsRequiredFor": [
-        {
-          "questId": "ss10h",
-          "questName": "Broken Monument",
-          "trader": "Tian Wen",
-          "questOrder": 7,
-          "mapNames": [
-            "Dam Battlegrounds"
-          ],
-          "quantity": 1
-        }
-      ]
+      "weightKg": 0.25
     },
     {
       "id": "first_wave_rations",
       "name": "First Wave Rations",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25,
-      "questsRequiredFor": [
-        {
-          "questId": "ss10h",
-          "questName": "Broken Monument",
-          "trader": "Tian Wen",
-          "questOrder": 7,
-          "mapNames": [
-            "Dam Battlegrounds"
-          ],
-          "quantity": 1
-        }
-      ]
+      "weightKg": 0.25
     },
     {
       "id": "first_wave_tape",
       "name": "First Wave Tape",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25,
-      "questsRequiredFor": [
-        {
-          "questId": "ss10h",
-          "questName": "Broken Monument",
-          "trader": "Tian Wen",
-          "questOrder": 7,
-          "mapNames": [
-            "Dam Battlegrounds"
-          ],
-          "quantity": 1
-        }
-      ]
+      "weightKg": 0.25
     },
     {
       "id": "flame_spray",
@@ -2721,19 +2665,7 @@
       "recyclesInto": {
         "advanced_mechanical_components": 1,
         "sensors": 1
-      },
-      "questsRequiredFor": [
-        {
-          "questId": "12_snap_and_salvage",
-          "questName": "Snap and Salvage",
-          "trader": "Tian Wen",
-          "questOrder": 2,
-          "mapNames": [
-            "stella_montis"
-          ],
-          "quantity": 1
-        }
-      ]
+      }
     },
     {
       "id": "flushing_terminal_key",
@@ -2929,8 +2861,8 @@
         {
           "questId": "ss10c",
           "questName": "Doctor's Orders",
-          "trader": "Celeste",
-          "questOrder": 7,
+          "trader": "Lance",
+          "questOrder": 1,
           "mapNames": [],
           "quantity": 1
         }
@@ -3169,21 +3101,6 @@
         "arc_alloy": 2,
         "electrical_components": 2
       },
-      "questsRequiredFor": [
-        {
-          "questId": "ss9",
-          "questName": "The Trifecta",
-          "trader": "Shani",
-          "questOrder": 16,
-          "mapNames": [
-            "Buried City",
-            "The Spaceport",
-            "The Blue Gate",
-            "Dam Battlegrounds"
-          ],
-          "quantity": 2
-        }
-      ],
       "hideoutRequiredFor": [
         {
           "hideoutId": "equipment_bench",
@@ -3465,19 +3382,7 @@
       "recyclesInto": {
         "exodus_modules": 1,
         "voltage_converter": 4
-      },
-      "questsRequiredFor": [
-        {
-          "questId": "with_a_view",
-          "questName": "With A View",
-          "trader": "Shani",
-          "questOrder": 20,
-          "mapNames": [
-            "stella_montis"
-          ],
-          "quantity": 1
-        }
-      ]
+      }
     },
     {
       "id": "jolt_mine_blueprint",
@@ -3681,7 +3586,12 @@
           "questName": "Into the Fray",
           "trader": "Shani",
           "questOrder": 11,
-          "mapNames": [],
+          "mapNames": [
+            "Buried City",
+            "The Spaceport",
+            "The Blue Gate",
+            "Dam Battlegrounds"
+          ],
           "quantity": 1
         }
       ],
@@ -4019,19 +3929,7 @@
       "recyclesInto": {
         "magnetic_accelerator": 1,
         "steel_spring": 1
-      },
-      "questsRequiredFor": [
-        {
-          "questId": "12_snap_and_salvage",
-          "questName": "Snap and Salvage",
-          "trader": "Tian Wen",
-          "questOrder": 2,
-          "mapNames": [
-            "stella_montis"
-          ],
-          "quantity": 1
-        }
-      ]
+      }
     },
     {
       "id": "major_aivas_patch",
@@ -4212,19 +4110,7 @@
       "name": "Moisture Meter",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25,
-      "questsRequiredFor": [
-        {
-          "questId": "ss10q",
-          "questName": "Unexpected Initiative",
-          "trader": "Tian Wen",
-          "questOrder": 12,
-          "mapNames": [
-            "Buried City"
-          ],
-          "quantity": 1
-        }
-      ]
+      "weightKg": 0.25
     },
     {
       "id": "moss",
@@ -4391,19 +4277,7 @@
       "name": "Nutrient Meter",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25,
-      "questsRequiredFor": [
-        {
-          "questId": "ss10q",
-          "questName": "Unexpected Initiative",
-          "trader": "Tian Wen",
-          "questOrder": 12,
-          "mapNames": [
-            "Buried City"
-          ],
-          "quantity": 1
-        }
-      ]
+      "weightKg": 0.25
     },
     {
       "id": "oil",
@@ -4424,19 +4298,7 @@
       "rarity": "Common",
       "value": 0,
       "weightKg": 0.25,
-      "stackSize": 1,
-      "questsRequiredFor": [
-        {
-          "questId": "12_cold_storage",
-          "questName": "Cold Storage",
-          "trader": "Celeste",
-          "questOrder": 5,
-          "mapNames": [
-            "stella_montis"
-          ],
-          "quantity": 1
-        }
-      ]
+      "stackSize": 1
     },
     {
       "id": "olives",
@@ -4685,7 +4547,17 @@
       "recyclesInto": {
         "battery": 2,
         "wires": 6
-      }
+      },
+      "questsRequiredFor": [
+        {
+          "questId": "movie_night",
+          "questName": "Movie Night",
+          "trader": "Apollo",
+          "questOrder": 5,
+          "mapNames": [],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "poster_of_natural_wonders",
@@ -4753,17 +4625,7 @@
       "recyclesInto": {
         "advanced_electrical_components": 1,
         "arc_circuitry": 1
-      },
-      "questsRequiredFor": [
-        {
-          "questId": "ss10x15",
-          "questName": "Tribute to Toledo",
-          "trader": "Celeste",
-          "questOrder": 14,
-          "mapNames": [],
-          "quantity": 1
-        }
-      ]
+      }
     },
     {
       "id": "prickly_pear",
@@ -5258,9 +5120,9 @@
       "questsRequiredFor": [
         {
           "questId": "with_a_view",
-          "questName": "With A View",
+          "questName": "With a View",
           "trader": "Shani",
-          "questOrder": 20,
+          "questOrder": 25,
           "mapNames": [
             "stella_montis"
           ],
@@ -5945,21 +5807,6 @@
         "arc_alloy": 1,
         "electrical_components": 2
       },
-      "questsRequiredFor": [
-        {
-          "questId": "ss9",
-          "questName": "The Trifecta",
-          "trader": "Shani",
-          "questOrder": 16,
-          "mapNames": [
-            "Buried City",
-            "The Spaceport",
-            "The Blue Gate",
-            "Dam Battlegrounds"
-          ],
-          "quantity": 2
-        }
-      ],
       "hideoutRequiredFor": [
         {
           "hideoutId": "utility_bench",
@@ -6062,7 +5909,19 @@
       "recyclesInto": {
         "arc_alloy": 1,
         "electrical_components": 2
-      }
+      },
+      "questsRequiredFor": [
+        {
+          "questId": "combat_recon",
+          "questName": "Combat Recon",
+          "trader": "Shani",
+          "questOrder": 13,
+          "mapNames": [
+            "Buried City"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "spring_cushion",
@@ -6318,8 +6177,8 @@
         {
           "questId": "ss10d",
           "questName": "Mixed Signals",
-          "trader": "Tian Wen",
-          "questOrder": 1,
+          "trader": "Shani",
+          "questOrder": 21,
           "mapNames": [
             "Buried City",
             "The Spaceport",
@@ -6375,8 +6234,8 @@
         {
           "questId": "ss10c",
           "questName": "Doctor's Orders",
-          "trader": "Celeste",
-          "questOrder": 7,
+          "trader": "Lance",
+          "questOrder": 1,
           "mapNames": [],
           "quantity": 1
         }
@@ -7222,21 +7081,6 @@
         "arc_alloy": 1,
         "electrical_components": 1
       },
-      "questsRequiredFor": [
-        {
-          "questId": "ss9",
-          "questName": "The Trifecta",
-          "trader": "Shani",
-          "questOrder": 16,
-          "mapNames": [
-            "Buried City",
-            "The Spaceport",
-            "The Blue Gate",
-            "Dam Battlegrounds"
-          ],
-          "quantity": 2
-        }
-      ],
       "hideoutRequiredFor": [
         {
           "hideoutId": "weapon_bench",
@@ -7285,40 +7129,10 @@
       },
       "questsRequiredFor": [
         {
-          "questId": "ss10y",
-          "questName": "After Rain Comes",
-          "trader": "Celeste",
-          "questOrder": 3,
-          "mapNames": [
-            "Buried City"
-          ],
-          "quantity": 5
-        },
-        {
-          "questId": "ss10m",
-          "questName": "Eyes on the Prize",
-          "trader": "Tian Wen",
-          "questOrder": 10,
-          "mapNames": [
-            "Buried City"
-          ],
-          "quantity": 3
-        },
-        {
-          "questId": "ss10x11",
-          "questName": "Flickering Threat",
-          "trader": "Celeste",
-          "questOrder": 9,
-          "mapNames": [
-            "Dam Battlegrounds"
-          ],
-          "quantity": 4
-        },
-        {
           "questId": "ss3",
           "questName": "Trash Into Treasure",
           "trader": "Shani",
-          "questOrder": 17,
+          "questOrder": 22,
           "mapNames": [],
           "quantity": 6
         }
