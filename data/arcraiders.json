@@ -406,6 +406,16 @@
       "recyclesInto": {
         "metal_parts": 2
       },
+      "questsRequiredFor": [
+        {
+          "questId": "ss2",
+          "questName": "Clearer Skies",
+          "trader": "Shani",
+          "questOrder": 17,
+          "mapNames": [],
+          "quantity": 3
+        }
+      ],
       "hideoutRequiredFor": [
         {
           "hideoutId": "explosives_bench",
@@ -522,7 +532,7 @@
           "questId": "a_prime_specimen",
           "questName": "A Prime Specimen",
           "trader": "Shani",
-          "questOrder": 1,
+          "questOrder": 2,
           "mapNames": [
             "The Blue Gate"
           ],
@@ -687,12 +697,12 @@
       "name": "Bastion Cell",
       "type": "Recyclable",
       "rarity": "Epic",
-      "value": 5000,
+      "value": 3000,
       "weightKg": 1,
       "stackSize": 3,
       "recyclesInto": {
-        "advanced_mechanical_components": 2,
-        "arc_alloy": 2
+        "advanced_mechanical_components": 1,
+        "arc_alloy": 3
       },
       "hideoutRequiredFor": [
         {
@@ -716,10 +726,20 @@
       },
       "questsRequiredFor": [
         {
+          "questId": "ss10y",
+          "questName": "After Rain Comes",
+          "trader": "Celeste",
+          "questOrder": 4,
+          "mapNames": [
+            "Buried City"
+          ],
+          "quantity": 2
+        },
+        {
           "questId": "ss3",
           "questName": "Trash Into Treasure",
           "trader": "Shani",
-          "questOrder": 22,
+          "questOrder": 23,
           "mapNames": [],
           "quantity": 1
         }
@@ -794,7 +814,7 @@
       "imageFilename": "bettina.png",
       "type": "Assault Rifle",
       "rarity": "Epic",
-      "value": 17000,
+      "value": 18000,
       "weightKg": 11,
       "isWeapon": true,
       "recyclesInto": {
@@ -817,7 +837,19 @@
       "recyclesInto": {
         "canister": 4,
         "metal_parts": 10
-      }
+      },
+      "questsRequiredFor": [
+        {
+          "questId": "the_league",
+          "questName": "The League",
+          "trader": "Apollo",
+          "questOrder": 11,
+          "mapNames": [
+            "Dam Battlegrounds"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "binoculars",
@@ -826,6 +858,7 @@
       "rarity": "Common",
       "value": 640,
       "weightKg": 0.5,
+      "stackSize": 1,
       "recipe": {
         "plastic_parts": 8,
         "rubber_parts": 4
@@ -907,7 +940,8 @@
       "type": "Key",
       "rarity": "Epic",
       "value": 100,
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "stackSize": 1
     },
     {
       "id": "blue_gate_village_key",
@@ -1029,13 +1063,23 @@
       "name": "Bombardier Cell",
       "type": "Recyclable",
       "rarity": "Epic",
-      "value": 5000,
+      "value": 3000,
       "weightKg": 1,
       "stackSize": 3,
       "recyclesInto": {
-        "advanced_mechanical_components": 2,
-        "arc_alloy": 2
+        "advanced_mechanical_components": 1,
+        "arc_alloy": 3
       },
+      "questsRequiredFor": [
+        {
+          "questId": "bombing_run",
+          "questName": "Bombing Run",
+          "trader": "Shani",
+          "questOrder": 15,
+          "mapNames": [],
+          "quantity": 1
+        }
+      ],
       "hideoutRequiredFor": [
         {
           "hideoutId": "refiner",
@@ -1146,7 +1190,8 @@
       "name": "Burletta Blueprint",
       "imageFilename": "burletta.png",
       "type": "Blueprint",
-      "rarity": "Legendary"
+      "rarity": "Legendary",
+      "value": 5000
     },
     {
       "id": "burletta_i",
@@ -1227,7 +1272,7 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 1,
-      "stackSize": 5,
+      "stackSize": 3,
       "recyclesInto": {
         "arc_alloy": 2
       }
@@ -1312,7 +1357,20 @@
       "imageFilename": "celestes_journal.png",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "ss10t",
+          "questName": "Celeste’s Journals",
+          "trader": "Celeste",
+          "questOrder": 5,
+          "mapNames": [
+            "Dam Battlegrounds"
+          ],
+          "quantity": 2
+        }
+      ]
     },
     {
       "id": "chemicals",
@@ -1418,6 +1476,19 @@
       "recyclesInto": {
         "advanced_electrical_components": 1,
         "processor": 1
+      }
+    },
+    {
+      "id": "comet_igniter",
+      "name": "Comet Igniter",
+      "type": "Recyclable",
+      "rarity": "Rare",
+      "value": 1000,
+      "weightKg": 1,
+      "stackSize": 3,
+      "recyclesInto": {
+        "arc_alloy": 2,
+        "crude_explosives": 2
       }
     },
     {
@@ -1611,6 +1682,16 @@
       "type": "Key",
       "rarity": "Epic",
       "value": 100,
+      "weightKg": 0.25,
+      "stackSize": 1
+    },
+    {
+      "id": "dam_controlled_access_zone_key",
+      "name": "Dam Controlled Access Zone Key",
+      "imageFilename": "",
+      "type": "Key",
+      "rarity": "Epic",
+      "value": 100,
       "weightKg": 0.25
     },
     {
@@ -1628,7 +1709,8 @@
       "type": "Key",
       "rarity": "Uncommon",
       "value": 100,
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "stackSize": 1
     },
     {
       "id": "dam_testing_annex_key",
@@ -1636,7 +1718,8 @@
       "type": "Key",
       "rarity": "Rare",
       "value": 100,
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "stackSize": 1
     },
     {
       "id": "dam_utility_key",
@@ -1721,7 +1804,7 @@
       "name": "Damaged Rocketeer Driver",
       "type": "Recyclable",
       "rarity": "Common",
-      "value": 2000,
+      "value": 1000,
       "weightKg": 0.25,
       "stackSize": 3,
       "recyclesInto": {
@@ -1785,11 +1868,12 @@
       "name": "Deadline",
       "type": "Quick Use",
       "rarity": "Epic",
-      "value": 5000,
+      "value": 6000,
       "weightKg": 1,
       "stackSize": 1,
       "recipe": {
         "arc_circuitry": 2,
+        "comet_igniter": 1,
         "explosive_compound": 3
       },
       "recyclesInto": {
@@ -1835,7 +1919,19 @@
       "recyclesInto": {
         "fabric": 9,
         "rubber_parts": 9
-      }
+      },
+      "questsRequiredFor": [
+        {
+          "questId": "the_league",
+          "questName": "The League",
+          "trader": "Apollo",
+          "questOrder": 11,
+          "mapNames": [
+            "Dam Battlegrounds"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "degraded_arc_rubber",
@@ -1965,6 +2061,28 @@
       ]
     },
     {
+      "id": "dusty_film_reel",
+      "name": "Dusty Film Reel",
+      "imageFilename": "",
+      "type": "Trinket",
+      "rarity": "Common",
+      "value": 0,
+      "weightKg": 0,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "a_dead_end",
+          "questName": "A Dead End",
+          "trader": "Shani",
+          "questOrder": 0,
+          "mapNames": [
+            "The Blue Gate"
+          ],
+          "quantity": 1
+        }
+      ]
+    },
+    {
       "id": "electrical_components",
       "name": "Electrical Components",
       "type": "Refined Material",
@@ -2045,11 +2163,45 @@
       }
     },
     {
+      "id": "espresso_machine_parts",
+      "name": "Espresso Machine Parts",
+      "type": "Trinket",
+      "rarity": "Common",
+      "value": 0,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "ss10x13",
+          "questName": "Espresso",
+          "trader": "Apollo",
+          "questOrder": 3,
+          "mapNames": [
+            "Buried City"
+          ],
+          "quantity": 1
+        }
+      ]
+    },
+    {
       "id": "esr_analyzer",
       "name": "ESR Analyzer",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "ss10g",
+          "questName": "A Reveal in Ruins",
+          "trader": "Lance",
+          "questOrder": 5,
+          "mapNames": [
+            "Buried City"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "exodus_modules",
@@ -2069,7 +2221,20 @@
       "name": "Experimental Seed Sample",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "ss10x3",
+          "questName": "The Root of the Matter",
+          "trader": "Celeste",
+          "questOrder": 18,
+          "mapNames": [
+            "Buried City"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "expired_pasta",
@@ -2140,7 +2305,7 @@
         "sensors": 1
       },
       "recyclesInto": {
-        "oil": 2,
+        "oil": 1,
         "sensors": 1
       }
     },
@@ -2357,13 +2522,13 @@
       "rarity": "Rare",
       "value": 5000,
       "weightKg": 0.75,
+      "recipe": {
+        "mod_components": 2,
+        "steel_spring": 5
+      },
       "recyclesInto": {
         "mod_components": 1,
         "steel_spring": 2
-      },
-      "upgradeCost": {
-        "mod_components": 2,
-        "steel_spring": 5
       }
     },
     {
@@ -2518,7 +2683,7 @@
       "stackSize": 3,
       "recyclesInto": {
         "arc_alloy": 1,
-        "chemicals": 1
+        "crude_explosives": 1
       },
       "hideoutRequiredFor": [
         {
@@ -2543,6 +2708,19 @@
       },
       "recyclesInto": {
         "plastic_parts": 3
+      }
+    },
+    {
+      "id": "firefly_burner",
+      "name": "Firefly Burner",
+      "type": "Recyclable",
+      "rarity": "Rare",
+      "value": 1000,
+      "weightKg": 0.75,
+      "stackSize": 3,
+      "recyclesInto": {
+        "arc_alloy": 2,
+        "crude_explosives": 2
       }
     },
     {
@@ -2575,29 +2753,69 @@
       "name": "First Wave Compass",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "ss10h",
+          "questName": "Broken Monument",
+          "trader": "Tian Wen",
+          "questOrder": 8,
+          "mapNames": [
+            "Dam Battlegrounds"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "first_wave_rations",
       "name": "First Wave Rations",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "ss10h",
+          "questName": "Broken Monument",
+          "trader": "Tian Wen",
+          "questOrder": 8,
+          "mapNames": [
+            "Dam Battlegrounds"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "first_wave_tape",
       "name": "First Wave Tape",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "ss10h",
+          "questName": "Broken Monument",
+          "trader": "Tian Wen",
+          "questOrder": 8,
+          "mapNames": [
+            "Dam Battlegrounds"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "flame_spray",
       "name": "Flame Spray",
       "type": "Quick Use",
       "rarity": "Uncommon",
-      "value": 640,
+      "value": 2000,
       "weightKg": 1,
+      "stackSize": 1,
       "recipe": {
         "air_freshener": 1,
         "fireball_burner": 1
@@ -2627,7 +2845,19 @@
       "recyclesInto": {
         "advanced_mechanical_components": 1,
         "sensors": 1
-      }
+      },
+      "questsRequiredFor": [
+        {
+          "questId": "12_snap_and_salvage",
+          "questName": "Snap and Salvage",
+          "trader": "Tian Wen",
+          "questOrder": 1,
+          "mapNames": [
+            "stella_montis"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "flushing_terminal_key",
@@ -2645,7 +2875,7 @@
       "rarity": "Epic",
       "value": 4000,
       "weightKg": 0.25,
-      "stackSize": 3,
+      "stackSize": 1,
       "recyclesInto": {
         "explosive_compound": 3
       }
@@ -2656,7 +2886,8 @@
       "type": "Augment",
       "rarity": "Common",
       "value": 100,
-      "weightKg": 1
+      "weightKg": 1,
+      "stackSize": 1
     },
     {
       "id": "frequency_modulation_box",
@@ -3000,6 +3231,7 @@
       "rarity": "Epic",
       "value": 5500,
       "weightKg": 9,
+      "stackSize": 1,
       "recipe": {
         "power_rod": 1,
         "voltage_converter": 2
@@ -3042,10 +3274,6 @@
       "rarity": "Epic",
       "value": 7000,
       "weightKg": 0.5,
-      "recipe": {
-        "duct_tape": 5,
-        "mod_components": 2
-      },
       "recyclesInto": {
         "duct_tape": 2,
         "mod_components": 1
@@ -3056,13 +3284,28 @@
       "name": "Hornet Driver",
       "type": "Recyclable",
       "rarity": "Rare",
-      "value": 2000,
+      "value": 1000,
       "weightKg": 0.75,
       "stackSize": 3,
       "recyclesInto": {
-        "arc_alloy": 2,
-        "electrical_components": 2
+        "arc_alloy": 1,
+        "electrical_components": 1
       },
+      "questsRequiredFor": [
+        {
+          "questId": "ss9",
+          "questName": "The Trifecta",
+          "trader": "Shani",
+          "questOrder": 20,
+          "mapNames": [
+            "Buried City",
+            "The Spaceport",
+            "The Blue Gate",
+            "Dam Battlegrounds"
+          ],
+          "quantity": 2
+        }
+      ],
       "hideoutRequiredFor": [
         {
           "hideoutId": "equipment_bench",
@@ -3344,7 +3587,19 @@
       "recyclesInto": {
         "exodus_modules": 1,
         "voltage_converter": 4
-      }
+      },
+      "questsRequiredFor": [
+        {
+          "questId": "with_a_view",
+          "questName": "With a View",
+          "trader": "Shani",
+          "questOrder": 26,
+          "mapNames": [
+            "stella_montis"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "jolt_mine_blueprint",
@@ -3430,6 +3685,10 @@
       "recyclesInto": {
         "metal_parts": 6,
         "rubber_parts": 6
+      },
+      "upgradeCost": {
+        "metal_parts": 8,
+        "plastic_parts": 10
       }
     },
     {
@@ -3443,6 +3702,10 @@
       "isWeapon": true,
       "recyclesInto": {
         "metal_parts": 12,
+        "simple_gun_parts": 1
+      },
+      "upgradeCost": {
+        "metal_parts": 10,
         "simple_gun_parts": 1
       }
     },
@@ -3458,6 +3721,10 @@
       "recyclesInto": {
         "mechanical_components": 2,
         "simple_gun_parts": 2
+      },
+      "upgradeCost": {
+        "mechanical_components": 3,
+        "simple_gun_parts": 1
       }
     },
     {
@@ -3488,6 +3755,7 @@
       "rarity": "Rare",
       "value": 2000,
       "weightKg": 3,
+      "stackSize": 3,
       "recyclesInto": {
         "chemicals": 16,
         "crude_explosives": 3
@@ -3528,11 +3796,11 @@
       "name": "Leaper Pulse Unit",
       "type": "Recyclable",
       "rarity": "Epic",
-      "value": 5000,
+      "value": 3000,
       "weightKg": 1,
       "stackSize": 3,
       "recyclesInto": {
-        "advanced_mechanical_components": 2,
+        "advanced_mechanical_components": 1,
         "arc_alloy": 3
       },
       "questsRequiredFor": [
@@ -3540,7 +3808,7 @@
           "questId": "ss10x5",
           "questName": "Into the Fray",
           "trader": "Shani",
-          "questOrder": 11,
+          "questOrder": 12,
           "mapNames": [
             "Buried City",
             "The Spaceport",
@@ -3580,11 +3848,46 @@
       ]
     },
     {
+      "id": "library_book",
+      "name": "Book",
+      "imageFilename": "",
+      "type": "Trinket",
+      "rarity": "Common",
+      "value": 0,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "ss10x18",
+          "questName": "Building a Library",
+          "trader": "Apollo",
+          "questOrder": 2,
+          "mapNames": [
+            "Buried City"
+          ],
+          "quantity": 3
+        }
+      ]
+    },
+    {
       "id": "lidar_scanner",
       "name": "Lidar Scanner",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "ss10k",
+          "questName": "A Lay of the Land",
+          "trader": "Shani",
+          "questOrder": 1,
+          "mapNames": [
+            "The Spaceport"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "light_ammo",
@@ -3656,6 +3959,7 @@
       "rarity": "Uncommon",
       "value": 640,
       "weightKg": 5,
+      "stackSize": 1,
       "recipe": {
         "arc_alloy": 2,
         "plastic_parts": 4
@@ -3836,6 +4140,7 @@
       "rarity": "Uncommon",
       "value": 1000,
       "weightKg": 0.4,
+      "stackSize": 3,
       "recipe": {
         "electrical_components": 1,
         "speaker_component": 1
@@ -3884,21 +4189,67 @@
       "recyclesInto": {
         "magnetic_accelerator": 1,
         "steel_spring": 1
-      }
+      },
+      "questsRequiredFor": [
+        {
+          "questId": "12_snap_and_salvage",
+          "questName": "Snap and Salvage",
+          "trader": "Tian Wen",
+          "questOrder": 1,
+          "mapNames": [
+            "stella_montis"
+          ],
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "major_aivas_mementos",
+      "name": "Major Aiva's Mementos",
+      "type": "Trinket",
+      "rarity": "Common",
+      "value": 0,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "ss10u",
+          "questName": "The Major’s Footlocker",
+          "trader": "Tian Wen",
+          "questOrder": 3,
+          "mapNames": [
+            "Dam Battlegrounds"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "major_aivas_patch",
       "name": "Major Aiva's Patch",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "ss10p",
+          "questName": "Echoes of Victory Ridge",
+          "trader": "Celeste",
+          "questOrder": 13,
+          "mapNames": [
+            "Dam Battlegrounds"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "matriarch_reactor",
       "name": "Matriarch Reactor",
       "type": "Recyclable",
       "rarity": "Legendary",
-      "value": 13000,
+      "value": 11000,
       "weightKg": 10,
       "stackSize": 1,
       "recyclesInto": {
@@ -3974,6 +4325,7 @@
       "rarity": "Rare",
       "value": 2000,
       "weightKg": 7,
+      "stackSize": 1,
       "recipe": {
         "arc_circuitry": 1,
         "battery": 4
@@ -4065,7 +4417,20 @@
       "name": "Moisture Meter",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "ss10q",
+          "questName": "Unexpected Initiative",
+          "trader": "Tian Wen",
+          "questOrder": 13,
+          "mapNames": [
+            "Buried City"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "moss",
@@ -4086,6 +4451,7 @@
       "rarity": "Rare",
       "value": 2000,
       "weightKg": 3,
+      "stackSize": 3,
       "recyclesInto": {
         "mechanical_components": 2,
         "oil": 2
@@ -4106,6 +4472,7 @@
       "rarity": "Uncommon",
       "value": 1000,
       "weightKg": 0.2,
+      "stackSize": 10,
       "hideoutRequiredFor": [
         {
           "hideoutId": "scrappy",
@@ -4232,7 +4599,20 @@
       "name": "Nutrient Meter",
       "type": "Trinket",
       "rarity": "Common",
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "ss10q",
+          "questName": "Unexpected Initiative",
+          "trader": "Tian Wen",
+          "questOrder": 13,
+          "mapNames": [
+            "Buried City"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "oil",
@@ -4253,7 +4633,19 @@
       "rarity": "Common",
       "value": 0,
       "weightKg": 0.25,
-      "stackSize": 1
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "12_cold_storage",
+          "questName": "Cold Storage",
+          "trader": "Shani",
+          "questOrder": 4,
+          "mapNames": [
+            "stella_montis"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "olives",
@@ -4406,6 +4798,7 @@
       "rarity": "Epic",
       "value": 5000,
       "weightKg": 1,
+      "stackSize": 1,
       "recipe": {
         "advanced_electrical_components": 2,
         "speaker_component": 4
@@ -4515,6 +4908,27 @@
       ]
     },
     {
+      "id": "possibly_toxic_plant",
+      "name": "Possibly Toxic Plant",
+      "type": "Trinket",
+      "rarity": "Common",
+      "value": 0,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "ss10x19",
+          "questName": "A New Type of Plant",
+          "trader": "Lance",
+          "questOrder": 0,
+          "mapNames": [
+            "Dam Battlegrounds"
+          ],
+          "quantity": 1
+        }
+      ]
+    },
+    {
       "id": "poster_of_natural_wonders",
       "name": "Poster of Natural Wonders",
       "type": "Trinket",
@@ -4580,7 +4994,17 @@
       "recyclesInto": {
         "advanced_electrical_components": 1,
         "arc_circuitry": 1
-      }
+      },
+      "questsRequiredFor": [
+        {
+          "questId": "ss10x15",
+          "questName": "Tribute to Toledo",
+          "trader": "Celeste",
+          "questOrder": 14,
+          "mapNames": [],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "prickly_pear",
@@ -4613,6 +5037,28 @@
         "plastic_parts": 1,
         "wires": 1
       }
+    },
+    {
+      "id": "project_heartwood_blueprints",
+      "name": "Project Heartwood Blueprints",
+      "imageFilename": "",
+      "type": "Trinket",
+      "rarity": "Common",
+      "value": 0,
+      "weightKg": 0,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "stable_housing",
+          "questName": "Stable Housing",
+          "trader": "Tian Wen",
+          "questOrder": 2,
+          "mapNames": [
+            "stella_montis"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "projector",
@@ -4658,8 +5104,9 @@
       "imageFilename": "queen_part.png",
       "type": "Recyclable",
       "rarity": "Legendary",
-      "value": 13000,
+      "value": 11000,
       "weightKg": 10,
+      "stackSize": 1,
       "recyclesInto": {
         "magnetic_accelerator": 1,
         "power_rod": 1
@@ -4744,7 +5191,8 @@
         "metal_parts": 12
       },
       "upgradeCost": {
-        "mechanical_components": 2
+        "metal_parts": 10,
+        "rubber_parts": 10
       }
     },
     {
@@ -4761,7 +5209,7 @@
         "simple_gun_parts": 1
       },
       "upgradeCost": {
-        "mechanical_components": 2,
+        "mechanical_components": 3,
         "simple_gun_parts": 1
       }
     },
@@ -4790,6 +5238,7 @@
       "rarity": "Uncommon",
       "value": 1000,
       "weightKg": 0.2,
+      "stackSize": 1,
       "recyclesInto": {
         "plastic_parts": 10
       }
@@ -4990,11 +5439,11 @@
       "name": "Rocketeer Driver",
       "type": "Recyclable",
       "rarity": "Epic",
-      "value": 5000,
+      "value": 3000,
       "weightKg": 1,
       "stackSize": 3,
       "recyclesInto": {
-        "advanced_electrical_components": 2,
+        "advanced_electrical_components": 1,
         "arc_alloy": 3
       },
       "questsRequiredFor": [
@@ -5002,7 +5451,7 @@
           "questId": "ss10v",
           "questName": "Out of the Shadows",
           "trader": "Shani",
-          "questOrder": 12,
+          "questOrder": 13,
           "mapNames": [
             "Buried City",
             "The Spaceport",
@@ -5071,7 +5520,7 @@
           "questId": "with_a_view",
           "questName": "With a View",
           "trader": "Shani",
-          "questOrder": 25,
+          "questOrder": 26,
           "mapNames": [
             "stella_montis"
           ],
@@ -5273,6 +5722,7 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 2,
+      "stackSize": 3,
       "recyclesInto": {
         "metal_parts": 8,
         "steel_spring": 1
@@ -5354,12 +5804,12 @@
       "name": "Sentinel Firing Core",
       "type": "Recyclable",
       "rarity": "Rare",
-      "value": 3000,
+      "value": 2000,
       "weightKg": 1,
       "stackSize": 3,
       "recyclesInto": {
         "arc_alloy": 2,
-        "mechanical_components": 3
+        "mechanical_components": 2
       },
       "hideoutRequiredFor": [
         {
@@ -5378,6 +5828,10 @@
       "value": 1000,
       "weightKg": 0.2,
       "stackSize": 1,
+      "recipe": {
+        "assorted_seeds": 7,
+        "canister": 1
+      },
       "recyclesInto": {
         "plastic_parts": 10
       }
@@ -5515,16 +5969,17 @@
       "name": "Showstopper",
       "type": "Quick Use",
       "rarity": "Rare",
-      "value": 2200,
+      "value": 2100,
       "weightKg": 0.4,
       "stackSize": 5,
       "recipe": {
-        "advanced_electrical_components": 1,
+        "electrical_components": 1,
+        "hornet_driver": 1,
         "voltage_converter": 1
       },
       "recyclesInto": {
-        "battery": 2,
-        "electrical_components": 1
+        "electrical_components": 1,
+        "voltage_converter": 1
       }
     },
     {
@@ -5549,12 +6004,12 @@
       "name": "Shredder Gyro",
       "type": "Recyclable",
       "rarity": "Rare",
-      "value": 3000,
+      "value": 2000,
       "weightKg": 1,
       "stackSize": 3,
       "recyclesInto": {
-        "arc_alloy": 3,
-        "mechanical_components": 3
+        "arc_alloy": 2,
+        "mechanical_components": 2
       }
     },
     {
@@ -5691,7 +6146,7 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 0.2,
-      "stackSize": 3,
+      "stackSize": 5,
       "recipe": {
         "canister": 1,
         "chemicals": 14
@@ -5734,6 +6189,7 @@
       "rarity": "Legendary",
       "value": 14000,
       "weightKg": 5,
+      "stackSize": 1,
       "recipe": {
         "exodus_modules": 1,
         "power_rod": 2,
@@ -5749,13 +6205,28 @@
       "name": "Snitch Scanner",
       "type": "Recyclable",
       "rarity": "Uncommon",
-      "value": 2000,
+      "value": 1000,
       "weightKg": 0.75,
       "stackSize": 3,
       "recyclesInto": {
         "arc_alloy": 1,
-        "electrical_components": 2
+        "electrical_components": 1
       },
+      "questsRequiredFor": [
+        {
+          "questId": "ss9",
+          "questName": "The Trifecta",
+          "trader": "Shani",
+          "questOrder": 20,
+          "mapNames": [
+            "Buried City",
+            "The Spaceport",
+            "The Blue Gate",
+            "Dam Battlegrounds"
+          ],
+          "quantity": 2
+        }
+      ],
       "hideoutRequiredFor": [
         {
           "hideoutId": "utility_bench",
@@ -5790,7 +6261,8 @@
       "type": "Key",
       "rarity": "Rare",
       "value": 100,
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "stackSize": 1
     },
     {
       "id": "spaceport_trench_tower_key",
@@ -5798,7 +6270,8 @@
       "type": "Key",
       "rarity": "Uncommon",
       "value": 100,
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "stackSize": 1
     },
     {
       "id": "spaceport_warehouse_key",
@@ -5807,7 +6280,8 @@
       "type": "Key",
       "rarity": "Uncommon",
       "value": 100,
-      "weightKg": 0.25
+      "weightKg": 0.25,
+      "stackSize": 1
     },
     {
       "id": "speaker_component",
@@ -5842,6 +6316,7 @@
       "rarity": "Epic",
       "value": 3500,
       "weightKg": 1.5,
+      "stackSize": 3,
       "recyclesInto": {
         "exodus_modules": 1,
         "sensors": 1
@@ -5852,19 +6327,19 @@
       "name": "Spotter Relay",
       "type": "Recyclable",
       "rarity": "Uncommon",
-      "value": 2000,
+      "value": 1000,
       "weightKg": 1,
       "stackSize": 3,
       "recyclesInto": {
         "arc_alloy": 1,
-        "electrical_components": 2
+        "electrical_components": 1
       },
       "questsRequiredFor": [
         {
           "questId": "combat_recon",
           "questName": "Combat Recon",
           "trader": "Shani",
-          "questOrder": 13,
+          "questOrder": 14,
           "mapNames": [
             "Buried City"
           ],
@@ -5894,7 +6369,7 @@
       "weightKg": 0.25,
       "recipe": {
         "duct_tape": 1,
-        "rubber_parts": 6
+        "rubber_parts": 7
       },
       "recyclesInto": {
         "rubber_parts": 6
@@ -5949,6 +6424,25 @@
         "duct_tape": 2,
         "mod_components": 1
       }
+    },
+    {
+      "id": "stack_of_movie_tapes",
+      "name": "Stack of Movie Tapes",
+      "type": "Trinket",
+      "rarity": "Common",
+      "value": 0,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "movie_night",
+          "questName": "Movie Night",
+          "trader": "Apollo",
+          "questOrder": 5,
+          "mapNames": [],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "statuette",
@@ -6115,19 +6609,19 @@
       "name": "Surveyor Vault",
       "type": "Recyclable",
       "rarity": "Rare",
-      "value": 2000,
+      "value": 1000,
       "weightKg": 1,
       "stackSize": 3,
       "recyclesInto": {
-        "arc_alloy": 2,
-        "mechanical_components": 2
+        "arc_alloy": 1,
+        "mechanical_components": 1
       },
       "questsRequiredFor": [
         {
           "questId": "ss10d",
           "questName": "Mixed Signals",
           "trader": "Shani",
-          "questOrder": 21,
+          "questOrder": 22,
           "mapNames": [
             "Buried City",
             "The Spaceport",
@@ -6155,8 +6649,8 @@
       "weightKg": 0.5,
       "stackSize": 5,
       "recyclesInto": {
-        "oil": 1,
-        "plastic_parts": 1
+        "chemicals": 1,
+        "oil": 1
       },
       "hideoutRequiredFor": [
         {
@@ -6347,6 +6841,7 @@
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
+      "stackSize": 3,
       "recyclesInto": {
         "fabric": 11
       }
@@ -6407,7 +6902,7 @@
       },
       "upgradeCost": {
         "advanced_mechanical_components": 2,
-        "medium_gun_parts": 3
+        "medium_gun_parts": 1
       }
     },
     {
@@ -6424,8 +6919,8 @@
         "medium_gun_parts": 4
       },
       "upgradeCost": {
-        "advanced_mechanical_components": 4,
-        "medium_gun_parts": 4
+        "advanced_mechanical_components": 2,
+        "medium_gun_parts": 3
       }
     },
     {
@@ -6592,7 +7087,7 @@
       "imageFilename": "torrente.png",
       "type": "LMG",
       "rarity": "Rare",
-      "value": 16000,
+      "value": 17000,
       "weightKg": 12,
       "isWeapon": true,
       "recyclesInto": {
@@ -6618,11 +7113,12 @@
       "name": "Trailblazer",
       "type": "Quick Use",
       "rarity": "Rare",
-      "value": 1600,
+      "value": 2200,
       "weightKg": 1,
       "stackSize": 3,
       "recipe": {
-        "explosive_compound": 1,
+        "crude_explosives": 2,
+        "firefly_burner": 1,
         "synthesized_fuel": 1
       },
       "recyclesInto": {
@@ -6684,6 +7180,7 @@
       "rarity": "Rare",
       "value": 2000,
       "weightKg": 3,
+      "stackSize": 3,
       "recyclesInto": {
         "metal_parts": 4,
         "simple_gun_parts": 5
@@ -6901,16 +7398,17 @@
       "name": "Vita Spray",
       "type": "Quick Use",
       "rarity": "Epic",
-      "value": 3000,
+      "value": 3400,
       "weightKg": 1,
       "stackSize": 1,
       "recipe": {
         "antiseptic": 3,
-        "canister": 1
+        "canister": 1,
+        "tick_pod": 1
       },
       "recyclesInto": {
         "antiseptic": 1,
-        "canister": 2
+        "canister": 1
       }
     },
     {
@@ -7023,13 +7521,28 @@
       "name": "Wasp Driver",
       "type": "Recyclable",
       "rarity": "Rare",
-      "value": 1000,
+      "value": 640,
       "weightKg": 0.6,
       "stackSize": 3,
       "recyclesInto": {
         "arc_alloy": 1,
         "electrical_components": 1
       },
+      "questsRequiredFor": [
+        {
+          "questId": "ss9",
+          "questName": "The Trifecta",
+          "trader": "Shani",
+          "questOrder": 20,
+          "mapNames": [
+            "Buried City",
+            "The Spaceport",
+            "The Blue Gate",
+            "Dam Battlegrounds"
+          ],
+          "quantity": 2
+        }
+      ],
       "hideoutRequiredFor": [
         {
           "hideoutId": "weapon_bench",
@@ -7078,10 +7591,40 @@
       },
       "questsRequiredFor": [
         {
+          "questId": "ss10y",
+          "questName": "After Rain Comes",
+          "trader": "Celeste",
+          "questOrder": 4,
+          "mapNames": [
+            "Buried City"
+          ],
+          "quantity": 5
+        },
+        {
+          "questId": "ss10m",
+          "questName": "Eyes on the Prize",
+          "trader": "Tian Wen",
+          "questOrder": 11,
+          "mapNames": [
+            "Buried City"
+          ],
+          "quantity": 3
+        },
+        {
+          "questId": "ss10x11",
+          "questName": "Flickering Threat",
+          "trader": "Celeste",
+          "questOrder": 9,
+          "mapNames": [
+            "Dam Battlegrounds"
+          ],
+          "quantity": 4
+        },
+        {
           "questId": "ss3",
           "questName": "Trash Into Treasure",
           "trader": "Shani",
-          "questOrder": 22,
+          "questOrder": 23,
           "mapNames": [],
           "quantity": 6
         }
@@ -7100,12 +7643,13 @@
       "name": "Wolfpack",
       "type": "Quick Use",
       "rarity": "Epic",
-      "value": 5000,
+      "value": 6000,
       "weightKg": 1,
       "stackSize": 1,
       "recipe": {
         "arc_motion_core": 2,
-        "explosive_compound": 3
+        "explosive_compound": 1,
+        "rocketeer_driver": 1
       },
       "recyclesInto": {
         "arc_motion_core": 1,
@@ -7144,6 +7688,7 @@
       "rarity": "Rare",
       "value": 1000,
       "weightKg": 0.4,
+      "stackSize": 3,
       "recipe": {
         "mechanical_components": 1,
         "rope": 1
