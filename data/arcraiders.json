@@ -1457,7 +1457,15 @@
       "stackSize": 50,
       "recipe": {
         "gas_grenade": 1
-      }
+      },
+      "hideoutRequiredFor": [
+        {
+          "hideoutId": "explosives_bench",
+          "hideoutName": "Explosives Station",
+          "level": 1,
+          "quantity": 50
+        }
+      ]
     },
     {
       "id": "coffee_pot",
@@ -1774,7 +1782,7 @@
     {
       "id": "dam_controlled_access_zone_key",
       "name": "Dam Controlled Access Zone Key",
-      "imageFilename": "",
+      "imageFilename": "dam_testing_annex_key.png",
       "type": "Key",
       "rarity": "Epic",
       "value": 100,
@@ -5165,6 +5173,7 @@
       "type": "Nature",
       "rarity": "Common",
       "value": 640,
+      "weightKg": 0.2,
       "stackSize": 10,
       "recyclesInto": {
         "assorted_seeds": 3
@@ -5726,12 +5735,6 @@
         "rubber_pad": 1
       },
       "hideoutRequiredFor": [
-        {
-          "hideoutId": "explosives_bench",
-          "hideoutName": "Explosives Station",
-          "level": 1,
-          "quantity": 50
-        },
         {
           "hideoutId": "weapon_bench",
           "hideoutName": "Gunsmith",
@@ -7062,6 +7065,7 @@
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
+      "weightKg": 0.8,
       "stackSize": 3,
       "recyclesInto": {
         "fabric": 11
