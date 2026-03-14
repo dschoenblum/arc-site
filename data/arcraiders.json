@@ -71,6 +71,29 @@
           "level": 3,
           "quantity": 5
         }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project",
+          "projectName": "Expedition Project (Season 2)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 5
+        },
+        {
+          "projectId": "expedition_project_s1",
+          "projectName": "Expedition Project (Season 1)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 5
+        },
+        {
+          "projectId": "expedition_project_s3",
+          "projectName": "Expedition (Season 3)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 5
+        }
       ]
     },
     {
@@ -468,6 +491,36 @@
           "level": 1,
           "quantity": 6
         }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project",
+          "projectName": "Expedition Project (Season 2)",
+          "phase": 1,
+          "phaseName": "Foundation",
+          "quantity": 80
+        },
+        {
+          "projectId": "expedition_project_s1",
+          "projectName": "Expedition Project (Season 1)",
+          "phase": 1,
+          "phaseName": "Foundation",
+          "quantity": 80
+        },
+        {
+          "projectId": "expedition_project_s3",
+          "projectName": "Expedition (Season 3)",
+          "phase": 1,
+          "phaseName": "Foundation",
+          "quantity": 80
+        },
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 1,
+          "phaseName": "Atmospheric pressure",
+          "quantity": 5
+        }
       ]
     },
     {
@@ -550,7 +603,16 @@
       "stackSize": 3,
       "recyclesInto": {
         "metal_parts": 12
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 3,
+          "phaseName": "Ferocious Foes",
+          "quantity": 10
+        }
+      ]
     },
     {
       "id": "arc_powercell",
@@ -585,6 +647,15 @@
           "level": 1,
           "quantity": 5
         }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 3,
+          "phaseName": "Precipitation",
+          "quantity": 5
+        }
       ]
     },
     {
@@ -597,7 +668,16 @@
       "stackSize": 3,
       "recyclesInto": {
         "plastic_parts": 14
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 4,
+          "phaseName": "Dominant Dangers",
+          "quantity": 10
+        }
+      ]
     },
     {
       "id": "arc_thermo_lining",
@@ -762,6 +842,15 @@
           "level": 3,
           "quantity": 6
         }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 3,
+          "phaseName": "Ferocious Foes",
+          "quantity": 5
+        }
       ]
     },
     {
@@ -786,6 +875,29 @@
           "questOrder": 23,
           "mapNames": [],
           "quantity": 1
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project",
+          "projectName": "Expedition Project (Season 2)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 30
+        },
+        {
+          "projectId": "expedition_project_s1",
+          "projectName": "Expedition Project (Season 1)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 30
+        },
+        {
+          "projectId": "expedition_project_s3",
+          "projectName": "Expedition (Season 3)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 25
         }
       ]
     },
@@ -1150,6 +1262,22 @@
           "level": 3,
           "quantity": 6
         }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 5,
+          "phaseName": "Imposing Behemoths",
+          "quantity": 8
+        },
+        {
+          "projectId": "expedition_project_s3",
+          "projectName": "Expedition (Season 3)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 2
+        }
       ]
     },
     {
@@ -1159,7 +1287,16 @@
       "rarity": "Epic",
       "value": 7000,
       "weightKg": 0.2,
-      "stackSize": 1
+      "stackSize": 1,
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s3",
+          "projectName": "Expedition (Season 3)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "broken_flashlight",
@@ -1184,7 +1321,16 @@
       "stackSize": 3,
       "recyclesInto": {
         "processor": 4
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s3",
+          "projectName": "Expedition (Season 3)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "broken_handheld_radio",
@@ -1368,7 +1514,16 @@
       "stackSize": 5,
       "recyclesInto": {
         "plastic_parts": 8
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 5,
+          "phaseName": "Temperature",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "candle_holder",
@@ -1407,7 +1562,16 @@
       },
       "recyclesInto": {
         "plastic_parts": 3
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 3,
+          "phaseName": "Precipitation",
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "cat_bed",
@@ -1465,6 +1629,15 @@
           "level": 1,
           "quantity": 50
         }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s3",
+          "projectName": "Expedition (Season 3)",
+          "phase": 1,
+          "phaseName": "Foundation",
+          "quantity": 100
+        }
       ]
     },
     {
@@ -1474,7 +1647,16 @@
       "rarity": "Common",
       "value": 1000,
       "weightKg": 0.3,
-      "stackSize": 3
+      "stackSize": 3,
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s3",
+          "projectName": "Expedition (Season 3)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "combat_mk1",
@@ -1577,7 +1759,16 @@
       "recyclesInto": {
         "arc_alloy": 2,
         "crude_explosives": 2
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 2,
+          "phaseName": "Sunlight",
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "compensator_i",
@@ -1699,7 +1890,16 @@
       "recyclesInto": {
         "chemicals": 6,
         "steel_spring": 2
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project",
+          "projectName": "Expedition Project (Season 2)",
+          "phase": 2,
+          "phaseName": "Core Systems",
+          "quantity": 4
+        }
+      ]
     },
     {
       "id": "cooling_fan",
@@ -1712,7 +1912,16 @@
       "recyclesInto": {
         "plastic_parts": 14,
         "wires": 4
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s1",
+          "projectName": "Expedition Project (Season 1)",
+          "phase": 2,
+          "phaseName": "Core Systems",
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "cracked_bioscanner",
@@ -1878,6 +2087,15 @@
           "hideoutName": "Utility Station",
           "level": 2,
           "quantity": 2
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 5,
+          "phaseName": "Temperature",
+          "quantity": 1
         }
       ]
     },
@@ -2119,7 +2337,16 @@
       "stackSize": 15,
       "recyclesInto": {
         "fabric": 3
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 4,
+          "phaseName": "Humidity",
+          "quantity": 10
+        }
+      ]
     },
     {
       "id": "durable_cloth",
@@ -2151,6 +2378,29 @@
           "hideoutName": "Medical Lab",
           "level": 2,
           "quantity": 5
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project",
+          "projectName": "Expedition Project (Season 2)",
+          "phase": 2,
+          "phaseName": "Core Systems",
+          "quantity": 35
+        },
+        {
+          "projectId": "expedition_project_s1",
+          "projectName": "Expedition Project (Season 1)",
+          "phase": 2,
+          "phaseName": "Core Systems",
+          "quantity": 35
+        },
+        {
+          "projectId": "expedition_project_s3",
+          "projectName": "Expedition (Season 3)",
+          "phase": 2,
+          "phaseName": "Core Systems",
+          "quantity": 30
         }
       ]
     },
@@ -2204,6 +2454,29 @@
           "hideoutName": "Utility Station",
           "level": 2,
           "quantity": 5
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project",
+          "projectName": "Expedition Project (Season 2)",
+          "phase": 2,
+          "phaseName": "Core Systems",
+          "quantity": 20
+        },
+        {
+          "projectId": "expedition_project_s1",
+          "projectName": "Expedition Project (Season 1)",
+          "phase": 2,
+          "phaseName": "Core Systems",
+          "quantity": 30
+        },
+        {
+          "projectId": "expedition_project_s3",
+          "projectName": "Expedition (Season 3)",
+          "phase": 2,
+          "phaseName": "Core Systems",
+          "quantity": 20
         }
       ]
     },
@@ -2313,7 +2586,37 @@
       "recyclesInto": {
         "magnet": 2,
         "processor": 2
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project",
+          "projectName": "Expedition Project (Season 2)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 1
+        },
+        {
+          "projectId": "expedition_project_s1",
+          "projectName": "Expedition Project (Season 1)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 1
+        },
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 5,
+          "phaseName": "Imposing Behemoths",
+          "quantity": 5
+        },
+        {
+          "projectId": "expedition_project_s3",
+          "projectName": "Expedition (Season 3)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "experimental_seed_sample",
@@ -2355,7 +2658,16 @@
       "recyclesInto": {
         "fabric": 4,
         "rubber_parts": 8
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 2,
+          "phaseName": "Soaring Menaces",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "explosive_compound",
@@ -2795,7 +3107,16 @@
       "rarity": "Rare",
       "value": 3000,
       "weightKg": 0.2,
-      "stackSize": 3
+      "stackSize": 3,
+      "projectsRequiredFor": [
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 3,
+          "phaseName": "Precipitation",
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "fireball_burner",
@@ -2848,7 +3169,23 @@
       "recyclesInto": {
         "arc_alloy": 2,
         "crude_explosives": 2
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s3",
+          "projectName": "Expedition (Season 3)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 5
+        },
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 5,
+          "phaseName": "Temperature",
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "fireworks_box_blueprint",
@@ -3028,7 +3365,16 @@
       "recyclesInto": {
         "advanced_electrical_components": 1,
         "speaker_component": 1
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project",
+          "projectName": "Expedition Project (Season 2)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "fried_motherboard",
@@ -3157,7 +3503,16 @@
       "recyclesInto": {
         "battery": 3,
         "exodus_modules": 1
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 5,
+          "phaseName": "Imposing Behemoths",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "gentle_duck",
@@ -3451,6 +3806,15 @@
           "level": 2,
           "quantity": 5
         }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 2,
+          "phaseName": "Soaring Menaces",
+          "quantity": 15
+        }
       ]
     },
     {
@@ -3567,7 +3931,16 @@
       "recyclesInto": {
         "canister": 2,
         "wires": 2
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s1",
+          "projectName": "Expedition Project (Season 1)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "ice_cream_scooper",
@@ -3715,7 +4088,16 @@
       "recyclesInto": {
         "metal_parts": 5,
         "voltage_converter": 1
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s3",
+          "projectName": "Expedition (Season 3)",
+          "phase": 2,
+          "phaseName": "Core Systems",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "industrial_magnet",
@@ -3752,6 +4134,15 @@
             "stella_montis"
           ],
           "quantity": 1
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project",
+          "projectName": "Expedition Project (Season 2)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 3
         }
       ]
     },
@@ -3990,6 +4381,29 @@
           "level": 3,
           "quantity": 4
         }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project",
+          "projectName": "Expedition Project (Season 2)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 3
+        },
+        {
+          "projectId": "expedition_project_s1",
+          "projectName": "Expedition Project (Season 1)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 3
+        },
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 3,
+          "phaseName": "Ferocious Foes",
+          "quantity": 10
+        }
       ]
     },
     {
@@ -4062,7 +4476,23 @@
       "rarity": "Uncommon",
       "value": 2000,
       "weightKg": 0.2,
-      "stackSize": 3
+      "stackSize": 3,
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project",
+          "projectName": "Expedition Project (Season 2)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 4
+        },
+        {
+          "projectId": "expedition_project_s1",
+          "projectName": "Expedition Project (Season 1)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "light_gun_parts_blueprint",
@@ -4336,7 +4766,23 @@
       "recyclesInto": {
         "advanced_mechanical_components": 1,
         "arc_motion_core": 1
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s1",
+          "projectName": "Expedition Project (Season 1)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 3
+        },
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 4,
+          "phaseName": "Dominant Dangers",
+          "quantity": 10
+        }
+      ]
     },
     {
       "id": "magnetron",
@@ -4403,7 +4849,16 @@
       "recyclesInto": {
         "magnetic_accelerator": 1,
         "power_rod": 1
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 5,
+          "phaseName": "Imposing Behemoths",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "mechanical_components",
@@ -4518,6 +4973,36 @@
           "hideoutName": "Gunsmith",
           "level": 1,
           "quantity": 20
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project",
+          "projectName": "Expedition Project (Season 2)",
+          "phase": 1,
+          "phaseName": "Foundation",
+          "quantity": 150
+        },
+        {
+          "projectId": "expedition_project_s1",
+          "projectName": "Expedition Project (Season 1)",
+          "phase": 1,
+          "phaseName": "Foundation",
+          "quantity": 150
+        },
+        {
+          "projectId": "expedition_project_s3",
+          "projectName": "Expedition (Season 3)",
+          "phase": 1,
+          "phaseName": "Foundation",
+          "quantity": 150
+        },
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 1,
+          "phaseName": "Atmospheric pressure",
+          "quantity": 15
         }
       ]
     },
@@ -4783,7 +5268,16 @@
       },
       "recyclesInto": {
         "chemicals": 3
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 1,
+          "phaseName": "Atmospheric pressure",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "old_world_books",
@@ -5012,6 +5506,22 @@
           "level": 1,
           "quantity": 50
         }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project",
+          "projectName": "Expedition Project (Season 2)",
+          "phase": 1,
+          "phaseName": "Foundation",
+          "quantity": 200
+        },
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 1,
+          "phaseName": "Atmospheric pressure",
+          "quantity": 25
+        }
       ]
     },
     {
@@ -5054,6 +5564,15 @@
           "hideoutName": "Explosives Station",
           "level": 2,
           "quantity": 5
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 1,
+          "phaseName": "Roaming Threats",
+          "quantity": 15
         }
       ]
     },
@@ -5264,7 +5783,16 @@
       "recyclesInto": {
         "magnetic_accelerator": 1,
         "power_rod": 1
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 4,
+          "phaseName": "Dominant Dangers",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "radio_relay",
@@ -5639,6 +6167,15 @@
           "level": 3,
           "quantity": 3
         }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 4,
+          "phaseName": "Dominant Dangers",
+          "quantity": 8
+        }
       ]
     },
     {
@@ -5741,6 +6278,15 @@
           "level": 1,
           "quantity": 30
         }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s1",
+          "projectName": "Expedition Project (Season 1)",
+          "phase": 1,
+          "phaseName": "Foundation",
+          "quantity": 200
+        }
       ]
     },
     {
@@ -5842,7 +6388,23 @@
       "stackSize": 3,
       "recyclesInto": {
         "metal_parts": 8
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 1,
+          "phaseName": "Roaming Threats",
+          "quantity": 3
+        },
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 4,
+          "phaseName": "Humidity",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "rusted_gear",
@@ -5972,7 +6534,23 @@
       "recyclesInto": {
         "metal_parts": 1,
         "wires": 1
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s1",
+          "projectName": "Expedition Project (Season 1)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 20
+        },
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 2,
+          "phaseName": "Sunlight",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "sentinel_firing_core",
@@ -6193,7 +6771,23 @@
       "recyclesInto": {
         "arc_alloy": 2,
         "mechanical_components": 2
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project",
+          "projectName": "Expedition Project (Season 2)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 10
+        },
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 3,
+          "phaseName": "Ferocious Foes",
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "signal_amplifier",
@@ -6427,6 +7021,15 @@
           "level": 2,
           "quantity": 6
         }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 2,
+          "phaseName": "Sunlight",
+          "quantity": 1
+        }
       ]
     },
     {
@@ -6540,6 +7143,15 @@
             "Buried City"
           ],
           "quantity": 1
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 2,
+          "phaseName": "Soaring Menaces",
+          "quantity": 10
         }
       ]
     },
@@ -6667,7 +7279,37 @@
       },
       "recyclesInto": {
         "metal_parts": 2
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project",
+          "projectName": "Expedition Project (Season 2)",
+          "phase": 1,
+          "phaseName": "Foundation",
+          "quantity": 15
+        },
+        {
+          "projectId": "expedition_project_s1",
+          "projectName": "Expedition Project (Season 1)",
+          "phase": 1,
+          "phaseName": "Foundation",
+          "quantity": 15
+        },
+        {
+          "projectId": "expedition_project_s3",
+          "projectName": "Expedition (Season 3)",
+          "phase": 1,
+          "phaseName": "Foundation",
+          "quantity": 15
+        },
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 3,
+          "phaseName": "Precipitation",
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "stella_montis_archives_key",
@@ -6850,6 +7492,15 @@
           "hideoutId": "med_station",
           "hideoutName": "Medical Lab",
           "level": 3,
+          "quantity": 5
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 1,
+          "phaseName": "Roaming Threats",
           "quantity": 5
         }
       ]
@@ -7206,6 +7857,15 @@
           "hideoutName": "Medical Lab",
           "level": 2,
           "quantity": 8
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 1,
+          "phaseName": "Roaming Threats",
+          "quantity": 15
         }
       ]
     },
@@ -7704,7 +8364,16 @@
       "recyclesInto": {
         "rubber_parts": 1,
         "wires": 1
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 5,
+          "phaseName": "Temperature",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "vulcano_blueprint",
@@ -7831,6 +8500,22 @@
           "level": 2,
           "quantity": 8
         }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "trophy_display_project",
+          "projectName": "Trophy Display",
+          "phase": 2,
+          "phaseName": "Soaring Menaces",
+          "quantity": 20
+        },
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 4,
+          "phaseName": "Humidity",
+          "quantity": 3
+        }
       ]
     },
     {
@@ -7857,7 +8542,16 @@
       "recyclesInto": {
         "metal_parts": 4,
         "oil": 2
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 4,
+          "phaseName": "Humidity",
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "wires",
@@ -7881,6 +8575,36 @@
           "questOrder": 23,
           "mapNames": [],
           "quantity": 6
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project",
+          "projectName": "Expedition Project (Season 2)",
+          "phase": 2,
+          "phaseName": "Core Systems",
+          "quantity": 25
+        },
+        {
+          "projectId": "expedition_project_s1",
+          "projectName": "Expedition Project (Season 1)",
+          "phase": 2,
+          "phaseName": "Core Systems",
+          "quantity": 30
+        },
+        {
+          "projectId": "expedition_project_s3",
+          "projectName": "Expedition (Season 3)",
+          "phase": 2,
+          "phaseName": "Core Systems",
+          "quantity": 25
+        },
+        {
+          "projectId": "weather_monitor_system_project",
+          "projectName": "Weather Monitor System",
+          "phase": 2,
+          "phaseName": "Sunlight",
+          "quantity": 3
         }
       ]
     },
