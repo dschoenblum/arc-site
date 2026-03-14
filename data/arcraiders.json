@@ -74,20 +74,6 @@
       ],
       "projectsRequiredFor": [
         {
-          "projectId": "expedition_project",
-          "projectName": "Expedition Project (Season 2)",
-          "phase": 4,
-          "phaseName": "Outfitting",
-          "quantity": 5
-        },
-        {
-          "projectId": "expedition_project_s1",
-          "projectName": "Expedition Project (Season 1)",
-          "phase": 4,
-          "phaseName": "Outfitting",
-          "quantity": 5
-        },
-        {
           "projectId": "expedition_project_s3",
           "projectName": "Expedition (Season 3)",
           "phase": 4,
@@ -494,20 +480,6 @@
       ],
       "projectsRequiredFor": [
         {
-          "projectId": "expedition_project",
-          "projectName": "Expedition Project (Season 2)",
-          "phase": 1,
-          "phaseName": "Foundation",
-          "quantity": 80
-        },
-        {
-          "projectId": "expedition_project_s1",
-          "projectName": "Expedition Project (Season 1)",
-          "phase": 1,
-          "phaseName": "Foundation",
-          "quantity": 80
-        },
-        {
           "projectId": "expedition_project_s3",
           "projectName": "Expedition (Season 3)",
           "phase": 1,
@@ -878,20 +850,6 @@
         }
       ],
       "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project",
-          "projectName": "Expedition Project (Season 2)",
-          "phase": 3,
-          "phaseName": "Framework",
-          "quantity": 30
-        },
-        {
-          "projectId": "expedition_project_s1",
-          "projectName": "Expedition Project (Season 1)",
-          "phase": 3,
-          "phaseName": "Framework",
-          "quantity": 30
-        },
         {
           "projectId": "expedition_project_s3",
           "projectName": "Expedition (Season 3)",
@@ -1890,16 +1848,7 @@
       "recyclesInto": {
         "chemicals": 6,
         "steel_spring": 2
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project",
-          "projectName": "Expedition Project (Season 2)",
-          "phase": 2,
-          "phaseName": "Core Systems",
-          "quantity": 4
-        }
-      ]
+      }
     },
     {
       "id": "cooling_fan",
@@ -1912,16 +1861,7 @@
       "recyclesInto": {
         "plastic_parts": 14,
         "wires": 4
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s1",
-          "projectName": "Expedition Project (Season 1)",
-          "phase": 2,
-          "phaseName": "Core Systems",
-          "quantity": 5
-        }
-      ]
+      }
     },
     {
       "id": "cracked_bioscanner",
@@ -2382,20 +2322,6 @@
       ],
       "projectsRequiredFor": [
         {
-          "projectId": "expedition_project",
-          "projectName": "Expedition Project (Season 2)",
-          "phase": 2,
-          "phaseName": "Core Systems",
-          "quantity": 35
-        },
-        {
-          "projectId": "expedition_project_s1",
-          "projectName": "Expedition Project (Season 1)",
-          "phase": 2,
-          "phaseName": "Core Systems",
-          "quantity": 35
-        },
-        {
           "projectId": "expedition_project_s3",
           "projectName": "Expedition (Season 3)",
           "phase": 2,
@@ -2457,20 +2383,6 @@
         }
       ],
       "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project",
-          "projectName": "Expedition Project (Season 2)",
-          "phase": 2,
-          "phaseName": "Core Systems",
-          "quantity": 20
-        },
-        {
-          "projectId": "expedition_project_s1",
-          "projectName": "Expedition Project (Season 1)",
-          "phase": 2,
-          "phaseName": "Core Systems",
-          "quantity": 30
-        },
         {
           "projectId": "expedition_project_s3",
           "projectName": "Expedition (Season 3)",
@@ -2588,20 +2500,6 @@
         "processor": 2
       },
       "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project",
-          "projectName": "Expedition Project (Season 2)",
-          "phase": 3,
-          "phaseName": "Framework",
-          "quantity": 1
-        },
-        {
-          "projectId": "expedition_project_s1",
-          "projectName": "Expedition Project (Season 1)",
-          "phase": 3,
-          "phaseName": "Framework",
-          "quantity": 1
-        },
         {
           "projectId": "trophy_display_project",
           "projectName": "Trophy Display",
@@ -3365,16 +3263,7 @@
       "recyclesInto": {
         "advanced_electrical_components": 1,
         "speaker_component": 1
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project",
-          "projectName": "Expedition Project (Season 2)",
-          "phase": 4,
-          "phaseName": "Outfitting",
-          "quantity": 5
-        }
-      ]
+      }
     },
     {
       "id": "fried_motherboard",
@@ -3931,16 +3820,7 @@
       "recyclesInto": {
         "canister": 2,
         "wires": 2
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s1",
-          "projectName": "Expedition Project (Season 1)",
-          "phase": 4,
-          "phaseName": "Outfitting",
-          "quantity": 5
-        }
-      ]
+      }
     },
     {
       "id": "ice_cream_scooper",
@@ -4134,15 +4014,6 @@
             "stella_montis"
           ],
           "quantity": 1
-        }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project",
-          "projectName": "Expedition Project (Season 2)",
-          "phase": 4,
-          "phaseName": "Outfitting",
-          "quantity": 3
         }
       ]
     },
@@ -4384,20 +4255,6 @@
       ],
       "projectsRequiredFor": [
         {
-          "projectId": "expedition_project",
-          "projectName": "Expedition Project (Season 2)",
-          "phase": 4,
-          "phaseName": "Outfitting",
-          "quantity": 3
-        },
-        {
-          "projectId": "expedition_project_s1",
-          "projectName": "Expedition Project (Season 1)",
-          "phase": 4,
-          "phaseName": "Outfitting",
-          "quantity": 3
-        },
-        {
           "projectId": "trophy_display_project",
           "projectName": "Trophy Display",
           "phase": 3,
@@ -4476,23 +4333,7 @@
       "rarity": "Uncommon",
       "value": 2000,
       "weightKg": 0.2,
-      "stackSize": 3,
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project",
-          "projectName": "Expedition Project (Season 2)",
-          "phase": 3,
-          "phaseName": "Framework",
-          "quantity": 4
-        },
-        {
-          "projectId": "expedition_project_s1",
-          "projectName": "Expedition Project (Season 1)",
-          "phase": 3,
-          "phaseName": "Framework",
-          "quantity": 5
-        }
-      ]
+      "stackSize": 3
     },
     {
       "id": "light_gun_parts_blueprint",
@@ -4769,13 +4610,6 @@
       },
       "projectsRequiredFor": [
         {
-          "projectId": "expedition_project_s1",
-          "projectName": "Expedition Project (Season 1)",
-          "phase": 4,
-          "phaseName": "Outfitting",
-          "quantity": 3
-        },
-        {
           "projectId": "trophy_display_project",
           "projectName": "Trophy Display",
           "phase": 4,
@@ -4976,20 +4810,6 @@
         }
       ],
       "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project",
-          "projectName": "Expedition Project (Season 2)",
-          "phase": 1,
-          "phaseName": "Foundation",
-          "quantity": 150
-        },
-        {
-          "projectId": "expedition_project_s1",
-          "projectName": "Expedition Project (Season 1)",
-          "phase": 1,
-          "phaseName": "Foundation",
-          "quantity": 150
-        },
         {
           "projectId": "expedition_project_s3",
           "projectName": "Expedition (Season 3)",
@@ -5508,13 +5328,6 @@
         }
       ],
       "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project",
-          "projectName": "Expedition Project (Season 2)",
-          "phase": 1,
-          "phaseName": "Foundation",
-          "quantity": 200
-        },
         {
           "projectId": "weather_monitor_system_project",
           "projectName": "Weather Monitor System",
@@ -6278,15 +6091,6 @@
           "level": 1,
           "quantity": 30
         }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s1",
-          "projectName": "Expedition Project (Season 1)",
-          "phase": 1,
-          "phaseName": "Foundation",
-          "quantity": 200
-        }
       ]
     },
     {
@@ -6537,13 +6341,6 @@
       },
       "projectsRequiredFor": [
         {
-          "projectId": "expedition_project_s1",
-          "projectName": "Expedition Project (Season 1)",
-          "phase": 3,
-          "phaseName": "Framework",
-          "quantity": 20
-        },
-        {
           "projectId": "weather_monitor_system_project",
           "projectName": "Weather Monitor System",
           "phase": 2,
@@ -6773,13 +6570,6 @@
         "mechanical_components": 2
       },
       "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project",
-          "projectName": "Expedition Project (Season 2)",
-          "phase": 3,
-          "phaseName": "Framework",
-          "quantity": 10
-        },
         {
           "projectId": "trophy_display_project",
           "projectName": "Trophy Display",
@@ -7281,20 +7071,6 @@
         "metal_parts": 2
       },
       "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project",
-          "projectName": "Expedition Project (Season 2)",
-          "phase": 1,
-          "phaseName": "Foundation",
-          "quantity": 15
-        },
-        {
-          "projectId": "expedition_project_s1",
-          "projectName": "Expedition Project (Season 1)",
-          "phase": 1,
-          "phaseName": "Foundation",
-          "quantity": 15
-        },
         {
           "projectId": "expedition_project_s3",
           "projectName": "Expedition (Season 3)",
@@ -8578,20 +8354,6 @@
         }
       ],
       "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project",
-          "projectName": "Expedition Project (Season 2)",
-          "phase": 2,
-          "phaseName": "Core Systems",
-          "quantity": 25
-        },
-        {
-          "projectId": "expedition_project_s1",
-          "projectName": "Expedition Project (Season 1)",
-          "phase": 2,
-          "phaseName": "Core Systems",
-          "quantity": 30
-        },
         {
           "projectId": "expedition_project_s3",
           "projectName": "Expedition (Season 3)",
