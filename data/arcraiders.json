@@ -8439,5 +8439,3231 @@
         "rope": 1
       }
     }
+  ],
+  "quests": [
+    {
+      "id": "a_bad_feeling",
+      "name": "A Bad Feeling",
+      "trader": "Celeste",
+      "description": "Even the slightest change to ARC's behavior could spell disaster.\r\n\r\nAnd that signal you heard? It's like nothing we've ever picked up. If they're up to something, we need to find out whatever we can.",
+      "objectives": [
+        "Find and search any ARC Probe or ARC Courier"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "metal_parts",
+          "quantity": 10
+        },
+        {
+          "itemId": "steel_spring",
+          "quantity": 5
+        },
+        {
+          "itemId": "duct_tape",
+          "quantity": 5
+        }
+      ],
+      "previousQuestIds": [
+        "off_the_radar"
+      ],
+      "nextQuestIds": [
+        "in_my_image",
+        "safe_passage",
+        "the_right_tool",
+        "hatch_repairs"
+      ],
+      "questOrder": 0
+    },
+    {
+      "id": "a_balanced_harvest",
+      "name": "A Balanced Harvest",
+      "trader": "Celeste",
+      "map": [
+        "Dam Battlegrounds"
+      ],
+      "description": "Our food production is finally enough to meet our basic needs, but what we really need now is variety. I have a lead on some agricultural research from before the First Wave. Are you in?",
+      "objectives": [
+        "Go to the Research & Administration building",
+        "Locate Lab 1 on the upper floor above the reception",
+        "Search for any traces of the agricultural research project"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "advanced_mechanical_components",
+          "quantity": 3
+        },
+        {
+          "itemId": "medium_gun_parts",
+          "quantity": 3
+        },
+        {
+          "itemId": "steel_spring",
+          "quantity": 10
+        }
+      ],
+      "previousQuestIds": [
+        "eyes_in_the_sky"
+      ],
+      "nextQuestIds": [
+        "untended_garden"
+      ],
+      "questOrder": 1
+    },
+    {
+      "id": "a_better_use",
+      "name": "A Better Use",
+      "trader": "Tian Wen",
+      "map": [
+        "Buried City",
+        "The Spaceport",
+        "The Blue Gate",
+        "Dam Battlegrounds"
+      ],
+      "description": "We're short on everything but mouths to feed, yet Celeste's launching precious supplies into the air for Raiders to claw over. I’m done letting the good stuff go to waste.",
+      "objectives": [
+        "Request in a Supply Drop from a Call Station",
+        "Loot a Supply Drop"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "extended_light_mag_i",
+          "quantity": 1
+        },
+        {
+          "itemId": "stable_stock_i",
+          "quantity": 1
+        },
+        {
+          "itemId": "muzzle_brake_ii",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "the_right_tool"
+      ],
+      "nextQuestIds": [
+        "greasing_her_palms"
+      ],
+      "questOrder": 6
+    },
+    {
+      "id": "a_dead_end",
+      "name": "A Dead End",
+      "trader": "Shani",
+      "map": [
+        "The Blue Gate"
+      ],
+      "description": "I… I don’t get it. One day they were trying to stave off the Collapse, and then, suddenly… Nothing.\r\n\r\nThat earthquake-resistant housing project was shut down by a group named MANTIKOR. Think you could find out more?",
+      "objectives": [
+        "Find MANTIKOR's underground facilities",
+        "Find a way into into the locked room in the Security Wing",
+        "Search the locked room for any records on Project Heartwood",
+        "Find the Dusty Film Reel",
+        "Deliver the Dusty Film Reel to Shani"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "dusty_film_reel",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "coins",
+          "quantity": 2000
+        }
+      ],
+      "previousQuestIds": [
+        "groundbreaking"
+      ],
+      "nextQuestIds": [
+        "a_rising_tide"
+      ],
+      "questOrder": 0
+    },
+    {
+      "id": "a_first_foothold",
+      "name": "A First Foothold",
+      "trader": "Apollo",
+      "map": [
+        "The Blue Gate"
+      ],
+      "description": "We’ve only just finished expanding the Tube network towards the Blue Gate, and we’re still laboring away at the rest.\n\nMy crew’s been building new infrastructure around the valley to safeguard our Raiders, but the constant ARC threat has made it difficult to get anything done.",
+      "objectives": [
+        "Stabilize the observation deck near the Ridgeline",
+        "Enable the comms terminal near the Olive Grove",
+        "Rotate the satellite dishes on the church roof, north of the Data Vault",
+        "Nail down the roof plates on the Raider structure near Trapper's Glade"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "shrapnel_grenade",
+          "quantity": 3
+        },
+        {
+          "itemId": "snap_blast_grenade",
+          "quantity": 3
+        },
+        {
+          "itemId": "heavy_fuze_grenade",
+          "quantity": 3
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "noisemaker",
+          "quantity": 2
+        }
+      ],
+      "nextQuestIds": [
+        "reduced_to_rubble"
+      ],
+      "questOrder": 0
+    },
+    {
+      "id": "a_lay_of_the_land",
+      "name": "A Lay of the Land",
+      "trader": "Shani",
+      "map": [
+        "The Spaceport"
+      ],
+      "description": "Those distant rumbles are getting less distant with each passing day.\n\nI have a lead on some LiDAR scanners that may help us monitor the tremors. You do want to keep a roof over your head, don’t you?",
+      "objectives": [
+        "Reach the Jiangsu Warehouse",
+        "Find the shipping notes in the foreman’s office",
+        "Locate the scanners in the Flight Control office of Control Tower A6",
+        "Deliver {0} LiDAR Scanners to Shani"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "lidar_scanner",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "dam_testing_annex_key",
+          "quantity": 1
+        },
+        {
+          "itemId": "zipline",
+          "quantity": 3
+        },
+        {
+          "itemId": "smoke_grenade",
+          "quantity": 2
+        }
+      ],
+      "previousQuestIds": [
+        "a_reveal_in_ruins"
+      ],
+      "nextQuestIds": [
+        "eyes_in_the_sky"
+      ],
+      "questOrder": 1
+    },
+    {
+      "id": "a_new_type_of_plant",
+      "name": "A New Type of Plant",
+      "trader": "Lance",
+      "map": [
+        "Dam Battlegrounds"
+      ],
+      "description": "Some scouts have been bringing back reports of these weird plants spreading into the area. Now, this makes your old pal Lance think it may have some interesting uses.",
+      "objectives": [
+        "Search for the new plant near the Baron Husk in the Old Battleground",
+        "Deliver the Possibly Toxic Plant to Lance"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "vita_shot",
+          "quantity": 1
+        },
+        {
+          "itemId": "antiseptic",
+          "quantity": 5
+        }
+      ],
+      "previousQuestIds": [
+        "building_a_library"
+      ],
+      "nextQuestIds": [
+        "armored_transports"
+      ],
+      "questOrder": 0
+    },
+    {
+      "id": "a_prime_specimen",
+      "name": "A Prime Specimen",
+      "trader": "Shani",
+      "map": [
+        "The Blue Gate"
+      ],
+      "description": "That Deforester by the Blue Gate may have caused some real devastation, but a pristine husk like that is also an invaluable sample for our research.",
+      "objectives": [
+        "Obtain {0} ARC Powercells",
+        "Interact with any ARC Deforester",
+        "Loot an ARC Deforester"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "arc_powercell",
+          "quantity": 2
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "patrol_car_key",
+          "quantity": 1
+        },
+        {
+          "itemId": "door_blocker",
+          "quantity": 3
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "remote_raider_flare",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "the_clean_dream"
+      ],
+      "questOrder": 2
+    },
+    {
+      "id": "a_reveal_in_ruins",
+      "name": "A Reveal in Ruins",
+      "trader": "Lance",
+      "map": [
+        "Buried City"
+      ],
+      "description": "I got my hands on a fancy new ESR analyzer; had a whole big reveal planned. One minute it’s here, next minute—poof. Please help?",
+      "objectives": [
+        "Search for an ESR Analyzer inside any pharmacy in Buried City",
+        "Deliver the ESR Analyzer to Lance"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "esr_analyzer",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "tactical_mk3_healing",
+          "quantity": 1
+        },
+        {
+          "itemId": "surge_shield_recharger",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "medical_merchandise"
+      ],
+      "nextQuestIds": [
+        "a_lay_of_the_land"
+      ],
+      "questOrder": 5
+    },
+    {
+      "id": "a_rising_tide",
+      "name": "A Rising Tide",
+      "trader": "Celeste",
+      "map": [
+        "Buried City",
+        "Dam Battlegrounds"
+      ],
+      "description": "Says here there was a foreman at The Dam, who got recruited right after they canceled Project Heartwood. Got put in charge of some big reconstruction project.",
+      "objectives": [
+        "On Buried City, find the foreman's barricaded apartment south of Piazza Roma",
+        "Access the foreman's digital logbook",
+        "On Dam Battlegrounds, reach the Power Generation Complex",
+        "Find a way into the Controlled Access Zone",
+        "Search the Controlled Access Zone for any clues about the foreman's reconstruction project"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "anvil_ii",
+          "quantity": 1
+        },
+        {
+          "itemId": "anvil_splitter",
+          "quantity": 1
+        },
+        {
+          "itemId": "extended_barrel",
+          "quantity": 1
+        },
+        {
+          "itemId": "heavy_ammo",
+          "quantity": 40
+        }
+      ],
+      "previousQuestIds": [
+        "a_dead_end"
+      ],
+      "questOrder": 2
+    },
+    {
+      "id": "a_symbol_of_unification",
+      "name": "A Symbol of Unification",
+      "trader": "Celeste",
+      "map": [
+        "Dam Battlegrounds"
+      ],
+      "description": "Y’know, back in the day we actually used to have a flag - well, a scrap of cloth more than anything. Still, seeing it meant you knew you had allies nearby, that you were on your own home turf. So, I was thinking…",
+      "objectives": [
+        "Reach the Formicai Outpost in Dam Battlegrounds",
+        "Locate the flag at the Formicai Outpost",
+        "Hoist the flag on the small platform overlooking the Red Lake"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "mod_components",
+          "quantity": 3
+        },
+        {
+          "itemId": "duct_tape",
+          "quantity": 5
+        }
+      ],
+      "previousQuestIds": [
+        "unexpected_initiative"
+      ],
+      "nextQuestIds": [
+        "the_majors_footlocker",
+        "celestes_journals",
+        "out_of_the_shadows"
+      ],
+      "questOrder": 3
+    },
+    {
+      "id": "a_toxic_trail",
+      "name": "A Toxic Trail",
+      "trader": "Shani",
+      "map": [
+        "Dam Battlegrounds"
+      ],
+      "description": "We've got clean water again, but we can't risk people falling ill if the saboteurs return. We need to root them out once and for all.",
+      "objectives": [
+        "Return to the water intake below the Water Treatment Control building",
+        "Search the swamp for traces of the barrel's origins",
+        "Take a photo of the barrel truck",
+        "Search the truck for clues about the saboteur's identity"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "tactical_mk2",
+          "quantity": 1
+        },
+        {
+          "itemId": "zipline",
+          "quantity": 3
+        },
+        {
+          "itemId": "pulse_mine",
+          "quantity": 3
+        },
+        {
+          "itemId": "gas_mine",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "life_of_a_pharmacist"
+      ],
+      "nextQuestIds": [
+        "the_stench_of_corruption"
+      ],
+      "questOrder": 3
+    },
+    {
+      "id": "a_warm_place_to_rest",
+      "name": "A Warm Place To Rest",
+      "trader": "Apollo",
+      "map": [
+        "Buried City"
+      ],
+      "description": "A customer of mine saw a family taking cover in an old encampment in Buried City. I'll pay anyone who manages to find them and escort them back to safety.",
+      "objectives": [
+        "Locate the Abandoned Highway Camp",
+        "Search for any signs of survivors",
+        "Follow the red markers",
+        "Inspect the grave"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "noisemaker",
+          "quantity": 3
+        },
+        {
+          "itemId": "blue_light_stick",
+          "quantity": 5
+        },
+        {
+          "itemId": "rosary",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "switching_the_supply"
+      ],
+      "nextQuestIds": [
+        "prescriptions_of_the_past"
+      ],
+      "questOrder": 1
+    },
+    {
+      "id": "after_rain_comes",
+      "name": "After Rain Comes",
+      "trader": "Celeste",
+      "map": [
+        "Buried City"
+      ],
+      "description": "I know, I know! The power's down in sector—\r\nOh, hey. A flash flood took out some of our solar panels in Buried City, and the generators only hold on for so long.\r\n\r\nDo us all a solid when you're up there, OK?",
+      "objectives": [
+        "Find the flooded solar panels nearby the Grandioso Apartments",
+        "Repair the solar panels using 5 Wires and 2 Batteries"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "blue_light_stick",
+          "quantity": 5
+        },
+        {
+          "itemId": "antiseptic",
+          "quantity": 3
+        },
+        {
+          "itemId": "durable_cloth",
+          "quantity": 5
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "zipline",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "eyes_in_the_sky"
+      ],
+      "nextQuestIds": [
+        "water_troubles"
+      ],
+      "questOrder": 4
+    },
+    {
+      "id": "armored_transports",
+      "name": "Armored Transports",
+      "trader": "Tian Wen",
+      "map": [
+        "The Blue Gate"
+      ],
+      "description": "Ever since we expanded the tunnels to the Blue Gate, some rare pieces have started appearing on the black market.\n\nMeanwhile, I'm stuck here peddling battered old Rattlers. If I don't find new supply lines, I'll be left in the dust. ",
+      "objectives": [
+        "Reach the Checkpoint",
+        "Search the Guard huts for an Armored Patrol Key Card",
+        "Reach the Traffic Tunnel near the Blue Gate Checkpoint",
+        "Find a spare Armored Patrol Car Key Card",
+        "Find and unlock the rear door of an armored patrol car"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "smoke_grenade",
+          "quantity": 3
+        },
+        {
+          "itemId": "defibrillator",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "with_a_trace",
+        "a_new_type_of_plant"
+      ],
+      "questOrder": 0
+    },
+    {
+      "id": "back_on_top",
+      "name": "Back on Top",
+      "trader": "Tian Wen",
+      "map": [
+        "Buried City",
+        "The Spaceport",
+        "The Blue Gate",
+        "Dam Battlegrounds"
+      ],
+      "description": "Guess what? Shani asked me to help out with something, and for once, I’m actually glad she did. We’re setting up new outposts topside! Or, planning to, at least. Can you believe it?",
+      "objectives": [
+        "On Dam Battlegrounds, mark the Pattern House",
+        "On The Blue Gate, mark the white lookout tower south of the Warehouse Complex",
+        "On Spaceport, mark the South Trench Tower",
+        "On Buried City, mark the building with the mural in the Buried Properties"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "renegade_i",
+          "quantity": 1
+        },
+        {
+          "itemId": "stable_stock_iii",
+          "quantity": 1
+        },
+        {
+          "itemId": "medium_ammo",
+          "quantity": 80
+        }
+      ],
+      "previousQuestIds": [
+        "the_majors_footlocker",
+        "eyes_in_the_sky",
+        "celestes_journals"
+      ],
+      "nextQuestIds": [
+        "our_presence_up_there"
+      ],
+      "questOrder": 4
+    },
+    {
+      "id": "bees",
+      "name": "Bees!",
+      "trader": "Celeste",
+      "map": [
+        "The Blue Gate"
+      ],
+      "description": "Bees! There are bees still around! While I’m no expert, our greenhouse crew desperately wants some.",
+      "objectives": [
+        "Reach the Olive Grove in Blue Gate",
+        "Search for bee hives around the Olive Grove"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "advanced_electrical_components",
+          "quantity": 1
+        },
+        {
+          "itemId": "sensors",
+          "quantity": 3
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "yellow_light_stick",
+          "quantity": 5
+        }
+      ],
+      "previousQuestIds": [
+        "flickering_threat"
+      ],
+      "nextQuestIds": [
+        "espresso"
+      ],
+      "questOrder": 10
+    },
+    {
+      "id": "bombing_run",
+      "name": "Bombing Run",
+      "trader": "Shani",
+      "description": "Now, time to see if that recon paid off. If we can teach Raiders to effectively counter Bombardiers up there, we’d be a lot safer down here.",
+      "objectives": [
+        "Destroy a Bombardier",
+        "Deliver a Bombardier Cell to Shani"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "bombardier_cell",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "raider_tokens",
+          "quantity": 30
+        }
+      ],
+      "previousQuestIds": [
+        "combat_recon"
+      ],
+      "questOrder": 15
+    },
+    {
+      "id": "broken_monument",
+      "name": "Broken Monument",
+      "trader": "Tian Wen",
+      "map": [
+        "Dam Battlegrounds"
+      ],
+      "description": "I have another special site I need you to search for me. An old battlegrounds, from the First Wave. Raiders nowadays usually pick places like that clean, despite the significance they once held. People forget quickly. Quicker than they should.",
+      "objectives": [
+        "Reach the hallowed grounds by the Scrap Yard",
+        "Search for a compass near the broken-down vehicles",
+        "Search for the video tape near the cylindrical containers",
+        "Search for the old field rations in the Raider camp",
+        "Deliver the First Wave Tape to Tian Wen",
+        "Deliver First Wave Compass to Tian Wen",
+        "Deliver First Wave Rations to Tian Wen"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "first_wave_tape",
+          "quantity": 1
+        },
+        {
+          "itemId": "first_wave_compass",
+          "quantity": 1
+        },
+        {
+          "itemId": "first_wave_rations",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "arpeggio_i",
+          "quantity": 1
+        },
+        {
+          "itemId": "compensator_ii",
+          "quantity": 1
+        },
+        {
+          "itemId": "medium_ammo",
+          "quantity": 80
+        }
+      ],
+      "previousQuestIds": [
+        "what_we_left_behind"
+      ],
+      "nextQuestIds": [
+        "marked_for_death",
+        "straight_record"
+      ],
+      "questOrder": 8
+    },
+    {
+      "id": "building_a_library",
+      "name": "Building a Library",
+      "trader": "Apollo",
+      "map": [
+        "Buried City"
+      ],
+      "description": "Our library selection has grown pretty stale. Could you head out to Buried City, and find something more for us to read? Make sure you bring something for everyone.",
+      "objectives": [
+        "Locate the Library in the City Center",
+        "Find 1 romance book",
+        "Find 1 detective book",
+        "Find 1 adventure book",
+        "Deliver {0} books to Apollo"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "torn_book",
+          "quantity": 3
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "explosive_mine",
+          "quantity": 1
+        },
+        {
+          "itemId": "jolt_mine",
+          "quantity": 1
+        },
+        {
+          "itemId": "heavy_fuze_grenade",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "digging_up_dirt"
+      ],
+      "nextQuestIds": [
+        "a_new_type_of_plant"
+      ],
+      "questOrder": 2
+    },
+    {
+      "id": "celestes_journals",
+      "name": "Celeste’s Journals",
+      "trader": "Celeste",
+      "map": [
+        "Dam Battlegrounds"
+      ],
+      "description": "Okay, so this is awkward… I lost two of my journals during some outpost inspections last time I went topside. Could you head out there and try to find them back before someone else stumbles on them?",
+      "objectives": [
+        "Retrieve Celeste’s Journals from the South Swamp Outpost",
+        "Retrieve Celeste’s Journals from the northern outpost overlooking the Red Lakes",
+        "Deliver {0} Journals to Celeste"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "celeste_journal",
+          "quantity": 2
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "magnetic_accelerator",
+          "quantity": 1
+        },
+        {
+          "itemId": "heavy_gun_parts",
+          "quantity": 3
+        },
+        {
+          "itemId": "exodus_modules",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "a_symbol_of_unification"
+      ],
+      "nextQuestIds": [
+        "back_on_top"
+      ],
+      "questOrder": 5
+    },
+    {
+      "id": "clearer_skies",
+      "name": "Clearer Skies",
+      "trader": "Shani",
+      "description": "A swarm of disoriented Wasps crashed near one of our skylights.\r\n\r\nI need you to help thin ARC's ranks before any more accidents happen, and gather some extra sturdy materials to fix the damage.",
+      "objectives": [
+        "Destroy {0} ARC enemies",
+        "Get {0} ARC Alloy for Shani"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "arc_alloy",
+          "quantity": 3
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "sterilized_bandage",
+          "quantity": 3
+        },
+        {
+          "itemId": "light_shield",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "picking_up_the_pieces"
+      ],
+      "nextQuestIds": [
+        "off_the_radar"
+      ],
+      "questOrder": 17
+    },
+    {
+      "id": "cold_storage",
+      "name": "Cold Storage",
+      "trader": "Shani",
+      "map": [
+        "stella_montis"
+      ],
+      "description": "Reports about Stella Montis keep coming in, and it’s unlike anything we’ve seen before. There may be records or relics from the past in there, and if so, I want them.",
+      "objectives": [
+        "Search any J Kozma Ventures container",
+        "Deliver the Old World Books to Shani"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "old_world_books",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "gas_mine",
+          "quantity": 3
+        },
+        {
+          "itemId": "raider_hatch_key",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "in_my_image"
+      ],
+      "nextQuestIds": [
+        "snap_and_salvage"
+      ],
+      "questOrder": 4
+    },
+    {
+      "id": "combat_recon",
+      "name": "Combat Recon",
+      "trader": "Shani",
+      "map": [
+        "Buried City"
+      ],
+      "description": "With those Bombardiers roaming around, ARC has found an entirely new way to flush Raiders out of cover. \r\n\r\nIf you’re hoping to take one down, you’ll need to sharpen your skills and your strategy.",
+      "objectives": [
+        "Scope out a cover spot in the Parking Garage staircases",
+        "Scope out a cover spot in the buses near Marano Park",
+        "Scope out a cover spot in the attics around Main Street",
+        "Destroy {0} Spotters",
+        "Deliver a Spotter Relay to Shani"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "spotter_relay",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "firecracker",
+          "quantity": 5
+        },
+        {
+          "itemId": "fireworks_box",
+          "quantity": 1
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "binoculars",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "into_the_fray",
+        "out_of_the_shadows"
+      ],
+      "nextQuestIds": [
+        "bombing_run"
+      ],
+      "questOrder": 14
+    },
+    {
+      "id": "communication_hideout",
+      "name": "Communication Hideout",
+      "trader": "Shani",
+      "map": [
+        "Buried City"
+      ],
+      "description": "We've been losing signals in some areas of Buried City—my guess is that our equipment is acting up. You’re quite skilled with repairs, aren’t you? Could you check it out?",
+      "objectives": [
+        "Reach the Red Tower in Old Town",
+        "Find missing battery cell",
+        "Install the battery cell in the Generator",
+        "Enable the power on the Generator",
+        "Boot the antenna terminal near the Red Tower"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "anvil_iii",
+          "quantity": 1
+        },
+        {
+          "itemId": "heavy_ammo",
+          "quantity": 40
+        }
+      ],
+      "previousQuestIds": [
+        "lost_in_transmission"
+      ],
+      "nextQuestIds": [
+        "into_the_fray"
+      ],
+      "questOrder": 11
+    },
+    {
+      "id": "deciphering_the_data",
+      "name": "Deciphering The Data",
+      "trader": "Shani",
+      "map": [
+        "The Spaceport"
+      ],
+      "description": "If the data you found can keep the ceiling from collapsing, we have no time to spare.\r\n\r\nI know of a few magnetic decryptors around Acerra Spaceport, from back during the Exodus. They might still be working.",
+      "objectives": [
+        "Use the Magnetic Decryptor in the Fuel Control Building",
+        "Reach the Arrival Building in Spaceport",
+        "Use the Magnetic Decryptor on the top floor of the Arrival Building"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "defibrillator",
+          "quantity": 3
+        },
+        {
+          "itemId": "trailblazer",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "paving_the_way"
+      ],
+      "nextQuestIds": [
+        "groundbreaking"
+      ],
+      "questOrder": 5
+    },
+    {
+      "id": "digging_up_dirt",
+      "name": "Digging Up Dirt",
+      "trader": "Celeste",
+      "map": [
+        "Buried City"
+      ],
+      "description": "We caught a break. One of our scouts saw a member of the Tubes Management make a dead drop inside the Santa Maria Houses in the Buried City. This might be our chance to dig up some dirt on them for a change. You in?",
+      "objectives": [
+        "Locate the Santa Maria Houses in Old Town",
+        "Locate the Dead Drop inside the courtyard"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "advanced_electrical_components",
+          "quantity": 2
+        },
+        {
+          "itemId": "speaker_component",
+          "quantity": 4
+        }
+      ],
+      "previousQuestIds": [
+        "tribute_to_toledo"
+      ],
+      "nextQuestIds": [
+        "turnabout",
+        "building_a_library"
+      ],
+      "questOrder": 15
+    },
+    {
+      "id": "doctors_orders",
+      "name": "Doctor's Orders",
+      "trader": "Lance",
+      "description": "Say, newbie: if you want me to treat you, you better prove that those precious limbs of yours are worth bandaging.",
+      "objectives": [
+        "Obtain 1 Syringe",
+        "Obtain {0} Antiseptic",
+        "Obtain 1 Durable Cloth",
+        "Obtain 1 Great Mullein"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "syringe",
+          "quantity": 1
+        },
+        {
+          "itemId": "antiseptic",
+          "quantity": 2
+        },
+        {
+          "itemId": "durable_cloth",
+          "quantity": 1
+        },
+        {
+          "itemId": "great_mullein",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "adrenaline_shot",
+          "quantity": 3
+        },
+        {
+          "itemId": "sterilized_bandage",
+          "quantity": 3
+        },
+        {
+          "itemId": "surge_shield_recharger",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "greasing_her_palms"
+      ],
+      "nextQuestIds": [
+        "medical_merchandise"
+      ],
+      "questOrder": 1
+    },
+    {
+      "id": "dormant_barons",
+      "name": "Dormant Barons",
+      "trader": "Shani",
+      "map": [
+        "The Spaceport",
+        "The Blue Gate",
+        "Dam Battlegrounds"
+      ],
+      "description": "During the First Wave, the Barons did more damage than all the other machines combined. Now they’re mere husks; fixed in place where they once fell... \n\nStill, their internals might hold the answer to keeping ARC at bay. So open one up, and bring me whatever is inside.",
+      "objectives": [
+        "Loot a Baron husk"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "door_blocker",
+          "quantity": 3
+        },
+        {
+          "itemId": "lil_smoke_grenade",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "greasing_her_palms",
+        "the_trifecta"
+      ],
+      "nextQuestIds": [
+        "mixed_signals",
+        "what_we_left_behind"
+      ],
+      "questOrder": 21
+    },
+    {
+      "id": "down_to_earth",
+      "name": "Down to Earth",
+      "trader": "Shani",
+      "map": [
+        "Buried City",
+        "The Spaceport",
+        "Dam Battlegrounds"
+      ],
+      "description": "Raiders have long reported peculiar-looking crates dropping down from malfunctioning ARC Probes. \n\nIf we can figure out a way to crack them open, we might get a better understanding of what it is they’re after.",
+      "objectives": [
+        "Visit a Field Depot",
+        "Deliver a Field Crate to a Field Depot",
+        "Collect the reward"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "combat_mk1",
+          "quantity": 1
+        },
+        {
+          "itemId": "medium_shield",
+          "quantity": 1
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "binoculars",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "hatch_repairs"
+      ],
+      "nextQuestIds": [
+        "the_trifecta"
+      ],
+      "questOrder": 8
+    },
+    {
+      "id": "echoes_of_victory_ridge",
+      "name": "Echoes of Victory Ridge",
+      "trader": "Celeste",
+      "map": [
+        "Dam Battlegrounds"
+      ],
+      "description": "Did you feel any tremors last night? Me neither. But apparently the ground shifted at some point, and in the process it unearthed an old First Wave outpost that’d been blocked by debris. I’d like you to get in there quick, before anyone else does.",
+      "objectives": [
+        "Reach Victory Ridge",
+        "Retrieve the battle plans from the hideout under the broken highway",
+        "Deliver Major Aiva's Patch to Celeste"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "major_aivas_patch",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "crude_explosives",
+          "quantity": 6
+        },
+        {
+          "itemId": "processor",
+          "quantity": 2
+        },
+        {
+          "itemId": "music_box",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "keeping_the_memory"
+      ],
+      "nextQuestIds": [
+        "unexpected_initiative"
+      ],
+      "questOrder": 13
+    },
+    {
+      "id": "espresso",
+      "name": "Espresso",
+      "trader": "Apollo",
+      "map": [
+        "Buried City"
+      ],
+      "description": "A Raider came into my shop earlier, to trade some grenades for a machine she found in Buried City. She said it makes coffee, but it seems to be missing a few parts. Up for a job?",
+      "objectives": [
+        "Find an espresso machine to salvage for spare parts",
+        "Get the Espresso Machine Parts for Apollo"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "espresso_machine_parts",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "coffee_pot",
+          "quantity": 1
+        },
+        {
+          "itemId": "adrenaline_shot",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "bees"
+      ],
+      "nextQuestIds": [
+        "life_of_a_pharmacist"
+      ],
+      "questOrder": 3
+    },
+    {
+      "id": "eyes_in_the_sky",
+      "name": "Eyes in the Sky",
+      "trader": "Shani",
+      "map": [
+        "Buried City",
+        "The Spaceport",
+        "Dam Battlegrounds"
+      ],
+      "description": "Those LiDAR scanners you found work best when put in high locations. I’ve identified a few good spots around the Rust Belt; hope you’re surefooted.",
+      "objectives": [
+        "On Dam Battlegrounds, install a LiDAR Scanner at the top of the Control Tower",
+        "On Spaceport, install a LiDAR Scanner at the Communications Tower",
+        "On Buried City, install a LiDAR Scanner on top of the Galleria sign"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "tagging_grenade",
+          "quantity": 3
+        },
+        {
+          "itemId": "vita_spray",
+          "quantity": 1
+        },
+        {
+          "itemId": "yellow_light_stick",
+          "quantity": 5
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "zipline",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "a_lay_of_the_land"
+      ],
+      "nextQuestIds": [
+        "after_rain_comes",
+        "a_balanced_harvest",
+        "back_on_top"
+      ],
+      "questOrder": 6
+    },
+    {
+      "id": "eyes_on_the_prize",
+      "name": "Eyes on the Prize",
+      "trader": "Tian Wen",
+      "map": [
+        "Buried City"
+      ],
+      "description": "Everything’s been calm around my drop-offs since you helped out, but that doesn’t mean it’ll stay that way for long. I’ve set up surveillance at one of my most used spots in Buried City, to prevent future tampering. Only problem is, it needs power to go live.",
+      "objectives": [
+        "Find the secluded roof terrace south-west of the Southern Station, look for blue tarps.",
+        "Rewire the solar panel using 3 Wires"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "extended_shotgun_mag_ii",
+          "quantity": 1
+        },
+        {
+          "itemId": "extended_medium_mag_ii",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "market_correction"
+      ],
+      "nextQuestIds": [
+        "industrial_espionage"
+      ],
+      "questOrder": 11
+    },
+    {
+      "id": "flickering_threat",
+      "name": "Flickering Threat",
+      "trader": "Celeste",
+      "map": [
+        "Dam Battlegrounds"
+      ],
+      "description": "My usual engineer is still healing from his wounds, and has been loopy for days. We can’t afford to be at half-grid until he heals; I need someone to pick up his wrench in the mean time.",
+      "objectives": [
+        "Find the Generator Room",
+        "Repair the Generator using 4 Wires",
+        "Find the Ventilation Shaft",
+        "Enable the power via the power switch underneath the stairs"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "medium_gun_parts",
+          "quantity": 5
+        },
+        {
+          "itemId": "advanced_mechanical_components",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "power_out"
+      ],
+      "nextQuestIds": [
+        "bees"
+      ],
+      "questOrder": 9
+    },
+    {
+      "id": "greasing_her_palms",
+      "name": "Greasing Her Palms",
+      "trader": "Celeste",
+      "map": [
+        "Buried City",
+        "The Spaceport",
+        "Dam Battlegrounds"
+      ],
+      "description": "Recently, I’ve been trying and failing to get Tian Wen to join our community projects.\n\nI may have to sweeten the deal. She’s been complaining about the quality of salvage found on the market; think we could do her a solid?",
+      "objectives": [
+        "On Dam Battlegrounds, visit the Locked Room in the Water Treatment Control building",
+        "On Spaceport, scope out the rocket thrusters outside the Rocket Assembly",
+        "On Buried City, visit the barricaded area on floor 6 of the Space Travel Building",
+        "Find a spare Dam Surveillance Key"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "lure_grenade_blueprint",
+          "quantity": 1
+        },
+        {
+          "itemId": "speaker_component",
+          "quantity": 3
+        },
+        {
+          "itemId": "electrical_components",
+          "quantity": 3
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "dam_surveillance_key",
+          "quantity": 2
+        }
+      ],
+      "previousQuestIds": [
+        "a_better_use"
+      ],
+      "nextQuestIds": [
+        "dormant_barons",
+        "doctors_orders"
+      ],
+      "questOrder": 6
+    },
+    {
+      "id": "groundbreaking",
+      "name": "Groundbreaking",
+      "trader": "Apollo",
+      "map": [
+        "The Blue Gate"
+      ],
+      "description": "Data or no data: we’ll learn how to make this place earthquake-proof. With a research this in-depth, there’s bound to be a paper trail somewhere.",
+      "objectives": [
+        "Find a spare Blue Gate Communication Tower Key",
+        "Enter the locked room at Pilgrim's Peak",
+        "Search the room for any construction research",
+        "Find the building pictured on the whiteboard",
+        "Photograph the abandoned housing project"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "power_rod",
+          "quantity": 1
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "blue_gate_communication_tower_key",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "deciphering_the_data"
+      ],
+      "nextQuestIds": [
+        "worth_your_salt",
+        "a_dead_end"
+      ],
+      "questOrder": 4
+    },
+    {
+      "id": "hatch_repairs",
+      "name": "Hatch Repairs",
+      "trader": "Shani",
+      "description": "Our scouts have reported several Raider Hatches with leaking hydraulic pipes. They still work, but not for long. Mind patching one up, next time you’re out there?",
+      "objectives": [
+        "Repair the leaking hydraulic pipes near a Raider Hatch",
+        "Search for a Hatch Key near the Raider Hatch"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "raider_hatch_key",
+          "quantity": 1
+        },
+        {
+          "itemId": "binoculars",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "a_bad_feeling"
+      ],
+      "nextQuestIds": [
+        "down_to_earth"
+      ],
+      "questOrder": 7
+    },
+    {
+      "id": "in_my_image",
+      "name": "In My Image",
+      "trader": "Lance",
+      "map": [
+        "stella_montis"
+      ],
+      "description": "I just treated one of the first Raiders who visited Stella Montis, and she said that she saw... others. Androids, very much like me.",
+      "objectives": [
+        "Deploy into Stella Montis",
+        "Find and search {0} Androids"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "looting_mk2",
+          "quantity": 1
+        },
+        {
+          "itemId": "green_light_stick",
+          "quantity": 5
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "defibrillator",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "a_bad_feeling"
+      ],
+      "nextQuestIds": [
+        "cold_storage"
+      ],
+      "questOrder": 2
+    },
+    {
+      "id": "industrial_espionage",
+      "name": "Industrial Espionage",
+      "trader": "Tian Wen",
+      "map": [
+        "Buried City"
+      ],
+      "description": "With my own stashes secured, I think it might be time to keep a closer eye on the competition so this doesn’t happen again.",
+      "objectives": [
+        "Find Tian Wen's weapon cache near the Gas Station in the Outskirts",
+        "Deliver the Burletta to the rival weapon cache",
+        "Plant a bug on the weapon cache"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "burletta_blueprint",
+          "quantity": 1
+        },
+        {
+          "itemId": "mechanical_components",
+          "quantity": 3
+        },
+        {
+          "itemId": "simple_gun_parts",
+          "quantity": 3
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "burletta_i",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "eyes_on_the_prize"
+      ],
+      "nextQuestIds": [
+        "unexpected_initiative"
+      ],
+      "questOrder": 12
+    },
+    {
+      "id": "into_the_fray",
+      "name": "Into the Fray",
+      "trader": "Shani",
+      "map": [
+        "Buried City",
+        "The Spaceport",
+        "The Blue Gate",
+        "Dam Battlegrounds"
+      ],
+      "description": "It used to be their world, up there. Nobody to challenge their claim. \n\nYet here we are. More outposts. More intel. More firepower. If I didn’t know better, I’d say we’ve got quite a bit of fight left in us.",
+      "objectives": [
+        "Destroy a Leaper",
+        "Obtain a Leaper Pulse Unit"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "leaper_pulse_unit",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "vulcano_iii",
+          "quantity": 1
+        },
+        {
+          "itemId": "shotgun_ammo",
+          "quantity": 40
+        }
+      ],
+      "previousQuestIds": [
+        "water_troubles",
+        "communication_hideout"
+      ],
+      "nextQuestIds": [
+        "combat_recon",
+        "paving_the_way"
+      ],
+      "questOrder": 12
+    },
+    {
+      "id": "keeping_an_eye_out",
+      "name": "Keeping an Eye Out",
+      "trader": "Celeste",
+      "map": [
+        "The Blue Gate"
+      ],
+      "description": "I’m looking for someone. Bilguun. You might’ve seen him around, but chances are you haven’t. He’s… not the most sociable person around, you see.\r\n\r\nHe spends a lot of time Topside, but usually returns to Speranza regularly to check in.",
+      "objectives": [
+        "Locate the collapsed highway by the southern edge of the Barren Clearing",
+        "Find Bilguun's shelter, and search for any clues of his presence"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "pulse_mine",
+          "quantity": 5
+        },
+        {
+          "itemId": "flame_spray",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "the_clean_dream"
+      ],
+      "questOrder": 7
+    },
+    {
+      "id": "keeping_the_memory",
+      "name": "Keeping the Memory",
+      "trader": "Celeste",
+      "map": [
+        "Dam Battlegrounds"
+      ],
+      "description": "I lost my cool a bit when I sent you after that trap. I don’t usually lose my temper, but the First Wave… We went through a lot, back then. Lost a lot of people. It’s still a bit of a raw wound for me, but I want you to understand. ",
+      "objectives": [
+        "Reach the wreckage in the Formicai Hills",
+        "Search for the missing helmet",
+        "Return the helmet to the memorial"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "simple_gun_parts",
+          "quantity": 5
+        },
+        {
+          "itemId": "duct_tape",
+          "quantity": 5
+        },
+        {
+          "itemId": "magnet",
+          "quantity": 5
+        }
+      ],
+      "previousQuestIds": [
+        "straight_record"
+      ],
+      "nextQuestIds": [
+        "echoes_of_victory_ridge"
+      ],
+      "questOrder": 12
+    },
+    {
+      "id": "life_of_a_pharmacist",
+      "name": "Life of a Pharmacist",
+      "trader": "Lance",
+      "map": [
+        "Buried City"
+      ],
+      "description": "This place could use a makeover, but I don’t want it looking like your raggedy Raider Dens. See if you can find out how my fellow medical greats used to live. ",
+      "objectives": [
+        "Find the Arbusto Farmacia by the collapsed highway",
+        "Document the pharmacist’s hobbies",
+        "Document the pharmacist’s family",
+        "Document the pharmacist’s taste",
+        "Document the pharmacist’s skills"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "defibrillator",
+          "quantity": 1
+        },
+        {
+          "itemId": "surge_shield_recharger",
+          "quantity": 1
+        },
+        {
+          "itemId": "sterilized_bandage",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "espresso"
+      ],
+      "nextQuestIds": [
+        "a_toxic_trail",
+        "tribute_to_toledo"
+      ],
+      "questOrder": 3
+    },
+    {
+      "id": "lost_in_transmission",
+      "name": "Lost in Transmission",
+      "trader": "Shani",
+      "map": [
+        "The Spaceport"
+      ],
+      "description": "I have equipment set up at the Spaceport, to monitor ARC’s movements. My connection broke down just now — I need you to head to the Control Towers and help me retrieve my logs.",
+      "objectives": [
+        "Visit Control Tower A6",
+        "Find a spare key",
+        "Reach the top of Control Tower A6",
+        "Establish a connection from the terminal"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "snap_hook",
+          "quantity": 1
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "spaceport_control_tower_key",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "our_presence_up_there"
+      ],
+      "nextQuestIds": [
+        "communication_hideout"
+      ],
+      "questOrder": 10
+    },
+    {
+      "id": "marked_for_death",
+      "name": "Marked for Death",
+      "trader": "Tian Wen",
+      "map": [
+        "Buried City"
+      ],
+      "description": "Someone has been lifting supplies from my drop-off point in Buried City. I’ve set up a trap, but I need someone to check it for me.",
+      "objectives": [
+        "Reach the Su Durante Warehouses in the Outskirts in Buried City",
+        "Search for Tian Wen's cache near the Warehouses",
+        "Follow the clues"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "shotgun_choke_ii",
+          "quantity": 1
+        },
+        {
+          "itemId": "angled_grip_ii",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "broken_monument"
+      ],
+      "nextQuestIds": [
+        "market_correction"
+      ],
+      "questOrder": 9
+    },
+    {
+      "id": "market_correction",
+      "name": "Market Correction",
+      "trader": "Tian Wen",
+      "map": [
+        "Buried City"
+      ],
+      "description": "That theft before? Doesn’t look like a coincidence anymore. Some of the competition from Toledo is setting up shop where they don’t belong. I want their cache sabotaged, preferably before they get too comfortable.",
+      "objectives": [
+        "Locate the cache near Marano Station",
+        "Sabotage the cache"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "silencer_ii",
+          "quantity": 1
+        },
+        {
+          "itemId": "extended_light_mag_i",
+          "quantity": 1
+        },
+        {
+          "itemId": "compensator_i",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "marked_for_death"
+      ],
+      "nextQuestIds": [
+        "eyes_on_the_prize"
+      ],
+      "questOrder": 10
+    },
+    {
+      "id": "medical_merchandise",
+      "name": "Medical Merchandise",
+      "trader": "Lance",
+      "map": [
+        "Buried City",
+        "The Spaceport",
+        "Dam Battlegrounds"
+      ],
+      "description": "I’ve become quite crafty at weaving bandages from Fabric, but to my shame, I haven’t quite mastered weaving an x-ray machine or a pulse oximiter.",
+      "objectives": [
+        "On Spaceport, search {0} containers in the Departure Building's exam rooms",
+        "Search {0} containers in the Hospital in Buried City",
+        "On Dam Battlegrounds, search {0} containers in the Research & Administration building's medical room"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "defibrillator",
+          "quantity": 3
+        },
+        {
+          "itemId": "vita_shot",
+          "quantity": 2
+        }
+      ],
+      "previousQuestIds": [
+        "doctors_orders"
+      ],
+      "nextQuestIds": [
+        "a_reveal_in_ruins"
+      ],
+      "questOrder": 4
+    },
+    {
+      "id": "mixed_signals",
+      "name": "Mixed Signals",
+      "trader": "Shani",
+      "map": [
+        "Buried City",
+        "The Spaceport",
+        "The Blue Gate",
+        "Dam Battlegrounds"
+      ],
+      "description": "Have you spotted any Surveyors; the big round ones? \n\nThey seem to be transmitting data back into orbit, and I can’t help but think it's tied to that signal we picked up. Will you break one open, so we can try to decipher the data?",
+      "objectives": [
+        "Destroy an ARC Surveyor",
+        "Obtain 1 Surveyor Vault"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "surveyor_vault",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "photoelectric_cloak",
+          "quantity": 1
+        },
+        {
+          "itemId": "raider_hatch_key",
+          "quantity": 1
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "jolt_mine",
+          "quantity": 3
+        },
+        {
+          "itemId": "showstopper",
+          "quantity": 2
+        }
+      ],
+      "previousQuestIds": [
+        "dormant_barons"
+      ],
+      "questOrder": 22
+    },
+    {
+      "id": "movie_night",
+      "name": "Movie Night",
+      "trader": "Apollo",
+      "description": "Everyone's been on edge ever since rumors of that ARC signal spread. I was thinking a movie night would be a great distraction, but I'm missing some crucial supplies. You'll help me out, yeah?",
+      "objectives": [
+        "Deliver a Portable TV to Apollo",
+        "On Stella Montis, search the Cultural Archives for old movie tapes",
+        "Deliver the Stack of Movie Tapes to Apollo"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "portable_tv",
+          "quantity": 1
+        },
+        {
+          "itemId": "stack_of_movie_tapes",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "showstopper",
+          "quantity": 3
+        },
+        {
+          "itemId": "smoke_grenade",
+          "quantity": 3
+        },
+        {
+          "itemId": "fireworks_box",
+          "quantity": 1
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "blue_light_stick",
+          "quantity": 3
+        },
+        {
+          "itemId": "yellow_light_stick",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "with_a_view"
+      ],
+      "questOrder": 5
+    },
+    {
+      "id": "off_the_radar",
+      "name": "Off The Radar",
+      "trader": "Shani",
+      "map": [
+        "Buried City",
+        "The Spaceport",
+        "Dam Battlegrounds"
+      ],
+      "description": "The damage down here was pretty bad, but our Topside infrastructure was hit even harder. I still have several antennas that stopped working after the storm.",
+      "objectives": [
+        "Visit a Field Depot",
+        "Repair the antenna on the roof of the Field Depot"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "defibrillator",
+          "quantity": 2
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "remote_raider_flare",
+          "quantity": 2
+        }
+      ],
+      "previousQuestIds": [
+        "clearer_skies",
+        "trash_into_treasure"
+      ],
+      "nextQuestIds": [
+        "a_bad_feeling"
+      ],
+      "questOrder": 24
+    },
+    {
+      "id": "on_deaf_ears",
+      "name": "On Deaf Ears",
+      "trader": "Lance",
+      "map": [
+        "stella_montis"
+      ],
+      "description": "Seems like every other Raider here has some serious hearing damage.\r\n\r\nI heard rumors they developed some extra advanced hearing aids at Stella Montis. If you can track them down, we might all be able to use our indoor voices, for once.",
+      "objectives": [
+        "Find the researcher's guest logs on the reception computers",
+        "Find where the researcher held their lecture, and access their notes",
+        "Find information about the prototypes on the Medical Research computers",
+        "Find the printed shipping logs in the Assembly Workshops"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "lure_grenade",
+          "quantity": 3
+        },
+        {
+          "itemId": "noisemaker",
+          "quantity": 5
+        },
+        {
+          "itemId": "shaker",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "worth_your_salt",
+        "snap_and_salvage"
+      ],
+      "nextQuestIds": [
+        "on_the_map"
+      ],
+      "questOrder": 6
+    },
+    {
+      "id": "on_the_map",
+      "name": "On The Map",
+      "trader": "Lance",
+      "map": [
+        "The Spaceport"
+      ],
+      "description": "We know the coordinates for those hearing aids, but I’ll have to cross-reference them with a paper map of the Spaceport. Those legs of yours aren’t too tired, are they?",
+      "objectives": [
+        "Head to where the Fuel Lines snapped, and transmit your location",
+        "Head to the antenna near the Fuel Control, and transmit your location",
+        "Head to the cactus patch in the wall breach, and transmit your location",
+        "Transmit your location from the roof of the Container Storage building",
+        "Find the container covered in tarp, and mark it"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "sterilized_bandage",
+          "quantity": 3
+        },
+        {
+          "itemId": "surge_shield_recharger",
+          "quantity": 3
+        },
+        {
+          "itemId": "tactical_mk3_healing",
+          "quantity": 1
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "defibrillator",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "on_deaf_ears"
+      ],
+      "questOrder": 7
+    },
+    {
+      "id": "our_presence_up_there",
+      "name": "Our Presence up There",
+      "trader": "Shani",
+      "map": [
+        "Dam Battlegrounds"
+      ],
+      "description": "ARC may be changing, but we’re finally changing with it. Let’s finish up those outposts and revolutionize the way we track them, flank them, and smash them to bits.",
+      "objectives": [
+        "Visit the Pattern House in The Dam",
+        "Find and flip the power switch",
+        "Complete the antenna installation on the roof"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "buried_city_town_hall_key",
+          "quantity": 1
+        },
+        {
+          "itemId": "raider_hatch_key",
+          "quantity": 1
+        },
+        {
+          "itemId": "jolt_mine",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "back_on_top"
+      ],
+      "nextQuestIds": [
+        "lost_in_transmission"
+      ],
+      "questOrder": 9
+    },
+    {
+      "id": "out_of_the_shadows",
+      "name": "Out of the Shadows",
+      "trader": "Shani",
+      "map": [
+        "Buried City",
+        "The Spaceport",
+        "The Blue Gate",
+        "Dam Battlegrounds"
+      ],
+      "description": "Did you see the flags? The time for cowering is over. You’ve been more than battle-tested, from what I hear; think you can take on a Rocketeer?",
+      "objectives": [
+        "Destroy a Rocketeer",
+        "Obtain a Rocketeer Driver"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "rocketeer_driver",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "surge_shield_recharger",
+          "quantity": 3
+        },
+        {
+          "itemId": "wolfpack",
+          "quantity": 1
+        },
+        {
+          "itemId": "wolfpack",
+          "quantity": 1
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "medium_shield",
+          "quantity": 1
+        },
+        {
+          "itemId": "combat_mk2",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "a_symbol_of_unification",
+        "sparks_fly"
+      ],
+      "nextQuestIds": [
+        "combat_recon"
+      ],
+      "questOrder": 13
+    },
+    {
+      "id": "paving_the_way",
+      "name": "Paving the Way",
+      "trader": "Apollo",
+      "map": [
+        "The Blue Gate",
+        "Buried City",
+        "Dam Battlegrounds"
+      ],
+      "description": "For an entire sector to collapse like that… No wonder people are scared. We need to reinforce beyond anything we’ve done before, and we can’t do it alone.",
+      "objectives": [
+        "Go to any ENELICA building",
+        "Search for a notice board with a note from the researcher",
+        "On Buried City, reach the top floor above the Convinio in Piazza Roma",
+        "Find the researcher's flat and search for any research data"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "raider_hatch_key",
+          "quantity": 1
+        },
+        {
+          "itemId": "seeker_grenade",
+          "quantity": 3
+        },
+        {
+          "itemId": "advanced_electrical_components",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "into_the_fray"
+      ],
+      "nextQuestIds": [
+        "deciphering_the_data"
+      ],
+      "questOrder": 6
+    },
+    {
+      "id": "picking_up_the_pieces",
+      "name": "Picking Up The Pieces",
+      "trader": "Shani",
+      "map": [
+        "The Spaceport",
+        "Buried City",
+        "Dam Battlegrounds"
+      ],
+      "description": "The storm has mostly settled, but much of our infrastructure has taken a proper beating. If you're hoping to stay with us, I'll need you to pull your weight in the repair efforts.",
+      "objectives": [
+        "Visit any area on your map with a loot category icon",
+        "Loot {0} containers"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "rattler_iii",
+          "quantity": 1
+        },
+        {
+          "itemId": "medium_ammo",
+          "quantity": 80
+        }
+      ],
+      "nextQuestIds": [
+        "clearer_skies",
+        "trash_into_treasure"
+      ],
+      "questOrder": 16
+    },
+    {
+      "id": "power_out",
+      "name": "Power Out",
+      "trader": "Celeste",
+      "map": [
+        "The Spaceport"
+      ],
+      "description": "This goes beyond bad luck. Something—or someone—has knocked out some of our electrical substations. The engineer I sent out to fix it hasn’t returned, so I need all available Raiders to look into it. That includes you.",
+      "objectives": [
+        "Find the Electrical Substation south of the Spaceport",
+        "Find any sign of the missing engineer",
+        "Install the fuse",
+        "Restore the power"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "wires",
+          "quantity": 5
+        },
+        {
+          "itemId": "explosive_compound",
+          "quantity": 5
+        },
+        {
+          "itemId": "oil",
+          "quantity": 5
+        }
+      ],
+      "previousQuestIds": [
+        "prescriptions_of_the_past"
+      ],
+      "nextQuestIds": [
+        "flickering_threat"
+      ],
+      "questOrder": 8
+    },
+    {
+      "id": "prescriptions_of_the_past",
+      "name": "Prescriptions of the Past",
+      "trader": "Lance",
+      "map": [
+        "The Spaceport"
+      ],
+      "description": "I’ve been curious about the medical area in the Spaceport for a while now. Something tells me it’s got just what I need to become the undeniable champion of this place.",
+      "objectives": [
+        "Visit the Departure Building in Spaceport",
+        "Find the Medical Exam Room inside the Departure Building",
+        "Search for the records"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "heavy_shield",
+          "quantity": 1
+        },
+        {
+          "itemId": "tactical_mk3_healing",
+          "quantity": 1
+        },
+        {
+          "itemId": "adrenaline_shot",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "a_warm_place_to_rest"
+      ],
+      "nextQuestIds": [
+        "power_out"
+      ],
+      "questOrder": 8
+    },
+    {
+      "id": "reduced_to_rubble",
+      "name": "Reduced to Rubble",
+      "trader": "Shani",
+      "map": [
+        "The Blue Gate"
+      ],
+      "description": "That collapsed highway worries me; it looks to be recent. Much of Topside may be in ruins, but most of it is from ages ago.",
+      "objectives": [
+        "Take a photo of the Collapsed Highway",
+        "Go to the Broken Earth",
+        "Follow the trail of destruction through the Broken Earth",
+        "Investigate the unknown ARC machines"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "zipline",
+          "quantity": 1
+        },
+        {
+          "itemId": "barricade_kit",
+          "quantity": 3
+        },
+        {
+          "itemId": "door_blocker",
+          "quantity": 3
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "binoculars",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "a_first_foothold"
+      ],
+      "nextQuestIds": [
+        "with_a_trace"
+      ],
+      "questOrder": 18
+    },
+    {
+      "id": "safe_passage",
+      "name": "Safe Passage",
+      "trader": "Apollo",
+      "description": "I heard rumors about some signal Shani picked up. ARC is constantly adapting, and I'm sure this won’t be their last warning sign.\r\n\r\nWell, if it’s an arms race they want, they can get one.",
+      "objectives": [
+        "Destroy 2 ARC enemies using any explosive grenade"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "lil_smoke_grenade",
+          "quantity": 5
+        },
+        {
+          "itemId": "shrapnel_grenade",
+          "quantity": 3
+        },
+        {
+          "itemId": "barricade_kit",
+          "quantity": 3
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "light_impact_grenade",
+          "quantity": 5
+        },
+        {
+          "itemId": "light_impact_grenade",
+          "quantity": 5
+        },
+        {
+          "itemId": "snap_blast_grenade",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "a_bad_feeling"
+      ],
+      "nextQuestIds": [
+        "what_goes_around"
+      ],
+      "questOrder": 7
+    },
+    {
+      "id": "snap_and_salvage",
+      "name": "Snap and Salvage",
+      "trader": "Tian Wen",
+      "map": [
+        "stella_montis"
+      ],
+      "description": "All of Speranza is buzzing about Stella Montis right now, and I admit it’s caught my attention. Let the others sort out the whats and hows; I’m interested in the tech inside.",
+      "objectives": [
+        "Take a Photo of any of the Rovers in the Sandbox",
+        "Search the papers in the Security Checkpoint room by the Lobby",
+        "Deliver a Magnetron to Tian Wen",
+        "Deliver a Flow Controller to Tian Wen"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "magnetron",
+          "quantity": 1
+        },
+        {
+          "itemId": "flow_controller",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "burletta_iii",
+          "quantity": 1
+        },
+        {
+          "itemId": "silencer_ii",
+          "quantity": 1
+        },
+        {
+          "itemId": "extended_light_mag_ii",
+          "quantity": 1
+        },
+        {
+          "itemId": "light_ammo",
+          "quantity": 100
+        }
+      ],
+      "previousQuestIds": [
+        "cold_storage"
+      ],
+      "nextQuestIds": [
+        "on_deaf_ears",
+        "with_a_view"
+      ],
+      "questOrder": 1
+    },
+    {
+      "id": "source_of_the_contamination",
+      "name": "Source of the Contamination",
+      "trader": "Celeste",
+      "map": [
+        "Dam Battlegrounds"
+      ],
+      "description": "I’m not saying our water’s been tampered with, but based on your samples, I can’t rule out the possibility either. Would you return to the Dam and see what’s wrong?",
+      "objectives": [
+        "Reach the Water Treatment Building in The Dam",
+        "Search for the Flood Spill Intake near the Swamp",
+        "Investigate any suspicious objects"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "steel_spring",
+          "quantity": 5
+        },
+        {
+          "itemId": "duct_tape",
+          "quantity": 5
+        },
+        {
+          "itemId": "mod_components",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "water_troubles"
+      ],
+      "nextQuestIds": [
+        "switching_the_supply"
+      ],
+      "questOrder": 20
+    },
+    {
+      "id": "sparks_fly",
+      "name": "Sparks Fly",
+      "trader": "Apollo",
+      "description": "Those Hornet stings can really mess you up, if you’re unlucky. And even if you destroy one, you’re still wasting a ton of ammo.\r\n\r\nI’ve been working on a more elegant way to bring them down. Care to make some sparks fly?",
+      "objectives": [
+        "Destroy a Hornet with a Trigger 'Nade or Snap Blast"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "trigger_nade_blueprint",
+          "quantity": 1
+        },
+        {
+          "itemId": "crude_explosives",
+          "quantity": 4
+        },
+        {
+          "itemId": "processor",
+          "quantity": 2
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "trigger_nade",
+          "quantity": 3
+        },
+        {
+          "itemId": "trigger_nade",
+          "quantity": 3
+        },
+        {
+          "itemId": "snap_blast_grenade",
+          "quantity": 2
+        }
+      ],
+      "previousQuestIds": [
+        "what_goes_around"
+      ],
+      "nextQuestIds": [
+        "the_league",
+        "out_of_the_shadows"
+      ],
+      "questOrder": 10
+    },
+    {
+      "id": "stable_housing",
+      "name": "Stable Housing",
+      "trader": "Tian Wen",
+      "map": [
+        "stella_montis"
+      ],
+      "description": "You like a certain amount of uncertainty, right? A client wants the contents of a locked safe in Stella Montis. It's intact, so whatever's inside has been there since before the Exodus. Interested?",
+      "objectives": [
+        "Go to the Security Bridge",
+        "Search for the safe in the side room by the third-floor staircases",
+        "Head upstairs to the fourth-floor control room",
+        "Use the Access Card Printer to print a key to the safe",
+        "Search for alternate ways into the safe",
+        "Retrieve the contents of the safe",
+        "Deliver the Project Heartwood Blueprints to Tian Wen"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "seeker_grenade",
+          "quantity": 5
+        },
+        {
+          "itemId": "lure_grenade",
+          "quantity": 5
+        },
+        {
+          "itemId": "snap_hook",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "with_a_view"
+      ],
+      "questOrder": 2
+    },
+    {
+      "id": "straight_record",
+      "name": "Straight Record",
+      "trader": "Celeste",
+      "map": [
+        "Dam Battlegrounds"
+      ],
+      "description": "Back during the First Wave, my squad and I built a trap out by the Dam. Overloaded a generator, turned it into a makeshift ARC trap. Now I hear Raiders are using it to cut comms and spring ambushes on each other. I need you to end it.",
+      "objectives": [
+        "Reach Victory Ridge",
+        "Find the old EMP trap",
+        "Disable the first power switch",
+        "Disable the second power switch",
+        "Disable the third power switch",
+        "Shut down the EMP trap"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "medium_gun_parts",
+          "quantity": 5
+        },
+        {
+          "itemId": "advanced_mechanical_components",
+          "quantity": 3
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "binoculars",
+          "quantity": 1
+        },
+        {
+          "itemId": "defibrillator",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "broken_monument"
+      ],
+      "nextQuestIds": [
+        "keeping_the_memory"
+      ],
+      "questOrder": 11
+    },
+    {
+      "id": "switching_the_supply",
+      "name": "Switching the Supply",
+      "trader": "Celeste",
+      "map": [
+        "The Spaceport"
+      ],
+      "description": "There is a reservoir beneath the Spaceport; if we manage to rout that water here, that should buy us time to deal with the contamination.",
+      "objectives": [
+        "Find the tunnels under the Spaceport",
+        "Find and turn the valve in the tunnels under Spaceport"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "spaceport_trench_tower_key",
+          "quantity": 1
+        },
+        {
+          "itemId": "synthesized_fuel",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "source_of_the_contamination"
+      ],
+      "nextQuestIds": [
+        "a_warm_place_to_rest"
+      ],
+      "questOrder": 21
+    },
+    {
+      "id": "the_clean_dream",
+      "name": "The Clean Dream",
+      "trader": "Apollo",
+      "map": [
+        "The Spaceport",
+        "The Blue Gate"
+      ],
+      "description": "You know what I've been dreaming of lately? A talking water distiller! Crazy, huh? But seriously, with purer compounds I could make explosives with more oumph! Would be something, right?",
+      "objectives": [
+        "On Spaceport, search {0} containers in the underground tunnels",
+        "Find and monitor any Filtration System in the tunnels",
+        "On The Blue Gate, visit the Maintenance Bunker",
+        "Monitor the Purification System in the bunker",
+        "Find and photograph the blueprints in the bunker"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "deadline",
+          "quantity": 2
+        },
+        {
+          "itemId": "showstopper",
+          "quantity": 3
+        },
+        {
+          "itemId": "heavy_fuze_grenade",
+          "quantity": 3
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "blue_light_stick",
+          "quantity": 5
+        }
+      ],
+      "previousQuestIds": [
+        "with_a_trace"
+      ],
+      "nextQuestIds": [
+        "keeping_an_eye_out",
+        "a_prime_specimen"
+      ],
+      "questOrder": 8
+    },
+    {
+      "id": "the_league",
+      "name": "The League",
+      "trader": "Apollo",
+      "map": [
+        "Dam Battlegrounds"
+      ],
+      "description": "Kids around here have been kicking empty grenade casings around. It’s only a matter of time before they’re not so empty.\r\n\r\nSo here’s the plan. You help me with some prep work, and I’ll set up an actual football team for the young ones.",
+      "objectives": [
+        "Deliver a Deflated Football to Apollo",
+        "Deliver a Bicycle Pump to Apollo",
+        "On Dam Battlegrounds, photograph the goal by the Water Towers",
+        "On Buried City, photograph the football magazines in any kiosk",
+        "Search for a Deflated Football",
+        "Search for a Bicycle Pump"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "deflated_football",
+          "quantity": 1
+        },
+        {
+          "itemId": "bicycle_pump",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "tagging_grenade",
+          "quantity": 5
+        },
+        {
+          "itemId": "firecracker",
+          "quantity": 5
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "yellow_light_stick",
+          "quantity": 5
+        },
+        {
+          "itemId": "red_light_stick",
+          "quantity": 5
+        }
+      ],
+      "previousQuestIds": [
+        "sparks_fly"
+      ],
+      "questOrder": 11
+    },
+    {
+      "id": "the_majors_footlocker",
+      "name": "The Major’s Footlocker",
+      "trader": "Tian Wen",
+      "map": [
+        "Dam Battlegrounds"
+      ],
+      "description": "I have another job. It’s.. about my mom.\n\nThose First Wave sites I sent you to before? I actually hoped you’d find something of my mother’s. She fought in the Raider resistance. It was a long shot; but now I've got an actual lead.",
+      "objectives": [
+        "Search for Major Aiva's mementos in the apartments northwest of The Dam",
+        "Deliver Major Aiva's Mementos to Tian Wen"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "hullcracker_blueprint",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "a_symbol_of_unification"
+      ],
+      "nextQuestIds": [
+        "back_on_top"
+      ],
+      "questOrder": 3
+    },
+    {
+      "id": "the_right_tool",
+      "name": "The Right Tool",
+      "trader": "Tian Wen",
+      "description": "You're one of the new arrivals, right? I need a volunteer to test out this upgraded Ferro; should cut through ARC plating like butter. Go put holes in some machines, and report back to me.",
+      "objectives": [
+        "Destroy a Fireball",
+        "Destroy a Hornet",
+        "Destroy a Turret"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "stitcher_ii",
+          "quantity": 1
+        },
+        {
+          "itemId": "extended_light_mag_i",
+          "quantity": 1
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "ferro_iv",
+          "quantity": 1
+        },
+        {
+          "itemId": "heavy_ammo",
+          "quantity": 20
+        }
+      ],
+      "previousQuestIds": [
+        "a_bad_feeling"
+      ],
+      "nextQuestIds": [
+        "a_better_use"
+      ],
+      "questOrder": 5
+    },
+    {
+      "id": "the_root_of_the_matter",
+      "name": "The Root of the Matter",
+      "trader": "Celeste",
+      "map": [
+        "Buried City"
+      ],
+      "description": "We're in luck. The notes you found last time were written by the lead researcher. When the project went under, it seems she took some of the seed samples and sealed them away in a secure location.",
+      "objectives": [
+        "Go to the Research Building",
+        "Search for the seed vault in the \"room with a great view\"",
+        "Deliver the Experimental Seed Sample to Celeste"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "experimental_seed_sample",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "coins",
+          "quantity": 1000
+        }
+      ],
+      "previousQuestIds": [
+        "untended_garden"
+      ],
+      "nextQuestIds": [
+        "water_troubles"
+      ],
+      "questOrder": 18
+    },
+    {
+      "id": "the_stench_of_corruption",
+      "name": "The Stench of Corruption",
+      "trader": "Shani",
+      "map": [
+        "The Spaceport"
+      ],
+      "description": "That key you found in the barrel truck… I won’t jump to accusations just yet, but this certainly reeks of an inside job. Could you investigate a hunch I have?",
+      "objectives": [
+        "Reach the southwest lobby of the Departure Building",
+        "Find the staff locker room",
+        "Search the room for any clues of the saboteur's identity",
+        "Reach the tunnels below the Spaceport",
+        "Use the key on any Flushing Terminal to override the bypass protocol"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "air_freshener",
+          "quantity": 1
+        },
+        {
+          "itemId": "dam_staff_room_key",
+          "quantity": 1
+        },
+        {
+          "itemId": "noisemaker",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "a_toxic_trail"
+      ],
+      "questOrder": 19
+    },
+    {
+      "id": "the_trifecta",
+      "name": "The Trifecta",
+      "trader": "Shani",
+      "map": [
+        "Buried City",
+        "The Spaceport",
+        "The Blue Gate",
+        "Dam Battlegrounds"
+      ],
+      "description": "Intel’s all well and good, but it only gets us so far. If ARC’s truly closing in, I need every Raider to prove they can handle their drones in a fight.",
+      "objectives": [
+        "Destroy a Wasp",
+        "Get a Wasp Driver for Shani",
+        "Destroy a Hornet",
+        "Get a Hornet Driver for Shani",
+        "Destroy a Snitch",
+        "Get a Snitch Scanner for Shani"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "wasp_driver",
+          "quantity": 2
+        },
+        {
+          "itemId": "hornet_driver",
+          "quantity": 2
+        },
+        {
+          "itemId": "snitch_scanner",
+          "quantity": 2
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "raider_hatch_key",
+          "quantity": 1
+        },
+        {
+          "itemId": "defibrillator",
+          "quantity": 2
+        },
+        {
+          "itemId": "dam_control_tower_key",
+          "quantity": 1
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "remote_raider_flare",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "down_to_earth"
+      ],
+      "nextQuestIds": [
+        "dormant_barons"
+      ],
+      "questOrder": 20
+    },
+    {
+      "id": "trash_into_treasure",
+      "name": "Trash Into Treasure",
+      "trader": "Shani",
+      "description": "There's no such thing as junk, to a Raider; just valuable materials waiting to be recycled.\r\n\r\nIf you're going to amount to anything around here, you can't just wait for things to be served on a silver platter.",
+      "objectives": [
+        "Obtain {0} Wires",
+        "Obtain 1 Battery"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "wires",
+          "quantity": 6
+        },
+        {
+          "itemId": "battery",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "tactical_mk1",
+          "quantity": 1
+        },
+        {
+          "itemId": "adrenaline_shot",
+          "quantity": 3
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "binoculars",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "picking_up_the_pieces"
+      ],
+      "nextQuestIds": [
+        "off_the_radar"
+      ],
+      "questOrder": 23
+    },
+    {
+      "id": "tribute_to_toledo",
+      "name": "Tribute to Toledo",
+      "trader": "Celeste",
+      "description": "The Official Toledo Tubes Management is demanding one of our Power Rods for usage of “their” Slingshot tubes. Don’t let the name fool you, they’re in no way official; just thugs with lots of power. Could you help me with this?",
+      "objectives": [
+        "Get a Power Rod for Celeste"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "power_rod",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "magnet",
+          "quantity": 5
+        },
+        {
+          "itemId": "advanced_mechanical_components",
+          "quantity": 2
+        },
+        {
+          "itemId": "synthesized_fuel",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "life_of_a_pharmacist"
+      ],
+      "nextQuestIds": [
+        "digging_up_dirt"
+      ],
+      "questOrder": 14
+    },
+    {
+      "id": "turnabout",
+      "name": "Turnabout",
+      "trader": "Celeste",
+      "map": [
+        "The Spaceport"
+      ],
+      "description": "I got a plan. If we recover the evidence against the OTTM before they get to it, we might get them off our backs once and for all.",
+      "objectives": [
+        "Go to the North Trench Tower",
+        "Locate and upload the blackmail files to Celeste"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "heavy_gun_parts",
+          "quantity": 2
+        },
+        {
+          "itemId": "medium_gun_parts",
+          "quantity": 2
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "spaceport_trench_tower_key",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "digging_up_dirt"
+      ],
+      "questOrder": 16
+    },
+    {
+      "id": "unexpected_initiative",
+      "name": "Unexpected Initiative",
+      "trader": "Tian Wen",
+      "map": [
+        "Buried City"
+      ],
+      "description": "I’m setting up a greenhouse, to help boost our food production. I’m doing Celeste a solid, alright? That’s all. But enough about that. I’ve got all the details worked out, but I’ll need supplies, and I’m not hauling them alone.",
+      "objectives": [
+        "Reach the Grandioso Apartments in Buried City",
+        "Search for a Moisture Meter on the rooftop of the Grandioso Apartments",
+        "Reach Piazza Roma in Buried City",
+        "Search for a Nutrient Meter in the broken rooftop gardens at Piazza Roma",
+        "Deliver a Nutrient Meter to Tian Wen",
+        "Deliver a Moisture Meter to Tian Wen"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "nutrient_meter",
+          "quantity": 1
+        },
+        {
+          "itemId": "moisture_meter",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "il_toro_i",
+          "quantity": 1
+        },
+        {
+          "itemId": "shotgun_ammo",
+          "quantity": 40
+        },
+        {
+          "itemId": "shotgun_choke_ii",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "industrial_espionage",
+        "echoes_of_victory_ridge"
+      ],
+      "nextQuestIds": [
+        "a_symbol_of_unification"
+      ],
+      "questOrder": 13
+    },
+    {
+      "id": "untended_garden",
+      "name": "Untended Garden",
+      "trader": "Celeste",
+      "map": [
+        "Dam Battlegrounds"
+      ],
+      "description": "According to the files you found in the lab, the cultivation researchers were actually the ones who set up the hydroponic domes out in the swamp. Sounds like the most obvious place to search next, don’t you think?",
+      "objectives": [
+        "Go to the Hydroponic Dome Complex",
+        "Access the data archive in one of the domes",
+        "Upload the data to the computer terminal in any Field Depot"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "advanced_mechanical_components",
+          "quantity": 3
+        },
+        {
+          "itemId": "heavy_gun_parts",
+          "quantity": 3
+        },
+        {
+          "itemId": "canister",
+          "quantity": 5
+        }
+      ],
+      "previousQuestIds": [
+        "a_balanced_harvest"
+      ],
+      "nextQuestIds": [
+        "the_root_of_the_matter"
+      ],
+      "questOrder": 17
+    },
+    {
+      "id": "water_troubles",
+      "name": "Water Troubles",
+      "trader": "Celeste",
+      "map": [
+        "Dam Battlegrounds"
+      ],
+      "description": "If you’re here to complain about the water, join the club. I’ve been fielding complaints all day. Something is definitely up with it, and I need some help to sort it out.",
+      "objectives": [
+        "Locate the Flood Access Tunnel under the Red Lake Balcony",
+        "Find the intake to the District's Water Supply",
+        "Sample the water"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "mechanical_components",
+          "quantity": 3
+        },
+        {
+          "itemId": "simple_gun_parts",
+          "quantity": 3
+        },
+        {
+          "itemId": "steel_spring",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "after_rain_comes",
+        "the_root_of_the_matter"
+      ],
+      "nextQuestIds": [
+        "into_the_fray",
+        "source_of_the_contamination"
+      ],
+      "questOrder": 19
+    },
+    {
+      "id": "what_goes_around",
+      "name": "What Goes Around",
+      "trader": "Apollo",
+      "description": "We can't build ARC tech from scratch, but there's plenty I can tinker from the pieces you salvage.\r\n\r\nI'm currently trying to repurpose different ARC parts. Would you mind running some experiments for me?",
+      "objectives": [
+        "Destroy any ARC enemy using a Fireball Burner"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "blaze_grenade",
+          "quantity": 3
+        },
+        {
+          "itemId": "noisemaker",
+          "quantity": 2
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "red_light_stick",
+          "quantity": 5
+        }
+      ],
+      "previousQuestIds": [
+        "safe_passage"
+      ],
+      "nextQuestIds": [
+        "sparks_fly"
+      ],
+      "questOrder": 9
+    },
+    {
+      "id": "what_we_left_behind",
+      "name": "What We Left Behind",
+      "trader": "Tian Wen",
+      "map": [
+        "Buried City",
+        "The Spaceport",
+        "Dam Battlegrounds"
+      ],
+      "description": "Celeste told me you’re the one who helped her hound me about pitching in more. I’ll say this once: I don’t appreciate the meddling, and I have my own reasons for refusing. I do, however, appreciate the scrap. Since you’re apparently good at tracking it down, I may have a task for you.",
+      "objectives": [
+        "On Buried City, search {0} containers in the Raider Camp beneath the Parking Garage",
+        "On Dam Battlegrounds, search for anything significant in the South Swamp Outpost ",
+        "On Spaceport, search for anything significant in Bilguun's Hideout, next to the Container Storage"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "muzzle_brake_ii",
+          "quantity": 1
+        },
+        {
+          "itemId": "vertical_grip_ii",
+          "quantity": 1
+        },
+        {
+          "itemId": "stable_stock_ii",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "dormant_barons"
+      ],
+      "nextQuestIds": [
+        "broken_monument"
+      ],
+      "questOrder": 7
+    },
+    {
+      "id": "with_a_trace",
+      "name": "With A Trace",
+      "trader": "Shani",
+      "map": [
+        "The Blue Gate"
+      ],
+      "description": "That downed machine… We weren’t the ones who did that. We know that there are stray survivors out there, but this? This goes far beyond a single person.",
+      "objectives": [
+        "Reach the Barren Clearing",
+        "Find signs of who brought down the ARC machines",
+        "Inspect the Adorned Wreckage",
+        "Inspect the communications device"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "looting_mk2",
+          "quantity": 1
+        },
+        {
+          "itemId": "medium_shield",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "reduced_to_rubble"
+      ],
+      "nextQuestIds": [
+        "armored_transports",
+        "the_clean_dream"
+      ],
+      "questOrder": 25
+    },
+    {
+      "id": "with_a_view",
+      "name": "With a View",
+      "trader": "Shani",
+      "map": [
+        "stella_montis"
+      ],
+      "description": "Have you ever noticed those streaks of light darting across the skies? \r\n\r\nI’ve seen too much to believe they’re natural, but it’ll take more than a hunch to convince Celeste.",
+      "objectives": [
+        "Obtain a Rotary Encoder",
+        "Visit any of the Control Rooms near the Assembly Line",
+        "Use the Rotary Encoder to activate the server switch",
+        "Interact with a nearby computer to help identify the correct parts",
+        "Deliver an Ion Sputter to Shani"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "rotary_encoder",
+          "quantity": 1
+        },
+        {
+          "itemId": "ion_sputter",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "steel_spring",
+          "quantity": 5
+        },
+        {
+          "itemId": "wires",
+          "quantity": 5
+        },
+        {
+          "itemId": "tactical_mk2",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "snap_and_salvage"
+      ],
+      "nextQuestIds": [
+        "stable_housing",
+        "movie_night"
+      ],
+      "questOrder": 26
+    },
+    {
+      "id": "worth_your_salt",
+      "name": "Worth Your Salt",
+      "trader": "Celeste",
+      "map": [
+        "The Spaceport"
+      ],
+      "description": "I found notes that some electrical engineers at the Spaceport were working on advanced, salt-based batteries. If we can get our hands on one, perhaps it’ll prevent full-scale power outages next time a ceiling comes crashing down.",
+      "objectives": [
+        "Go to the Rocket Assembly",
+        "Search for the hidden Battery Prototype in a high place",
+        "Bring the Battery Prototype to the Industrial Recharger",
+        "Use the machinery to charge the battery",
+        "Deliver the Charged Battery to the drop-off point in the corner"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "vita_spray_blueprint",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "groundbreaking"
+      ],
+      "nextQuestIds": [
+        "on_deaf_ears"
+      ],
+      "questOrder": 22
+    }
   ]
 }
