@@ -8632,7 +8632,7 @@
         "Reach the Jiangsu Warehouse",
         "Find the shipping notes in the foreman’s office",
         "Locate the scanners in the Flight Control office of Control Tower A6",
-        "Deliver {0} LiDAR Scanners to Shani"
+        "Deliver 1 LiDAR Scanners to Shani"
       ],
       "requiredItemIds": [
         {
@@ -8701,7 +8701,7 @@
       ],
       "description": "That Deforester by the Blue Gate may have caused some real devastation, but a pristine husk like that is also an invaluable sample for our research.",
       "objectives": [
-        "Obtain {0} ARC Powercells",
+        "Obtain 2 ARC Powercells",
         "Interact with any ARC Deforester",
         "Loot an ARC Deforester"
       ],
@@ -9157,7 +9157,7 @@
         "Find 1 romance book",
         "Find 1 detective book",
         "Find 1 adventure book",
-        "Deliver {0} books to Apollo"
+        "Deliver books to Apollo"
       ],
       "requiredItemIds": [
         {
@@ -9198,7 +9198,7 @@
       "objectives": [
         "Retrieve Celeste’s Journals from the South Swamp Outpost",
         "Retrieve Celeste’s Journals from the northern outpost overlooking the Red Lakes",
-        "Deliver {0} Journals to Celeste"
+        "Deliver Journals to Celeste"
       ],
       "requiredItemIds": [
         {
@@ -9234,8 +9234,8 @@
       "trader": "Shani",
       "description": "A swarm of disoriented Wasps crashed near one of our skylights.\r\n\r\nI need you to help thin ARC's ranks before any more accidents happen, and gather some extra sturdy materials to fix the damage.",
       "objectives": [
-        "Destroy {0} ARC enemies",
-        "Get {0} ARC Alloy for Shani"
+        "Destroy ARC enemies",
+        "Get 3 ARC Alloy for Shani"
       ],
       "requiredItemIds": [
         {
@@ -9309,7 +9309,7 @@
         "Scope out a cover spot in the Parking Garage staircases",
         "Scope out a cover spot in the buses near Marano Park",
         "Scope out a cover spot in the attics around Main Street",
-        "Destroy {0} Spotters",
+        "Destroy Spotters",
         "Deliver a Spotter Relay to Shani"
       ],
       "requiredItemIds": [
@@ -9445,7 +9445,7 @@
       "description": "Say, newbie: if you want me to treat you, you better prove that those precious limbs of yours are worth bandaging.",
       "objectives": [
         "Obtain 1 Syringe",
-        "Obtain {0} Antiseptic",
+        "Obtain 2 Antiseptic",
         "Obtain 1 Durable Cloth",
         "Obtain 1 Great Mullein"
       ],
@@ -9863,7 +9863,7 @@
       "description": "I just treated one of the first Raiders who visited Stella Montis, and she said that she saw... others. Androids, very much like me.",
       "objectives": [
         "Deploy into Stella Montis",
-        "Find and search {0} Androids"
+        "Find and search Androids"
       ],
       "rewardItemIds": [
         {
@@ -10181,9 +10181,9 @@
       ],
       "description": "I’ve become quite crafty at weaving bandages from Fabric, but to my shame, I haven’t quite mastered weaving an x-ray machine or a pulse oximiter.",
       "objectives": [
-        "On Spaceport, search {0} containers in the Departure Building's exam rooms",
-        "Search {0} containers in the Hospital in Buried City",
-        "On Dam Battlegrounds, search {0} containers in the Research & Administration building's medical room"
+        "On Spaceport, search containers in the Departure Building's exam rooms",
+        "Search containers in the Hospital in Buried City",
+        "On Dam Battlegrounds, search containers in the Research & Administration building's medical room"
       ],
       "rewardItemIds": [
         {
@@ -10549,7 +10549,7 @@
       "description": "The storm has mostly settled, but much of our infrastructure has taken a proper beating. If you're hoping to stay with us, I'll need you to pull your weight in the repair efforts.",
       "objectives": [
         "Visit any area on your map with a loot category icon",
-        "Loot {0} containers"
+        "Loot containers"
       ],
       "rewardItemIds": [
         {
@@ -10975,7 +10975,7 @@
       ],
       "description": "You know what I've been dreaming of lately? A talking water distiller! Crazy, huh? But seriously, with purer compounds I could make explosives with more oumph! Would be something, right?",
       "objectives": [
-        "On Spaceport, search {0} containers in the underground tunnels",
+        "On Spaceport, search containers in the underground tunnels",
         "Find and monitor any Filtration System in the tunnels",
         "On The Blue Gate, visit the Maintenance Bunker",
         "Monitor the Purification System in the bunker",
@@ -11259,7 +11259,7 @@
       "trader": "Shani",
       "description": "There's no such thing as junk, to a Raider; just valuable materials waiting to be recycled.\r\n\r\nIf you're going to amount to anything around here, you can't just wait for things to be served on a silver platter.",
       "objectives": [
-        "Obtain {0} Wires",
+        "Obtain 6 Wires",
         "Obtain 1 Battery"
       ],
       "requiredItemIds": [
@@ -11529,7 +11529,7 @@
       ],
       "description": "Celeste told me you’re the one who helped her hound me about pitching in more. I’ll say this once: I don’t appreciate the meddling, and I have my own reasons for refusing. I do, however, appreciate the scrap. Since you’re apparently good at tracking it down, I may have a task for you.",
       "objectives": [
-        "On Buried City, search {0} containers in the Raider Camp beneath the Parking Garage",
+        "On Buried City, search containers in the Raider Camp beneath the Parking Garage",
         "On Dam Battlegrounds, search for anything significant in the South Swamp Outpost ",
         "On Spaceport, search for anything significant in Bilguun's Hideout, next to the Container Storage"
       ],
