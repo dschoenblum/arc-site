@@ -303,10 +303,6 @@
       "recyclesInto": {
         "mechanical_components": 2,
         "simple_gun_parts": 2
-      },
-      "upgradeCost": {
-        "mechanical_components": 3,
-        "simple_gun_parts": 1
       }
     },
     {
@@ -324,8 +320,8 @@
         "simple_gun_parts": 3
       },
       "upgradeCost": {
-        "heavy_gun_parts": 1,
-        "mechanical_components": 4
+        "mechanical_components": 3,
+        "simple_gun_parts": 1
       }
     },
     {
@@ -442,9 +438,6 @@
       "value": 200,
       "weightKg": 0.25,
       "stackSize": 15,
-      "recipe": {
-        "wasp_driver": 1
-      },
       "recyclesInto": {
         "metal_parts": 2
       },
@@ -594,12 +587,6 @@
       "value": 270,
       "weightKg": 0.5,
       "stackSize": 5,
-      "recipe": {
-        "advanced_arc_powercell": 1
-      },
-      "recyclesInto": {
-        "arc_alloy": 1
-      },
       "questsRequiredFor": [
         {
           "questId": "a_prime_specimen",
@@ -680,10 +667,6 @@
       "recyclesInto": {
         "mechanical_components": 2,
         "simple_gun_parts": 2
-      },
-      "upgradeCost": {
-        "mechanical_components": 4,
-        "simple_gun_parts": 1
       }
     },
     {
@@ -701,8 +684,8 @@
         "simple_gun_parts": 3
       },
       "upgradeCost": {
-        "mechanical_components": 5,
-        "medium_gun_parts": 1
+        "mechanical_components": 4,
+        "simple_gun_parts": 1
       }
     },
     {
@@ -750,10 +733,7 @@
       "rarity": "Common",
       "value": 100,
       "weightKg": 0.05,
-      "stackSize": 100,
-      "recipe": {
-        "agave": 1
-      }
+      "stackSize": 100
     },
     {
       "id": "bandage",
@@ -833,9 +813,6 @@
       "value": 250,
       "weightKg": 0.25,
       "stackSize": 15,
-      "recipe": {
-        "jolt_mine": 1
-      },
       "recyclesInto": {
         "metal_parts": 2
       },
@@ -886,10 +863,6 @@
       "recyclesInto": {
         "advanced_mechanical_components": 1,
         "heavy_gun_parts": 2
-      },
-      "upgradeCost": {
-        "advanced_mechanical_components": 1,
-        "heavy_gun_parts": 2
       }
     },
     {
@@ -926,7 +899,7 @@
         "heavy_gun_parts": 3
       },
       "upgradeCost": {
-        "advanced_mechanical_components": 2,
+        "advanced_mechanical_components": 1,
         "heavy_gun_parts": 2
       }
     },
@@ -1128,10 +1101,6 @@
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "light_gun_parts": 2
-      },
-      "upgradeCost": {
-        "advanced_mechanical_components": 2,
-        "light_gun_parts": 1
       }
     },
     {
@@ -1150,7 +1119,7 @@
       },
       "upgradeCost": {
         "advanced_mechanical_components": 2,
-        "light_gun_parts": 3
+        "light_gun_parts": 1
       }
     },
     {
@@ -1378,10 +1347,6 @@
       "recyclesInto": {
         "mechanical_components": 1,
         "simple_gun_parts": 2
-      },
-      "upgradeCost": {
-        "mechanical_components": 3,
-        "simple_gun_parts": 1
       }
     },
     {
@@ -1418,8 +1383,8 @@
         "simple_gun_parts": 3
       },
       "upgradeCost": {
-        "light_gun_parts": 1,
-        "mechanical_components": 4
+        "mechanical_components": 3,
+        "simple_gun_parts": 1
       }
     },
     {
@@ -1515,9 +1480,6 @@
       "value": 300,
       "weightKg": 0.25,
       "stackSize": 15,
-      "recipe": {
-        "bicycle_pump": 1
-      },
       "recyclesInto": {
         "plastic_parts": 3
       },
@@ -1577,9 +1539,6 @@
       "value": 50,
       "weightKg": 0.15,
       "stackSize": 50,
-      "recipe": {
-        "gas_grenade": 1
-      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "explosives_bench",
@@ -2406,7 +2365,7 @@
       "name": "Energy Clip",
       "type": "Ammunition",
       "rarity": "Rare",
-      "value": 1000,
+      "value": 200,
       "weightKg": 0.3,
       "stackSize": 5,
       "recipe": {
@@ -2492,9 +2451,6 @@
       "value": 2750,
       "weightKg": 1,
       "stackSize": 3,
-      "recipe": {
-        "ion_sputter": 1
-      },
       "recyclesInto": {
         "magnet": 2,
         "processor": 2
@@ -2862,9 +2818,6 @@
       "value": 50,
       "weightKg": 0.1,
       "stackSize": 50,
-      "recipe": {
-        "tattered_clothes": 1
-      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "equipment_bench",
@@ -2915,9 +2868,6 @@
       "recyclesInto": {
         "metal_parts": 2,
         "rubber_parts": 1
-      },
-      "upgradeCost": {
-        "metal_parts": 7
       }
     },
     {
@@ -2935,8 +2885,7 @@
         "rubber_parts": 3
       },
       "upgradeCost": {
-        "metal_parts": 9,
-        "simple_gun_parts": 1
+        "metal_parts": 7
       }
     },
     {
@@ -2954,7 +2903,7 @@
         "simple_gun_parts": 1
       },
       "upgradeCost": {
-        "mechanical_components": 1,
+        "metal_parts": 9,
         "simple_gun_parts": 1
       }
     },
@@ -3024,9 +2973,6 @@
       "value": 640,
       "weightKg": 0.5,
       "stackSize": 3,
-      "recipe": {
-        "flame_spray": 1
-      },
       "recyclesInto": {
         "arc_alloy": 1,
         "crude_explosives": 1
@@ -3475,9 +3421,6 @@
       "recyclesInto": {
         "metal_parts": 2,
         "rubber_parts": 1
-      },
-      "upgradeCost": {
-        "metal_parts": 8
       }
     },
     {
@@ -3495,8 +3438,7 @@
         "rubber_parts": 3
       },
       "upgradeCost": {
-        "metal_parts": 9,
-        "simple_gun_parts": 1
+        "metal_parts": 8
       }
     },
     {
@@ -3514,7 +3456,7 @@
         "simple_gun_parts": 1
       },
       "upgradeCost": {
-        "mechanical_components": 1,
+        "metal_parts": 9,
         "simple_gun_parts": 1
       }
     },
@@ -3746,10 +3688,6 @@
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "heavy_gun_parts": 2
-      },
-      "upgradeCost": {
-        "advanced_mechanical_components": 1,
-        "heavy_gun_parts": 2
       }
     },
     {
@@ -3767,8 +3705,8 @@
         "heavy_gun_parts": 3
       },
       "upgradeCost": {
-        "advanced_mechanical_components": 2,
-        "heavy_gun_parts": 1
+        "advanced_mechanical_components": 1,
+        "heavy_gun_parts": 2
       }
     },
     {
@@ -3787,7 +3725,7 @@
       },
       "upgradeCost": {
         "advanced_mechanical_components": 2,
-        "heavy_gun_parts": 3
+        "heavy_gun_parts": 1
       }
     },
     {
@@ -3861,10 +3799,6 @@
       "recyclesInto": {
         "mechanical_components": 2,
         "simple_gun_parts": 2
-      },
-      "upgradeCost": {
-        "mechanical_components": 3,
-        "simple_gun_parts": 1
       }
     },
     {
@@ -3882,8 +3816,8 @@
         "simple_gun_parts": 3
       },
       "upgradeCost": {
-        "heavy_gun_parts": 1,
-        "mechanical_components": 4
+        "mechanical_components": 3,
+        "simple_gun_parts": 1
       }
     },
     {
@@ -4090,10 +4024,6 @@
       "recyclesInto": {
         "metal_parts": 3,
         "rubber_parts": 2
-      },
-      "upgradeCost": {
-        "metal_parts": 8,
-        "plastic_parts": 10
       }
     },
     {
@@ -4111,8 +4041,8 @@
         "rubber_parts": 6
       },
       "upgradeCost": {
-        "metal_parts": 10,
-        "simple_gun_parts": 1
+        "metal_parts": 8,
+        "plastic_parts": 10
       }
     },
     {
@@ -4130,7 +4060,7 @@
         "simple_gun_parts": 1
       },
       "upgradeCost": {
-        "mechanical_components": 3,
+        "metal_parts": 10,
         "simple_gun_parts": 1
       }
     },
@@ -4517,7 +4447,7 @@
       "id": "looting_mk3_survivor_blueprint",
       "name": "Looting Mk. 3 (Survivor) Blueprint",
       "type": "Blueprint",
-      "rarity": "Legendary",
+      "rarity": "Common",
       "value": 5000,
       "weightKg": 0
     },
@@ -4585,9 +4515,6 @@
       "value": 300,
       "weightKg": 0.25,
       "stackSize": 15,
-      "recipe": {
-        "industrial_magnet": 1
-      },
       "recyclesInto": {
         "metal_parts": 2
       }
@@ -4792,9 +4719,6 @@
       "value": 75,
       "weightKg": 0.1,
       "stackSize": 50,
-      "recipe": {
-        "damaged_tick_pod": 1
-      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "refiner",
@@ -5083,9 +5007,6 @@
       "value": 300,
       "weightKg": 0.25,
       "stackSize": 15,
-      "recipe": {
-        "motor": 1
-      },
       "recyclesInto": {
         "chemicals": 3
       },
@@ -5167,10 +5088,6 @@
       "recyclesInto": {
         "advanced_mechanical_components": 1,
         "medium_gun_parts": 2
-      },
-      "upgradeCost": {
-        "advanced_mechanical_components": 1,
-        "medium_gun_parts": 2
       }
     },
     {
@@ -5207,7 +5124,7 @@
         "medium_gun_parts": 3
       },
       "upgradeCost": {
-        "advanced_mechanical_components": 2,
+        "advanced_mechanical_components": 1,
         "medium_gun_parts": 2
       }
     },
@@ -5310,9 +5227,6 @@
       "value": 60,
       "weightKg": 0.1,
       "stackSize": 50,
-      "recipe": {
-        "surge_shield_recharger": 1
-      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "equipment_bench",
@@ -5527,9 +5441,6 @@
       "value": 500,
       "weightKg": 0.2,
       "stackSize": 5,
-      "recipe": {
-        "projector": 1
-      },
       "recyclesInto": {
         "plastic_parts": 1,
         "wires": 1
@@ -5672,10 +5583,6 @@
       },
       "recyclesInto": {
         "metal_parts": 8
-      },
-      "upgradeCost": {
-        "metal_parts": 10,
-        "rubber_parts": 10
       }
     },
     {
@@ -5692,8 +5599,8 @@
         "metal_parts": 12
       },
       "upgradeCost": {
-        "mechanical_components": 3,
-        "simple_gun_parts": 1
+        "metal_parts": 10,
+        "rubber_parts": 10
       }
     },
     {
@@ -5848,10 +5755,6 @@
       "recyclesInto": {
         "advanced_mechanical_components": 1,
         "medium_gun_parts": 2
-      },
-      "upgradeCost": {
-        "advanced_mechanical_components": 1,
-        "medium_gun_parts": 2
       }
     },
     {
@@ -5888,7 +5791,7 @@
         "medium_gun_parts": 3
       },
       "upgradeCost": {
-        "advanced_mechanical_components": 2,
+        "advanced_mechanical_components": 1,
         "medium_gun_parts": 2
       }
     },
@@ -6011,9 +5914,6 @@
       "value": 500,
       "weightKg": 0.3,
       "stackSize": 5,
-      "recipe": {
-        "zipline": 1
-      },
       "recyclesInto": {
         "fabric": 5
       }
@@ -6081,9 +5981,6 @@
       "value": 50,
       "weightKg": 0.1,
       "stackSize": 50,
-      "recipe": {
-        "rubber_pad": 1
-      },
       "hideoutRequiredFor": [
         {
           "hideoutId": "weapon_bench",
@@ -6332,9 +6229,6 @@
       "value": 500,
       "weightKg": 0.3,
       "stackSize": 5,
-      "recipe": {
-        "broken_handheld_radio": 1
-      },
       "recyclesInto": {
         "metal_parts": 1,
         "wires": 1
@@ -6685,9 +6579,6 @@
       "value": 330,
       "weightKg": 0.3,
       "stackSize": 10,
-      "recipe": {
-        "il_toro_ii": 1
-      },
       "recyclesInto": {
         "metal_parts": 2
       }
@@ -6877,9 +6768,6 @@
       "value": 500,
       "weightKg": 0.3,
       "stackSize": 5,
-      "recipe": {
-        "noisemaker": 1
-      },
       "recyclesInto": {
         "plastic_parts": 2,
         "rubber_parts": 3
@@ -7064,9 +6952,6 @@
       "value": 300,
       "weightKg": 0.25,
       "stackSize": 15,
-      "recipe": {
-        "cooling_coil": 1
-      },
       "recyclesInto": {
         "metal_parts": 2
       },
@@ -7157,10 +7042,6 @@
       "recyclesInto": {
         "metal_parts": 3,
         "rubber_parts": 2
-      },
-      "upgradeCost": {
-        "metal_parts": 8,
-        "rubber_parts": 12
       }
     },
     {
@@ -7178,8 +7059,8 @@
         "rubber_parts": 6
       },
       "upgradeCost": {
-        "metal_parts": 10,
-        "simple_gun_parts": 1
+        "metal_parts": 8,
+        "rubber_parts": 12
       }
     },
     {
@@ -7197,7 +7078,7 @@
         "simple_gun_parts": 1
       },
       "upgradeCost": {
-        "mechanical_components": 3,
+        "metal_parts": 10,
         "simple_gun_parts": 1
       }
     },
@@ -7289,9 +7170,6 @@
       "value": 700,
       "weightKg": 0.5,
       "stackSize": 5,
-      "recipe": {
-        "rocket_thruster": 1
-      },
       "recyclesInto": {
         "chemicals": 1,
         "oil": 1
@@ -7313,9 +7191,6 @@
       "value": 500,
       "weightKg": 0.3,
       "stackSize": 5,
-      "recipe": {
-        "rusted_shut_medical_kit": 1
-      },
       "recyclesInto": {
         "chemicals": 2,
         "plastic_parts": 3
@@ -7539,10 +7414,6 @@
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "medium_gun_parts": 2
-      },
-      "upgradeCost": {
-        "advanced_mechanical_components": 2,
-        "medium_gun_parts": 1
       }
     },
     {
@@ -7561,7 +7432,7 @@
       },
       "upgradeCost": {
         "advanced_mechanical_components": 2,
-        "medium_gun_parts": 3
+        "medium_gun_parts": 1
       }
     },
     {
@@ -7727,10 +7598,6 @@
       "recyclesInto": {
         "advanced_mechanical_components": 1,
         "medium_gun_parts": 2
-      },
-      "upgradeCost": {
-        "advanced_mechanical_components": 1,
-        "medium_gun_parts": 2
       }
     },
     {
@@ -7767,7 +7634,7 @@
         "medium_gun_parts": 3
       },
       "upgradeCost": {
-        "advanced_mechanical_components": 2,
+        "advanced_mechanical_components": 1,
         "medium_gun_parts": 2
       }
     },
@@ -7914,10 +7781,6 @@
       "recyclesInto": {
         "advanced_mechanical_components": 1,
         "medium_gun_parts": 2
-      },
-      "upgradeCost": {
-        "advanced_mechanical_components": 1,
-        "medium_gun_parts": 2
       }
     },
     {
@@ -7954,7 +7817,7 @@
         "medium_gun_parts": 3
       },
       "upgradeCost": {
-        "advanced_mechanical_components": 2,
+        "advanced_mechanical_components": 1,
         "medium_gun_parts": 2
       }
     },
@@ -8134,9 +7997,6 @@
       "value": 500,
       "weightKg": 0.3,
       "stackSize": 5,
-      "recipe": {
-        "signal_amplifier": 1
-      },
       "recyclesInto": {
         "rubber_parts": 1,
         "wires": 1
@@ -8179,10 +8039,6 @@
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "heavy_gun_parts": 2
-      },
-      "upgradeCost": {
-        "advanced_mechanical_components": 1,
-        "heavy_gun_parts": 2
       }
     },
     {
@@ -8200,8 +8056,8 @@
         "heavy_gun_parts": 3
       },
       "upgradeCost": {
-        "advanced_mechanical_components": 2,
-        "heavy_gun_parts": 1
+        "advanced_mechanical_components": 1,
+        "heavy_gun_parts": 2
       }
     },
     {
@@ -8220,7 +8076,7 @@
       },
       "upgradeCost": {
         "advanced_mechanical_components": 2,
-        "heavy_gun_parts": 3
+        "heavy_gun_parts": 1
       }
     },
     {
@@ -8337,9 +8193,6 @@
       "value": 200,
       "weightKg": 0.25,
       "stackSize": 15,
-      "recipe": {
-        "power_cable": 1
-      },
       "recyclesInto": {
         "rubber_parts": 2
       },
