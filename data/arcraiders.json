@@ -40,7 +40,16 @@
       "stackSize": 5,
       "recyclesInto": {
         "arc_powercell": 2
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "high_gain_antenna_project",
+          "projectName": "High-Gain Antenna",
+          "phase": 1,
+          "phaseName": "Sturdy Base",
+          "quantity": 15
+        }
+      ]
     },
     {
       "id": "advanced_electrical_components",
@@ -480,11 +489,11 @@
           "quantity": 80
         },
         {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
+          "projectId": "high_gain_antenna_project",
+          "projectName": "High-Gain Antenna",
           "phase": 1,
-          "phaseName": "Atmospheric pressure",
-          "quantity": 5
+          "phaseName": "Sturdy Base",
+          "quantity": 50
         }
       ]
     },
@@ -521,7 +530,16 @@
       "stackSize": 3,
       "recyclesInto": {
         "chemicals": 16
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "high_gain_antenna_project",
+          "projectName": "High-Gain Antenna",
+          "phase": 2,
+          "phaseName": "Data Logger",
+          "quantity": 15
+        }
+      ]
     },
     {
       "id": "arc_flex_rubber",
@@ -533,7 +551,16 @@
       "stackSize": 3,
       "recyclesInto": {
         "rubber_parts": 16
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "high_gain_antenna_project",
+          "projectName": "High-Gain Antenna",
+          "phase": 1,
+          "phaseName": "Sturdy Base",
+          "quantity": 10
+        }
+      ]
     },
     {
       "id": "arc_motion_core",
@@ -576,6 +603,13 @@
           "phase": 3,
           "phaseName": "Ferocious Foes",
           "quantity": 10
+        },
+        {
+          "projectId": "high_gain_antenna_project",
+          "projectName": "High-Gain Antenna",
+          "phase": 1,
+          "phaseName": "Sturdy Base",
+          "quantity": 10
         }
       ]
     },
@@ -606,15 +640,6 @@
           "level": 1,
           "quantity": 5
         }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 3,
-          "phaseName": "Precipitation",
-          "quantity": 5
-        }
       ]
     },
     {
@@ -635,6 +660,13 @@
           "phase": 4,
           "phaseName": "Dominant Dangers",
           "quantity": 10
+        },
+        {
+          "projectId": "high_gain_antenna_project",
+          "projectName": "High-Gain Antenna",
+          "phase": 3,
+          "phaseName": "Parabolic Dish",
+          "quantity": 20
         }
       ]
     },
@@ -648,7 +680,16 @@
       "stackSize": 3,
       "recyclesInto": {
         "fabric": 16
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "high_gain_antenna_project",
+          "projectName": "High-Gain Antenna",
+          "phase": 2,
+          "phaseName": "Data Logger",
+          "quantity": 15
+        }
+      ]
     },
     {
       "id": "arpeggio_i",
@@ -727,6 +768,36 @@
       }
     },
     {
+      "id": "assessor_matrix",
+      "name": "Assessor Matrix",
+      "imageFilename": "",
+      "type": "Recyclable",
+      "rarity": "Epic",
+      "value": 5000,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "recyclesInto": {
+        "advanced_arc_powercell": 3,
+        "advanced_mechanical_components": 1
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "high_gain_antenna_project",
+          "projectName": "High-Gain Antenna",
+          "phase": 2,
+          "phaseName": "Data Logger",
+          "quantity": 6
+        },
+        {
+          "projectId": "high_gain_antenna_project",
+          "projectName": "High-Gain Antenna",
+          "phase": 3,
+          "phaseName": "Parabolic Dish",
+          "quantity": 18
+        }
+      ]
+    },
+    {
       "id": "assorted_seeds",
       "name": "Assorted Seeds",
       "type": "Nature",
@@ -787,6 +858,16 @@
         "advanced_mechanical_components": 1,
         "arc_alloy": 3
       },
+      "questsRequiredFor": [
+        {
+          "questId": "settled_in_full",
+          "questName": "Settled in Full",
+          "trader": "Tian Wen",
+          "questOrder": 2,
+          "mapNames": [],
+          "quantity": 1
+        }
+      ],
       "hideoutRequiredFor": [
         {
           "hideoutId": "equipment_bench",
@@ -818,10 +899,20 @@
       },
       "questsRequiredFor": [
         {
+          "questId": "after_rain_comes",
+          "questName": "After Rain Comes",
+          "trader": "Celeste",
+          "questOrder": 4,
+          "mapNames": [
+            "Buried City"
+          ],
+          "quantity": 2
+        },
+        {
           "questId": "trash_into_treasure",
           "questName": "Trash Into Treasure",
           "trader": "Shani",
-          "questOrder": 23,
+          "questOrder": 28,
           "mapNames": [],
           "quantity": 1
         }
@@ -1437,16 +1528,7 @@
       "stackSize": 5,
       "recyclesInto": {
         "plastic_parts": 8
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 5,
-          "phaseName": "Temperature",
-          "quantity": 3
-        }
-      ]
+      }
     },
     {
       "id": "candle_holder",
@@ -1482,16 +1564,90 @@
       "stackSize": 15,
       "recyclesInto": {
         "plastic_parts": 3
+      }
+    },
+    {
+      "id": "canto_blueprint",
+      "name": "Canto Blueprint",
+      "imageFilename": "",
+      "type": "Blueprint",
+      "rarity": "Common",
+      "value": 5000,
+      "weightKg": 0,
+      "stackSize": 1
+    },
+    {
+      "id": "canto_i",
+      "name": "Canto I",
+      "imageFilename": "",
+      "type": "SMG",
+      "rarity": "Legendary",
+      "value": 7000,
+      "weightKg": 6.5,
+      "stackSize": 1,
+      "recipe": {
+        "advanced_mechanical_components": 2,
+        "magnet": 5,
+        "medium_gun_parts": 3
       },
-      "projectsRequiredFor": [
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 3,
-          "phaseName": "Precipitation",
-          "quantity": 5
-        }
-      ]
+      "recyclesInto": {
+        "advanced_mechanical_components": 1,
+        "medium_gun_parts": 2
+      }
+    },
+    {
+      "id": "canto_ii",
+      "name": "Canto II",
+      "imageFilename": "",
+      "type": "SMG",
+      "rarity": "Legendary",
+      "value": 10000,
+      "weightKg": 6.5,
+      "stackSize": 1,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "medium_gun_parts": 2
+      },
+      "upgradeCost": {
+        "advanced_mechanical_components": 1,
+        "medium_gun_parts": 2
+      }
+    },
+    {
+      "id": "canto_iii",
+      "name": "Canto III",
+      "imageFilename": "",
+      "type": "SMG",
+      "rarity": "Legendary",
+      "value": 13000,
+      "weightKg": 6.5,
+      "stackSize": 1,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "medium_gun_parts": 3
+      },
+      "upgradeCost": {
+        "advanced_mechanical_components": 1,
+        "medium_gun_parts": 2
+      }
+    },
+    {
+      "id": "canto_iv",
+      "name": "Canto IV",
+      "imageFilename": "",
+      "type": "SMG",
+      "rarity": "Legendary",
+      "value": 17000,
+      "weightKg": 6.5,
+      "stackSize": 1,
+      "recyclesInto": {
+        "advanced_mechanical_components": 3,
+        "medium_gun_parts": 3
+      },
+      "upgradeCost": {
+        "advanced_mechanical_components": 2,
+        "medium_gun_parts": 2
+      }
     },
     {
       "id": "cat_bed",
@@ -1676,16 +1832,7 @@
       "recyclesInto": {
         "arc_alloy": 2,
         "crude_explosives": 2
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 2,
-          "phaseName": "Sunlight",
-          "quantity": 1
-        }
-      ]
+      }
     },
     {
       "id": "compensator_i",
@@ -1987,15 +2134,6 @@
           "level": 2,
           "quantity": 2
         }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 5,
-          "phaseName": "Temperature",
-          "quantity": 1
-        }
       ]
     },
     {
@@ -2169,6 +2307,28 @@
       }
     },
     {
+      "id": "dodgers_note",
+      "name": "Dodger's Note",
+      "imageFilename": "",
+      "type": "Trinket",
+      "rarity": "Common",
+      "value": 0,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "outstanding_balance",
+          "questName": "Outstanding Balance",
+          "trader": "Tian Wen",
+          "questOrder": 1,
+          "mapNames": [
+            "The Blue Gate"
+          ],
+          "quantity": 1
+        }
+      ]
+    },
+    {
       "id": "dog_collar",
       "name": "Dog Collar",
       "type": "Recyclable",
@@ -2188,6 +2348,35 @@
           "quantity": 1
         }
       ]
+    },
+    {
+      "id": "dolabra_blueprint",
+      "name": "Dolabra Blueprint",
+      "imageFilename": "",
+      "type": "Blueprint",
+      "rarity": "Common",
+      "value": 5000,
+      "weightKg": 0,
+      "stackSize": 1
+    },
+    {
+      "id": "dolabra",
+      "name": "Dolabra",
+      "imageFilename": "",
+      "type": "Shotgun",
+      "rarity": "Legendary",
+      "value": 27500,
+      "weightKg": 8,
+      "stackSize": 1,
+      "isWeapon": true,
+      "recipe": {
+        "magnetic_accelerator": 3,
+        "shredder_gyro": 3,
+        "vaporizer_regulator": 2
+      },
+      "recyclesInto": {
+        "magnetic_accelerator": 2
+      }
     },
     {
       "id": "doodly_duck",
@@ -2236,16 +2425,7 @@
       "stackSize": 15,
       "recyclesInto": {
         "fabric": 3
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 4,
-          "phaseName": "Humidity",
-          "quantity": 10
-        }
-      ]
+      }
     },
     {
       "id": "durable_cloth",
@@ -2954,16 +3134,7 @@
       "rarity": "Rare",
       "value": 3000,
       "weightKg": 0.2,
-      "stackSize": 3,
-      "projectsRequiredFor": [
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 3,
-          "phaseName": "Precipitation",
-          "quantity": 1
-        }
-      ]
+      "stackSize": 3
     },
     {
       "id": "fireball_burner",
@@ -2977,6 +3148,16 @@
         "arc_alloy": 1,
         "crude_explosives": 1
       },
+      "questsRequiredFor": [
+        {
+          "questId": "test_case",
+          "questName": "Test Case",
+          "trader": "Apollo",
+          "questOrder": 12,
+          "mapNames": [],
+          "quantity": 1
+        }
+      ],
       "hideoutRequiredFor": [
         {
           "hideoutId": "refiner",
@@ -3014,6 +3195,16 @@
         "arc_alloy": 2,
         "crude_explosives": 2
       },
+      "questsRequiredFor": [
+        {
+          "questId": "test_case",
+          "questName": "Test Case",
+          "trader": "Apollo",
+          "questOrder": 12,
+          "mapNames": [],
+          "quantity": 1
+        }
+      ],
       "projectsRequiredFor": [
         {
           "projectId": "expedition_project_s3",
@@ -3021,13 +3212,6 @@
           "phase": 3,
           "phaseName": "Framework",
           "quantity": 5
-        },
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 5,
-          "phaseName": "Temperature",
-          "quantity": 1
         }
       ]
     },
@@ -3069,7 +3253,7 @@
           "questId": "broken_monument",
           "questName": "Broken Monument",
           "trader": "Tian Wen",
-          "questOrder": 8,
+          "questOrder": 10,
           "mapNames": [
             "Dam Battlegrounds"
           ],
@@ -3089,7 +3273,7 @@
           "questId": "broken_monument",
           "questName": "Broken Monument",
           "trader": "Tian Wen",
-          "questOrder": 8,
+          "questOrder": 10,
           "mapNames": [
             "Dam Battlegrounds"
           ],
@@ -3109,7 +3293,7 @@
           "questId": "broken_monument",
           "questName": "Broken Monument",
           "trader": "Tian Wen",
-          "questOrder": 8,
+          "questOrder": 10,
           "mapNames": [
             "Dam Battlegrounds"
           ],
@@ -3160,7 +3344,7 @@
           "questId": "snap_and_salvage",
           "questName": "Snap and Salvage",
           "trader": "Tian Wen",
-          "questOrder": 1,
+          "questOrder": 3,
           "mapNames": [
             "stella_montis"
           ],
@@ -3196,7 +3380,11 @@
       "rarity": "Common",
       "value": 100,
       "weightKg": 1,
-      "stackSize": 1
+      "stackSize": 1,
+      "recyclesInto": {
+        "plastic_parts": 6,
+        "rubber_parts": 6
+      }
     },
     {
       "id": "frequency_modulation_box",
@@ -3582,15 +3770,6 @@
       }
     },
     {
-      "id": "horizontal_grip_blueprint",
-      "name": "Horizontal Grip Blueprint",
-      "imageFilename": "horizontal_grip.png",
-      "type": "Blueprint",
-      "rarity": "Legendary",
-      "value": 5000,
-      "weightKg": 0
-    },
-    {
       "id": "horizontal_grip",
       "name": "Horizontal Grip",
       "type": "Modification",
@@ -3616,6 +3795,14 @@
         "electrical_components": 1
       },
       "questsRequiredFor": [
+        {
+          "questId": "test_case",
+          "questName": "Test Case",
+          "trader": "Apollo",
+          "questOrder": 12,
+          "mapNames": [],
+          "quantity": 1
+        },
         {
           "questId": "the_trifecta",
           "questName": "The Trifecta",
@@ -3943,7 +4130,7 @@
           "questId": "with_a_view",
           "questName": "With a View",
           "trader": "Shani",
-          "questOrder": 26,
+          "questOrder": 32,
           "mapNames": [
             "stella_montis"
           ],
@@ -4084,15 +4271,6 @@
       }
     },
     {
-      "id": "kinetic_converter_blueprint",
-      "name": "Kinetic Converter Blueprint",
-      "imageFilename": "kinetic_converter.png",
-      "type": "Blueprint",
-      "rarity": "Legendary",
-      "value": 5000,
-      "weightKg": 0
-    },
-    {
       "id": "kinetic_converter",
       "name": "Kinetic Converter",
       "type": "Modification",
@@ -4221,7 +4399,19 @@
       "rarity": "Common",
       "value": 0,
       "weightKg": 0.5,
-      "stackSize": 1
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "building_a_library",
+          "questName": "Building a Library",
+          "trader": "Apollo",
+          "questOrder": 2,
+          "mapNames": [
+            "Buried City"
+          ],
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "lidar_scanner",
@@ -4562,7 +4752,7 @@
           "questId": "snap_and_salvage",
           "questName": "Snap and Salvage",
           "trader": "Tian Wen",
-          "questOrder": 1,
+          "questOrder": 3,
           "mapNames": [
             "stella_montis"
           ],
@@ -4577,7 +4767,19 @@
       "rarity": "Common",
       "value": 0,
       "weightKg": 0.5,
-      "stackSize": 1
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "the_majors_footlocker",
+          "questName": "The Major’s Footlocker",
+          "trader": "Tian Wen",
+          "questOrder": 5,
+          "mapNames": [
+            "Dam Battlegrounds"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "major_aivas_patch",
@@ -4740,13 +4942,6 @@
           "phase": 1,
           "phaseName": "Foundation",
           "quantity": 150
-        },
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 1,
-          "phaseName": "Atmospheric pressure",
-          "quantity": 15
         }
       ]
     },
@@ -4805,7 +5000,7 @@
           "questId": "unexpected_initiative",
           "questName": "Unexpected Initiative",
           "trader": "Tian Wen",
-          "questOrder": 13,
+          "questOrder": 15,
           "mapNames": [
             "Buried City"
           ],
@@ -4991,9 +5186,31 @@
           "questId": "unexpected_initiative",
           "questName": "Unexpected Initiative",
           "trader": "Tian Wen",
-          "questOrder": 13,
+          "questOrder": 15,
           "mapNames": [
             "Buried City"
+          ],
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "official_shutdown_documentation",
+      "name": "Official Shutdown Documentation",
+      "imageFilename": "",
+      "type": "Trinket",
+      "rarity": "Common",
+      "value": 0,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "last_entry",
+          "questName": "Last Entry",
+          "trader": "Shani",
+          "questOrder": 26,
+          "mapNames": [
+            "stella_montis"
           ],
           "quantity": 1
         }
@@ -5009,16 +5226,7 @@
       "stackSize": 15,
       "recyclesInto": {
         "chemicals": 3
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 1,
-          "phaseName": "Atmospheric pressure",
-          "quantity": 3
-        }
-      ]
+      }
     },
     {
       "id": "old_world_books",
@@ -5240,15 +5448,6 @@
           "level": 1,
           "quantity": 50
         }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 1,
-          "phaseName": "Atmospheric pressure",
-          "quantity": 25
-        }
       ]
     },
     {
@@ -5333,7 +5532,19 @@
       "rarity": "Common",
       "value": 0,
       "weightKg": 0.5,
-      "stackSize": 1
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "a_new_type_of_plant",
+          "questName": "A New Type of Plant",
+          "trader": "Lance",
+          "questOrder": 0,
+          "mapNames": [
+            "Dam Battlegrounds"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "poster_of_natural_wonders",
@@ -5454,7 +5665,19 @@
       "rarity": "Common",
       "value": 0,
       "weightKg": 0,
-      "stackSize": 1
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "stable_housing",
+          "questName": "Stable Housing",
+          "trader": "Tian Wen",
+          "questOrder": 4,
+          "mapNames": [
+            "stella_montis"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "projector",
@@ -5944,7 +6167,7 @@
           "questId": "with_a_view",
           "questName": "With a View",
           "trader": "Shani",
-          "questOrder": 26,
+          "questOrder": 32,
           "mapNames": [
             "stella_montis"
           ],
@@ -6097,13 +6320,6 @@
           "phase": 1,
           "phaseName": "Roaming Threats",
           "quantity": 3
-        },
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 4,
-          "phaseName": "Humidity",
-          "quantity": 3
         }
       ]
     },
@@ -6196,6 +6412,50 @@
       }
     },
     {
+      "id": "scout_patrol_note",
+      "name": "Scout Patrol Note",
+      "imageFilename": "",
+      "type": "Trinket",
+      "rarity": "Common",
+      "value": 0,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "dust_on_the_wires",
+          "questName": "Dust on the Wires",
+          "trader": "Shani",
+          "questOrder": 23,
+          "mapNames": [
+            "The Spaceport"
+          ],
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "secret_meeting_info",
+      "name": "Secret Meeting Info",
+      "imageFilename": "",
+      "type": "Trinket",
+      "rarity": "Common",
+      "value": 0,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "furtive_meetings",
+          "questName": "Furtive Meetings",
+          "trader": "Shani",
+          "questOrder": 25,
+          "mapNames": [
+            "stella_montis"
+          ],
+          "quantity": 1
+        }
+      ]
+    },
+    {
       "id": "seeker_grenade_blueprint",
       "name": "Seeker Grenade Blueprint",
       "imageFilename": "seeker_grenade.png",
@@ -6232,16 +6492,7 @@
       "recyclesInto": {
         "metal_parts": 1,
         "wires": 1
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 2,
-          "phaseName": "Sunlight",
-          "quantity": 3
-        }
-      ]
+      }
     },
     {
       "id": "sentinel_firing_core",
@@ -6541,15 +6792,6 @@
       }
     },
     {
-      "id": "silencer_iii_blueprint",
-      "name": "Silencer III Blueprint",
-      "imageFilename": "silencer_iii.png",
-      "type": "Blueprint",
-      "rarity": "Legendary",
-      "value": 5000,
-      "weightKg": 0
-    },
-    {
       "id": "silencer_iii",
       "name": "Silencer III",
       "type": "Modification",
@@ -6701,15 +6943,6 @@
           "hideoutName": "Utility Station",
           "level": 2,
           "quantity": 6
-        }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 2,
-          "phaseName": "Sunlight",
-          "quantity": 1
         }
       ]
     },
@@ -6962,13 +7195,6 @@
           "phase": 1,
           "phaseName": "Foundation",
           "quantity": 15
-        },
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 3,
-          "phaseName": "Precipitation",
-          "quantity": 5
         }
       ]
     },
@@ -7102,6 +7328,35 @@
       }
     },
     {
+      "id": "surge_coil_blueprint",
+      "name": "Surge Coil Blueprint",
+      "imageFilename": "",
+      "type": "Blueprint",
+      "rarity": "Common",
+      "value": 5000,
+      "weightKg": 0,
+      "stackSize": 1
+    },
+    {
+      "id": "surge_coil",
+      "name": "Surge Coil",
+      "imageFilename": "",
+      "type": "Quick Use",
+      "rarity": "Uncommon",
+      "value": 2100,
+      "weightKg": 0,
+      "stackSize": 3,
+      "recipe": {
+        "electrical_components": 1,
+        "hornet_driver": 1,
+        "sensors": 1
+      },
+      "recyclesInto": {
+        "electrical_components": 1,
+        "sensors": 1
+      }
+    },
+    {
       "id": "surge_shield_recharger",
       "name": "Surge Shield Recharger",
       "type": "Quick Use",
@@ -7134,7 +7389,7 @@
           "questId": "mixed_signals",
           "questName": "Mixed Signals",
           "trader": "Shani",
-          "questOrder": 22,
+          "questOrder": 27,
           "mapNames": [
             "Buried City",
             "The Spaceport",
@@ -7159,6 +7414,13 @@
           "phase": 1,
           "phaseName": "Roaming Threats",
           "quantity": 5
+        },
+        {
+          "projectId": "high_gain_antenna_project",
+          "projectName": "High-Gain Antenna",
+          "phase": 3,
+          "phaseName": "Parabolic Dish",
+          "quantity": 10
         }
       ]
     },
@@ -7556,19 +7818,7 @@
       "rarity": "Common",
       "value": 1000,
       "weightKg": 0.3,
-      "stackSize": 5,
-      "questsRequiredFor": [
-        {
-          "questId": "building_a_library",
-          "questName": "Building a Library",
-          "trader": "Apollo",
-          "questOrder": 2,
-          "mapNames": [
-            "Buried City"
-          ],
-          "quantity": 3
-        }
-      ]
+      "stackSize": 5
     },
     {
       "id": "torrente_blueprint",
@@ -7744,6 +7994,36 @@
         "metal_parts": 4,
         "simple_gun_parts": 5
       }
+    },
+    {
+      "id": "vaporizer_regulator",
+      "name": "Vaporizer Regulator",
+      "imageFilename": "",
+      "type": "Recyclable",
+      "rarity": "Epic",
+      "value": 6000,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "recyclesInto": {
+        "advanced_electrical_components": 1,
+        "arc_circuitry": 2
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "high_gain_antenna_project",
+          "projectName": "High-Gain Antenna",
+          "phase": 2,
+          "phaseName": "Data Logger",
+          "quantity": 4
+        },
+        {
+          "projectId": "high_gain_antenna_project",
+          "projectName": "High-Gain Antenna",
+          "phase": 3,
+          "phaseName": "Parabolic Dish",
+          "quantity": 15
+        }
+      ]
     },
     {
       "id": "vase",
@@ -8000,16 +8280,7 @@
       "recyclesInto": {
         "rubber_parts": 1,
         "wires": 1
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 5,
-          "phaseName": "Temperature",
-          "quantity": 3
-        }
-      ]
+      }
     },
     {
       "id": "vulcano_blueprint",
@@ -8140,13 +8411,6 @@
           "phase": 2,
           "phaseName": "Soaring Menaces",
           "quantity": 20
-        },
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 4,
-          "phaseName": "Humidity",
-          "quantity": 3
         }
       ]
     },
@@ -8174,16 +8438,7 @@
       "recyclesInto": {
         "metal_parts": 4,
         "oil": 2
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 4,
-          "phaseName": "Humidity",
-          "quantity": 1
-        }
-      ]
+      }
     },
     {
       "id": "wires",
@@ -8198,10 +8453,40 @@
       },
       "questsRequiredFor": [
         {
+          "questId": "after_rain_comes",
+          "questName": "After Rain Comes",
+          "trader": "Celeste",
+          "questOrder": 4,
+          "mapNames": [
+            "Buried City"
+          ],
+          "quantity": 5
+        },
+        {
+          "questId": "eyes_on_the_prize",
+          "questName": "Eyes on the Prize",
+          "trader": "Tian Wen",
+          "questOrder": 13,
+          "mapNames": [
+            "Buried City"
+          ],
+          "quantity": 3
+        },
+        {
+          "questId": "flickering_threat",
+          "questName": "Flickering Threat",
+          "trader": "Celeste",
+          "questOrder": 9,
+          "mapNames": [
+            "Dam Battlegrounds"
+          ],
+          "quantity": 4
+        },
+        {
           "questId": "trash_into_treasure",
           "questName": "Trash Into Treasure",
           "trader": "Shani",
-          "questOrder": 23,
+          "questOrder": 28,
           "mapNames": [],
           "quantity": 6
         }
@@ -8213,13 +8498,6 @@
           "phase": 2,
           "phaseName": "Core Systems",
           "quantity": 25
-        },
-        {
-          "projectId": "weather_monitor_system_project",
-          "projectName": "Weather Monitor System",
-          "phase": 2,
-          "phaseName": "Sunlight",
-          "quantity": 3
         }
       ]
     },
@@ -8397,7 +8675,7 @@
       "nextQuestIds": [
         "greasing_her_palms"
       ],
-      "questOrder": 6
+      "questOrder": 8
     },
     {
       "id": "a_dead_end",
@@ -8430,7 +8708,8 @@
         "groundbreaking"
       ],
       "nextQuestIds": [
-        "a_rising_tide"
+        "a_rising_tide",
+        "fragmented_logs"
       ],
       "questOrder": 0
     },
@@ -8467,6 +8746,9 @@
           "itemId": "noisemaker",
           "quantity": 2
         }
+      ],
+      "previousQuestIds": [
+        "off_the_radar"
       ],
       "nextQuestIds": [
         "reduced_to_rubble"
@@ -8526,6 +8808,12 @@
       "objectives": [
         "Search for the new plant near the Baron Husk in the Old Battleground",
         "Deliver the Possibly Toxic Plant to Lance"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "possibly_toxic_plant",
+          "quantity": 1
+        }
       ],
       "rewardItemIds": [
         {
@@ -8781,6 +9069,16 @@
         "Find the flooded solar panels nearby the Grandioso Apartments",
         "Repair the solar panels using 5 Wires and 2 Batteries"
       ],
+      "requiredItemIds": [
+        {
+          "itemId": "wires",
+          "quantity": 5
+        },
+        {
+          "itemId": "battery",
+          "quantity": 2
+        }
+      ],
       "rewardItemIds": [
         {
           "itemId": "blue_light_stick",
@@ -8821,7 +9119,6 @@
         "Reach the Checkpoint",
         "Search the Guard huts for an Armored Patrol Key Card",
         "Reach the Traffic Tunnel near the Blue Gate Checkpoint",
-        "Find a spare Armored Patrol Car Key Card",
         "Find and unlock the rear door of an armored patrol car"
       ],
       "rewardItemIds": [
@@ -8879,7 +9176,7 @@
       "nextQuestIds": [
         "our_presence_up_there"
       ],
-      "questOrder": 4
+      "questOrder": 6
     },
     {
       "id": "bees",
@@ -8995,7 +9292,7 @@
         "marked_for_death",
         "straight_record"
       ],
-      "questOrder": 8
+      "questOrder": 10
     },
     {
       "id": "building_a_library",
@@ -9010,11 +9307,11 @@
         "Find 1 romance book",
         "Find 1 detective book",
         "Find 1 adventure book",
-        "Deliver books to Apollo"
+        "Deliver 3 books to Apollo"
       ],
       "requiredItemIds": [
         {
-          "itemId": "torn_book",
+          "itemId": "library_book",
           "quantity": 3
         }
       ],
@@ -9051,7 +9348,7 @@
       "objectives": [
         "Retrieve Celeste’s Journals from the South Swamp Outpost",
         "Retrieve Celeste’s Journals from the northern outpost overlooking the Red Lakes",
-        "Deliver Journals to Celeste"
+        "Deliver 2 Journals to Celeste"
       ],
       "requiredItemIds": [
         {
@@ -9082,12 +9379,44 @@
       "questOrder": 5
     },
     {
+      "id": "clamoring_for_attention",
+      "name": "Clamoring for Attention",
+      "trader": "Shani",
+      "map": [
+        "The Blue Gate"
+      ],
+      "description": "I think I've found something we might exploit. When bigger ARC machines are just far enough from each other, a well-timed distraction could pull one out of position. You want to test that idea?",
+      "objectives": [
+        "Use 3 Wires to repair and sound the emergency siren by the Warehouse Complex",
+        "Use a Battery to start the boom box in the Village",
+        "Sound any bus horn by the Checkpoint"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "lure_grenade",
+          "quantity": 5
+        },
+        {
+          "itemId": "noisemaker",
+          "quantity": 5
+        },
+        {
+          "itemId": "tagging_grenade",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "dormant_barons"
+      ],
+      "questOrder": 22
+    },
+    {
       "id": "clearer_skies",
       "name": "Clearer Skies",
       "trader": "Shani",
       "description": "A swarm of disoriented Wasps crashed near one of our skylights.\r\n\r\nI need you to help thin ARC's ranks before any more accidents happen, and gather some extra sturdy materials to fix the damage.",
       "objectives": [
-        "Destroy ARC enemies",
+        "Destroy 3 ARC enemies",
         "Get 3 ARC Alloy for Shani"
       ],
       "requiredItemIds": [
@@ -9162,7 +9491,7 @@
         "Scope out a cover spot in the Parking Garage staircases",
         "Scope out a cover spot in the buses near Marano Park",
         "Scope out a cover spot in the attics around Main Street",
-        "Destroy Spotters",
+        "Destroy 2 Spotters",
         "Deliver a Spotter Relay to Shani"
       ],
       "requiredItemIds": [
@@ -9371,6 +9700,7 @@
       ],
       "nextQuestIds": [
         "mixed_signals",
+        "clamoring_for_attention",
         "what_we_left_behind"
       ],
       "questOrder": 21
@@ -9413,6 +9743,37 @@
         "the_trifecta"
       ],
       "questOrder": 8
+    },
+    {
+      "id": "dust_on_the_wires",
+      "name": "Dust on the Wires",
+      "trader": "Shani",
+      "map": [
+        "The Spaceport"
+      ],
+      "description": "I sent a scout team to the Spaceport a while ago. Routine work — cataloging security, see if there's anything we could re-purpose. But I've heard nothing for two days.",
+      "objectives": [
+        "Visit any Field Depot on the eastern side of the Spaceport",
+        "Use the Field Radio to transmit the scout group’s last log to Shani",
+        "Interact with the terminal in the old Raider Tower north of the Maintenance Hangar",
+        "Find traces of the scout patrol near the Maintenance Hangar",
+        "Search the remains left by the scouts",
+        "Deliver the Scout Patrol Note to Shani"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "scout_patrol_note",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "the_trifecta"
+      ],
+      "nextQuestIds": [
+        "waking_the_grid",
+        "fragmented_logs"
+      ],
+      "questOrder": 23
     },
     {
       "id": "echoes_of_victory_ridge",
@@ -9548,6 +9909,12 @@
         "Find the secluded roof terrace south-west of the Southern Station, look for blue tarps.",
         "Rewire the solar panel using 3 Wires"
       ],
+      "requiredItemIds": [
+        {
+          "itemId": "wires",
+          "quantity": 3
+        }
+      ],
       "rewardItemIds": [
         {
           "itemId": "extended_shotgun_mag_ii",
@@ -9564,7 +9931,7 @@
       "nextQuestIds": [
         "industrial_espionage"
       ],
-      "questOrder": 11
+      "questOrder": 13
     },
     {
       "id": "flickering_threat",
@@ -9579,6 +9946,12 @@
         "Repair the Generator using 4 Wires",
         "Find the Ventilation Shaft",
         "Enable the power via the power switch underneath the stairs"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "wires",
+          "quantity": 4
+        }
       ],
       "rewardItemIds": [
         {
@@ -9599,6 +9972,77 @@
       "questOrder": 9
     },
     {
+      "id": "fragmented_logs",
+      "name": "Fragmented Logs",
+      "trader": "Shani",
+      "map": [
+        "stella_montis"
+      ],
+      "description": "Now that we’ve found our footing on Stella Montis, several parties are interested in digging a bit deeper and seeing what we can find out about the past of this place. To do so, however, we’ll need to power up some of these old machines so we can start to sift through the data. ",
+      "objectives": [
+        "In either of the Robotic Sandbox control rooms, repair the out-of-service terminal with 1 Electrical Component",
+        "Enable the power in any of the conduit backrooms near the Robotic Sandboxes",
+        "Boot the main frame data terminal in the Cultural Archives service backrooms"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "showstopper",
+          "quantity": 3
+        },
+        {
+          "itemId": "trailblazer",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "a_dead_end",
+        "dust_on_the_wires"
+      ],
+      "nextQuestIds": [
+        "furtive_meetings"
+      ],
+      "questOrder": 24
+    },
+    {
+      "id": "furtive_meetings",
+      "name": "Furtive Meetings",
+      "trader": "Shani",
+      "map": [
+        "stella_montis"
+      ],
+      "description": "I’m still sorting through the data you found in Stella Montis, but something’s caught my eye. I’d like you to look into it.",
+      "objectives": [
+        "Search for the secret meeting spot under a staircase in the Medical Research Area",
+        "Find the secret meeting spot near the ventilation shaft between Robotic Sandbox B and Seed Vault",
+        "Find the secret meeting spot at the bottom of the staircase connecting the Cultural Archives and Seed Vault",
+        "Search the meeting area",
+        "Bring the Secret Meeting Info to Shani"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "secret_meeting_info",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "aphelion",
+          "quantity": 1
+        },
+        {
+          "itemId": "energy_clip",
+          "quantity": 5
+        }
+      ],
+      "previousQuestIds": [
+        "fragmented_logs"
+      ],
+      "nextQuestIds": [
+        "last_entry"
+      ],
+      "questOrder": 25
+    },
+    {
       "id": "greasing_her_palms",
       "name": "Greasing Her Palms",
       "trader": "Celeste",
@@ -9611,8 +10055,7 @@
       "objectives": [
         "On Dam Battlegrounds, visit the Locked Room in the Water Treatment Control building",
         "On Spaceport, scope out the rocket thrusters outside the Rocket Assembly",
-        "On Buried City, visit the barricaded area on floor 6 of the Space Travel Building",
-        "Find a spare Dam Surveillance Key"
+        "On Buried City, visit the barricaded area on floor 6 of the Space Travel Building"
       ],
       "rewardItemIds": [
         {
@@ -9652,7 +10095,6 @@
       ],
       "description": "Data or no data: we’ll learn how to make this place earthquake-proof. With a research this in-depth, there’s bound to be a paper trail somewhere.",
       "objectives": [
-        "Find a spare Blue Gate Communication Tower Key",
         "Enter the locked room at Pilgrim's Peak",
         "Search the room for any construction research",
         "Find the building pictured on the whiteboard",
@@ -9685,8 +10127,7 @@
       "trader": "Shani",
       "description": "Our scouts have reported several Raider Hatches with leaking hydraulic pipes. They still work, but not for long. Mind patching one up, next time you’re out there?",
       "objectives": [
-        "Repair the leaking hydraulic pipes near a Raider Hatch",
-        "Search for a Hatch Key near the Raider Hatch"
+        "Repair the leaking hydraulic pipes near a Raider Hatch"
       ],
       "rewardItemIds": [
         {
@@ -9716,7 +10157,7 @@
       "description": "I just treated one of the first Raiders who visited Stella Montis, and she said that she saw... others. Androids, very much like me.",
       "objectives": [
         "Deploy into Stella Montis",
-        "Find and search Androids"
+        "Find and search 3 Androids"
       ],
       "rewardItemIds": [
         {
@@ -9781,7 +10222,7 @@
       "nextQuestIds": [
         "unexpected_initiative"
       ],
-      "questOrder": 12
+      "questOrder": 14
     },
     {
       "id": "into_the_fray",
@@ -9887,6 +10328,38 @@
       "questOrder": 12
     },
     {
+      "id": "last_entry",
+      "name": "Last Entry",
+      "trader": "Shani",
+      "map": [
+        "stella_montis"
+      ],
+      "description": "More mentions of Mantikor, and more clear signs of dissent among the researchers. I suspect tensions eventually escalated.",
+      "objectives": [
+        "Find and access the right work station in the Seed Vault for clues",
+        "Search for the hidden key in the adjacent room",
+        "Search the Seed Vault and unlock the seed deposit box",
+        "Search the seed deposit box",
+        "Bring the Official Shutdown Documentation to Shani"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "official_shutdown_documentation",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "yellow_light_stick_blueprint",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "furtive_meetings"
+      ],
+      "questOrder": 26
+    },
+    {
       "id": "life_of_a_pharmacist",
       "name": "Life of a Pharmacist",
       "trader": "Lance",
@@ -9934,7 +10407,6 @@
       "description": "I have equipment set up at the Spaceport, to monitor ARC’s movements. My connection broke down just now — I need you to head to the Control Towers and help me retrieve my logs.",
       "objectives": [
         "Visit Control Tower A6",
-        "Find a spare key",
         "Reach the top of Control Tower A6",
         "Establish a connection from the terminal"
       ],
@@ -9987,7 +10459,7 @@
       "nextQuestIds": [
         "market_correction"
       ],
-      "questOrder": 9
+      "questOrder": 11
     },
     {
       "id": "market_correction",
@@ -10021,7 +10493,7 @@
       "nextQuestIds": [
         "eyes_on_the_prize"
       ],
-      "questOrder": 10
+      "questOrder": 12
     },
     {
       "id": "medical_merchandise",
@@ -10034,9 +10506,9 @@
       ],
       "description": "I’ve become quite crafty at weaving bandages from Fabric, but to my shame, I haven’t quite mastered weaving an x-ray machine or a pulse oximiter.",
       "objectives": [
-        "On Spaceport, search containers in the Departure Building's exam rooms",
-        "Search containers in the Hospital in Buried City",
-        "On Dam Battlegrounds, search containers in the Research & Administration building's medical room"
+        "On Spaceport, search 2 containers in the Departure Building's exam rooms",
+        "Search 3 containers in the Hospital in Buried City",
+        "On Dam Battlegrounds, search 2 containers in the Research & Administration building's medical room"
       ],
       "rewardItemIds": [
         {
@@ -10100,7 +10572,7 @@
       "previousQuestIds": [
         "dormant_barons"
       ],
-      "questOrder": 22
+      "questOrder": 27
     },
     {
       "id": "movie_night",
@@ -10182,9 +10654,10 @@
         "trash_into_treasure"
       ],
       "nextQuestIds": [
+        "a_first_foothold",
         "a_bad_feeling"
       ],
-      "questOrder": 24
+      "questOrder": 29
     },
     {
       "id": "on_deaf_ears",
@@ -10353,6 +10826,43 @@
       "questOrder": 13
     },
     {
+      "id": "outstanding_balance",
+      "name": "Outstanding Balance",
+      "trader": "Tian Wen",
+      "map": [
+        "The Blue Gate"
+      ],
+      "description": "I had a deal for a Bastion Cell lined up with a Raider called Dodger, but he's gone quiet. \r\n\r\nI need someone to track down his stash before some scavenger stumbles into it. Interested?",
+      "objectives": [
+        "Search for Dodger's stash inside the Traffic Tunnel",
+        "Search Dodger's deal spot by the Pilgrim's Peak antenna",
+        "Deliver Dodger's Note to Tian Wen"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "dodgers_note",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "extended_medium_mag_iii",
+          "quantity": 1
+        },
+        {
+          "itemId": "silencer_ii",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "the_clean_dream"
+      ],
+      "nextQuestIds": [
+        "settled_in_full"
+      ],
+      "questOrder": 1
+    },
+    {
       "id": "paving_the_way",
       "name": "Paving the Way",
       "trader": "Apollo",
@@ -10402,7 +10912,7 @@
       "description": "The storm has mostly settled, but much of our infrastructure has taken a proper beating. If you're hoping to stay with us, I'll need you to pull your weight in the repair efforts.",
       "objectives": [
         "Visit any area on your map with a loot category icon",
-        "Loot containers"
+        "Loot 3 containers"
       ],
       "rewardItemIds": [
         {
@@ -10578,6 +11088,32 @@
       "questOrder": 7
     },
     {
+      "id": "settled_in_full",
+      "name": "Settled in Full",
+      "trader": "Tian Wen",
+      "description": "Lucky for you, Dodger's debt can still be settled. Bring me a Bastion Cell. A real one, pulled from a real Bastion. Consider what Dodger owed me transferred to credit for you. Okay?",
+      "objectives": [
+        "Destroy a Bastion",
+        "Deliver a Bastion Cell to Tian Wen"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "bastion_cell",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "raider_tokens",
+          "quantity": 30
+        }
+      ],
+      "previousQuestIds": [
+        "outstanding_balance"
+      ],
+      "questOrder": 2
+    },
+    {
       "id": "snap_and_salvage",
       "name": "Snap and Salvage",
       "trader": "Tian Wen",
@@ -10626,7 +11162,7 @@
         "on_deaf_ears",
         "with_a_view"
       ],
-      "questOrder": 1
+      "questOrder": 3
     },
     {
       "id": "source_of_the_contamination",
@@ -10725,6 +11261,12 @@
         "Retrieve the contents of the safe",
         "Deliver the Project Heartwood Blueprints to Tian Wen"
       ],
+      "requiredItemIds": [
+        {
+          "itemId": "project_heartwood_blueprints",
+          "quantity": 1
+        }
+      ],
       "rewardItemIds": [
         {
           "itemId": "seeker_grenade",
@@ -10742,7 +11284,7 @@
       "previousQuestIds": [
         "with_a_view"
       ],
-      "questOrder": 2
+      "questOrder": 4
     },
     {
       "id": "straight_record",
@@ -10819,6 +11361,50 @@
       "questOrder": 21
     },
     {
+      "id": "test_case",
+      "name": "Test Case",
+      "trader": "Apollo",
+      "description": "Hey, question for you. What do you get if you cross a Hornet and Fireball? If your answer is ‘a Firefly’, then we’re on the same page.",
+      "objectives": [
+        "Deliver a Hornet Driver to Apollo",
+        "Deliver a Fireball Burner to Apollo",
+        "Destroy a Firefly",
+        "Deliver a Firefly Burner to Apollo"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "hornet_driver",
+          "quantity": 1
+        },
+        {
+          "itemId": "fireball_burner",
+          "quantity": 1
+        },
+        {
+          "itemId": "firefly_burner",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "fireworks_box_blueprint",
+          "quantity": 1
+        },
+        {
+          "itemId": "seeker_grenade",
+          "quantity": 3
+        },
+        {
+          "itemId": "blaze_grenade",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "the_league"
+      ],
+      "questOrder": 12
+    },
+    {
       "id": "the_clean_dream",
       "name": "The Clean Dream",
       "trader": "Apollo",
@@ -10828,7 +11414,7 @@
       ],
       "description": "You know what I've been dreaming of lately? A talking water distiller! Crazy, huh? But seriously, with purer compounds I could make explosives with more oumph! Would be something, right?",
       "objectives": [
-        "On Spaceport, search containers in the underground tunnels",
+        "On Spaceport, search 4 containers in the underground tunnels",
         "Find and monitor any Filtration System in the tunnels",
         "On The Blue Gate, visit the Maintenance Bunker",
         "Monitor the Purification System in the bunker",
@@ -10859,6 +11445,7 @@
       ],
       "nextQuestIds": [
         "keeping_an_eye_out",
+        "outstanding_balance",
         "a_prime_specimen"
       ],
       "questOrder": 8
@@ -10875,9 +11462,7 @@
         "Deliver a Deflated Football to Apollo",
         "Deliver a Bicycle Pump to Apollo",
         "On Dam Battlegrounds, photograph the goal by the Water Towers",
-        "On Buried City, photograph the football magazines in any kiosk",
-        "Search for a Deflated Football",
-        "Search for a Bicycle Pump"
+        "On Buried City, photograph the football magazines in any kiosk"
       ],
       "requiredItemIds": [
         {
@@ -10912,6 +11497,9 @@
       "previousQuestIds": [
         "sparks_fly"
       ],
+      "nextQuestIds": [
+        "test_case"
+      ],
       "questOrder": 11
     },
     {
@@ -10926,6 +11514,12 @@
         "Search for Major Aiva's mementos in the apartments northwest of The Dam",
         "Deliver Major Aiva's Mementos to Tian Wen"
       ],
+      "requiredItemIds": [
+        {
+          "itemId": "major_aivas_mementos",
+          "quantity": 1
+        }
+      ],
       "rewardItemIds": [
         {
           "itemId": "hullcracker_blueprint",
@@ -10938,7 +11532,7 @@
       "nextQuestIds": [
         "back_on_top"
       ],
-      "questOrder": 3
+      "questOrder": 5
     },
     {
       "id": "the_right_tool",
@@ -10976,7 +11570,7 @@
       "nextQuestIds": [
         "a_better_use"
       ],
-      "questOrder": 5
+      "questOrder": 7
     },
     {
       "id": "the_root_of_the_matter",
@@ -11102,7 +11696,8 @@
         "down_to_earth"
       ],
       "nextQuestIds": [
-        "dormant_barons"
+        "dormant_barons",
+        "dust_on_the_wires"
       ],
       "questOrder": 20
     },
@@ -11147,7 +11742,7 @@
       "nextQuestIds": [
         "off_the_radar"
       ],
-      "questOrder": 23
+      "questOrder": 28
     },
     {
       "id": "tribute_to_toledo",
@@ -11265,7 +11860,7 @@
       "nextQuestIds": [
         "a_symbol_of_unification"
       ],
-      "questOrder": 13
+      "questOrder": 15
     },
     {
       "id": "untended_garden",
@@ -11301,6 +11896,38 @@
         "the_root_of_the_matter"
       ],
       "questOrder": 17
+    },
+    {
+      "id": "waking_the_grid",
+      "name": "Waking the Grid",
+      "trader": "Shani",
+      "map": [
+        "The Spaceport"
+      ],
+      "description": "There's a problem with our sensor coverage at the Spaceport. The security grid is old, so maybe it's just acting up. If you could get it running again, it'd save me a lot of sleepless nights.",
+      "objectives": [
+        "Activate the security sensors in one of the Guard Towers",
+        "Start the Security Control Center in the Departure Building",
+        "Search for any traces of a security breach in the Arrival Building Data Office"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "tactical_mk3_revival",
+          "quantity": 1
+        },
+        {
+          "itemId": "vita_shot",
+          "quantity": 3
+        },
+        {
+          "itemId": "surge_shield_recharger",
+          "quantity": 5
+        }
+      ],
+      "previousQuestIds": [
+        "dust_on_the_wires"
+      ],
+      "questOrder": 30
     },
     {
       "id": "water_troubles",
@@ -11382,7 +12009,7 @@
       ],
       "description": "Celeste told me you’re the one who helped her hound me about pitching in more. I’ll say this once: I don’t appreciate the meddling, and I have my own reasons for refusing. I do, however, appreciate the scrap. Since you’re apparently good at tracking it down, I may have a task for you.",
       "objectives": [
-        "On Buried City, search containers in the Raider Camp beneath the Parking Garage",
+        "On Buried City, search 2 containers in the Raider Camp beneath the Parking Garage",
         "On Dam Battlegrounds, search for anything significant in the South Swamp Outpost ",
         "On Spaceport, search for anything significant in Bilguun's Hideout, next to the Container Storage"
       ],
@@ -11406,7 +12033,7 @@
       "nextQuestIds": [
         "broken_monument"
       ],
-      "questOrder": 7
+      "questOrder": 9
     },
     {
       "id": "with_a_trace",
@@ -11439,7 +12066,7 @@
         "armored_transports",
         "the_clean_dream"
       ],
-      "questOrder": 25
+      "questOrder": 31
     },
     {
       "id": "with_a_view",
@@ -11487,7 +12114,7 @@
         "stable_housing",
         "movie_night"
       ],
-      "questOrder": 26
+      "questOrder": 32
     },
     {
       "id": "worth_your_salt",
