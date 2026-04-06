@@ -897,7 +897,6 @@
     {
       "id": "assessor_matrix",
       "name": "Assessor Matrix",
-      "imageFilename": "",
       "type": "Recyclable",
       "rarity": "Epic",
       "value": 5000,
@@ -1870,7 +1869,6 @@
     {
       "id": "canto_blueprint",
       "name": "Canto Blueprint",
-      "imageFilename": "",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -1880,7 +1878,6 @@
     {
       "id": "canto_i",
       "name": "Canto I",
-      "imageFilename": "",
       "type": "SMG",
       "rarity": "Legendary",
       "value": 7000,
@@ -1899,7 +1896,6 @@
     {
       "id": "canto_ii",
       "name": "Canto II",
-      "imageFilename": "",
       "type": "SMG",
       "rarity": "Legendary",
       "value": 10000,
@@ -1917,7 +1913,6 @@
     {
       "id": "canto_iii",
       "name": "Canto III",
-      "imageFilename": "",
       "type": "SMG",
       "rarity": "Legendary",
       "value": 13000,
@@ -1935,7 +1930,6 @@
     {
       "id": "canto_iv",
       "name": "Canto IV",
-      "imageFilename": "",
       "type": "SMG",
       "rarity": "Legendary",
       "value": 17000,
@@ -2610,7 +2604,6 @@
     {
       "id": "dodgers_note",
       "name": "Dodger's Note",
-      "imageFilename": "",
       "type": "Trinket",
       "rarity": "Common",
       "value": 0,
@@ -2653,7 +2646,6 @@
     {
       "id": "dolabra_blueprint",
       "name": "Dolabra Blueprint",
-      "imageFilename": "",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -2664,7 +2656,6 @@
       "id": "dolabra",
       "name": "Dolabra",
       "description": "An experimental weapon that can either fire a wide short range blast, or be focused to fire a tight medium range beam of heat.",
-      "imageFilename": "",
       "type": "Shotgun",
       "rarity": "Legendary",
       "value": 27500,
@@ -2774,7 +2765,6 @@
     {
       "id": "dusty_film_reel",
       "name": "Dusty Film Reel",
-      "imageFilename": "",
       "type": "Trinket",
       "rarity": "Common",
       "value": 0,
@@ -4982,7 +4972,6 @@
     {
       "id": "library_book",
       "name": "Book",
-      "imageFilename": "",
       "type": "Trinket",
       "rarity": "Common",
       "value": 0,
@@ -5785,7 +5774,6 @@
     {
       "id": "official_shutdown_documentation",
       "name": "Official Shutdown Documentation",
-      "imageFilename": "",
       "type": "Trinket",
       "rarity": "Common",
       "value": 0,
@@ -6314,7 +6302,6 @@
     {
       "id": "project_heartwood_blueprints",
       "name": "Project Heartwood Blueprints",
-      "imageFilename": "",
       "type": "Trinket",
       "rarity": "Common",
       "value": 0,
@@ -7179,7 +7166,6 @@
     {
       "id": "scout_patrol_note",
       "name": "Scout Patrol Note",
-      "imageFilename": "",
       "type": "Trinket",
       "rarity": "Common",
       "value": 0,
@@ -7201,7 +7187,6 @@
     {
       "id": "secret_meeting_info",
       "name": "Secret Meeting Info",
-      "imageFilename": "",
       "type": "Trinket",
       "rarity": "Common",
       "value": 0,
@@ -8157,7 +8142,6 @@
     {
       "id": "surge_coil_blueprint",
       "name": "Surge Coil Blueprint",
-      "imageFilename": "",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -8167,7 +8151,6 @@
     {
       "id": "surge_coil",
       "name": "Surge Coil",
-      "imageFilename": "",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 2100,
@@ -8938,7 +8921,6 @@
     {
       "id": "vaporizer_regulator",
       "name": "Vaporizer Regulator",
-      "imageFilename": "",
       "type": "Recyclable",
       "rarity": "Epic",
       "value": 6000,
