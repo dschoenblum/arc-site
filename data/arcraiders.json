@@ -298,6 +298,7 @@
     {
       "id": "anvil_i",
       "name": "Anvil I",
+      "description": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
       "imageFilename": "anvil.png",
       "type": "Hand Cannon",
       "rarity": "Uncommon",
@@ -305,6 +306,17 @@
       "weightKg": 5,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Heavy Ammo",
+        "ARC Armor Penetration": "Strong",
+        "Durability": "100/100",
+        "Firing Mode": "Single-Action",
+        "Magazine Size": 6
+      },
+      "modSlots": [
+        "muzzle",
+        "special"
+      ],
       "recipe": {
         "mechanical_components": 5,
         "simple_gun_parts": 6
@@ -317,6 +329,7 @@
     {
       "id": "anvil_ii",
       "name": "Anvil II",
+      "description": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
       "imageFilename": "anvil.png",
       "type": "Hand Cannon",
       "rarity": "Uncommon",
@@ -324,6 +337,19 @@
       "weightKg": 5,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Heavy Ammo",
+        "ARC Armor Penetration": "Strong",
+        "Durability": "110/110",
+        "Firing Mode": "Single-Action",
+        "Increased Fire Rate": "25%",
+        "Magazine Size": 6,
+        "Reduced Dispersion Recovery Time": "6.5%"
+      },
+      "modSlots": [
+        "muzzle",
+        "special"
+      ],
       "recyclesInto": {
         "mechanical_components": 3,
         "simple_gun_parts": 3
@@ -336,6 +362,7 @@
     {
       "id": "anvil_iii",
       "name": "Anvil III",
+      "description": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
       "imageFilename": "anvil.png",
       "type": "Hand Cannon",
       "rarity": "Uncommon",
@@ -343,6 +370,19 @@
       "weightKg": 5,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Heavy Ammo",
+        "ARC Armor Penetration": "Strong",
+        "Durability": "120/120",
+        "Firing Mode": "Single-Action",
+        "Increased Fire Rate": "50%",
+        "Magazine Size": 6,
+        "Reduced Dispersion Recovery Time": "12.5%"
+      },
+      "modSlots": [
+        "muzzle",
+        "special"
+      ],
       "recyclesInto": {
         "mechanical_components": 4,
         "simple_gun_parts": 4
@@ -355,6 +395,7 @@
     {
       "id": "anvil_iv",
       "name": "Anvil IV",
+      "description": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
       "imageFilename": "anvil.png",
       "type": "Hand Cannon",
       "rarity": "Uncommon",
@@ -362,6 +403,19 @@
       "weightKg": 5,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Heavy Ammo",
+        "ARC Armor Penetration": "Strong",
+        "Durability": "130/130",
+        "Firing Mode": "Single-Action",
+        "Increased Fire Rate": "75%",
+        "Magazine Size": 6,
+        "Reduced Dispersion Recovery Time": "18.75%"
+      },
+      "modSlots": [
+        "muzzle",
+        "special"
+      ],
       "recyclesInto": {
         "mechanical_components": 5,
         "simple_gun_parts": 5
@@ -397,12 +451,23 @@
     {
       "id": "aphelion",
       "name": "Aphelion",
+      "description": "An experimental ARC beam weapon powered by a Matriarch Reactor.",
       "type": "Special",
       "rarity": "Legendary",
       "value": 27500,
       "weightKg": 14,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Energy Clip",
+        "ARC Armor Penetration": "Very Strong",
+        "Durability": "100/100",
+        "Firing Mode": "Fully-Automatic"
+      },
+      "modSlots": [
+        "grip",
+        "stock"
+      ],
       "recipe": {
         "complex_gun_parts": 3,
         "magnetic_accelerator": 3,
@@ -694,6 +759,7 @@
     {
       "id": "arpeggio_i",
       "name": "Arpeggio I",
+      "description": "Has decent damage output and accuracy.",
       "imageFilename": "arpeggio.png",
       "type": "Assault Rifle",
       "rarity": "Uncommon",
@@ -701,6 +767,19 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "100/100",
+        "Firing Mode": "3-Round Burst",
+        "Magazine Size": 24
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recipe": {
         "mechanical_components": 6,
         "simple_gun_parts": 6
@@ -713,6 +792,7 @@
     {
       "id": "arpeggio_ii",
       "name": "Arpeggio II",
+      "description": "Has decent damage output and accuracy.",
       "imageFilename": "arpeggio.png",
       "type": "Assault Rifle",
       "rarity": "Uncommon",
@@ -720,6 +800,21 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "110/110",
+        "Firing Mode": "3-Round Burst",
+        "Increased Fire Rate": "20%",
+        "Magazine Size": 24,
+        "Reduced Reload Time": "12.5%"
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "mechanical_components": 3,
         "simple_gun_parts": 3
@@ -732,6 +827,7 @@
     {
       "id": "arpeggio_iii",
       "name": "Arpeggio III",
+      "description": "Has decent damage output and accuracy.",
       "imageFilename": "arpeggio.png",
       "type": "Assault Rifle",
       "rarity": "Uncommon",
@@ -739,6 +835,21 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "120/120",
+        "Firing Mode": "3-Round Burst",
+        "Increased Fire Rate": "40%",
+        "Magazine Size": 24,
+        "Reduced Reload Time": "25%"
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "mechanical_components": 4,
         "simple_gun_parts": 4
@@ -751,6 +862,7 @@
     {
       "id": "arpeggio_iv",
       "name": "Arpeggio IV",
+      "description": "Has decent damage output and accuracy.",
       "imageFilename": "arpeggio.png",
       "type": "Assault Rifle",
       "rarity": "Uncommon",
@@ -758,6 +870,21 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "130/130",
+        "Firing Mode": "3-Round Burst",
+        "Increased Fire Rate": "60%",
+        "Magazine Size": 24,
+        "Reduced Reload Time": "50%"
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "mechanical_components": 5,
         "simple_gun_parts": 5
@@ -939,6 +1066,7 @@
     {
       "id": "bettina_i",
       "name": "Bettina I",
+      "description": "Has slow fire rate and high damage output.",
       "imageFilename": "bettina.png",
       "type": "Assault Rifle",
       "rarity": "Epic",
@@ -946,6 +1074,18 @@
       "weightKg": 11,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Heavy Ammo",
+        "ARC Armor Penetration": "Strong",
+        "Durability": "100/100",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 20
+      },
+      "modSlots": [
+        "grip",
+        "muzzle",
+        "stock"
+      ],
       "recipe": {
         "advanced_mechanical_components": 3,
         "canister": 3,
@@ -959,6 +1099,7 @@
     {
       "id": "bettina_ii",
       "name": "Bettina II",
+      "description": "Has slow fire rate and high damage output.",
       "imageFilename": "bettina.png",
       "type": "Assault Rifle",
       "rarity": "Epic",
@@ -966,6 +1107,20 @@
       "weightKg": 11,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Heavy Ammo",
+        "ARC Armor Penetration": "Strong",
+        "Durability": "110/110",
+        "Firing Mode": "Fully-Automatic",
+        "Increased Fire Rate": "5%",
+        "Magazine Size": 20,
+        "Reduced Reload Time": "11.1%"
+      },
+      "modSlots": [
+        "grip",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "heavy_gun_parts": 2
@@ -978,6 +1133,7 @@
     {
       "id": "bettina_iii",
       "name": "Bettina III",
+      "description": "Has slow fire rate and high damage output.",
       "imageFilename": "bettina.png",
       "type": "Assault Rifle",
       "rarity": "Epic",
@@ -985,6 +1141,20 @@
       "weightKg": 11,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Heavy Ammo",
+        "ARC Armor Penetration": "Strong",
+        "Durability": "120/120",
+        "Firing Mode": "Fully-Automatic",
+        "Increased Fire Rate": "10%",
+        "Magazine Size": 20,
+        "Reduced Reload Time": "22.2%"
+      },
+      "modSlots": [
+        "grip",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "heavy_gun_parts": 3
@@ -997,6 +1167,7 @@
     {
       "id": "bettina_iv",
       "name": "Bettina IV",
+      "description": "Has slow fire rate and high damage output.",
       "imageFilename": "bettina.png",
       "type": "Assault Rifle",
       "rarity": "Epic",
@@ -1004,6 +1175,20 @@
       "weightKg": 11,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Heavy Ammo",
+        "ARC Armor Penetration": "Strong",
+        "Durability": "130/130",
+        "Firing Mode": "Fully-Automatic",
+        "Increased Fire Rate": "15%",
+        "Magazine Size": 20,
+        "Reduced Reload Time": "33.3%"
+      },
+      "modSlots": [
+        "grip",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 3,
         "heavy_gun_parts": 3
@@ -1177,6 +1362,7 @@
     {
       "id": "bobcat_i",
       "name": "Bobcat I",
+      "description": "Fully automatic SMG with high fire rate but low accuracy.",
       "imageFilename": "bobcat.png",
       "type": "SMG",
       "rarity": "Epic",
@@ -1184,6 +1370,25 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Agility": 73.1,
+        "Ammo Type": "Light Ammo",
+        "ARC Armor Penetration": "Very Weak",
+        "Damage": 6,
+        "Durability": "100/100",
+        "Fire Rate": 66.7,
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 20,
+        "Range": 44,
+        "Stability": 45.9,
+        "Stealth": 21
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recipe": {
         "exodus_modules": 2,
         "light_gun_parts": 3,
@@ -1197,6 +1402,7 @@
     {
       "id": "bobcat_ii",
       "name": "Bobcat II",
+      "description": "Fully automatic SMG with high fire rate but low accuracy.",
       "imageFilename": "bobcat.png",
       "type": "SMG",
       "rarity": "Epic",
@@ -1204,6 +1410,28 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Agility": 73.1,
+        "Ammo Type": "Light Ammo",
+        "ARC Armor Penetration": "Very Weak",
+        "Damage": 6,
+        "Durability": "110/110",
+        "Fire Rate": 66.7,
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 20,
+        "Range": 44,
+        "Reduced Horizontal Recoil": "15%",
+        "Reduced Max Shot Dispersion": "15%",
+        "Reduced Reload Time": "13%",
+        "Stability": 45.9,
+        "Stealth": 21
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 3,
         "light_gun_parts": 3
@@ -1216,6 +1444,7 @@
     {
       "id": "bobcat_iii",
       "name": "Bobcat III",
+      "description": "Fully automatic SMG with high fire rate but low accuracy.",
       "imageFilename": "bobcat.png",
       "type": "SMG",
       "rarity": "Epic",
@@ -1223,6 +1452,28 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Agility": 73.1,
+        "Ammo Type": "Light Ammo",
+        "ARC Armor Penetration": "Very Weak",
+        "Damage": 6,
+        "Durability": "120/120",
+        "Fire Rate": 66.7,
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 20,
+        "Range": 44,
+        "Reduced Horizontal Recoil": "30%",
+        "Reduced Max Shot Dispersion": "30%",
+        "Reduced Reload Time": "26%",
+        "Stability": 45.9,
+        "Stealth": 21
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 4,
         "light_gun_parts": 4
@@ -1235,6 +1486,7 @@
     {
       "id": "bobcat_iv",
       "name": "Bobcat IV",
+      "description": "Fully automatic SMG with high fire rate but low accuracy.",
       "imageFilename": "bobcat.png",
       "type": "SMG",
       "rarity": "Epic",
@@ -1242,6 +1494,28 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Agility": 73.1,
+        "Ammo Type": "Light Ammo",
+        "ARC Armor Penetration": "Very Weak",
+        "Damage": 6,
+        "Durability": "130/130",
+        "Fire Rate": 66.7,
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 20,
+        "Range": 44,
+        "Reduced Horizontal Recoil": "45%",
+        "Reduced Max Shot Dispersion": "50%",
+        "Reduced Reload Time": "40%",
+        "Stability": 45.9,
+        "Stealth": 21
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 5,
         "light_gun_parts": 4
@@ -1424,6 +1698,7 @@
     {
       "id": "burletta_i",
       "name": "Burletta I",
+      "description": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
       "imageFilename": "burletta.png",
       "type": "Pistol",
       "rarity": "Uncommon",
@@ -1431,6 +1706,17 @@
       "weightKg": 4,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Light Ammo",
+        "ARC Armor Penetration": "Very Weak",
+        "Durability": "100/100",
+        "Firing Mode": "Semi-Automatic",
+        "Magazine Size": 12
+      },
+      "modSlots": [
+        "magazine",
+        "muzzle"
+      ],
       "recipe": {
         "mechanical_components": 3,
         "simple_gun_parts": 3
@@ -1443,6 +1729,7 @@
     {
       "id": "burletta_ii",
       "name": "Burletta II",
+      "description": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
       "imageFilename": "burletta.png",
       "type": "Pistol",
       "rarity": "Uncommon",
@@ -1450,6 +1737,10 @@
       "weightKg": 4,
       "stackSize": 1,
       "isWeapon": true,
+      "modSlots": [
+        "magazine",
+        "muzzle"
+      ],
       "recyclesInto": {
         "mechanical_components": 2,
         "simple_gun_parts": 2
@@ -1462,6 +1753,7 @@
     {
       "id": "burletta_iii",
       "name": "Burletta III",
+      "description": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
       "imageFilename": "burletta.png",
       "type": "Pistol",
       "rarity": "Uncommon",
@@ -1469,6 +1761,10 @@
       "weightKg": 4,
       "stackSize": 1,
       "isWeapon": true,
+      "modSlots": [
+        "magazine",
+        "muzzle"
+      ],
       "recyclesInto": {
         "mechanical_components": 3,
         "simple_gun_parts": 3
@@ -1481,6 +1777,7 @@
     {
       "id": "burletta_iv",
       "name": "Burletta IV",
+      "description": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
       "imageFilename": "burletta.png",
       "type": "Pistol",
       "rarity": "Uncommon",
@@ -1488,6 +1785,10 @@
       "weightKg": 4,
       "stackSize": 1,
       "isWeapon": true,
+      "modSlots": [
+        "magazine",
+        "muzzle"
+      ],
       "recyclesInto": {
         "mechanical_components": 4,
         "simple_gun_parts": 4
@@ -2362,6 +2663,7 @@
     {
       "id": "dolabra",
       "name": "Dolabra",
+      "description": "An experimental weapon that can either fire a wide short range blast, or be focused to fire a tight medium range beam of heat.",
       "imageFilename": "",
       "type": "Shotgun",
       "rarity": "Legendary",
@@ -2566,12 +2868,19 @@
     {
       "id": "equalizer",
       "name": "Equalizer",
+      "description": "A high capacity experimental beam rifle.",
       "type": "LMG",
       "rarity": "Legendary",
       "value": 27500,
       "weightKg": 14,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Energy Clip",
+        "ARC Armor Penetration": "Very Strong",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 50
+      },
       "recipe": {
         "complex_gun_parts": 3,
         "magnetic_accelerator": 3,
@@ -3034,6 +3343,7 @@
     {
       "id": "ferro_i",
       "name": "Ferro I",
+      "description": "Packs a punch, but must be reloaded between every shot.",
       "imageFilename": "ferro.png",
       "type": "Battle Rifle",
       "rarity": "Common",
@@ -3041,6 +3351,18 @@
       "weightKg": 8,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Heavy Ammo",
+        "ARC Armor Penetration": "Strong",
+        "Durability": "100/100",
+        "Firing Mode": "Break-Action",
+        "Magazine Size": 1
+      },
+      "modSlots": [
+        "grip",
+        "muzzle",
+        "stock"
+      ],
       "recipe": {
         "metal_parts": 5,
         "rubber_parts": 2
@@ -3053,6 +3375,7 @@
     {
       "id": "ferro_ii",
       "name": "Ferro II",
+      "description": "Packs a punch, but must be reloaded between every shot.",
       "imageFilename": "ferro.png",
       "type": "Battle Rifle",
       "rarity": "Common",
@@ -3060,6 +3383,18 @@
       "weightKg": 8,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Heavy Ammo",
+        "ARC Armor Penetration": "Strong",
+        "Durability": "110/110",
+        "Firing Mode": "Break-Action",
+        "Magazine Size": 1
+      },
+      "modSlots": [
+        "grip",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "metal_parts": 4,
         "rubber_parts": 3
@@ -3071,6 +3406,7 @@
     {
       "id": "ferro_iii",
       "name": "Ferro III",
+      "description": "Packs a punch, but must be reloaded between every shot.",
       "imageFilename": "ferro.png",
       "type": "Battle Rifle",
       "rarity": "Common",
@@ -3078,6 +3414,19 @@
       "weightKg": 8,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Heavy Ammo",
+        "ARC Armor Penetration": "Strong",
+        "Durability": "120/120",
+        "Firing Mode": "Break-Action",
+        "Magazine Size": 1,
+        "Upgrade Modifiers": "26% Reduced Reload Time"
+      },
+      "modSlots": [
+        "grip",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "metal_parts": 6,
         "simple_gun_parts": 1
@@ -3090,6 +3439,7 @@
     {
       "id": "ferro_iv",
       "name": "Ferro IV",
+      "description": "Packs a punch, but must be reloaded between every shot.",
       "imageFilename": "ferro.png",
       "type": "Battle Rifle",
       "rarity": "Common",
@@ -3097,6 +3447,19 @@
       "weightKg": 8,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Heavy Ammo",
+        "ARC Armor Penetration": "Strong",
+        "Durability": "130/130",
+        "Firing Mode": "Break-Action",
+        "Magazine Size": 1,
+        "Upgrade Modifiers": "39% Reduced Reload Time"
+      },
+      "modSlots": [
+        "grip",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "mechanical_components": 1,
         "simple_gun_parts": 2
@@ -3596,12 +3959,24 @@
     {
       "id": "hairpin_i",
       "name": "Hairpin I",
+      "description": "Has a built-in silencer. Great for stealth, but tricky in combat.",
       "type": "Pistol",
       "rarity": "Common",
       "value": 450,
       "weightKg": 3,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Light Ammo",
+        "ARC Armor Penetration": "Very Weak",
+        "Durability": "100/100",
+        "Firing Mode": "Slide-Action",
+        "Magazine Size": 8,
+        "Special Trait": "Integrated Silencer"
+      },
+      "modSlots": [
+        "magazine"
+      ],
       "recipe": {
         "metal_parts": 2,
         "plastic_parts": 5
@@ -3614,6 +3989,7 @@
     {
       "id": "hairpin_ii",
       "name": "Hairpin II",
+      "description": "Has a built-in silencer. Great for stealth, but tricky in combat.",
       "imageFilename": "hairpin_i.png",
       "type": "Pistol",
       "rarity": "Common",
@@ -3621,6 +3997,19 @@
       "weightKg": 3,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Light Ammo",
+        "ARC Armor Penetration": "Very Weak",
+        "Durability": "110/110",
+        "Firing Mode": "Slide-Action",
+        "Increased Fire Rate": "10%",
+        "Magazine Size": 8,
+        "Reduced Reload Time": "13%",
+        "Special Trait": "Integrated Silencer"
+      },
+      "modSlots": [
+        "magazine"
+      ],
       "recyclesInto": {
         "metal_parts": 4,
         "rubber_parts": 3
@@ -3632,6 +4021,7 @@
     {
       "id": "hairpin_iii",
       "name": "Hairpin III",
+      "description": "Has a built-in silencer. Great for stealth, but tricky in combat.",
       "imageFilename": "hairpin_i.png",
       "type": "Pistol",
       "rarity": "Common",
@@ -3639,6 +4029,19 @@
       "weightKg": 3,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Light Ammo",
+        "ARC Armor Penetration": "Very Weak",
+        "Durability": "120/120",
+        "Firing Mode": "Slide-Action",
+        "Increased Fire Rate": "20%",
+        "Magazine Size": 8,
+        "Reduced Reload Time": "26%",
+        "Special Trait": "Integrated Silencer"
+      },
+      "modSlots": [
+        "magazine"
+      ],
       "recyclesInto": {
         "metal_parts": 6,
         "simple_gun_parts": 1
@@ -3651,6 +4054,7 @@
     {
       "id": "hairpin_iv",
       "name": "Hairpin IV",
+      "description": "Has a built-in silencer. Great for stealth, but tricky in combat.",
       "imageFilename": "hairpin_i.png",
       "type": "Pistol",
       "rarity": "Common",
@@ -3658,6 +4062,19 @@
       "weightKg": 3,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Light Ammo",
+        "ARC Armor Penetration": "Very Weak",
+        "Durability": "130/130",
+        "Firing Mode": "Slide-Action",
+        "Increased Fire Rate": "30%",
+        "Magazine Size": 8,
+        "Reduced Reload Time": "40%",
+        "Special Trait": "Integrated Silencer"
+      },
+      "modSlots": [
+        "magazine"
+      ],
       "recyclesInto": {
         "mechanical_components": 1,
         "simple_gun_parts": 2
@@ -3860,6 +4277,7 @@
     {
       "id": "hullcracker_i",
       "name": "Hullcracker I",
+      "description": "Fires explosive projectiles that only detonate when hitting ARC.",
       "imageFilename": "hullcracker.png",
       "type": "Special",
       "rarity": "Epic",
@@ -3867,6 +4285,17 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Launcher Ammo",
+        "ARC Armor Penetration": "Very Strong",
+        "Durability": "100/100",
+        "Firing Mode": "Pump-Action",
+        "Magazine Size": 5
+      },
+      "modSlots": [
+        "grip",
+        "stock"
+      ],
       "recipe": {
         "exodus_modules": 1,
         "heavy_gun_parts": 3,
@@ -3880,6 +4309,7 @@
     {
       "id": "hullcracker_ii",
       "name": "Hullcracker II",
+      "description": "Fires explosive projectiles that only detonate when hitting ARC.",
       "imageFilename": "hullcracker.png",
       "type": "Special",
       "rarity": "Epic",
@@ -3887,6 +4317,18 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Launcher Ammo",
+        "ARC Armor Penetration": "Very Strong",
+        "Durability": "110/110",
+        "Firing Mode": "Pump-Action",
+        "Increased Fire Rate": "18%",
+        "Magazine Size": 5
+      },
+      "modSlots": [
+        "grip",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "heavy_gun_parts": 3
@@ -3899,6 +4341,7 @@
     {
       "id": "hullcracker_iii",
       "name": "Hullcracker III",
+      "description": "Fires explosive projectiles that only detonate when hitting ARC.",
       "imageFilename": "hullcracker.png",
       "type": "Special",
       "rarity": "Epic",
@@ -3906,6 +4349,18 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Launcher Ammo",
+        "ARC Armor Penetration": "Very Strong",
+        "Durability": "120/120",
+        "Firing Mode": "Pump-Action",
+        "Increased Fire Rate": "35%",
+        "Magazine Size": 5
+      },
+      "modSlots": [
+        "grip",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 3,
         "heavy_gun_parts": 4
@@ -3918,6 +4373,7 @@
     {
       "id": "hullcracker_iv",
       "name": "Hullcracker IV",
+      "description": "Fires explosive projectiles that only detonate when hitting ARC.",
       "imageFilename": "hullcracker.png",
       "type": "Special",
       "rarity": "Epic",
@@ -3925,6 +4381,18 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Launcher Ammo",
+        "ARC Armor Penetration": "Very Strong",
+        "Durability": "130/130",
+        "Firing Mode": "Pump-Action",
+        "Increased Fire Rate": "53%",
+        "Magazine Size": 5
+      },
+      "modSlots": [
+        "grip",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 4,
         "heavy_gun_parts": 5
@@ -3972,6 +4440,7 @@
     {
       "id": "il_toro_i",
       "name": "Il Toro I",
+      "description": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
       "imageFilename": "il_toro.png",
       "type": "Shotgun",
       "rarity": "Uncommon",
@@ -3979,6 +4448,19 @@
       "weightKg": 8,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Shotgun Ammo",
+        "ARC Armor Penetration": "Weak",
+        "Durability": "100/100",
+        "Firing Mode": "Pump-Action",
+        "Magazine Size": 5
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recipe": {
         "mechanical_components": 5,
         "simple_gun_parts": 6
@@ -3991,6 +4473,7 @@
     {
       "id": "il_toro_ii",
       "name": "Il Toro II",
+      "description": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
       "imageFilename": "il_toro.png",
       "type": "Shotgun",
       "rarity": "Uncommon",
@@ -3998,6 +4481,20 @@
       "weightKg": 8,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Shotgun Ammo",
+        "ARC Armor Penetration": "Weak",
+        "Durability": "110/110",
+        "Firing Mode": "Pump-Action",
+        "Increased Fire Rate": "17.5%",
+        "Magazine Size": 6
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "mechanical_components": 3,
         "simple_gun_parts": 3
@@ -4010,6 +4507,7 @@
     {
       "id": "il_toro_iii",
       "name": "Il Toro III",
+      "description": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
       "imageFilename": "il_toro.png",
       "type": "Shotgun",
       "rarity": "Uncommon",
@@ -4017,6 +4515,20 @@
       "weightKg": 8,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Shotgun Ammo",
+        "ARC Armor Penetration": "Weak",
+        "Durability": "120/120",
+        "Firing Mode": "Pump-Action",
+        "Increased Fire Rate": "35%",
+        "Magazine Size": 7
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "mechanical_components": 4,
         "simple_gun_parts": 4
@@ -4029,6 +4541,7 @@
     {
       "id": "il_toro_iv",
       "name": "Il Toro IV",
+      "description": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
       "imageFilename": "il_toro.png",
       "type": "Shotgun",
       "rarity": "Uncommon",
@@ -4036,6 +4549,20 @@
       "weightKg": 8,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Shotgun Ammo",
+        "ARC Armor Penetration": "Weak",
+        "Durability": "130/130",
+        "Firing Mode": "Pump-Action",
+        "Increased Fire Rate": "50%",
+        "Magazine Size": 8
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "mechanical_components": 5,
         "simple_gun_parts": 5
@@ -4178,12 +4705,20 @@
     {
       "id": "jupiter",
       "name": "Jupiter",
+      "description": "A bolt-action sniper rifle with exceptional damage output and accuracy, but slow handling.",
       "type": "Sniper Rifle",
       "rarity": "Legendary",
       "value": 27500,
       "weightKg": 9,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Energy Clip",
+        "ARC Armor Penetration": "Very Strong",
+        "Firing Mode": "Bolt-Action",
+        "Magazine Size": 5,
+        "Special Trait": "Experimental"
+      },
       "recipe": {
         "complex_gun_parts": 3,
         "magnetic_accelerator": 3,
@@ -4197,6 +4732,7 @@
     {
       "id": "kettle_i",
       "name": "Kettle I",
+      "description": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
       "imageFilename": "kettle.png",
       "type": "Assault Rifle",
       "rarity": "Common",
@@ -4204,6 +4740,19 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Light Ammo",
+        "ARC Armor Penetration": "Very Weak",
+        "Durability": "100/100",
+        "Firing Mode": "Semi-Automatic",
+        "Magazine Size": 20
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recipe": {
         "metal_parts": 6,
         "rubber_parts": 8
@@ -4216,6 +4765,7 @@
     {
       "id": "kettle_ii",
       "name": "Kettle II",
+      "description": "Semi-automatic assault rifle. Quick and accurate, but has low bullet velocity and takes a long time reload.",
       "imageFilename": "kettle.png",
       "type": "Assault Rifle",
       "rarity": "Common",
@@ -4223,6 +4773,12 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "metal_parts": 6,
         "rubber_parts": 6
@@ -4235,6 +4791,7 @@
     {
       "id": "kettle_iii",
       "name": "Kettle III",
+      "description": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
       "imageFilename": "kettle.png",
       "type": "Assault Rifle",
       "rarity": "Common",
@@ -4242,6 +4799,23 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Light Ammo",
+        "ARC Armor Penetration": "Very Weak",
+        "Durability": "120/120",
+        "Firing Mode": "Semi-Automatic",
+        "Magazine Size": 20,
+        "Upgrade Modifiers": [
+          "50% Increased Bullet Velocity",
+          "26% Reduced Reload Time"
+        ]
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "metal_parts": 12,
         "simple_gun_parts": 1
@@ -4254,6 +4828,7 @@
     {
       "id": "kettle_iv",
       "name": "Kettle IV",
+      "description": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
       "imageFilename": "kettle.png",
       "type": "Assault Rifle",
       "rarity": "Common",
@@ -4261,6 +4836,19 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Light Ammo",
+        "ARC Armor Penetration": "Very Weak",
+        "Durability": "130/130",
+        "Firing Mode": "Semi-Automatic",
+        "Magazine Size": 20
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "mechanical_components": 2,
         "simple_gun_parts": 2
@@ -5281,6 +5869,7 @@
     {
       "id": "osprey_i",
       "name": "Osprey I",
+      "description": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
       "imageFilename": "osprey.png",
       "type": "Sniper Rifle",
       "rarity": "Rare",
@@ -5288,6 +5877,20 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "100/100",
+        "Firing Mode": "Bolt-Action",
+        "Magazine Size": 8,
+        "Special Trait": "Scoped"
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recipe": {
         "advanced_mechanical_components": 2,
         "medium_gun_parts": 3,
@@ -5301,6 +5904,7 @@
     {
       "id": "osprey_ii",
       "name": "Osprey II",
+      "description": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
       "imageFilename": "osprey.png",
       "type": "Sniper Rifle",
       "rarity": "Rare",
@@ -5308,6 +5912,22 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "110/110",
+        "Firing Mode": "Bolt-Action",
+        "Magazine Size": 8,
+        "Reduced Bolt Action Time": "20%",
+        "Reduced Reload Time": "12.5%",
+        "Special Trait": "Scoped"
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "medium_gun_parts": 2
@@ -5320,6 +5940,7 @@
     {
       "id": "osprey_iii",
       "name": "Osprey III",
+      "description": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
       "imageFilename": "osprey.png",
       "type": "Sniper Rifle",
       "rarity": "Rare",
@@ -5327,6 +5948,22 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "120/120",
+        "Firing Mode": "Bolt-Action",
+        "Magazine Size": 8,
+        "Reduced Bolt Action Time": "40%",
+        "Reduced Reload Time": "25%",
+        "Special Trait": "Scoped"
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "medium_gun_parts": 3
@@ -5339,6 +5976,7 @@
     {
       "id": "osprey_iv",
       "name": "Osprey IV",
+      "description": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
       "imageFilename": "osprey.png",
       "type": "Sniper Rifle",
       "rarity": "Rare",
@@ -5346,6 +5984,22 @@
       "weightKg": 7,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "130/130",
+        "Firing Mode": "Bolt-Action",
+        "Magazine Size": 8,
+        "Reduced Bolt Action Time": "60%",
+        "Reduced Reload Time": "37.5%",
+        "Special Trait": "Scoped"
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 3,
         "medium_gun_parts": 3
@@ -5793,6 +6447,7 @@
     {
       "id": "rattler_i",
       "name": "Rattler I",
+      "description": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
       "imageFilename": "rattler.png",
       "type": "Assault Rifle",
       "rarity": "Common",
@@ -5800,6 +6455,18 @@
       "weightKg": 6,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "100/100",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 12
+      },
+      "modSlots": [
+        "grip",
+        "muzzle",
+        "stock"
+      ],
       "recipe": {
         "metal_parts": 16,
         "rubber_parts": 12
@@ -5811,6 +6478,7 @@
     {
       "id": "rattler_ii",
       "name": "Rattler II",
+      "description": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
       "imageFilename": "rattler.png",
       "type": "Assault Rifle",
       "rarity": "Common",
@@ -5818,6 +6486,18 @@
       "weightKg": 6,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "110/110",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 16
+      },
+      "modSlots": [
+        "grip",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "metal_parts": 12
       },
@@ -5829,6 +6509,7 @@
     {
       "id": "rattler_iii",
       "name": "Rattler III",
+      "description": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
       "imageFilename": "rattler.png",
       "type": "Assault Rifle",
       "rarity": "Common",
@@ -5836,6 +6517,19 @@
       "weightKg": 6,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "120/120",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 20,
+        "Upgrade Modifiers": "+8 Magazine Size"
+      },
+      "modSlots": [
+        "grip",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "mechanical_components": 3,
         "simple_gun_parts": 1
@@ -5848,6 +6542,7 @@
     {
       "id": "rattler_iv",
       "name": "Rattler IV",
+      "description": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
       "imageFilename": "rattler.png",
       "type": "Assault Rifle",
       "rarity": "Common",
@@ -5855,6 +6550,18 @@
       "weightKg": 6,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "130/130",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 24
+      },
+      "modSlots": [
+        "grip",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "mechanical_components": 4,
         "simple_gun_parts": 2
@@ -5963,6 +6670,7 @@
     {
       "id": "renegade_i",
       "name": "Renegade I",
+      "description": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
       "imageFilename": "renegade.png",
       "type": "Battle Rifle",
       "rarity": "Rare",
@@ -5970,6 +6678,18 @@
       "weightKg": 10,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "100/100",
+        "Firing Mode": "Lever-Action",
+        "Magazine Size": 8
+      },
+      "modSlots": [
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recipe": {
         "advanced_mechanical_components": 2,
         "medium_gun_parts": 3,
@@ -5983,6 +6703,7 @@
     {
       "id": "renegade_ii",
       "name": "Renegade II",
+      "description": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
       "imageFilename": "renegade.png",
       "type": "Battle Rifle",
       "rarity": "Rare",
@@ -5990,6 +6711,20 @@
       "weightKg": 10,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "110/110",
+        "Firing Mode": "Lever-Action",
+        "Increased Fire Rate": "25%",
+        "Magazine Size": 8,
+        "Reduced Dispersion Recovery Time": "16.6%"
+      },
+      "modSlots": [
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "medium_gun_parts": 2
@@ -6002,6 +6737,7 @@
     {
       "id": "renegade_iii",
       "name": "Renegade III",
+      "description": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
       "imageFilename": "renegade.png",
       "type": "Battle Rifle",
       "rarity": "Rare",
@@ -6009,6 +6745,20 @@
       "weightKg": 10,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "120/120",
+        "Firing Mode": "Lever-Action",
+        "Increased Fire Rate": "50%",
+        "Magazine Size": 8,
+        "Reduced Dispersion Recovery Time": "33.3%"
+      },
+      "modSlots": [
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "medium_gun_parts": 3
@@ -6021,6 +6771,7 @@
     {
       "id": "renegade_iv",
       "name": "Renegade IV",
+      "description": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
       "imageFilename": "renegade.png",
       "type": "Battle Rifle",
       "rarity": "Rare",
@@ -6028,6 +6779,20 @@
       "weightKg": 10,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "130/130",
+        "Firing Mode": "Lever-Action",
+        "Increased Fire Rate": "75%",
+        "Magazine Size": 8,
+        "Reduced Dispersion Recovery Time": "50%"
+      },
+      "modSlots": [
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 3,
         "medium_gun_parts": 3
@@ -7254,6 +8019,7 @@
     {
       "id": "stitcher_i",
       "name": "Stitcher I",
+      "description": "Deals good damage, but has quite a low fire-rate and can be hard to control.",
       "imageFilename": "stitcher.png",
       "type": "SMG",
       "rarity": "Common",
@@ -7261,6 +8027,19 @@
       "weightKg": 5,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Light Ammo",
+        "ARC Armor Penetration": "Very Weak",
+        "Durability": "100/100",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 20
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recipe": {
         "metal_parts": 8,
         "rubber_parts": 4
@@ -7273,6 +8052,7 @@
     {
       "id": "stitcher_ii",
       "name": "Stitcher II",
+      "description": "Deals good damage, but has quite a low fire-rate and can be hard to control.",
       "imageFilename": "stitcher.png",
       "type": "SMG",
       "rarity": "Common",
@@ -7280,6 +8060,21 @@
       "weightKg": 5,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Light Ammo",
+        "ARC Armor Penetration": "Very Weak",
+        "Durability": "110/110",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 20,
+        "Reduced Horizontal Recoil": "16.6%",
+        "Reduced Reload Time": "13%"
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "metal_parts": 6,
         "rubber_parts": 6
@@ -7292,6 +8087,7 @@
     {
       "id": "stitcher_iii",
       "name": "Stitcher III",
+      "description": "Full automatic SMG. Deals good damage, but has quite a low fire-rate and can be hard to control.",
       "imageFilename": "stitcher.png",
       "type": "SMG",
       "rarity": "Common",
@@ -7299,6 +8095,21 @@
       "weightKg": 5,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Light Ammo",
+        "ARC Armor Penetration": "Very Weak",
+        "Durability": "120/120",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 20,
+        "Reduced Horizontal Recoil": "33.3%",
+        "Reduced Reload Time": "26%"
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "metal_parts": 12,
         "simple_gun_parts": 1
@@ -7311,6 +8122,7 @@
     {
       "id": "stitcher_iv",
       "name": "Stitcher IV",
+      "description": "Full automatic SMG. Deals good damage, but has quite a low fire-rate and can be hard to control.",
       "imageFilename": "stitcher.png",
       "type": "SMG",
       "rarity": "Common",
@@ -7318,6 +8130,21 @@
       "weightKg": 5,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Light Ammo",
+        "ARC Armor Penetration": "Very Weak",
+        "Durability": "130/130",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 20,
+        "Reduced Horizontal Recoil": "50%",
+        "Reduced Reload Time": "40%"
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "mechanical_components": 2,
         "simple_gun_parts": 2
@@ -7661,6 +8488,7 @@
     {
       "id": "tempest_i",
       "name": "Tempest I",
+      "description": "Fully automatic assault rifle with moderate fire rate and accuracy.",
       "imageFilename": "tempest.png",
       "type": "Assault Rifle",
       "rarity": "Epic",
@@ -7668,6 +8496,18 @@
       "weightKg": 11,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "100/100",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 25
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle"
+      ],
       "recipe": {
         "exodus_modules": 2,
         "magnetic_accelerator": 1,
@@ -7681,6 +8521,7 @@
     {
       "id": "tempest_ii",
       "name": "Tempest II",
+      "description": "Fully automatic assault rifle with moderate fire rate and accuracy.",
       "imageFilename": "tempest.png",
       "type": "Assault Rifle",
       "rarity": "Epic",
@@ -7688,6 +8529,20 @@
       "weightKg": 11,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "110/110",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 25,
+        "Reduced Horizontal Recoil": "16.6%",
+        "Reduced Reload Time": "13%"
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 3,
         "medium_gun_parts": 3
@@ -7700,6 +8555,7 @@
     {
       "id": "tempest_iii",
       "name": "Tempest III",
+      "description": "Fully automatic assault rifle with moderate fire rate and accuracy.",
       "imageFilename": "tempest.png",
       "type": "Assault Rifle",
       "rarity": "Epic",
@@ -7707,6 +8563,20 @@
       "weightKg": 11,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "120/120",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 25,
+        "Reduced Horizontal Recoil": "33.3%",
+        "Reduced Reload Time": "26%"
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 4,
         "medium_gun_parts": 4
@@ -7719,6 +8589,7 @@
     {
       "id": "tempest_iv",
       "name": "Tempest IV",
+      "description": "Fully automatic assault rifle with moderate fire rate and accuracy.",
       "imageFilename": "tempest.png",
       "type": "Assault Rifle",
       "rarity": "Epic",
@@ -7726,6 +8597,20 @@
       "weightKg": 11,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "130/130",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 25,
+        "Reduced Horizontal Recoil": "50%",
+        "Reduced Reload Time": "40%"
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 5,
         "medium_gun_parts": 4
@@ -7833,6 +8718,7 @@
     {
       "id": "torrente_i",
       "name": "Torrente I",
+      "description": "Has a large ammo capacity, but is only accurate while crouched",
       "imageFilename": "torrente.png",
       "type": "LMG",
       "rarity": "Rare",
@@ -7840,6 +8726,18 @@
       "weightKg": 12,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "100/100",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 60
+      },
+      "modSlots": [
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recipe": {
         "advanced_mechanical_components": 2,
         "medium_gun_parts": 3,
@@ -7853,6 +8751,7 @@
     {
       "id": "torrente_ii",
       "name": "Torrente II",
+      "description": "Has a large ammo capacity, but is only accurate while crouched.",
       "imageFilename": "torrente.png",
       "type": "LMG",
       "rarity": "Rare",
@@ -7860,6 +8759,19 @@
       "weightKg": 12,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "110/110",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 70,
+        "Reduced Reload Time": "15%"
+      },
+      "modSlots": [
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "medium_gun_parts": 2
@@ -7872,6 +8784,7 @@
     {
       "id": "torrente_iii",
       "name": "Torrente III",
+      "description": "Has a large ammo capacity, but is only accurate while crouched.",
       "imageFilename": "torrente.png",
       "type": "LMG",
       "rarity": "Rare",
@@ -7879,6 +8792,19 @@
       "weightKg": 12,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "120/120",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 80,
+        "Reduced Reload Time": "30%"
+      },
+      "modSlots": [
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "medium_gun_parts": 3
@@ -7891,6 +8817,7 @@
     {
       "id": "torrente_iv",
       "name": "Torrente IV",
+      "description": "Has a large ammo capacity, but is only accurate while crouched.",
       "imageFilename": "torrente.png",
       "type": "LMG",
       "rarity": "Rare",
@@ -7898,6 +8825,19 @@
       "weightKg": 12,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "130/130",
+        "Firing Mode": "Fully-Automatic",
+        "Magazine Size": 90,
+        "Reduced Reload Time": "45%"
+      },
+      "modSlots": [
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 3,
         "medium_gun_parts": 3
@@ -8046,6 +8986,7 @@
     {
       "id": "venator_i",
       "name": "Venator I",
+      "description": "Semi-automatic pistol. Fires two shots at a time.",
       "imageFilename": "venator.png",
       "type": "Pistol",
       "rarity": "Rare",
@@ -8053,6 +8994,18 @@
       "weightKg": 5,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "100/100",
+        "Firing Mode": "Semi-Automatic",
+        "Magazine Size": 10,
+        "Special Trait": "Twin Shot"
+      },
+      "modSlots": [
+        "grip",
+        "magazine"
+      ],
       "recipe": {
         "advanced_mechanical_components": 2,
         "magnet": 5,
@@ -8066,6 +9019,7 @@
     {
       "id": "venator_ii",
       "name": "Venator II",
+      "description": "Semi-automatic pistol. Fires two shots at a time.",
       "imageFilename": "venator.png",
       "type": "Pistol",
       "rarity": "Rare",
@@ -8073,6 +9027,20 @@
       "weightKg": 5,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "110/110",
+        "Firing Mode": "Semi-Automatic",
+        "Increased Fire Rate": "13%",
+        "Magazine Size": 10,
+        "Reduced Reload Time": "16%",
+        "Special Trait": "Twin Shot"
+      },
+      "modSlots": [
+        "grip",
+        "magazine"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "medium_gun_parts": 2
@@ -8085,6 +9053,7 @@
     {
       "id": "venator_iii",
       "name": "Venator III",
+      "description": "Semi-automatic pistol. Fires two shots at a time.",
       "imageFilename": "venator.png",
       "type": "Pistol",
       "rarity": "Rare",
@@ -8092,6 +9061,20 @@
       "weightKg": 5,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "120/120",
+        "Firing Mode": "Semi-Automatic",
+        "Increased Fire Rate": "26%",
+        "Magazine Size": 10,
+        "Reduced Reload Time": "33%",
+        "Special Trait": "Twin Shot"
+      },
+      "modSlots": [
+        "grip",
+        "magazine"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "medium_gun_parts": 3
@@ -8104,6 +9087,7 @@
     {
       "id": "venator_iv",
       "name": "Venator IV",
+      "description": "Semi-automatic pistol. Fires two shots at a time.",
       "imageFilename": "venator.png",
       "type": "Pistol",
       "rarity": "Rare",
@@ -8111,6 +9095,20 @@
       "weightKg": 5,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Medium Ammo",
+        "ARC Armor Penetration": "Moderate",
+        "Durability": "130/130",
+        "Firing Mode": "Semi-Automatic",
+        "Increased Fire Rate": "40%",
+        "Magazine Size": 10,
+        "Reduced Reload Time": "50%",
+        "Special Trait": "Twin Shot"
+      },
+      "modSlots": [
+        "grip",
+        "magazine"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 3,
         "medium_gun_parts": 3
@@ -8295,6 +9293,7 @@
     {
       "id": "vulcano_i",
       "name": "Vulcano I",
+      "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
       "imageFilename": "vulcano.png",
       "type": "Shotgun",
       "rarity": "Epic",
@@ -8302,6 +9301,19 @@
       "weightKg": 8,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Shotgun Ammo",
+        "ARC Armor Penetration": "Weak",
+        "Durability": "100/100",
+        "Firing Mode": "Semi-Automatic",
+        "Magazine Size": 6
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recipe": {
         "exodus_modules": 1,
         "heavy_gun_parts": 3,
@@ -8315,6 +9327,7 @@
     {
       "id": "vulcano_ii",
       "name": "Vulcano II",
+      "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
       "imageFilename": "vulcano.png",
       "type": "Shotgun",
       "rarity": "Epic",
@@ -8322,6 +9335,21 @@
       "weightKg": 9.25,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Shotgun Ammo",
+        "ARC Armor Penetration": "Weak",
+        "Durability": "110/110",
+        "Firing Mode": "Semi-Automatic",
+        "Increased Fire Rate": "10%",
+        "Magazine Size": 6,
+        "Reduced Reload Time": "13%"
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "heavy_gun_parts": 3
@@ -8334,6 +9362,7 @@
     {
       "id": "vulcano_iii",
       "name": "Vulcano III",
+      "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
       "imageFilename": "vulcano.png",
       "type": "Shotgun",
       "rarity": "Epic",
@@ -8341,6 +9370,23 @@
       "weightKg": 8,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "20% Increased Fire Rate": true,
+        "26% Reduced Reload Time": true,
+        "Ammo Type": "Shotgun Ammo",
+        "ARC Armor Penetration": "Weak",
+        "Durability": "120/120",
+        "Firing Mode": "Semi-Automatic",
+        "Increased Fire Rate": "20%",
+        "Magazine Size": 6,
+        "Reduced Reload Time": "26%"
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 3,
         "heavy_gun_parts": 4
@@ -8353,6 +9399,7 @@
     {
       "id": "vulcano_iv",
       "name": "Vulcano IV",
+      "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
       "imageFilename": "vulcano.png",
       "type": "Shotgun",
       "rarity": "Epic",
@@ -8360,6 +9407,21 @@
       "weightKg": 8,
       "stackSize": 1,
       "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Shotgun Ammo",
+        "ARC Armor Penetration": "Weak",
+        "Durability": "130/130",
+        "Firing Mode": "Semi-Automatic",
+        "Increased Fire Rate": "30%",
+        "Magazine Size": 6,
+        "Reduced Reload Time": "40%"
+      },
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 4,
         "heavy_gun_parts": 5
