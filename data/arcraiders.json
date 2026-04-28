@@ -74,8 +74,8 @@
       ],
       "projectsRequiredFor": [
         {
-          "projectId": "expedition_project_s3",
-          "projectName": "Expedition (Season 3)",
+          "projectId": "expedition_project_s4",
+          "projectName": "Expedition (Expedition 4)",
           "phase": 4,
           "phaseName": "Outfitting",
           "quantity": 5
@@ -130,7 +130,16 @@
       "stackSize": 10,
       "recyclesInto": {
         "assorted_seeds": 3
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "avian_alarm_project",
+          "projectName": "Avian Alarm",
+          "phase": 4,
+          "phaseName": "Heightened Alert Birds",
+          "quantity": 8
+        }
+      ]
     },
     {
       "id": "air_freshener",
@@ -538,8 +547,8 @@
       ],
       "projectsRequiredFor": [
         {
-          "projectId": "expedition_project_s3",
-          "projectName": "Expedition (Season 3)",
+          "projectId": "expedition_project_s4",
+          "projectName": "Expedition (Expedition 4)",
           "phase": 1,
           "phaseName": "Foundation",
           "quantity": 80
@@ -613,6 +622,15 @@
           "hideoutName": "Refiner",
           "level": 2,
           "quantity": 5
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s4",
+          "projectName": "Expedition (Expedition 4)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 20
         }
       ]
     },
@@ -916,7 +934,7 @@
           "questId": "settled_in_full",
           "questName": "Settled in Full",
           "trader": "Tian Wen",
-          "questOrder": 2,
+          "questOrder": 4,
           "mapNames": [],
           "quantity": 1
         }
@@ -955,7 +973,7 @@
           "questId": "after_rain_comes",
           "questName": "After Rain Comes",
           "trader": "Celeste",
-          "questOrder": 4,
+          "questOrder": 5,
           "mapNames": [
             "Buried City"
           ],
@@ -968,15 +986,6 @@
           "questOrder": 28,
           "mapNames": [],
           "quantity": 1
-        }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s3",
-          "projectName": "Expedition (Season 3)",
-          "phase": 3,
-          "phaseName": "Framework",
-          "quantity": 25
         }
       ]
     },
@@ -1141,9 +1150,10 @@
           "questId": "the_league",
           "questName": "The League",
           "trader": "Apollo",
-          "questOrder": 11,
+          "questOrder": 13,
           "mapNames": [
-            "Dam Battlegrounds"
+            "Dam Battlegrounds",
+            "Buried City"
           ],
           "quantity": 1
         }
@@ -1488,13 +1498,6 @@
           "phase": 5,
           "phaseName": "Imposing Behemoths",
           "quantity": 8
-        },
-        {
-          "projectId": "expedition_project_s3",
-          "projectName": "Expedition (Season 3)",
-          "phase": 4,
-          "phaseName": "Outfitting",
-          "quantity": 2
         }
       ]
     },
@@ -1505,16 +1508,7 @@
       "rarity": "Epic",
       "value": 7000,
       "weightKg": 0.2,
-      "stackSize": 1,
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s3",
-          "projectName": "Expedition (Season 3)",
-          "phase": 4,
-          "phaseName": "Outfitting",
-          "quantity": 3
-        }
-      ]
+      "stackSize": 1
     },
     {
       "id": "broken_flashlight",
@@ -1539,16 +1533,7 @@
       "stackSize": 3,
       "recyclesInto": {
         "processor": 4
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s3",
-          "projectName": "Expedition (Season 3)",
-          "phase": 4,
-          "phaseName": "Outfitting",
-          "quantity": 1
-        }
-      ]
+      }
     },
     {
       "id": "broken_handheld_radio",
@@ -1791,7 +1776,23 @@
       "stackSize": 15,
       "recyclesInto": {
         "plastic_parts": 3
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "avian_alarm_project",
+          "projectName": "Avian Alarm",
+          "phase": 2,
+          "phaseName": "Preliminary Signal Birds",
+          "quantity": 20
+        },
+        {
+          "projectId": "expedition_project_s4",
+          "projectName": "Expedition (Expedition 4)",
+          "phase": 1,
+          "phaseName": "Foundation",
+          "quantity": 15
+        }
+      ]
     },
     {
       "id": "canto_blueprint",
@@ -1902,7 +1903,7 @@
           "questId": "celestes_journals",
           "questName": "Celeste’s Journals",
           "trader": "Celeste",
-          "questOrder": 5,
+          "questOrder": 6,
           "mapNames": [
             "Dam Battlegrounds"
           ],
@@ -1928,8 +1929,8 @@
       ],
       "projectsRequiredFor": [
         {
-          "projectId": "expedition_project_s3",
-          "projectName": "Expedition (Season 3)",
+          "projectId": "expedition_project_s4",
+          "projectName": "Expedition (Expedition 4)",
           "phase": 1,
           "phaseName": "Foundation",
           "quantity": 100
@@ -1943,16 +1944,7 @@
       "rarity": "Common",
       "value": 1000,
       "weightKg": 0.3,
-      "stackSize": 3,
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s3",
-          "projectName": "Expedition (Season 3)",
-          "phase": 3,
-          "phaseName": "Framework",
-          "quantity": 1
-        }
-      ]
+      "stackSize": 3
     },
     {
       "id": "combat_mk1",
@@ -2055,7 +2047,26 @@
       "recyclesInto": {
         "arc_alloy": 2,
         "crude_explosives": 2
-      }
+      },
+      "questsRequiredFor": [
+        {
+          "questId": "collision_course",
+          "questName": "Collision Course",
+          "trader": "Tian Wen",
+          "questOrder": 1,
+          "mapNames": [],
+          "quantity": 1
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "avian_alarm_project",
+          "projectName": "Avian Alarm",
+          "phase": 3,
+          "phaseName": "Secondary Validation Birds",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "compensator_i",
@@ -2212,6 +2223,32 @@
           "quantity": 2
         }
       ]
+    },
+    {
+      "id": "crash_mat_blueprint",
+      "name": "Crash Mat Blueprint",
+      "type": "Blueprint",
+      "rarity": "Common",
+      "value": 5000,
+      "weightKg": 0,
+      "stackSize": 1
+    },
+    {
+      "id": "crash_mat",
+      "name": "Crash Mat",
+      "type": "Quick Use",
+      "rarity": "Uncommon",
+      "value": 1200,
+      "weightKg": 0.6,
+      "stackSize": 5,
+      "recipe": {
+        "durable_cloth": 1,
+        "electrical_components": 1
+      },
+      "recyclesInto": {
+        "fabric": 6,
+        "plastic_parts": 3
+      }
     },
     {
       "id": "crude_explosives",
@@ -2497,9 +2534,10 @@
           "questId": "the_league",
           "questName": "The League",
           "trader": "Apollo",
-          "questOrder": 11,
+          "questOrder": 13,
           "mapNames": [
-            "Dam Battlegrounds"
+            "Dam Battlegrounds",
+            "Buried City"
           ],
           "quantity": 1
         }
@@ -2530,6 +2568,15 @@
       }
     },
     {
+      "id": "dockmasters_detector",
+      "name": "Dockmaster's Detector",
+      "type": "Quick Use",
+      "rarity": "Uncommon",
+      "value": 1000,
+      "weightKg": 1,
+      "stackSize": 1
+    },
+    {
       "id": "dodgers_note",
       "name": "Dodger's Note",
       "type": "Trinket",
@@ -2542,7 +2589,7 @@
           "questId": "outstanding_balance",
           "questName": "Outstanding Balance",
           "trader": "Tian Wen",
-          "questOrder": 1,
+          "questOrder": 2,
           "mapNames": [
             "The Blue Gate"
           ],
@@ -2682,8 +2729,8 @@
       ],
       "projectsRequiredFor": [
         {
-          "projectId": "expedition_project_s3",
-          "projectName": "Expedition (Season 3)",
+          "projectId": "expedition_project_s4",
+          "projectName": "Expedition (Expedition 4)",
           "phase": 2,
           "phaseName": "Core Systems",
           "quantity": 30
@@ -2743,8 +2790,8 @@
       ],
       "projectsRequiredFor": [
         {
-          "projectId": "expedition_project_s3",
-          "projectName": "Expedition (Season 3)",
+          "projectId": "expedition_project_s4",
+          "projectName": "Expedition (Expedition 4)",
           "phase": 2,
           "phaseName": "Core Systems",
           "quantity": 20
@@ -2822,7 +2869,7 @@
           "questId": "espresso",
           "questName": "Espresso",
           "trader": "Apollo",
-          "questOrder": 3,
+          "questOrder": 4,
           "mapNames": [
             "Buried City"
           ],
@@ -2872,11 +2919,11 @@
           "quantity": 5
         },
         {
-          "projectId": "expedition_project_s3",
-          "projectName": "Expedition (Season 3)",
+          "projectId": "expedition_project_s4",
+          "projectName": "Expedition (Expedition 4)",
           "phase": 3,
           "phaseName": "Framework",
-          "quantity": 1
+          "quantity": 2
         }
       ]
     },
@@ -2893,7 +2940,7 @@
           "questId": "the_root_of_the_matter",
           "questName": "The Root of the Matter",
           "trader": "Celeste",
-          "questOrder": 18,
+          "questOrder": 20,
           "mapNames": [
             "Buried City"
           ],
@@ -3399,7 +3446,16 @@
       "stackSize": 5,
       "recyclesInto": {
         "assorted_seeds": 2
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "avian_alarm_project",
+          "projectName": "Avian Alarm",
+          "phase": 3,
+          "phaseName": "Secondary Validation Birds",
+          "quantity": 10
+        }
+      ]
     },
     {
       "id": "film_reel",
@@ -3436,7 +3492,7 @@
           "questId": "test_case",
           "questName": "Test Case",
           "trader": "Apollo",
-          "questOrder": 12,
+          "questOrder": 14,
           "mapNames": [],
           "quantity": 1
         }
@@ -3483,18 +3539,9 @@
           "questId": "test_case",
           "questName": "Test Case",
           "trader": "Apollo",
-          "questOrder": 12,
+          "questOrder": 14,
           "mapNames": [],
           "quantity": 1
-        }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s3",
-          "projectName": "Expedition (Season 3)",
-          "phase": 3,
-          "phaseName": "Framework",
-          "quantity": 5
         }
       ]
     },
@@ -3537,7 +3584,7 @@
           "questId": "broken_monument",
           "questName": "Broken Monument",
           "trader": "Tian Wen",
-          "questOrder": 10,
+          "questOrder": 12,
           "mapNames": [
             "Dam Battlegrounds"
           ],
@@ -3558,7 +3605,7 @@
           "questId": "broken_monument",
           "questName": "Broken Monument",
           "trader": "Tian Wen",
-          "questOrder": 10,
+          "questOrder": 12,
           "mapNames": [
             "Dam Battlegrounds"
           ],
@@ -3579,7 +3626,7 @@
           "questId": "broken_monument",
           "questName": "Broken Monument",
           "trader": "Tian Wen",
-          "questOrder": 10,
+          "questOrder": 12,
           "mapNames": [
             "Dam Battlegrounds"
           ],
@@ -3630,7 +3677,7 @@
           "questId": "snap_and_salvage",
           "questName": "Snap and Salvage",
           "trader": "Tian Wen",
-          "questOrder": 3,
+          "questOrder": 5,
           "mapNames": [
             "stella_montis"
           ],
@@ -4139,7 +4186,7 @@
           "questId": "test_case",
           "questName": "Test Case",
           "trader": "Apollo",
-          "questOrder": 12,
+          "questOrder": 14,
           "mapNames": [],
           "quantity": 1
         },
@@ -4542,8 +4589,8 @@
       },
       "projectsRequiredFor": [
         {
-          "projectId": "expedition_project_s3",
-          "projectName": "Expedition (Season 3)",
+          "projectId": "expedition_project_s4",
+          "projectName": "Expedition (Expedition 4)",
           "phase": 2,
           "phaseName": "Core Systems",
           "quantity": 3
@@ -4903,6 +4950,24 @@
       ]
     },
     {
+      "id": "leviathans_crown_ship_model",
+      "name": "\"Leviathan's Crown\" Ship Model",
+      "type": "Trinket",
+      "rarity": "Legendary",
+      "value": 10000,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "projectsRequiredFor": [
+        {
+          "projectId": "avian_alarm_project",
+          "projectName": "Avian Alarm",
+          "phase": 5,
+          "phaseName": "Critical Warning Birds",
+          "quantity": 1
+        }
+      ]
+    },
+    {
       "id": "library_book",
       "name": "Book",
       "type": "Trinket",
@@ -4915,7 +4980,7 @@
           "questId": "building_a_library",
           "questName": "Building a Library",
           "trader": "Apollo",
-          "questOrder": 2,
+          "questOrder": 3,
           "mapNames": [
             "Buried City"
           ],
@@ -5263,7 +5328,7 @@
           "questId": "snap_and_salvage",
           "questName": "Snap and Salvage",
           "trader": "Tian Wen",
-          "questOrder": 3,
+          "questOrder": 5,
           "mapNames": [
             "stella_montis"
           ],
@@ -5284,7 +5349,7 @@
           "questId": "the_majors_footlocker",
           "questName": "The Major’s Footlocker",
           "trader": "Tian Wen",
-          "questOrder": 5,
+          "questOrder": 7,
           "mapNames": [
             "Dam Battlegrounds"
           ],
@@ -5305,7 +5370,7 @@
           "questId": "echoes_of_victory_ridge",
           "questName": "Echoes of Victory Ridge",
           "trader": "Celeste",
-          "questOrder": 13,
+          "questOrder": 15,
           "mapNames": [
             "Dam Battlegrounds"
           ],
@@ -5449,8 +5514,8 @@
       ],
       "projectsRequiredFor": [
         {
-          "projectId": "expedition_project_s3",
-          "projectName": "Expedition (Season 3)",
+          "projectId": "expedition_project_s4",
+          "projectName": "Expedition (Expedition 4)",
           "phase": 1,
           "phaseName": "Foundation",
           "quantity": 150
@@ -5513,7 +5578,7 @@
           "questId": "unexpected_initiative",
           "questName": "Unexpected Initiative",
           "trader": "Tian Wen",
-          "questOrder": 15,
+          "questOrder": 17,
           "mapNames": [
             "Buried City"
           ],
@@ -5531,7 +5596,16 @@
       "stackSize": 10,
       "recyclesInto": {
         "assorted_seeds": 3
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "avian_alarm_project",
+          "projectName": "Avian Alarm",
+          "phase": 2,
+          "phaseName": "Preliminary Signal Birds",
+          "quantity": 12
+        }
+      ]
     },
     {
       "id": "motor",
@@ -5700,7 +5774,7 @@
           "questId": "unexpected_initiative",
           "questName": "Unexpected Initiative",
           "trader": "Tian Wen",
-          "questOrder": 15,
+          "questOrder": 17,
           "mapNames": [
             "Buried City"
           ],
@@ -5739,7 +5813,16 @@
       "stackSize": 15,
       "recyclesInto": {
         "chemicals": 3
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s4",
+          "projectName": "Expedition (Expedition 4)",
+          "phase": 2,
+          "phaseName": "Core Systems",
+          "quantity": 25
+        }
+      ]
     },
     {
       "id": "old_world_books",
@@ -6098,8 +6181,17 @@
           "questId": "movie_night",
           "questName": "Movie Night",
           "trader": "Apollo",
-          "questOrder": 5,
+          "questOrder": 6,
           "mapNames": [],
+          "quantity": 1
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s4",
+          "projectName": "Expedition (Expedition 4)",
+          "phase": 4,
+          "phaseName": "Outfitting",
           "quantity": 1
         }
       ]
@@ -6197,8 +6289,54 @@
           "questId": "tribute_to_toledo",
           "questName": "Tribute to Toledo",
           "trader": "Celeste",
-          "questOrder": 14,
+          "questOrder": 16,
           "mapNames": [],
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "powered_descender_blueprint",
+      "name": "Powered Descender Blueprint",
+      "type": "Blueprint",
+      "rarity": "Common",
+      "value": 5000,
+      "weightKg": 0,
+      "stackSize": 1
+    },
+    {
+      "id": "powered_descender",
+      "name": "Powered Descender",
+      "type": "Quick Use",
+      "rarity": "Epic",
+      "value": 10000,
+      "weightKg": 5,
+      "stackSize": 1,
+      "recipe": {
+        "power_rod": 1
+      },
+      "recyclesInto": {
+        "advanced_electrical_components": 1,
+        "arc_circuitry": 2
+      }
+    },
+    {
+      "id": "precision_gimbal",
+      "name": "Precision Gimbal",
+      "type": "Trinket",
+      "rarity": "Common",
+      "value": 100,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "safe_harbor",
+          "questName": "Safe Harbor",
+          "trader": "Tian Wen",
+          "questOrder": 3,
+          "mapNames": [
+            "riven_tide"
+          ],
           "quantity": 1
         }
       ]
@@ -6249,7 +6387,7 @@
           "questId": "stable_housing",
           "questName": "Stable Housing",
           "trader": "Tian Wen",
-          "questOrder": 4,
+          "questOrder": 6,
           "mapNames": [
             "stella_montis"
           ],
@@ -6514,7 +6652,16 @@
       "rarity": "Rare",
       "value": 5000,
       "weightKg": 0.3,
-      "stackSize": 3
+      "stackSize": 3,
+      "projectsRequiredFor": [
+        {
+          "projectId": "avian_alarm_project",
+          "projectName": "Avian Alarm",
+          "phase": 5,
+          "phaseName": "Critical Warning Birds",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "red_light_stick_blueprint",
@@ -6749,6 +6896,15 @@
       }
     },
     {
+      "id": "riven_tides_hotel_keycard_no_107",
+      "name": "Riven Tides Hotel Keycard No. 107",
+      "type": "Key",
+      "rarity": "Common",
+      "value": 100,
+      "weightKg": 0.5,
+      "stackSize": 1
+    },
+    {
       "id": "rocket_thruster",
       "name": "Rocket Thruster",
       "type": "Recyclable",
@@ -6816,7 +6972,16 @@
       "stackSize": 10,
       "recyclesInto": {
         "assorted_seeds": 1
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "avian_alarm_project",
+          "projectName": "Avian Alarm",
+          "phase": 5,
+          "phaseName": "Critical Warning Birds",
+          "quantity": 4
+        }
+      ]
     },
     {
       "id": "rope",
@@ -7072,6 +7237,15 @@
           "hideoutName": "Gunsmith",
           "level": 2,
           "quantity": 3
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "avian_alarm_project",
+          "projectName": "Avian Alarm",
+          "phase": 3,
+          "phaseName": "Secondary Validation Birds",
+          "quantity": 8
         }
       ]
     },
@@ -7513,6 +7687,31 @@
       }
     },
     {
+      "id": "sirena_dorata_ship_model",
+      "name": "\"Sirena Dorata\" Ship Model",
+      "type": "Trinket",
+      "rarity": "Epic",
+      "value": 7000,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "projectsRequiredFor": [
+        {
+          "projectId": "avian_alarm_project",
+          "projectName": "Avian Alarm",
+          "phase": 4,
+          "phaseName": "Heightened Alert Birds",
+          "quantity": 5
+        },
+        {
+          "projectId": "expedition_project_s4",
+          "projectName": "Expedition (Expedition 4)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 2
+        }
+      ]
+    },
+    {
       "id": "smoke_grenade_blueprint",
       "name": "Smoke Grenade Blueprint",
       "imageFilename": "smoke_grenade.png",
@@ -7691,7 +7890,16 @@
       "recyclesInto": {
         "plastic_parts": 2,
         "rubber_parts": 3
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s4",
+          "projectName": "Expedition (Expedition 4)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 15
+        }
+      ]
     },
     {
       "id": "spectrometer",
@@ -7849,7 +8057,7 @@
           "questId": "movie_night",
           "questName": "Movie Night",
           "trader": "Apollo",
-          "questOrder": 5,
+          "questOrder": 6,
           "mapNames": [],
           "quantity": 1
         }
@@ -7874,16 +8082,7 @@
       "stackSize": 15,
       "recyclesInto": {
         "metal_parts": 2
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s3",
-          "projectName": "Expedition (Season 3)",
-          "phase": 1,
-          "phaseName": "Foundation",
-          "quantity": 15
-        }
-      ]
+      }
     },
     {
       "id": "stella_montis_archives_key",
@@ -8325,6 +8524,32 @@
       }
     },
     {
+      "id": "tactical_mk3_smoke_blueprint",
+      "name": "Tactical Mk. 3 (Smoke) Blueprint",
+      "type": "Blueprint",
+      "rarity": "Common",
+      "value": 5000,
+      "weightKg": 0,
+      "stackSize": 1
+    },
+    {
+      "id": "tactical_mk3_smoke",
+      "name": "Tactical Mk. 3 (Smoke)",
+      "type": "Augment",
+      "rarity": "Epic",
+      "value": 5000,
+      "weightKg": 4,
+      "stackSize": 1,
+      "recipe": {
+        "advanced_electrical_components": 2,
+        "processor": 3
+      },
+      "recyclesInto": {
+        "advanced_electrical_components": 1,
+        "processor": 1
+      }
+    },
+    {
       "id": "tagging_grenade_blueprint",
       "name": "Tagging Grenade Blueprint",
       "imageFilename": "tagging_grenade.png",
@@ -8573,6 +8798,13 @@
           "phase": 1,
           "phaseName": "Roaming Threats",
           "quantity": 15
+        },
+        {
+          "projectId": "avian_alarm_project",
+          "projectName": "Avian Alarm",
+          "phase": 2,
+          "phaseName": "Preliminary Signal Birds",
+          "quantity": 7
         }
       ]
     },
@@ -8823,6 +9055,13 @@
       "stackSize": 15
     },
     {
+      "id": "turbine_compressor",
+      "name": "Turbine Compressor",
+      "type": "Recyclable",
+      "rarity": "Epic",
+      "stackSize": 3
+    },
+    {
       "id": "turbo_pump",
       "name": "Turbo Pump",
       "type": "Recyclable",
@@ -8834,6 +9073,24 @@
         "mechanical_components": 1,
         "oil": 3
       }
+    },
+    {
+      "id": "twilight_compass_ship_model",
+      "name": "\"Twilight Compass\" Ship Model",
+      "type": "Trinket",
+      "rarity": "Uncommon",
+      "value": 1000,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "projectsRequiredFor": [
+        {
+          "projectId": "avian_alarm_project",
+          "projectName": "Avian Alarm",
+          "phase": 2,
+          "phaseName": "Preliminary Signal Birds",
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "unusable_weapon",
@@ -8859,7 +9116,23 @@
       "recyclesInto": {
         "advanced_electrical_components": 1,
         "arc_circuitry": 2
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "avian_alarm_project",
+          "projectName": "Avian Alarm",
+          "phase": 4,
+          "phaseName": "Heightened Alert Birds",
+          "quantity": 1
+        },
+        {
+          "projectId": "expedition_project_s4",
+          "projectName": "Expedition (Expedition 4)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "vase",
@@ -8869,6 +9142,24 @@
       "value": 3000,
       "weightKg": 0.3,
       "stackSize": 3
+    },
+    {
+      "id": "velocity_ship_model",
+      "name": "\"Velocity\" Ship Model",
+      "type": "Trinket",
+      "rarity": "Rare",
+      "value": 3000,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "projectsRequiredFor": [
+        {
+          "projectId": "avian_alarm_project",
+          "projectName": "Avian Alarm",
+          "phase": 3,
+          "phaseName": "Secondary Validation Birds",
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "venator_blueprint",
@@ -9383,7 +9674,16 @@
       "recyclesInto": {
         "canister": 3,
         "rubber_parts": 2
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "avian_alarm_project",
+          "projectName": "Avian Alarm",
+          "phase": 4,
+          "phaseName": "Heightened Alert Birds",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "water_pump",
@@ -9397,6 +9697,41 @@
         "metal_parts": 4,
         "oil": 2
       }
+    },
+    {
+      "id": "white_flag_blueprint",
+      "name": "White Flag Blueprint",
+      "type": "Blueprint",
+      "rarity": "Common",
+      "value": 5000,
+      "weightKg": 0,
+      "stackSize": 1
+    },
+    {
+      "id": "white_flag",
+      "name": "White Flag",
+      "type": "Quick Use",
+      "rarity": "Uncommon",
+      "value": 640,
+      "weightKg": 0.2,
+      "stackSize": 5,
+      "recipe": {
+        "fabric": 10,
+        "plastic_parts": 3
+      },
+      "recyclesInto": {
+        "fabric": 5,
+        "plastic_parts": 1
+      }
+    },
+    {
+      "id": "wind_sprite_ship_model",
+      "name": "\"Wind Sprite\" Ship Model",
+      "type": "Trinket",
+      "rarity": "Common",
+      "value": 1000,
+      "weightKg": 0.5,
+      "stackSize": 1
     },
     {
       "id": "wires",
@@ -9414,7 +9749,7 @@
           "questId": "after_rain_comes",
           "questName": "After Rain Comes",
           "trader": "Celeste",
-          "questOrder": 4,
+          "questOrder": 5,
           "mapNames": [
             "Buried City"
           ],
@@ -9424,7 +9759,7 @@
           "questId": "eyes_on_the_prize",
           "questName": "Eyes on the Prize",
           "trader": "Tian Wen",
-          "questOrder": 13,
+          "questOrder": 15,
           "mapNames": [
             "Buried City"
           ],
@@ -9434,7 +9769,7 @@
           "questId": "flickering_threat",
           "questName": "Flickering Threat",
           "trader": "Celeste",
-          "questOrder": 9,
+          "questOrder": 11,
           "mapNames": [
             "Dam Battlegrounds"
           ],
@@ -9447,15 +9782,6 @@
           "questOrder": 28,
           "mapNames": [],
           "quantity": 6
-        }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s3",
-          "projectName": "Expedition (Season 3)",
-          "phase": 2,
-          "phaseName": "Core Systems",
-          "quantity": 25
         }
       ]
     },
@@ -9633,7 +9959,7 @@
       "nextQuestIds": [
         "greasing_her_palms"
       ],
-      "questOrder": 8
+      "questOrder": 10
     },
     {
       "id": "a_dead_end",
@@ -10016,6 +10342,33 @@
       "questOrder": 1
     },
     {
+      "id": "a_wrench_in_the_works",
+      "name": "A Wrench in the Works",
+      "trader": "Celeste",
+      "map": [
+        "The Spaceport"
+      ],
+      "description": "Looks like the resentment ended up reaching the ground staff of the Spaceport itself. A mutiny brewing, right in the heart of the Exodus.",
+      "objectives": [
+        "Search the buses near the western gate",
+        "Locate the stash of sabotage supplies hidden at the Water Towers"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "mechanical_components",
+          "quantity": 5
+        },
+        {
+          "itemId": "mod_components",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "safe_harbor"
+      ],
+      "questOrder": 4
+    },
+    {
       "id": "after_rain_comes",
       "name": "After Rain Comes",
       "trader": "Celeste",
@@ -10063,7 +10416,7 @@
       "nextQuestIds": [
         "water_troubles"
       ],
-      "questOrder": 4
+      "questOrder": 5
     },
     {
       "id": "armored_transports",
@@ -10134,7 +10487,35 @@
       "nextQuestIds": [
         "our_presence_up_there"
       ],
-      "questOrder": 6
+      "questOrder": 8
+    },
+    {
+      "id": "battening_down",
+      "name": "Battening Down",
+      "trader": "Apollo",
+      "map": [
+        "riven_tide"
+      ],
+      "description": "We’d hoped the seawalls at Riven Tides might offer us some protection from the elements, but it seems the hurricanes were not kind to this place, either.",
+      "objectives": [
+        "Photograph the cracks forming in the seawall",
+        "Sample the shoreline near the hotel beach",
+        "Fix the leaking oil pipe in the northeast"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "riven_tides_hotel_keycard_no_107",
+          "quantity": 1
+        },
+        {
+          "itemId": "smoke_grenade_trap",
+          "quantity": 3
+        }
+      ],
+      "previousQuestIds": [
+        "off_the_radar"
+      ],
+      "questOrder": 2
     },
     {
       "id": "bees",
@@ -10170,7 +10551,7 @@
       "nextQuestIds": [
         "espresso"
       ],
-      "questOrder": 10
+      "questOrder": 12
     },
     {
       "id": "bombing_run",
@@ -10250,7 +10631,7 @@
         "marked_for_death",
         "straight_record"
       ],
-      "questOrder": 10
+      "questOrder": 12
     },
     {
       "id": "building_a_library",
@@ -10293,7 +10674,7 @@
       "nextQuestIds": [
         "a_new_type_of_plant"
       ],
-      "questOrder": 2
+      "questOrder": 3
     },
     {
       "id": "celestes_journals",
@@ -10305,7 +10686,7 @@
       "description": "Okay, so this is awkward… I lost two of my journals during some outpost inspections last time I went topside. Could you head out there and try to find them back before someone else stumbles on them?",
       "objectives": [
         "Retrieve Celeste’s Journals from the South Swamp Outpost",
-        "Retrieve Celeste’s Journals from the northern outpost overlooking the Red Lakes",
+        "Retrieve Celeste’s Journals from Raider Outpost East",
         "Deliver 2 Journals to Celeste"
       ],
       "requiredItemIds": [
@@ -10334,7 +10715,7 @@
       "nextQuestIds": [
         "back_on_top"
       ],
-      "questOrder": 5
+      "questOrder": 6
     },
     {
       "id": "clamoring_for_attention",
@@ -10436,6 +10817,40 @@
         "snap_and_salvage"
       ],
       "questOrder": 4
+    },
+    {
+      "id": "collision_course",
+      "name": "Collision Course",
+      "trader": "Tian Wen",
+      "description": "Many Raiders have learned how to dodge a Comet, but far too few know how to bring them down and get at their inner parts.",
+      "objectives": [
+        "Destroy a Comet",
+        "Deliver a Comet Igniter to Tian Wen"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "comet_igniter",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "canto_i",
+          "quantity": 1
+        },
+        {
+          "itemId": "extended_medium_mag_iii",
+          "quantity": 1
+        },
+        {
+          "itemId": "muzzle_brake_ii",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "safe_passage"
+      ],
+      "questOrder": 1
     },
     {
       "id": "combat_recon",
@@ -10576,7 +10991,7 @@
         "turnabout",
         "building_a_library"
       ],
-      "questOrder": 15
+      "questOrder": 17
     },
     {
       "id": "doctors_orders",
@@ -10772,7 +11187,7 @@
       "nextQuestIds": [
         "unexpected_initiative"
       ],
-      "questOrder": 13
+      "questOrder": 15
     },
     {
       "id": "espresso",
@@ -10808,7 +11223,7 @@
       "nextQuestIds": [
         "life_of_a_pharmacist"
       ],
-      "questOrder": 3
+      "questOrder": 4
     },
     {
       "id": "eyes_in_the_sky",
@@ -10889,7 +11304,7 @@
       "nextQuestIds": [
         "industrial_espionage"
       ],
-      "questOrder": 13
+      "questOrder": 15
     },
     {
       "id": "flickering_threat",
@@ -10927,7 +11342,7 @@
       "nextQuestIds": [
         "bees"
       ],
-      "questOrder": 9
+      "questOrder": 11
     },
     {
       "id": "fragmented_logs",
@@ -11042,7 +11457,7 @@
         "dormant_barons",
         "doctors_orders"
       ],
-      "questOrder": 6
+      "questOrder": 7
     },
     {
       "id": "groundbreaking",
@@ -11077,7 +11492,7 @@
         "worth_your_salt",
         "a_dead_end"
       ],
-      "questOrder": 4
+      "questOrder": 5
     },
     {
       "id": "hatch_repairs",
@@ -11180,7 +11595,7 @@
       "nextQuestIds": [
         "unexpected_initiative"
       ],
-      "questOrder": 14
+      "questOrder": 16
     },
     {
       "id": "into_the_fray",
@@ -11248,7 +11663,7 @@
       "previousQuestIds": [
         "the_clean_dream"
       ],
-      "questOrder": 7
+      "questOrder": 8
     },
     {
       "id": "keeping_the_memory",
@@ -11283,7 +11698,7 @@
       "nextQuestIds": [
         "echoes_of_victory_ridge"
       ],
-      "questOrder": 12
+      "questOrder": 14
     },
     {
       "id": "last_entry",
@@ -11314,6 +11729,9 @@
       ],
       "previousQuestIds": [
         "furtive_meetings"
+      ],
+      "nextQuestIds": [
+        "line_in_the_sand"
       ],
       "questOrder": 26
     },
@@ -11354,6 +11772,42 @@
         "tribute_to_toledo"
       ],
       "questOrder": 3
+    },
+    {
+      "id": "line_in_the_sand",
+      "name": "Line in the Sand",
+      "trader": "Celeste",
+      "map": [
+        "Buried City"
+      ],
+      "description": "That Stella Montis hard drive contained more than just the shutdown documentation - it also had the transport schedules of some pretty critical Exodus components.",
+      "objectives": [
+        "Find out why the train never reached Marano Station",
+        "Find out who orchestrated the robbery",
+        "Find out where the thruster valves were stashed",
+        "Search the basement of the merchant’s nearby apartment"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "exodus_modules",
+          "quantity": 2
+        },
+        {
+          "itemId": "magnetic_accelerator",
+          "quantity": 2
+        },
+        {
+          "itemId": "magnetron",
+          "quantity": 2
+        }
+      ],
+      "previousQuestIds": [
+        "last_entry"
+      ],
+      "nextQuestIds": [
+        "safe_harbor"
+      ],
+      "questOrder": 9
     },
     {
       "id": "lost_in_transmission",
@@ -11417,7 +11871,7 @@
       "nextQuestIds": [
         "market_correction"
       ],
-      "questOrder": 11
+      "questOrder": 13
     },
     {
       "id": "market_correction",
@@ -11451,7 +11905,7 @@
       "nextQuestIds": [
         "eyes_on_the_prize"
       ],
-      "questOrder": 12
+      "questOrder": 14
     },
     {
       "id": "medical_merchandise",
@@ -11579,7 +12033,7 @@
       "previousQuestIds": [
         "with_a_view"
       ],
-      "questOrder": 5
+      "questOrder": 6
     },
     {
       "id": "off_the_radar",
@@ -11613,6 +12067,8 @@
       ],
       "nextQuestIds": [
         "a_first_foothold",
+        "shoring_up_defenses",
+        "battening_down",
         "a_bad_feeling"
       ],
       "questOrder": 29
@@ -11818,7 +12274,7 @@
       "nextQuestIds": [
         "settled_in_full"
       ],
-      "questOrder": 1
+      "questOrder": 2
     },
     {
       "id": "paving_the_way",
@@ -11856,17 +12312,12 @@
       "nextQuestIds": [
         "deciphering_the_data"
       ],
-      "questOrder": 6
+      "questOrder": 7
     },
     {
       "id": "picking_up_the_pieces",
       "name": "Picking Up The Pieces",
       "trader": "Shani",
-      "map": [
-        "The Spaceport",
-        "Buried City",
-        "Dam Battlegrounds"
-      ],
       "description": "The storm has mostly settled, but much of our infrastructure has taken a proper beating. If you're hoping to stay with us, I'll need you to pull your weight in the repair efforts.",
       "objectives": [
         "Visit any area on your map with a loot category icon",
@@ -11922,7 +12373,7 @@
       "nextQuestIds": [
         "flickering_threat"
       ],
-      "questOrder": 8
+      "questOrder": 10
     },
     {
       "id": "prescriptions_of_the_past",
@@ -12002,6 +12453,48 @@
       "questOrder": 18
     },
     {
+      "id": "safe_harbor",
+      "name": "Safe Harbor",
+      "trader": "Tian Wen",
+      "map": [
+        "riven_tide"
+      ],
+      "description": "Seems like news of the train derailment spread fast… And drove many workers to stash some very tasty technology away from prying eyes.",
+      "objectives": [
+        "Find the clue left by the restaurant kitchen staff",
+        "Find the area portrayed in the sketch",
+        "Dig up the buried part",
+        "Deliver the Precision Gimbal to Tian Wen"
+      ],
+      "requiredItemIds": [
+        {
+          "itemId": "precision_gimbal",
+          "quantity": 1
+        }
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "surge_coil",
+          "quantity": 1
+        },
+        {
+          "itemId": "heavy_gun_parts",
+          "quantity": 1
+        },
+        {
+          "itemId": "horizontal_grip",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "line_in_the_sand"
+      ],
+      "nextQuestIds": [
+        "a_wrench_in_the_works"
+      ],
+      "questOrder": 3
+    },
+    {
       "id": "safe_passage",
       "name": "Safe Passage",
       "trader": "Apollo",
@@ -12041,9 +12534,10 @@
         "a_bad_feeling"
       ],
       "nextQuestIds": [
-        "what_goes_around"
+        "what_goes_around",
+        "collision_course"
       ],
-      "questOrder": 7
+      "questOrder": 8
     },
     {
       "id": "settled_in_full",
@@ -12069,7 +12563,46 @@
       "previousQuestIds": [
         "outstanding_balance"
       ],
-      "questOrder": 2
+      "questOrder": 4
+    },
+    {
+      "id": "shoring_up_defenses",
+      "name": "Shoring Up Defenses",
+      "trader": "Apollo",
+      "map": [
+        "riven_tide"
+      ],
+      "description": "The wide-open coastline used to mean danger, but now it's the only place we can spot new threats moving into the Rust Belt.\r\n\r\nSo we'll have to make our own cover, and reinforce what few defenses we can find.",
+      "objectives": [
+        "Destroy 5 Wasps",
+        "Destroy 3 Fireflies",
+        "Use 1 ARC Alloy to reinforce the Raider structure on top of any Stacking Yard crane",
+        "Board up shuttered windows in the hotel"
+      ],
+      "rewardItemIds": [
+        {
+          "itemId": "barricade_kit",
+          "quantity": 3
+        },
+        {
+          "itemId": "lure_grenade_trap",
+          "quantity": 3
+        },
+        {
+          "itemId": "seeker_grenade",
+          "quantity": 6
+        }
+      ],
+      "grantedItemIds": [
+        {
+          "itemId": "dockmasters_detector",
+          "quantity": 1
+        }
+      ],
+      "previousQuestIds": [
+        "off_the_radar"
+      ],
+      "questOrder": 9
     },
     {
       "id": "snap_and_salvage",
@@ -12120,7 +12653,7 @@
         "on_deaf_ears",
         "with_a_view"
       ],
-      "questOrder": 3
+      "questOrder": 5
     },
     {
       "id": "source_of_the_contamination",
@@ -12155,7 +12688,7 @@
       "nextQuestIds": [
         "switching_the_supply"
       ],
-      "questOrder": 20
+      "questOrder": 22
     },
     {
       "id": "sparks_fly",
@@ -12200,7 +12733,7 @@
         "the_league",
         "out_of_the_shadows"
       ],
-      "questOrder": 10
+      "questOrder": 12
     },
     {
       "id": "stable_housing",
@@ -12242,7 +12775,7 @@
       "previousQuestIds": [
         "with_a_view"
       ],
-      "questOrder": 4
+      "questOrder": 6
     },
     {
       "id": "straight_record",
@@ -12286,7 +12819,7 @@
       "nextQuestIds": [
         "keeping_the_memory"
       ],
-      "questOrder": 11
+      "questOrder": 13
     },
     {
       "id": "switching_the_supply",
@@ -12316,7 +12849,7 @@
       "nextQuestIds": [
         "a_warm_place_to_rest"
       ],
-      "questOrder": 21
+      "questOrder": 23
     },
     {
       "id": "test_case",
@@ -12360,7 +12893,7 @@
       "previousQuestIds": [
         "the_league"
       ],
-      "questOrder": 12
+      "questOrder": 14
     },
     {
       "id": "the_clean_dream",
@@ -12406,14 +12939,15 @@
         "outstanding_balance",
         "a_prime_specimen"
       ],
-      "questOrder": 8
+      "questOrder": 10
     },
     {
       "id": "the_league",
       "name": "The League",
       "trader": "Apollo",
       "map": [
-        "Dam Battlegrounds"
+        "Dam Battlegrounds",
+        "Buried City"
       ],
       "description": "Kids around here have been kicking empty grenade casings around. It’s only a matter of time before they’re not so empty.\r\n\r\nSo here’s the plan. You help me with some prep work, and I’ll set up an actual football team for the young ones.",
       "objectives": [
@@ -12458,7 +12992,7 @@
       "nextQuestIds": [
         "test_case"
       ],
-      "questOrder": 11
+      "questOrder": 13
     },
     {
       "id": "the_majors_footlocker",
@@ -12490,7 +13024,7 @@
       "nextQuestIds": [
         "back_on_top"
       ],
-      "questOrder": 5
+      "questOrder": 7
     },
     {
       "id": "the_right_tool",
@@ -12528,7 +13062,7 @@
       "nextQuestIds": [
         "a_better_use"
       ],
-      "questOrder": 7
+      "questOrder": 9
     },
     {
       "id": "the_root_of_the_matter",
@@ -12561,7 +13095,7 @@
       "nextQuestIds": [
         "water_troubles"
       ],
-      "questOrder": 18
+      "questOrder": 20
     },
     {
       "id": "the_stench_of_corruption",
@@ -12736,7 +13270,7 @@
       "nextQuestIds": [
         "digging_up_dirt"
       ],
-      "questOrder": 14
+      "questOrder": 16
     },
     {
       "id": "turnabout",
@@ -12769,7 +13303,7 @@
       "previousQuestIds": [
         "digging_up_dirt"
       ],
-      "questOrder": 16
+      "questOrder": 18
     },
     {
       "id": "unexpected_initiative",
@@ -12818,7 +13352,7 @@
       "nextQuestIds": [
         "a_symbol_of_unification"
       ],
-      "questOrder": 15
+      "questOrder": 17
     },
     {
       "id": "untended_garden",
@@ -12853,7 +13387,7 @@
       "nextQuestIds": [
         "the_root_of_the_matter"
       ],
-      "questOrder": 17
+      "questOrder": 19
     },
     {
       "id": "waking_the_grid",
@@ -12922,7 +13456,7 @@
         "into_the_fray",
         "source_of_the_contamination"
       ],
-      "questOrder": 19
+      "questOrder": 21
     },
     {
       "id": "what_goes_around",
@@ -12954,7 +13488,7 @@
       "nextQuestIds": [
         "sparks_fly"
       ],
-      "questOrder": 9
+      "questOrder": 11
     },
     {
       "id": "what_we_left_behind",
@@ -12991,7 +13525,7 @@
       "nextQuestIds": [
         "broken_monument"
       ],
-      "questOrder": 9
+      "questOrder": 11
     },
     {
       "id": "with_a_trace",
@@ -13101,7 +13635,7 @@
       "nextQuestIds": [
         "on_deaf_ears"
       ],
-      "questOrder": 22
+      "questOrder": 24
     }
   ]
 }
