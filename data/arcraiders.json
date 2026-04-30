@@ -4074,7 +4074,7 @@
       "rarity": "Common",
       "value": 12,
       "weightKg": 0.05,
-      "stackSize": 40,
+      "stackSize": 60,
       "recipe": {
         "chemicals": 2,
         "metal_parts": 3
@@ -6313,7 +6313,8 @@
       "weightKg": 5,
       "stackSize": 1,
       "recipe": {
-        "power_rod": 1
+        "power_rod": 1,
+        "turbine_compressor": 1
       },
       "recyclesInto": {
         "advanced_electrical_components": 1,
@@ -9059,7 +9060,13 @@
       "name": "Turbine Compressor",
       "type": "Recyclable",
       "rarity": "Epic",
-      "stackSize": 3
+      "value": 5000,
+      "weightKg": 0.5,
+      "stackSize": 3,
+      "recyclesInto": {
+        "arc_circuitry": 1,
+        "arc_motion_core": 1
+      }
     },
     {
       "id": "turbo_pump",
@@ -9112,7 +9119,7 @@
       "rarity": "Epic",
       "value": 6000,
       "weightKg": 0.5,
-      "stackSize": 1,
+      "stackSize": 3,
       "recyclesInto": {
         "advanced_electrical_components": 1,
         "arc_circuitry": 2
@@ -9627,8 +9634,7 @@
       "weightKg": 0.6,
       "stackSize": 3,
       "recyclesInto": {
-        "arc_alloy": 1,
-        "electrical_components": 1
+        "arc_alloy": 2
       },
       "questsRequiredFor": [
         {
