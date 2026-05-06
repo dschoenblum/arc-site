@@ -2944,6 +2944,7 @@
     {
       "id": "dolabra_blueprint",
       "name": "Dolabra Blueprint",
+      "imageFilename": "dolabra.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -3330,6 +3331,15 @@
           "quantity": 3
         }
       ]
+    },
+    {
+      "id": "expired_security_code",
+      "name": "Expired Security Code",
+      "type": "Key",
+      "rarity": "Common",
+      "value": 10,
+      "weightKg": 0.25,
+      "stackSize": 1
     },
     {
       "id": "explosive_compound",
@@ -4685,6 +4695,15 @@
         "med_station"
       ],
       "stationLevelRequired": 1
+    },
+    {
+      "id": "hidden_bunker_key",
+      "name": "Hidden Bunker Key",
+      "type": "Key",
+      "rarity": "Common",
+      "value": 100,
+      "weightKg": 0.25,
+      "stackSize": 1
     },
     {
       "id": "horizontal_grip",
@@ -6112,6 +6131,15 @@
       ]
     },
     {
+      "id": "marano_market_business_card",
+      "name": "Marano Market Business Card",
+      "type": "Trinket",
+      "rarity": "Common",
+      "value": 100,
+      "weightKg": 0.5,
+      "stackSize": 1
+    },
+    {
       "id": "matriarch_reactor",
       "name": "Matriarch Reactor",
       "type": "Recyclable",
@@ -7316,6 +7344,14 @@
       }
     },
     {
+      "id": "raider_flag",
+      "name": "Raider Flag",
+      "type": "Trinket",
+      "rarity": "Common",
+      "weightKg": 0.5,
+      "stackSize": 1
+    },
+    {
       "id": "raider_hatch_key",
       "name": "Raider Hatch Key",
       "type": "Key",
@@ -7813,6 +7849,16 @@
     {
       "id": "riven_tides_classifed_records_keycard",
       "name": "Riven Tides Classifed Records Keycard",
+      "imageFilename": "riven_tides_classified_records_keycard.png",
+      "type": "Key",
+      "rarity": "Uncommon",
+      "value": 100,
+      "weightKg": 0.25,
+      "stackSize": 1
+    },
+    {
+      "id": "riven_tides_classified_records_keycard",
+      "name": "Riven Tides Classified Records Keycard",
       "type": "Key",
       "rarity": "Uncommon",
       "value": 100,
@@ -7831,6 +7877,7 @@
     {
       "id": "riven_tides_hotel_keycard_no_102",
       "name": "Riven Tides Hotel Keycard No. 102",
+      "imageFilename": "riven_tide_keycard_generic.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -7840,6 +7887,7 @@
     {
       "id": "riven_tides_hotel_keycard_no_107",
       "name": "Riven Tides Hotel Keycard No. 107",
+      "imageFilename": "riven_tide_keycard_generic.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -7849,6 +7897,7 @@
     {
       "id": "riven_tides_hotel_keycard_no_113",
       "name": "Riven Tides Hotel Keycard No. 113",
+      "imageFilename": "riven_tide_keycard_generic.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -7858,6 +7907,7 @@
     {
       "id": "riven_tides_hotel_keycard_no_205",
       "name": "Riven Tides Hotel Keycard No. 205",
+      "imageFilename": "riven_tide_keycard_generic.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -7867,6 +7917,7 @@
     {
       "id": "riven_tides_hotel_keycard_no_208",
       "name": "Riven Tides Hotel Keycard No. 208",
+      "imageFilename": "riven_tide_keycard_generic.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -7876,6 +7927,7 @@
     {
       "id": "riven_tides_hotel_keycard_no_311",
       "name": "Riven Tides Hotel Keycard No. 311",
+      "imageFilename": "riven_tide_keycard_generic.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -7885,6 +7937,7 @@
     {
       "id": "riven_tides_hotel_keycard_no_404",
       "name": "Riven Tides Hotel Keycard No. 404",
+      "imageFilename": "riven_tide_keycard_generic.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -8311,6 +8364,15 @@
           "quantity": 1
         }
       ]
+    },
+    {
+      "id": "seed_vault_box_key",
+      "name": "Seed Vault Box Key",
+      "type": "Key",
+      "rarity": "Common",
+      "value": 100,
+      "weightKg": 0.25,
+      "stackSize": 1
     },
     {
       "id": "seeker_grenade_blueprint",
@@ -11053,6 +11115,7 @@
     {
       "id": "white_flag_blueprint",
       "name": "White Flag Blueprint",
+      "imageFilename": "white_flag.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
