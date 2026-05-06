@@ -3,6 +3,7 @@
     {
       "id": "acoustic_guitar",
       "name": "Acoustic Guitar",
+      "imageFilename": "v2/acoustic_guitar.png",
       "type": "Quick Use",
       "rarity": "Legendary",
       "value": 7000,
@@ -21,6 +22,7 @@
     {
       "id": "adrenaline_shot",
       "name": "Adrenaline Shot",
+      "imageFilename": "v2/adrenaline_shot.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 300,
@@ -43,6 +45,7 @@
     {
       "id": "advanced_arc_powercell",
       "name": "Advanced ARC Powercell",
+      "imageFilename": "v2/advanced_arc_powercell.png",
       "type": "Topside Material",
       "rarity": "Rare",
       "value": 640,
@@ -55,6 +58,7 @@
     {
       "id": "advanced_electrical_components",
       "name": "Advanced Electrical Components",
+      "imageFilename": "v2/advanced_electrical_components.png",
       "type": "Refined Material",
       "rarity": "Rare",
       "value": 1750,
@@ -99,6 +103,7 @@
     {
       "id": "advanced_mechanical_components",
       "name": "Advanced Mechanical Components",
+      "imageFilename": "v2/advanced_mechanical_components.png",
       "type": "Refined Material",
       "rarity": "Rare",
       "value": 1750,
@@ -128,6 +133,7 @@
     {
       "id": "agave_juice",
       "name": "Agave Juice",
+      "imageFilename": "v2/agave_juice.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 1800,
@@ -144,6 +150,7 @@
     {
       "id": "agave",
       "name": "Agave",
+      "imageFilename": "v2/agave.png",
       "type": "Nature",
       "rarity": "Uncommon",
       "value": 1000,
@@ -165,6 +172,7 @@
     {
       "id": "air_freshener",
       "name": "Air Freshener",
+      "imageFilename": "v2/air_freshener.png",
       "type": "Trinket",
       "rarity": "Uncommon",
       "value": 2000,
@@ -174,6 +182,7 @@
     {
       "id": "alarm_clock",
       "name": "Alarm Clock",
+      "imageFilename": "v2/alarm_clock.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -187,6 +196,7 @@
     {
       "id": "alien_duck",
       "name": "Alien Duck",
+      "imageFilename": "v2/alien_duck.png",
       "type": "Trinket",
       "rarity": "Uncommon",
       "value": 1000,
@@ -196,7 +206,7 @@
     {
       "id": "ancient_fort_security_code",
       "name": "Ancient Fort Security Code",
-      "imageFilename": "security_code.png",
+      "imageFilename": "v2/ancient_fort_security_code.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -206,6 +216,7 @@
     {
       "id": "angled_grip_i",
       "name": "Angled Grip I",
+      "imageFilename": "v2/angled_grip_i.png",
       "type": "Modification",
       "rarity": "Common",
       "value": 640,
@@ -226,7 +237,7 @@
     {
       "id": "angled_grip_ii_blueprint",
       "name": "Angled Grip II Blueprint",
-      "imageFilename": "angled_grip_ii.png",
+      "imageFilename": "v2/angled_grip_ii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -236,6 +247,7 @@
     {
       "id": "angled_grip_ii",
       "name": "Angled Grip II",
+      "imageFilename": "v2/angled_grip_ii.png",
       "type": "Modification",
       "rarity": "Uncommon",
       "value": 2000,
@@ -257,7 +269,7 @@
     {
       "id": "angled_grip_iii_blueprint",
       "name": "Angled Grip III Blueprint",
-      "imageFilename": "angled_grip_iii.png",
+      "imageFilename": "v2/angled_grip_iii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -267,6 +279,7 @@
     {
       "id": "angled_grip_iii",
       "name": "Angled Grip III",
+      "imageFilename": "v2/angled_grip_iii.png",
       "type": "Modification",
       "rarity": "Rare",
       "value": 5000,
@@ -288,6 +301,7 @@
     {
       "id": "antiseptic",
       "name": "Antiseptic",
+      "imageFilename": "v2/antiseptic.png",
       "type": "Refined Material",
       "rarity": "Rare",
       "value": 1000,
@@ -326,6 +340,7 @@
     {
       "id": "anvil_blueprint",
       "name": "Anvil Blueprint",
+      "imageFilename": "v2/anvil_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -336,7 +351,7 @@
       "id": "anvil_i",
       "name": "Anvil I",
       "description": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
-      "imageFilename": "anvil.png",
+      "imageFilename": "v2/anvil_i.png",
       "type": "Hand Cannon",
       "rarity": "Uncommon",
       "value": 5000,
@@ -376,7 +391,7 @@
       "id": "anvil_ii",
       "name": "Anvil II",
       "description": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
-      "imageFilename": "anvil.png",
+      "imageFilename": "v2/anvil_ii.png",
       "type": "Hand Cannon",
       "rarity": "Uncommon",
       "value": 7000,
@@ -417,7 +432,7 @@
       "id": "anvil_iii",
       "name": "Anvil III",
       "description": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
-      "imageFilename": "anvil.png",
+      "imageFilename": "v2/anvil_iii.png",
       "type": "Hand Cannon",
       "rarity": "Uncommon",
       "value": 10000,
@@ -458,7 +473,7 @@
       "id": "anvil_iv",
       "name": "Anvil IV",
       "description": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
-      "imageFilename": "anvil.png",
+      "imageFilename": "v2/anvil_iv.png",
       "type": "Hand Cannon",
       "rarity": "Uncommon",
       "value": 13000,
@@ -498,6 +513,7 @@
     {
       "id": "anvil_splitter",
       "name": "Anvil Splitter",
+      "imageFilename": "v2/anvil_splitter.png",
       "type": "Modification",
       "rarity": "Legendary",
       "value": 7000,
@@ -511,7 +527,7 @@
     {
       "id": "aphelion_blueprint",
       "name": "Aphelion Blueprint",
-      "imageFilename": "aphelion.png",
+      "imageFilename": "v2/aphelion_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -522,6 +538,7 @@
       "id": "aphelion",
       "name": "Aphelion",
       "description": "An experimental ARC beam weapon powered by a Matriarch Reactor.",
+      "imageFilename": "v2/aphelion.png",
       "type": "Special",
       "rarity": "Legendary",
       "value": 27500,
@@ -560,6 +577,7 @@
     {
       "id": "apricot",
       "name": "Apricot",
+      "imageFilename": "v2/apricot.png",
       "type": "Nature",
       "rarity": "Uncommon",
       "value": 640,
@@ -586,6 +604,7 @@
     {
       "id": "arc_alloy",
       "name": "ARC Alloy",
+      "imageFilename": "v2/arc_alloy.png",
       "type": "Topside Material",
       "rarity": "Uncommon",
       "value": 200,
@@ -637,6 +656,7 @@
     {
       "id": "arc_circuitry",
       "name": "ARC Circuitry",
+      "imageFilename": "v2/arc_circuitry.png",
       "type": "Topside Material",
       "rarity": "Rare",
       "value": 1000,
@@ -664,6 +684,7 @@
     {
       "id": "arc_coolant",
       "name": "ARC Coolant",
+      "imageFilename": "v2/arc_coolant.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -676,6 +697,7 @@
     {
       "id": "arc_flex_rubber",
       "name": "ARC Flex Rubber",
+      "imageFilename": "v2/arc_flex_rubber.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -688,6 +710,7 @@
     {
       "id": "arc_motion_core",
       "name": "ARC Motion Core",
+      "imageFilename": "v2/arc_motion_core.png",
       "type": "Topside Material",
       "rarity": "Rare",
       "value": 1000,
@@ -724,6 +747,7 @@
     {
       "id": "arc_performance_steel",
       "name": "ARC Performance Steel",
+      "imageFilename": "v2/arc_performance_steel.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -745,6 +769,7 @@
     {
       "id": "arc_powercell",
       "name": "ARC Powercell",
+      "imageFilename": "v2/arc_powercell.png",
       "type": "Topside Material",
       "rarity": "Common",
       "value": 270,
@@ -774,6 +799,7 @@
     {
       "id": "arc_synthetic_resin",
       "name": "ARC Synthetic Resin",
+      "imageFilename": "v2/arc_synthetic_resin.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -795,6 +821,7 @@
     {
       "id": "arc_thermo_lining",
       "name": "ARC Thermo Lining",
+      "imageFilename": "v2/arc_thermo_lining.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -808,7 +835,7 @@
       "id": "arpeggio_i",
       "name": "Arpeggio I",
       "description": "Has decent damage output and accuracy.",
-      "imageFilename": "arpeggio.png",
+      "imageFilename": "v2/arpeggio_i.png",
       "type": "Assault Rifle",
       "rarity": "Uncommon",
       "value": 5500,
@@ -850,7 +877,7 @@
       "id": "arpeggio_ii",
       "name": "Arpeggio II",
       "description": "Has decent damage output and accuracy.",
-      "imageFilename": "arpeggio.png",
+      "imageFilename": "v2/arpeggio_ii.png",
       "type": "Assault Rifle",
       "rarity": "Uncommon",
       "value": 8000,
@@ -893,7 +920,7 @@
       "id": "arpeggio_iii",
       "name": "Arpeggio III",
       "description": "Has decent damage output and accuracy.",
-      "imageFilename": "arpeggio.png",
+      "imageFilename": "v2/arpeggio_iii.png",
       "type": "Assault Rifle",
       "rarity": "Uncommon",
       "value": 11500,
@@ -936,7 +963,7 @@
       "id": "arpeggio_iv",
       "name": "Arpeggio IV",
       "description": "Has decent damage output and accuracy.",
-      "imageFilename": "arpeggio.png",
+      "imageFilename": "v2/arpeggio_iv.png",
       "type": "Assault Rifle",
       "rarity": "Uncommon",
       "value": 15000,
@@ -978,6 +1005,7 @@
     {
       "id": "assessor_matrix",
       "name": "Assessor Matrix",
+      "imageFilename": "v2/assessor_matrix.png",
       "type": "Recyclable",
       "rarity": "Epic",
       "value": 5000,
@@ -991,6 +1019,7 @@
     {
       "id": "assorted_seeds",
       "name": "Assorted Seeds",
+      "imageFilename": "v2/assorted_seeds.png",
       "type": "Nature",
       "rarity": "Common",
       "value": 100,
@@ -1000,6 +1029,7 @@
     {
       "id": "bandage",
       "name": "Bandage",
+      "imageFilename": "v2/bandage.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 250,
@@ -1021,7 +1051,7 @@
     {
       "id": "barricade_kit_blueprint",
       "name": "Barricade Kit Blueprint",
-      "imageFilename": "barricade_kit.png",
+      "imageFilename": "v2/barricade_kit_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -1031,6 +1061,7 @@
     {
       "id": "barricade_kit",
       "name": "Barricade Kit",
+      "imageFilename": "v2/barricade_kit.png",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 640,
@@ -1050,6 +1081,7 @@
     {
       "id": "bastion_cell",
       "name": "Bastion Cell",
+      "imageFilename": "v2/bastion_cell.png",
       "type": "Recyclable",
       "rarity": "Epic",
       "value": 3000,
@@ -1090,6 +1122,7 @@
     {
       "id": "battery",
       "name": "Battery",
+      "imageFilename": "v2/battery.png",
       "type": "Topside Material",
       "rarity": "Uncommon",
       "value": 250,
@@ -1122,6 +1155,7 @@
     {
       "id": "bettina_blueprint",
       "name": "Bettina Blueprint",
+      "imageFilename": "v2/bettina_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -1132,7 +1166,7 @@
       "id": "bettina_i",
       "name": "Bettina I",
       "description": "Has slow fire rate and high damage output.",
-      "imageFilename": "bettina.png",
+      "imageFilename": "v2/bettina_i.png",
       "type": "Assault Rifle",
       "rarity": "Epic",
       "value": 8000,
@@ -1174,7 +1208,7 @@
       "id": "bettina_ii",
       "name": "Bettina II",
       "description": "Has slow fire rate and high damage output.",
-      "imageFilename": "bettina.png",
+      "imageFilename": "v2/bettina_ii.png",
       "type": "Assault Rifle",
       "rarity": "Epic",
       "value": 11000,
@@ -1216,7 +1250,7 @@
       "id": "bettina_iii",
       "name": "Bettina III",
       "description": "Has slow fire rate and high damage output.",
-      "imageFilename": "bettina.png",
+      "imageFilename": "v2/bettina_iii.png",
       "type": "Assault Rifle",
       "rarity": "Epic",
       "value": 14000,
@@ -1258,7 +1292,7 @@
       "id": "bettina_iv",
       "name": "Bettina IV",
       "description": "Has slow fire rate and high damage output.",
-      "imageFilename": "bettina.png",
+      "imageFilename": "v2/bettina_iv.png",
       "type": "Assault Rifle",
       "rarity": "Epic",
       "value": 18000,
@@ -1299,6 +1333,7 @@
     {
       "id": "bicycle_pump",
       "name": "Bicycle Pump",
+      "imageFilename": "v2/bicycle_pump.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
@@ -1325,6 +1360,7 @@
     {
       "id": "binoculars",
       "name": "Binoculars",
+      "imageFilename": "v2/binoculars.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 640,
@@ -1351,7 +1387,7 @@
     {
       "id": "blaze_grenade_blueprint",
       "name": "Blaze Grenade Blueprint",
-      "imageFilename": "blaze_grenade.png",
+      "imageFilename": "v2/blaze_grenade_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -1361,6 +1397,7 @@
     {
       "id": "blaze_grenade_trap",
       "name": "Blaze Grenade Trap",
+      "imageFilename": "v2/blaze_grenade_trap.png",
       "type": "Quick Use",
       "rarity": "Rare",
       "value": 1000,
@@ -1379,6 +1416,7 @@
     {
       "id": "blaze_grenade",
       "name": "Blaze Grenade",
+      "imageFilename": "v2/blaze_grenade.png",
       "type": "Quick Use",
       "rarity": "Rare",
       "value": 1600,
@@ -1409,6 +1447,7 @@
     {
       "id": "blue_gate_cellar_key",
       "name": "Blue Gate Cellar Key",
+      "imageFilename": "v2/blue_gate_cellar_key.png",
       "type": "Key",
       "rarity": "Rare",
       "value": 100,
@@ -1418,6 +1457,7 @@
     {
       "id": "blue_gate_communication_tower_key",
       "name": "Blue Gate Communication Tower Key",
+      "imageFilename": "v2/blue_gate_communication_tower_key.png",
       "type": "Key",
       "rarity": "Rare",
       "value": 100,
@@ -1427,6 +1467,7 @@
     {
       "id": "blue_gate_confiscation_room_key",
       "name": "Blue Gate Confiscation Room Key",
+      "imageFilename": "v2/blue_gate_confiscation_room_key.png",
       "type": "Key",
       "rarity": "Epic",
       "value": 100,
@@ -1436,6 +1477,7 @@
     {
       "id": "blue_gate_village_key",
       "name": "Blue Gate Village Key",
+      "imageFilename": "v2/blue_gate_village_key.png",
       "type": "Key",
       "rarity": "Uncommon",
       "value": 100,
@@ -1445,6 +1487,7 @@
     {
       "id": "blue_light_stick_blueprint",
       "name": "Blue Light Stick Blueprint",
+      "imageFilename": "v2/blue_light_stick_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -1454,6 +1497,7 @@
     {
       "id": "blue_light_stick",
       "name": "Blue Light Stick",
+      "imageFilename": "v2/blue_light_stick.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 150,
@@ -1473,7 +1517,7 @@
     {
       "id": "bobcat_blueprint",
       "name": "Bobcat Blueprint",
-      "imageFilename": "bobcat.png",
+      "imageFilename": "v2/bobcat_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -1484,7 +1528,7 @@
       "id": "bobcat_i",
       "name": "Bobcat I",
       "description": "Fully automatic SMG with high fire rate but low accuracy.",
-      "imageFilename": "bobcat.png",
+      "imageFilename": "v2/bobcat_i.png",
       "type": "SMG",
       "rarity": "Epic",
       "value": 13000,
@@ -1533,7 +1577,7 @@
       "id": "bobcat_ii",
       "name": "Bobcat II",
       "description": "Fully automatic SMG with high fire rate but low accuracy.",
-      "imageFilename": "bobcat.png",
+      "imageFilename": "v2/bobcat_ii.png",
       "type": "SMG",
       "rarity": "Epic",
       "value": 17000,
@@ -1583,7 +1627,7 @@
       "id": "bobcat_iii",
       "name": "Bobcat III",
       "description": "Fully automatic SMG with high fire rate but low accuracy.",
-      "imageFilename": "bobcat.png",
+      "imageFilename": "v2/bobcat_iii.png",
       "type": "SMG",
       "rarity": "Epic",
       "value": 22000,
@@ -1633,7 +1677,7 @@
       "id": "bobcat_iv",
       "name": "Bobcat IV",
       "description": "Fully automatic SMG with high fire rate but low accuracy.",
-      "imageFilename": "bobcat.png",
+      "imageFilename": "v2/bobcat_iv.png",
       "type": "SMG",
       "rarity": "Epic",
       "value": 27000,
@@ -1682,6 +1726,7 @@
     {
       "id": "bombardier_cell",
       "name": "Bombardier Cell",
+      "imageFilename": "v2/bombardier_cell.png",
       "type": "Recyclable",
       "rarity": "Epic",
       "value": 3000,
@@ -1722,6 +1767,7 @@
     {
       "id": "breathtaking_snow_globe",
       "name": "Breathtaking Snow Globe",
+      "imageFilename": "v2/breathtaking_snow_globe.png",
       "type": "Trinket",
       "rarity": "Epic",
       "value": 7000,
@@ -1731,6 +1777,7 @@
     {
       "id": "broken_flashlight",
       "name": "Broken Flashlight",
+      "imageFilename": "v2/broken_flashlight.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -1744,6 +1791,7 @@
     {
       "id": "broken_guidance_system",
       "name": "Broken Guidance System",
+      "imageFilename": "v2/broken_guidance_system.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
@@ -1756,6 +1804,7 @@
     {
       "id": "broken_handheld_radio",
       "name": "Broken Handheld Radio",
+      "imageFilename": "v2/broken_handheld_radio.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
@@ -1769,6 +1818,7 @@
     {
       "id": "broken_taser",
       "name": "Broken Taser",
+      "imageFilename": "v2/broken_taser.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -1782,6 +1832,7 @@
     {
       "id": "buried_city_hospital_key",
       "name": "Buried City Hospital Key",
+      "imageFilename": "v2/buried_city_hospital_key.png",
       "type": "Key",
       "rarity": "Rare",
       "value": 100,
@@ -1791,6 +1842,7 @@
     {
       "id": "buried_city_jkv_employee_access_card",
       "name": "Buried City JKV Employee Access Card",
+      "imageFilename": "v2/buried_city_jkv_employee_access_card.png",
       "type": "Key",
       "rarity": "Uncommon",
       "value": 100,
@@ -1800,6 +1852,7 @@
     {
       "id": "buried_city_residential_master_key",
       "name": "Buried City Residential Master Key",
+      "imageFilename": "v2/buried_city_residential_master_key.png",
       "type": "Key",
       "rarity": "Uncommon",
       "value": 100,
@@ -1809,6 +1862,7 @@
     {
       "id": "buried_city_town_hall_key",
       "name": "Buried City Town Hall Key",
+      "imageFilename": "v2/buried_city_town_hall_key.png",
       "type": "Key",
       "rarity": "Epic",
       "value": 100,
@@ -1818,7 +1872,7 @@
     {
       "id": "burletta_blueprint",
       "name": "Burletta Blueprint",
-      "imageFilename": "burletta.png",
+      "imageFilename": "v2/burletta_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -1828,7 +1882,7 @@
       "id": "burletta_i",
       "name": "Burletta I",
       "description": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
-      "imageFilename": "burletta.png",
+      "imageFilename": "v2/burletta_i.png",
       "type": "Pistol",
       "rarity": "Uncommon",
       "value": 2900,
@@ -1868,7 +1922,7 @@
       "id": "burletta_ii",
       "name": "Burletta II",
       "description": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
-      "imageFilename": "burletta.png",
+      "imageFilename": "v2/burletta_ii.png",
       "type": "Pistol",
       "rarity": "Uncommon",
       "value": 5000,
@@ -1900,7 +1954,7 @@
       "id": "burletta_iii",
       "name": "Burletta III",
       "description": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
-      "imageFilename": "burletta.png",
+      "imageFilename": "v2/burletta_iii.png",
       "type": "Pistol",
       "rarity": "Uncommon",
       "value": 7000,
@@ -1932,7 +1986,7 @@
       "id": "burletta_iv",
       "name": "Burletta IV",
       "description": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
-      "imageFilename": "burletta.png",
+      "imageFilename": "v2/burletta_iv.png",
       "type": "Pistol",
       "rarity": "Uncommon",
       "value": 10000,
@@ -1963,6 +2017,7 @@
     {
       "id": "burned_arc_circuitry",
       "name": "Burned Arc Circuitry",
+      "imageFilename": "v2/burned_arc_circuitry.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -1975,6 +2030,7 @@
     {
       "id": "burnt_out_candles",
       "name": "Burnt-Out Candles",
+      "imageFilename": "v2/burnt_out_candles.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 640,
@@ -1984,6 +2040,7 @@
     {
       "id": "camera_lens",
       "name": "Camera Lens",
+      "imageFilename": "v2/camera_lens.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -1996,6 +2053,7 @@
     {
       "id": "candle_holder",
       "name": "Candle Holder",
+      "imageFilename": "v2/candle_holder.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -2008,6 +2066,7 @@
     {
       "id": "candleberries",
       "name": "Candleberries",
+      "imageFilename": "v2/candleberries.png",
       "type": "Nature",
       "rarity": "Rare",
       "value": 460,
@@ -2020,6 +2079,7 @@
     {
       "id": "canister",
       "name": "Canister",
+      "imageFilename": "v2/canister.png",
       "type": "Topside Material",
       "rarity": "Uncommon",
       "value": 300,
@@ -2048,6 +2108,7 @@
     {
       "id": "canto_blueprint",
       "name": "Canto Blueprint",
+      "imageFilename": "v2/canto_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -2057,8 +2118,9 @@
     {
       "id": "canto_i",
       "name": "Canto I",
+      "imageFilename": "v2/canto_i.png",
       "type": "SMG",
-      "rarity": "Legendary",
+      "rarity": "Rare",
       "value": 7000,
       "weightKg": 6.5,
       "stackSize": 1,
@@ -2079,8 +2141,9 @@
     {
       "id": "canto_ii",
       "name": "Canto II",
+      "imageFilename": "v2/canto_ii.png",
       "type": "SMG",
-      "rarity": "Legendary",
+      "rarity": "Rare",
       "value": 10000,
       "weightKg": 6.5,
       "stackSize": 1,
@@ -2096,8 +2159,9 @@
     {
       "id": "canto_iii",
       "name": "Canto III",
+      "imageFilename": "v2/canto_iii.png",
       "type": "SMG",
-      "rarity": "Legendary",
+      "rarity": "Rare",
       "value": 13000,
       "weightKg": 6.5,
       "stackSize": 1,
@@ -2113,8 +2177,9 @@
     {
       "id": "canto_iv",
       "name": "Canto IV",
+      "imageFilename": "v2/canto_iv.png",
       "type": "SMG",
-      "rarity": "Legendary",
+      "rarity": "Rare",
       "value": 17000,
       "weightKg": 6.5,
       "stackSize": 1,
@@ -2130,6 +2195,7 @@
     {
       "id": "cat_bed",
       "name": "Cat Bed",
+      "imageFilename": "v2/cat_bed.png",
       "type": "Trinket",
       "rarity": "Uncommon",
       "value": 1000,
@@ -2147,7 +2213,7 @@
     {
       "id": "celeste_journal",
       "name": "Celeste's Journal",
-      "imageFilename": "celestes_journal.png",
+      "imageFilename": "v2/celeste_journal.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -2169,6 +2235,7 @@
     {
       "id": "chemicals",
       "name": "Chemicals",
+      "imageFilename": "v2/chemicals.png",
       "type": "Basic Material",
       "rarity": "Common",
       "value": 50,
@@ -2195,6 +2262,7 @@
     {
       "id": "coffee_pot",
       "name": "Coffee Pot",
+      "imageFilename": "v2/coffee_pot.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 1000,
@@ -2204,7 +2272,7 @@
     {
       "id": "combat_mk1",
       "name": "Combat Mk. 1",
-      "imageFilename": "combat_i.png",
+      "imageFilename": "v2/combat_mk1.png",
       "type": "Augment",
       "rarity": "Uncommon",
       "value": 640,
@@ -2231,7 +2299,7 @@
     {
       "id": "combat_mk2",
       "name": "Combat Mk. 2",
-      "imageFilename": "combat_i.png",
+      "imageFilename": "v2/combat_mk2.png",
       "type": "Augment",
       "rarity": "Rare",
       "value": 2000,
@@ -2258,7 +2326,7 @@
     {
       "id": "combat_mk3_aggressive_blueprint",
       "name": "Combat Mk. 3 (Aggressive) Blueprint",
-      "imageFilename": "combat_mk3_aggressive.png",
+      "imageFilename": "v2/combat_mk3_aggressive_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -2268,6 +2336,7 @@
     {
       "id": "combat_mk3_aggressive",
       "name": "Combat Mk. 3 (Aggressive)",
+      "imageFilename": "v2/combat_mk3_aggressive.png",
       "type": "Augment",
       "rarity": "Epic",
       "value": 5000,
@@ -2294,7 +2363,7 @@
     {
       "id": "combat_mk3_flanking_blueprint",
       "name": "Combat Mk. 3 (Flanking) Blueprint",
-      "imageFilename": "combat_mk3_flanking.png",
+      "imageFilename": "v2/combat_mk3_flanking_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -2304,6 +2373,7 @@
     {
       "id": "combat_mk3_flanking",
       "name": "Combat Mk. 3 (Flanking)",
+      "imageFilename": "v2/combat_mk3_flanking.png",
       "type": "Augment",
       "rarity": "Epic",
       "value": 5000,
@@ -2330,6 +2400,7 @@
     {
       "id": "comet_igniter",
       "name": "Comet Igniter",
+      "imageFilename": "v2/comet_igniter.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -2362,6 +2433,7 @@
     {
       "id": "compensator_i",
       "name": "Compensator I",
+      "imageFilename": "v2/compensator_i.png",
       "type": "Modification",
       "rarity": "Common",
       "value": 640,
@@ -2382,6 +2454,7 @@
     {
       "id": "compensator_ii_blueprint",
       "name": "Compensator II Blueprint",
+      "imageFilename": "v2/compensator_ii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -2391,6 +2464,7 @@
     {
       "id": "compensator_ii",
       "name": "Compensator II",
+      "imageFilename": "v2/compensator_ii.png",
       "type": "Modification",
       "rarity": "Uncommon",
       "value": 2000,
@@ -2412,7 +2486,7 @@
     {
       "id": "compensator_iii_blueprint",
       "name": "Compensator III Blueprint",
-      "imageFilename": "compensator_iii.png",
+      "imageFilename": "v2/compensator_iii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -2422,7 +2496,7 @@
     {
       "id": "compensator_iii",
       "name": "Compensator III",
-      "imageFilename": "compensator_ii.png",
+      "imageFilename": "v2/compensator_iii.png",
       "type": "Modification",
       "rarity": "Rare",
       "value": 5000,
@@ -2444,6 +2518,7 @@
     {
       "id": "complex_gun_parts_blueprint",
       "name": "Complex Gun Parts Blueprint",
+      "imageFilename": "v2/complex_gun_parts_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -2453,6 +2528,7 @@
     {
       "id": "complex_gun_parts",
       "name": "Complex Gun Parts",
+      "imageFilename": "v2/complex_gun_parts.png",
       "type": "Topside Material",
       "rarity": "Epic",
       "value": 3000,
@@ -2474,6 +2550,7 @@
     {
       "id": "coolant",
       "name": "Coolant",
+      "imageFilename": "v2/coolant.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -2487,6 +2564,7 @@
     {
       "id": "cooling_coil",
       "name": "Cooling Coil",
+      "imageFilename": "v2/cooling_coil.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -2500,6 +2578,7 @@
     {
       "id": "cooling_fan",
       "name": "Cooling Fan",
+      "imageFilename": "v2/cooling_fan.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
@@ -2513,6 +2592,7 @@
     {
       "id": "cracked_bioscanner",
       "name": "Cracked Bioscanner",
+      "imageFilename": "v2/cracked_bioscanner.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -2534,6 +2614,7 @@
     {
       "id": "crash_mat_blueprint",
       "name": "Crash Mat Blueprint",
+      "imageFilename": "v2/crash_mat_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -2543,6 +2624,7 @@
     {
       "id": "crash_mat",
       "name": "Crash Mat",
+      "imageFilename": "v2/crash_mat.png",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 1200,
@@ -2564,6 +2646,7 @@
     {
       "id": "crude_explosives",
       "name": "Crude Explosives",
+      "imageFilename": "v2/crude_explosives.png",
       "type": "Refined Material",
       "rarity": "Uncommon",
       "value": 270,
@@ -2591,6 +2674,7 @@
     {
       "id": "crumpled_plastic_bottle",
       "name": "Crumpled Plastic Bottle",
+      "imageFilename": "v2/crumpled_plastic_bottle.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 270,
@@ -2603,6 +2687,7 @@
     {
       "id": "dam_control_tower_key",
       "name": "Dam Control Tower Key",
+      "imageFilename": "v2/dam_control_tower_key.png",
       "type": "Key",
       "rarity": "Epic",
       "value": 100,
@@ -2612,7 +2697,7 @@
     {
       "id": "dam_controlled_access_zone_key",
       "name": "Dam Controlled Access Zone Key",
-      "imageFilename": "dam_testing_annex_key.png",
+      "imageFilename": "v2/dam_controlled_access_zone_key.png",
       "type": "Key",
       "rarity": "Epic",
       "value": 100,
@@ -2621,6 +2706,7 @@
     {
       "id": "dam_staff_room_key",
       "name": "Dam Staff Room Key",
+      "imageFilename": "v2/dam_staff_room_key.png",
       "type": "Key",
       "rarity": "Uncommon",
       "value": 100,
@@ -2630,6 +2716,7 @@
     {
       "id": "dam_surveillance_key",
       "name": "Dam Surveillance Key",
+      "imageFilename": "v2/dam_surveillance_key.png",
       "type": "Key",
       "rarity": "Uncommon",
       "value": 100,
@@ -2639,6 +2726,7 @@
     {
       "id": "dam_testing_annex_key",
       "name": "Dam Testing Annex Key",
+      "imageFilename": "v2/dam_testing_annex_key.png",
       "type": "Key",
       "rarity": "Rare",
       "value": 100,
@@ -2646,17 +2734,9 @@
       "stackSize": 1
     },
     {
-      "id": "dam_utility_key",
-      "name": "Dam Utility Key",
-      "type": "Key",
-      "rarity": "Uncommon",
-      "value": 100,
-      "weightKg": 0.25,
-      "stackSize": 1
-    },
-    {
       "id": "damaged_arc_motion_core",
       "name": "Damaged ARC Motion Core",
+      "imageFilename": "v2/damaged_arc_motion_core.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -2669,6 +2749,7 @@
     {
       "id": "damaged_arc_powercell",
       "name": "Damaged ARC Powercell",
+      "imageFilename": "v2/damaged_arc_powercell.png",
       "type": "Recyclable",
       "rarity": "Common",
       "value": 293,
@@ -2681,6 +2762,7 @@
     {
       "id": "damaged_fireball_burner",
       "name": "Damaged Fireball Burner",
+      "imageFilename": "v2/damaged_fireball_burner.png",
       "type": "Recyclable",
       "rarity": "Common",
       "value": 270,
@@ -2693,6 +2775,7 @@
     {
       "id": "damaged_heat_sink",
       "name": "Damaged Heat Sink",
+      "imageFilename": "v2/damaged_heat_sink.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -2714,6 +2797,7 @@
     {
       "id": "damaged_hornet_driver",
       "name": "Damaged Hornet Driver",
+      "imageFilename": "v2/damaged_hornet_driver.png",
       "type": "Recyclable",
       "rarity": "Common",
       "value": 640,
@@ -2726,6 +2810,7 @@
     {
       "id": "damaged_rocketeer_driver",
       "name": "Damaged Rocketeer Driver",
+      "imageFilename": "v2/damaged_rocketeer_driver.png",
       "type": "Recyclable",
       "rarity": "Common",
       "value": 1000,
@@ -2738,6 +2823,7 @@
     {
       "id": "damaged_snitch_scanner",
       "name": "Damaged Snitch Scanner",
+      "imageFilename": "v2/damaged_snitch_scanner.png",
       "type": "Recyclable",
       "rarity": "Common",
       "value": 659,
@@ -2747,6 +2833,7 @@
     {
       "id": "damaged_tick_pod",
       "name": "Damaged Tick Pod",
+      "imageFilename": "v2/damaged_tick_pod.png",
       "type": "Recyclable",
       "rarity": "Common",
       "value": 270,
@@ -2759,6 +2846,7 @@
     {
       "id": "damaged_wasp_driver",
       "name": "Damaged Wasp Driver",
+      "imageFilename": "v2/damaged_wasp_driver.png",
       "type": "Recyclable",
       "rarity": "Common",
       "value": 270,
@@ -2771,6 +2859,7 @@
     {
       "id": "dart_board",
       "name": "Dart Board",
+      "imageFilename": "v2/dart_board.png",
       "type": "Trinket",
       "rarity": "Uncommon",
       "value": 2000,
@@ -2780,7 +2869,7 @@
     {
       "id": "deadline_blueprint",
       "name": "Deadline Blueprint",
-      "imageFilename": "deadline.png",
+      "imageFilename": "v2/deadline_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -2790,6 +2879,7 @@
     {
       "id": "deadline",
       "name": "Deadline",
+      "imageFilename": "v2/deadline.png",
       "type": "Quick Use",
       "rarity": "Epic",
       "value": 6000,
@@ -2812,7 +2902,7 @@
     {
       "id": "defibrillator_blueprint",
       "name": "Defibrillator Blueprint",
-      "imageFilename": "defibrillator.png",
+      "imageFilename": "v2/defibrillator_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -2822,6 +2912,7 @@
     {
       "id": "defibrillator",
       "name": "Defibrillator",
+      "imageFilename": "v2/defibrillator.png",
       "type": "Quick Use",
       "rarity": "Rare",
       "value": 1000,
@@ -2843,6 +2934,7 @@
     {
       "id": "deflated_football",
       "name": "Deflated Football",
+      "imageFilename": "v2/deflated_football.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 1000,
@@ -2869,6 +2961,7 @@
     {
       "id": "degraded_arc_rubber",
       "name": "Degraded ARC Rubber",
+      "imageFilename": "v2/degraded_arc_rubber.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -2881,6 +2974,7 @@
     {
       "id": "diving_goggles",
       "name": "Diving Goggles",
+      "imageFilename": "v2/diving_goggles.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 640,
@@ -2893,6 +2987,7 @@
     {
       "id": "dockmasters_detector",
       "name": "Dockmaster's Detector",
+      "imageFilename": "v2/dockmasters_detector.png",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 1000,
@@ -2902,6 +2997,7 @@
     {
       "id": "dodgers_note",
       "name": "Dodger's Note",
+      "imageFilename": "v2/dodgers_note.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -2923,6 +3019,7 @@
     {
       "id": "dog_collar",
       "name": "Dog Collar",
+      "imageFilename": "v2/dog_collar.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 640,
@@ -2944,7 +3041,7 @@
     {
       "id": "dolabra_blueprint",
       "name": "Dolabra Blueprint",
-      "imageFilename": "dolabra.png",
+      "imageFilename": "v2/dolabra_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -2955,6 +3052,7 @@
       "id": "dolabra",
       "name": "Dolabra",
       "description": "An experimental weapon that can either fire a wide short range blast, or be focused to fire a tight medium range beam of heat.",
+      "imageFilename": "v2/dolabra.png",
       "type": "Shotgun",
       "rarity": "Legendary",
       "value": 27500,
@@ -2977,6 +3075,7 @@
     {
       "id": "doodly_duck",
       "name": "Doodly Duck",
+      "imageFilename": "v2/doodly_duck.png",
       "type": "Trinket",
       "rarity": "Rare",
       "value": 3000,
@@ -2986,6 +3085,7 @@
     {
       "id": "door_blocker",
       "name": "Door Blocker",
+      "imageFilename": "v2/door_blocker.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 270,
@@ -3006,6 +3106,7 @@
     {
       "id": "dried_out_arc_resin",
       "name": "Dried-Out ARC Resin",
+      "imageFilename": "v2/dried_out_arc_resin.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -3018,6 +3119,7 @@
     {
       "id": "duct_tape",
       "name": "Duct Tape",
+      "imageFilename": "v2/duct_tape.png",
       "type": "Topside Material",
       "rarity": "Uncommon",
       "value": 300,
@@ -3030,6 +3132,7 @@
     {
       "id": "durable_cloth",
       "name": "Durable Cloth",
+      "imageFilename": "v2/durable_cloth.png",
       "type": "Refined Material",
       "rarity": "Uncommon",
       "value": 640,
@@ -3076,6 +3179,7 @@
     {
       "id": "dusty_film_reel",
       "name": "Dusty Film Reel",
+      "imageFilename": "v2/dusty_film_reel.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -3097,6 +3201,7 @@
     {
       "id": "electrical_components",
       "name": "Electrical Components",
+      "imageFilename": "v2/electrical_components.png",
       "type": "Refined Material",
       "rarity": "Uncommon",
       "value": 640,
@@ -3141,6 +3246,7 @@
     {
       "id": "empty_wine_bottle",
       "name": "Empty Wine Bottle",
+      "imageFilename": "v2/empty_wine_bottle.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 1000,
@@ -3150,6 +3256,7 @@
     {
       "id": "energy_clip",
       "name": "Energy Clip",
+      "imageFilename": "v2/energy_clip.png",
       "type": "Ammunition",
       "rarity": "Rare",
       "value": 200,
@@ -3167,7 +3274,7 @@
     {
       "id": "equalizer_blueprint",
       "name": "Equalizer Blueprint",
-      "imageFilename": "equalizer.png",
+      "imageFilename": "v2/equalizer_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -3178,6 +3285,7 @@
       "id": "equalizer",
       "name": "Equalizer",
       "description": "A high capacity experimental beam rifle.",
+      "imageFilename": "v2/equalizer.png",
       "type": "LMG",
       "rarity": "Legendary",
       "value": 27500,
@@ -3212,6 +3320,7 @@
     {
       "id": "espresso_machine_parts",
       "name": "Espresso Machine Parts",
+      "imageFilename": "v2/espresso_machine_parts.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -3233,6 +3342,7 @@
     {
       "id": "esr_analyzer",
       "name": "ESR Analyzer",
+      "imageFilename": "v2/esr_analyzer.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -3254,6 +3364,7 @@
     {
       "id": "exodus_modules",
       "name": "Exodus Modules",
+      "imageFilename": "v2/exodus_modules.png",
       "type": "Topside Material",
       "rarity": "Epic",
       "value": 2750,
@@ -3283,6 +3394,7 @@
     {
       "id": "experimental_seed_sample",
       "name": "Experimental Seed Sample",
+      "imageFilename": "v2/experimental_seed_sample.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -3313,6 +3425,7 @@
     {
       "id": "expired_respirator",
       "name": "Expired Respirator",
+      "imageFilename": "v2/expired_respirator.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 640,
@@ -3335,6 +3448,7 @@
     {
       "id": "expired_security_code",
       "name": "Expired Security Code",
+      "imageFilename": "v2/expired_security_code.png",
       "type": "Key",
       "rarity": "Common",
       "value": 10,
@@ -3344,6 +3458,7 @@
     {
       "id": "explosive_compound",
       "name": "Explosive Compound",
+      "imageFilename": "v2/explosive_compound.png",
       "type": "Refined Material",
       "rarity": "Rare",
       "value": 1000,
@@ -3372,7 +3487,7 @@
     {
       "id": "explosive_mine_blueprint",
       "name": "Explosive Mine Blueprint",
-      "imageFilename": "explosive_mine.png",
+      "imageFilename": "v2/explosive_mine_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -3382,6 +3497,7 @@
     {
       "id": "explosive_mine",
       "name": "Explosive Mine",
+      "imageFilename": "v2/explosive_mine.png",
       "type": "Quick Use",
       "rarity": "Rare",
       "value": 1500,
@@ -3403,7 +3519,7 @@
     {
       "id": "extended_barrel_blueprint",
       "name": "Extended Barrel Blueprint",
-      "imageFilename": "extended_barrel.png",
+      "imageFilename": "v2/extended_barrel_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -3413,6 +3529,7 @@
     {
       "id": "extended_barrel",
       "name": "Extended Barrel",
+      "imageFilename": "v2/extended_barrel.png",
       "type": "Modification",
       "rarity": "Epic",
       "value": 5000,
@@ -3434,6 +3551,7 @@
     {
       "id": "extended_light_mag_i",
       "name": "Extended Light Mag I",
+      "imageFilename": "v2/extended_light_mag_i.png",
       "type": "Modification",
       "rarity": "Common",
       "value": 640,
@@ -3454,7 +3572,7 @@
     {
       "id": "extended_light_mag_ii_blueprint",
       "name": "Extended Light Mag II Blueprint",
-      "imageFilename": "extended_light_mag_ii.png",
+      "imageFilename": "v2/extended_light_mag_ii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -3464,6 +3582,7 @@
     {
       "id": "extended_light_mag_ii",
       "name": "Extended Light Mag II",
+      "imageFilename": "v2/extended_light_mag_ii.png",
       "type": "Modification",
       "rarity": "Uncommon",
       "value": 2000,
@@ -3485,7 +3604,7 @@
     {
       "id": "extended_light_mag_iii_blueprint",
       "name": "Extended Light Mag III Blueprint",
-      "imageFilename": "extended_light_mag_iii.png",
+      "imageFilename": "v2/extended_light_mag_iii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -3495,6 +3614,7 @@
     {
       "id": "extended_light_mag_iii",
       "name": "Extended Light Mag III",
+      "imageFilename": "v2/extended_light_mag_iii.png",
       "type": "Modification",
       "rarity": "Rare",
       "value": 5000,
@@ -3516,6 +3636,7 @@
     {
       "id": "extended_medium_mag_i",
       "name": "Extended Medium Mag I",
+      "imageFilename": "v2/extended_medium_mag_i.png",
       "type": "Modification",
       "rarity": "Common",
       "value": 640,
@@ -3536,6 +3657,7 @@
     {
       "id": "extended_medium_mag_ii_blueprint",
       "name": "Extended Medium Mag II Blueprint",
+      "imageFilename": "v2/extended_medium_mag_ii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -3545,6 +3667,7 @@
     {
       "id": "extended_medium_mag_ii",
       "name": "Extended Medium Mag II",
+      "imageFilename": "v2/extended_medium_mag_ii.png",
       "type": "Modification",
       "rarity": "Uncommon",
       "value": 2000,
@@ -3566,7 +3689,7 @@
     {
       "id": "extended_medium_mag_iii_blueprint",
       "name": "Extended Medium Mag III Blueprint",
-      "imageFilename": "extended_medium_mag_iii.png",
+      "imageFilename": "v2/extended_medium_mag_iii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -3576,6 +3699,7 @@
     {
       "id": "extended_medium_mag_iii",
       "name": "Extended Medium Mag III",
+      "imageFilename": "v2/extended_medium_mag_iii.png",
       "type": "Modification",
       "rarity": "Rare",
       "value": 5000,
@@ -3597,6 +3721,7 @@
     {
       "id": "extended_shotgun_mag_i",
       "name": "Extended Shotgun Mag I",
+      "imageFilename": "v2/extended_shotgun_mag_i.png",
       "type": "Modification",
       "rarity": "Common",
       "value": 640,
@@ -3617,7 +3742,7 @@
     {
       "id": "extended_shotgun_mag_ii_blueprint",
       "name": "Extended Shotgun Mag II Blueprint",
-      "imageFilename": "extended_shotgun_mag_ii.png",
+      "imageFilename": "v2/extended_shotgun_mag_ii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -3627,6 +3752,7 @@
     {
       "id": "extended_shotgun_mag_ii",
       "name": "Extended Shotgun Mag II",
+      "imageFilename": "v2/extended_shotgun_mag_ii.png",
       "type": "Modification",
       "rarity": "Uncommon",
       "value": 2000,
@@ -3648,7 +3774,7 @@
     {
       "id": "extended_shotgun_mag_iii_blueprint",
       "name": "Extended Shotgun Mag III Blueprint",
-      "imageFilename": "extended_shotgun_mag_iii.png",
+      "imageFilename": "v2/extended_shotgun_mag_iii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -3658,6 +3784,7 @@
     {
       "id": "extended_shotgun_mag_iii",
       "name": "Extended Shotgun Mag III",
+      "imageFilename": "v2/extended_shotgun_mag_iii.png",
       "type": "Modification",
       "rarity": "Rare",
       "value": 5000,
@@ -3679,6 +3806,7 @@
     {
       "id": "fabric",
       "name": "Fabric",
+      "imageFilename": "v2/fabric.png",
       "type": "Basic Material",
       "rarity": "Common",
       "value": 50,
@@ -3702,6 +3830,7 @@
     {
       "id": "faded_photograph",
       "name": "Faded Photograph",
+      "imageFilename": "v2/faded_photograph.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 640,
@@ -3711,6 +3840,7 @@
     {
       "id": "familiar_duck",
       "name": "Familiar Duck",
+      "imageFilename": "v2/familiar_duck.png",
       "type": "Trinket",
       "rarity": "Epic",
       "value": 7000,
@@ -3721,7 +3851,7 @@
       "id": "ferro_i",
       "name": "Ferro I",
       "description": "Packs a punch, but must be reloaded between every shot.",
-      "imageFilename": "ferro.png",
+      "imageFilename": "v2/ferro_i.png",
       "type": "Battle Rifle",
       "rarity": "Common",
       "value": 475,
@@ -3763,7 +3893,7 @@
       "id": "ferro_ii",
       "name": "Ferro II",
       "description": "Packs a punch, but must be reloaded between every shot.",
-      "imageFilename": "ferro.png",
+      "imageFilename": "v2/ferro_ii.png",
       "type": "Battle Rifle",
       "rarity": "Common",
       "value": 1000,
@@ -3802,7 +3932,7 @@
       "id": "ferro_iii",
       "name": "Ferro III",
       "description": "Packs a punch, but must be reloaded between every shot.",
-      "imageFilename": "ferro.png",
+      "imageFilename": "v2/ferro_iii.png",
       "type": "Battle Rifle",
       "rarity": "Common",
       "value": 2000,
@@ -3843,7 +3973,7 @@
       "id": "ferro_iv",
       "name": "Ferro IV",
       "description": "Packs a punch, but must be reloaded between every shot.",
-      "imageFilename": "ferro.png",
+      "imageFilename": "v2/ferro_iv.png",
       "type": "Battle Rifle",
       "rarity": "Common",
       "value": 2900,
@@ -3883,6 +4013,7 @@
     {
       "id": "fertilizer",
       "name": "Fertilizer",
+      "imageFilename": "v2/fertilizer.png",
       "type": "Nature",
       "rarity": "Uncommon",
       "value": 1000,
@@ -3904,6 +4035,7 @@
     {
       "id": "film_reel",
       "name": "Film Reel",
+      "imageFilename": "v2/film_reel.png",
       "type": "Trinket",
       "rarity": "Rare",
       "value": 2000,
@@ -3913,6 +4045,7 @@
     {
       "id": "fine_wristwatch",
       "name": "Fine Wristwatch",
+      "imageFilename": "v2/fine_wristwatch.png",
       "type": "Trinket",
       "rarity": "Rare",
       "value": 3000,
@@ -3922,6 +4055,7 @@
     {
       "id": "fireball_burner",
       "name": "Fireball Burner",
+      "imageFilename": "v2/fireball_burner.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -3953,6 +4087,7 @@
     {
       "id": "firecracker",
       "name": "Firecracker",
+      "imageFilename": "v2/firecracker.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 270,
@@ -3973,6 +4108,7 @@
     {
       "id": "firefly_burner",
       "name": "Firefly Burner",
+      "imageFilename": "v2/firefly_burner.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -3996,7 +4132,7 @@
     {
       "id": "fireworks_box_blueprint",
       "name": "Fireworks Box Blueprint",
-      "imageFilename": "fireworks_box.png",
+      "imageFilename": "v2/fireworks_box_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -4006,6 +4142,7 @@
     {
       "id": "fireworks_box",
       "name": "Fireworks Box",
+      "imageFilename": "v2/fireworks_box.png",
       "type": "Quick Use",
       "rarity": "Rare",
       "value": 2000,
@@ -4026,6 +4163,7 @@
     {
       "id": "first_wave_compass",
       "name": "First Wave Compass",
+      "imageFilename": "v2/first_wave_compass.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -4047,6 +4185,7 @@
     {
       "id": "first_wave_rations",
       "name": "First Wave Rations",
+      "imageFilename": "v2/first_wave_rations.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -4068,6 +4207,7 @@
     {
       "id": "first_wave_tape",
       "name": "First Wave Tape",
+      "imageFilename": "v2/first_wave_tape.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -4089,6 +4229,7 @@
     {
       "id": "flame_spray",
       "name": "Flame Spray",
+      "imageFilename": "v2/flame_spray.png",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 2000,
@@ -4114,6 +4255,7 @@
     {
       "id": "flashy_duck",
       "name": "Flashy Duck",
+      "imageFilename": "v2/flashy_duck.png",
       "type": "Trinket",
       "rarity": "Rare",
       "value": 3000,
@@ -4123,6 +4265,7 @@
     {
       "id": "flow_controller",
       "name": "Flow Controller",
+      "imageFilename": "v2/flow_controller.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 3000,
@@ -4148,6 +4291,7 @@
     {
       "id": "flushing_terminal_key",
       "name": "Flushing Terminal Key",
+      "imageFilename": "v2/flushing_terminal_key.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -4157,6 +4301,7 @@
     {
       "id": "fossilized_lightning",
       "name": "Fossilized Lightning",
+      "imageFilename": "v2/fossilized_lightning.png",
       "type": "Topside Material",
       "rarity": "Epic",
       "value": 4000,
@@ -4169,6 +4314,7 @@
     {
       "id": "free_loadout_augment",
       "name": "Free Loadout Augment",
+      "imageFilename": "v2/free_loadout_augment.png",
       "type": "Augment",
       "rarity": "Common",
       "value": 100,
@@ -4182,6 +4328,7 @@
     {
       "id": "frequency_modulation_box",
       "name": "Frequency Modulation Box",
+      "imageFilename": "v2/frequency_modulation_box.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 3000,
@@ -4195,6 +4342,7 @@
     {
       "id": "fried_motherboard",
       "name": "Fried Motherboard",
+      "imageFilename": "v2/fried_motherboard.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
@@ -4216,6 +4364,7 @@
     {
       "id": "fruit_mix",
       "name": "Fruit Mix",
+      "imageFilename": "v2/fruit_mix.png",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 1800,
@@ -4233,6 +4382,7 @@
     {
       "id": "frying_pan",
       "name": "Frying Pan",
+      "imageFilename": "v2/frying_pan.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 640,
@@ -4245,6 +4395,7 @@
     {
       "id": "garlic_press",
       "name": "Garlic Press",
+      "imageFilename": "v2/garlic_press.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 1000,
@@ -4257,6 +4408,7 @@
     {
       "id": "gas_grenade_trap",
       "name": "Gas Grenade Trap",
+      "imageFilename": "v2/gas_grenade_trap.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 300,
@@ -4275,6 +4427,7 @@
     {
       "id": "gas_grenade",
       "name": "Gas Grenade",
+      "imageFilename": "v2/gas_grenade.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 270,
@@ -4296,7 +4449,7 @@
     {
       "id": "gas_mine_blueprint",
       "name": "Gas Mine Blueprint",
-      "imageFilename": "gas_mine.png",
+      "imageFilename": "v2/gas_mine_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -4306,6 +4459,7 @@
     {
       "id": "gas_mine",
       "name": "Gas Mine",
+      "imageFilename": "v2/gas_mine.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 270,
@@ -4327,6 +4481,7 @@
     {
       "id": "geiger_counter",
       "name": "Geiger Counter",
+      "imageFilename": "v2/geiger_counter.png",
       "type": "Recyclable",
       "rarity": "Epic",
       "value": 3500,
@@ -4349,6 +4504,7 @@
     {
       "id": "gentle_duck",
       "name": "Gentle Duck",
+      "imageFilename": "v2/gentle_duck.png",
       "type": "Trinket",
       "rarity": "Uncommon",
       "value": 1000,
@@ -4358,6 +4514,7 @@
     {
       "id": "great_mullein",
       "name": "Great Mullein",
+      "imageFilename": "v2/great_mullein.png",
       "type": "Topside Material",
       "rarity": "Uncommon",
       "value": 300,
@@ -4380,7 +4537,7 @@
     {
       "id": "green_light_stick_blueprint",
       "name": "Green Light Stick Blueprint",
-      "imageFilename": "green_light_stick.png",
+      "imageFilename": "v2/green_light_stick_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -4390,6 +4547,7 @@
     {
       "id": "green_light_stick",
       "name": "Green Light Stick",
+      "imageFilename": "v2/green_light_stick.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 150,
@@ -4410,6 +4568,7 @@
       "id": "hairpin_i",
       "name": "Hairpin I",
       "description": "Has a built-in silencer. Great for stealth, but tricky in combat.",
+      "imageFilename": "v2/hairpin_i.png",
       "type": "Pistol",
       "rarity": "Common",
       "value": 450,
@@ -4450,7 +4609,7 @@
       "id": "hairpin_ii",
       "name": "Hairpin II",
       "description": "Has a built-in silencer. Great for stealth, but tricky in combat.",
-      "imageFilename": "hairpin_i.png",
+      "imageFilename": "v2/hairpin_ii.png",
       "type": "Pistol",
       "rarity": "Common",
       "value": 1000,
@@ -4490,7 +4649,7 @@
       "id": "hairpin_iii",
       "name": "Hairpin III",
       "description": "Has a built-in silencer. Great for stealth, but tricky in combat.",
-      "imageFilename": "hairpin_i.png",
+      "imageFilename": "v2/hairpin_iii.png",
       "type": "Pistol",
       "rarity": "Common",
       "value": 2000,
@@ -4531,7 +4690,7 @@
       "id": "hairpin_iv",
       "name": "Hairpin IV",
       "description": "Has a built-in silencer. Great for stealth, but tricky in combat.",
-      "imageFilename": "hairpin_i.png",
+      "imageFilename": "v2/hairpin_iv.png",
       "type": "Pistol",
       "rarity": "Common",
       "value": 2900,
@@ -4571,6 +4730,7 @@
     {
       "id": "headphones",
       "name": "Headphones",
+      "imageFilename": "v2/headphones.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -4584,6 +4744,7 @@
     {
       "id": "heavy_ammo",
       "name": "Heavy Ammo",
+      "imageFilename": "v2/heavy_ammo.png",
       "type": "Ammunition",
       "rarity": "Common",
       "value": 12,
@@ -4601,6 +4762,7 @@
     {
       "id": "heavy_fuze_grenade",
       "name": "Heavy Fuze Grenade",
+      "imageFilename": "v2/heavy_fuze_grenade.png",
       "type": "Quick Use",
       "rarity": "Rare",
       "value": 1600,
@@ -4622,7 +4784,7 @@
     {
       "id": "heavy_gun_parts_blueprint",
       "name": "Heavy Gun Parts Blueprint",
-      "imageFilename": "heavy_gun_parts.png",
+      "imageFilename": "v2/heavy_gun_parts_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -4632,6 +4794,7 @@
     {
       "id": "heavy_gun_parts",
       "name": "Heavy Gun Parts",
+      "imageFilename": "v2/heavy_gun_parts.png",
       "type": "Topside Material",
       "rarity": "Rare",
       "value": 700,
@@ -4651,6 +4814,7 @@
     {
       "id": "heavy_shield",
       "name": "Heavy Shield",
+      "imageFilename": "v2/heavy_shield.png",
       "type": "Shield",
       "rarity": "Epic",
       "value": 5500,
@@ -4677,6 +4841,7 @@
     {
       "id": "herbal_bandage",
       "name": "Herbal Bandage",
+      "imageFilename": "v2/herbal_bandage.png",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 900,
@@ -4699,6 +4864,7 @@
     {
       "id": "hidden_bunker_key",
       "name": "Hidden Bunker Key",
+      "imageFilename": "v2/hidden_bunker_key.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -4708,6 +4874,7 @@
     {
       "id": "horizontal_grip",
       "name": "Horizontal Grip",
+      "imageFilename": "v2/horizontal_grip.png",
       "type": "Modification",
       "rarity": "Epic",
       "value": 7000,
@@ -4721,6 +4888,7 @@
     {
       "id": "hornet_driver",
       "name": "Hornet Driver",
+      "imageFilename": "v2/hornet_driver.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -4774,6 +4942,7 @@
     {
       "id": "household_cleaner",
       "name": "Household Cleaner",
+      "imageFilename": "v2/household_cleaner.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -4786,7 +4955,7 @@
     {
       "id": "hullcracker_blueprint",
       "name": "Hullcracker Blueprint",
-      "imageFilename": "hullcracker.png",
+      "imageFilename": "v2/hullcracker_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -4797,7 +4966,7 @@
       "id": "hullcracker_i",
       "name": "Hullcracker I",
       "description": "Fires explosive projectiles that only detonate when hitting ARC.",
-      "imageFilename": "hullcracker.png",
+      "imageFilename": "v2/hullcracker_i.png",
       "type": "Special",
       "rarity": "Epic",
       "value": 10000,
@@ -4838,7 +5007,7 @@
       "id": "hullcracker_ii",
       "name": "Hullcracker II",
       "description": "Fires explosive projectiles that only detonate when hitting ARC.",
-      "imageFilename": "hullcracker.png",
+      "imageFilename": "v2/hullcracker_ii.png",
       "type": "Special",
       "rarity": "Epic",
       "value": 13000,
@@ -4878,7 +5047,7 @@
       "id": "hullcracker_iii",
       "name": "Hullcracker III",
       "description": "Fires explosive projectiles that only detonate when hitting ARC.",
-      "imageFilename": "hullcracker.png",
+      "imageFilename": "v2/hullcracker_iii.png",
       "type": "Special",
       "rarity": "Epic",
       "value": 17000,
@@ -4918,7 +5087,7 @@
       "id": "hullcracker_iv",
       "name": "Hullcracker IV",
       "description": "Fires explosive projectiles that only detonate when hitting ARC.",
-      "imageFilename": "hullcracker.png",
+      "imageFilename": "v2/hullcracker_iv.png",
       "type": "Special",
       "rarity": "Epic",
       "value": 22000,
@@ -4957,6 +5126,7 @@
     {
       "id": "humidifier",
       "name": "Humidifier",
+      "imageFilename": "v2/humidifier.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -4970,6 +5140,7 @@
     {
       "id": "ice_cream_scooper",
       "name": "Ice Cream Scooper",
+      "imageFilename": "v2/ice_cream_scooper.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -4982,7 +5153,7 @@
     {
       "id": "il_toro_blueprint",
       "name": "Il Toro Blueprint",
-      "imageFilename": "il_toro.png",
+      "imageFilename": "v2/il_toro_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -4993,7 +5164,7 @@
       "id": "il_toro_i",
       "name": "Il Toro I",
       "description": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
-      "imageFilename": "il_toro.png",
+      "imageFilename": "v2/il_toro_i.png",
       "type": "Shotgun",
       "rarity": "Uncommon",
       "value": 5000,
@@ -5035,7 +5206,7 @@
       "id": "il_toro_ii",
       "name": "Il Toro II",
       "description": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
-      "imageFilename": "il_toro.png",
+      "imageFilename": "v2/il_toro_ii.png",
       "type": "Shotgun",
       "rarity": "Uncommon",
       "value": 7000,
@@ -5077,7 +5248,7 @@
       "id": "il_toro_iii",
       "name": "Il Toro III",
       "description": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
-      "imageFilename": "il_toro.png",
+      "imageFilename": "v2/il_toro_iii.png",
       "type": "Shotgun",
       "rarity": "Uncommon",
       "value": 10000,
@@ -5119,7 +5290,7 @@
       "id": "il_toro_iv",
       "name": "Il Toro IV",
       "description": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
-      "imageFilename": "il_toro.png",
+      "imageFilename": "v2/il_toro_iv.png",
       "type": "Shotgun",
       "rarity": "Uncommon",
       "value": 13000,
@@ -5160,6 +5331,7 @@
     {
       "id": "impure_arc_coolant",
       "name": "Impure ARC Coolant",
+      "imageFilename": "v2/impure_arc_coolant.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -5172,6 +5344,7 @@
     {
       "id": "industrial_battery",
       "name": "Industrial Battery",
+      "imageFilename": "v2/industrial_battery.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -5193,6 +5366,7 @@
     {
       "id": "industrial_charger",
       "name": "Industrial Charger",
+      "imageFilename": "v2/industrial_charger.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -5215,6 +5389,7 @@
     {
       "id": "industrial_magnet",
       "name": "Industrial Magnet",
+      "imageFilename": "v2/industrial_magnet.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -5228,6 +5403,7 @@
     {
       "id": "ion_sputter",
       "name": "Ion Sputter",
+      "imageFilename": "v2/ion_sputter.png",
       "type": "Recyclable",
       "rarity": "Epic",
       "value": 6000,
@@ -5253,7 +5429,7 @@
     {
       "id": "jolt_mine_blueprint",
       "name": "Jolt Mine Blueprint",
-      "imageFilename": "jolt_mine.png",
+      "imageFilename": "v2/jolt_mine_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -5263,6 +5439,7 @@
     {
       "id": "jolt_mine",
       "name": "Jolt Mine",
+      "imageFilename": "v2/jolt_mine.png",
       "type": "Quick Use",
       "rarity": "Rare",
       "value": 850,
@@ -5284,7 +5461,7 @@
     {
       "id": "jupiter_blueprint",
       "name": "Jupiter Blueprint",
-      "imageFilename": "jupiter.png",
+      "imageFilename": "v2/jupiter_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -5295,6 +5472,7 @@
       "id": "jupiter",
       "name": "Jupiter",
       "description": "A bolt-action sniper rifle with exceptional damage output and accuracy, but slow handling.",
+      "imageFilename": "v2/jupiter.png",
       "type": "Sniper Rifle",
       "rarity": "Legendary",
       "value": 27500,
@@ -5331,7 +5509,7 @@
       "id": "kettle_i",
       "name": "Kettle I",
       "description": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
-      "imageFilename": "kettle.png",
+      "imageFilename": "v2/kettle_i.png",
       "type": "Assault Rifle",
       "rarity": "Common",
       "value": 840,
@@ -5374,7 +5552,7 @@
       "id": "kettle_ii",
       "name": "Kettle II",
       "description": "Semi-automatic assault rifle. Quick and accurate, but has low bullet velocity and takes a long time reload.",
-      "imageFilename": "kettle.png",
+      "imageFilename": "v2/kettle_ii.png",
       "type": "Assault Rifle",
       "rarity": "Common",
       "value": 2000,
@@ -5408,7 +5586,7 @@
       "id": "kettle_iii",
       "name": "Kettle III",
       "description": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
-      "imageFilename": "kettle.png",
+      "imageFilename": "v2/kettle_iii.png",
       "type": "Assault Rifle",
       "rarity": "Common",
       "value": 3000,
@@ -5453,7 +5631,7 @@
       "id": "kettle_iv",
       "name": "Kettle IV",
       "description": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
-      "imageFilename": "kettle.png",
+      "imageFilename": "v2/kettle_iv.png",
       "type": "Assault Rifle",
       "rarity": "Common",
       "value": 5000,
@@ -5493,6 +5671,7 @@
     {
       "id": "kinetic_converter",
       "name": "Kinetic Converter",
+      "imageFilename": "v2/kinetic_converter.png",
       "type": "Modification",
       "rarity": "Legendary",
       "value": 7000,
@@ -5506,6 +5685,7 @@
     {
       "id": "laboratory_reagents",
       "name": "Laboratory Reagents",
+      "imageFilename": "v2/laboratory_reagents.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
@@ -5527,6 +5707,7 @@
     {
       "id": "lances_mixtape_5th_edition",
       "name": "Lance's Mixtape (5th Edition)",
+      "imageFilename": "v2/lances_mixtape_5th_edition.png",
       "type": "Trinket",
       "rarity": "Epic",
       "value": 10000,
@@ -5536,6 +5717,7 @@
     {
       "id": "launcher_ammo",
       "name": "Launcher Ammo",
+      "imageFilename": "v2/launcher_ammo.png",
       "type": "Ammunition",
       "rarity": "Rare",
       "value": 250,
@@ -5553,6 +5735,7 @@
     {
       "id": "leaper_pulse_unit",
       "name": "Leaper Pulse Unit",
+      "imageFilename": "v2/leaper_pulse_unit.png",
       "type": "Recyclable",
       "rarity": "Epic",
       "value": 3000,
@@ -5598,6 +5781,7 @@
     {
       "id": "lemon",
       "name": "Lemon",
+      "imageFilename": "v2/lemon.png",
       "type": "Nature",
       "rarity": "Uncommon",
       "value": 640,
@@ -5618,6 +5802,7 @@
     {
       "id": "leviathans_crown_ship_model",
       "name": "\"Leviathan's Crown\" Ship Model",
+      "imageFilename": "v2/leviathans_crown_ship_model.png",
       "type": "Trinket",
       "rarity": "Legendary",
       "value": 10000,
@@ -5657,6 +5842,7 @@
     {
       "id": "lidar_scanner",
       "name": "Lidar Scanner",
+      "imageFilename": "v2/lidar_scanner.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -5678,6 +5864,7 @@
     {
       "id": "light_ammo",
       "name": "Light Ammo",
+      "imageFilename": "v2/light_ammo.png",
       "type": "Ammunition",
       "rarity": "Common",
       "value": 4,
@@ -5695,6 +5882,7 @@
     {
       "id": "light_bulb",
       "name": "Light Bulb",
+      "imageFilename": "v2/light_bulb.png",
       "type": "Trinket",
       "rarity": "Uncommon",
       "value": 2000,
@@ -5704,6 +5892,7 @@
     {
       "id": "light_gun_parts_blueprint",
       "name": "Light Gun Parts Blueprint",
+      "imageFilename": "v2/light_gun_parts_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -5713,6 +5902,7 @@
     {
       "id": "light_gun_parts",
       "name": "Light Gun Parts",
+      "imageFilename": "v2/light_gun_parts.png",
       "type": "Topside Material",
       "rarity": "Rare",
       "value": 700,
@@ -5732,6 +5922,7 @@
     {
       "id": "light_impact_grenade",
       "name": "Light Impact Grenade",
+      "imageFilename": "v2/light_impact_grenade.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 270,
@@ -5755,6 +5946,7 @@
     {
       "id": "light_shield",
       "name": "Light Shield",
+      "imageFilename": "v2/light_shield.png",
       "type": "Shield",
       "rarity": "Uncommon",
       "value": 640,
@@ -5780,6 +5972,7 @@
     {
       "id": "lightweight_stock_blueprint",
       "name": "Lightweight Stock Blueprint",
+      "imageFilename": "v2/lightweight_stock_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -5789,6 +5982,7 @@
     {
       "id": "lightweight_stock",
       "name": "Lightweight Stock",
+      "imageFilename": "v2/lightweight_stock.png",
       "type": "Modification",
       "rarity": "Epic",
       "value": 5000,
@@ -5810,6 +6004,7 @@
     {
       "id": "lil_smoke_grenade",
       "name": "Li'l Smoke Grenade",
+      "imageFilename": "v2/lil_smoke_grenade.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 300,
@@ -5832,6 +6027,7 @@
     {
       "id": "looting_mk1",
       "name": "Looting Mk. 1",
+      "imageFilename": "v2/looting_mk1.png",
       "type": "Augment",
       "rarity": "Uncommon",
       "value": 640,
@@ -5859,6 +6055,7 @@
     {
       "id": "looting_mk2",
       "name": "Looting Mk. 2",
+      "imageFilename": "v2/looting_mk2.png",
       "type": "Augment",
       "rarity": "Rare",
       "value": 2000,
@@ -5885,6 +6082,7 @@
     {
       "id": "looting_mk3_cautious",
       "name": "Looting Mk. 3 (Cautious)",
+      "imageFilename": "v2/looting_mk3_cautious.png",
       "type": "Augment",
       "rarity": "Epic",
       "value": 5000,
@@ -5911,7 +6109,7 @@
     {
       "id": "looting_mk3_safekeeper_blueprint",
       "name": "Looting Mk. 3 (Safekeeper) Blueprint",
-      "imageFilename": "looting_mk3_safekeeper.png",
+      "imageFilename": "v2/looting_mk3_safekeeper_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -5921,6 +6119,7 @@
     {
       "id": "looting_mk3_safekeeper",
       "name": "Looting Mk. 3 (Safekeeper)",
+      "imageFilename": "v2/looting_mk3_safekeeper.png",
       "type": "Augment",
       "rarity": "Epic",
       "value": 5000,
@@ -5942,6 +6141,7 @@
     {
       "id": "looting_mk3_survivor_blueprint",
       "name": "Looting Mk. 3 (Survivor) Blueprint",
+      "imageFilename": "v2/looting_mk3_survivor_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -5950,6 +6150,7 @@
     {
       "id": "looting_mk3_survivor",
       "name": "Looting Mk. 3 (Survivor)",
+      "imageFilename": "v2/looting_mk3_survivor.png",
       "type": "Augment",
       "rarity": "Epic",
       "value": 5000,
@@ -5976,7 +6177,7 @@
     {
       "id": "lure_grenade_blueprint",
       "name": "Lure Grenade Blueprint",
-      "imageFilename": "lure_grenade.png",
+      "imageFilename": "v2/lure_grenade_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -5986,6 +6187,7 @@
     {
       "id": "lure_grenade_trap",
       "name": "Lure Grenade Trap",
+      "imageFilename": "v2/lure_grenade_trap.png",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 1000,
@@ -6004,6 +6206,7 @@
     {
       "id": "lure_grenade",
       "name": "Lure Grenade",
+      "imageFilename": "v2/lure_grenade.png",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 1000,
@@ -6024,6 +6227,7 @@
     {
       "id": "magnet",
       "name": "Magnet",
+      "imageFilename": "v2/magnet.png",
       "type": "Topside Material",
       "rarity": "Uncommon",
       "value": 300,
@@ -6036,6 +6240,7 @@
     {
       "id": "magnetic_accelerator",
       "name": "Magnetic Accelerator",
+      "imageFilename": "v2/magnetic_accelerator.png",
       "type": "Refined Material",
       "rarity": "Epic",
       "value": 5500,
@@ -6066,6 +6271,7 @@
     {
       "id": "magnetron",
       "name": "Magnetron",
+      "imageFilename": "v2/magnetron.png",
       "type": "Recyclable",
       "rarity": "Epic",
       "value": 6000,
@@ -6091,6 +6297,7 @@
     {
       "id": "major_aivas_mementos",
       "name": "Major Aiva's Mementos",
+      "imageFilename": "v2/major_aivas_mementos.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -6112,6 +6319,7 @@
     {
       "id": "major_aivas_patch",
       "name": "Major Aiva's Patch",
+      "imageFilename": "v2/major_aivas_patch.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -6133,6 +6341,7 @@
     {
       "id": "marano_market_business_card",
       "name": "Marano Market Business Card",
+      "imageFilename": "v2/marano_market_business_card.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -6142,6 +6351,7 @@
     {
       "id": "matriarch_reactor",
       "name": "Matriarch Reactor",
+      "imageFilename": "v2/matriarch_reactor.png",
       "type": "Recyclable",
       "rarity": "Legendary",
       "value": 11000,
@@ -6164,6 +6374,7 @@
     {
       "id": "mechanical_components",
       "name": "Mechanical Components",
+      "imageFilename": "v2/mechanical_components.png",
       "type": "Refined Material",
       "rarity": "Uncommon",
       "value": 640,
@@ -6193,6 +6404,7 @@
     {
       "id": "medium_ammo",
       "name": "Medium Ammo",
+      "imageFilename": "v2/medium_ammo.png",
       "type": "Ammunition",
       "rarity": "Common",
       "value": 6,
@@ -6210,6 +6422,7 @@
     {
       "id": "medium_gun_parts_blueprint",
       "name": "Medium Gun Parts Blueprint",
+      "imageFilename": "v2/medium_gun_parts_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -6219,6 +6432,7 @@
     {
       "id": "medium_gun_parts",
       "name": "Medium Gun Parts",
+      "imageFilename": "v2/medium_gun_parts.png",
       "type": "Topside Material",
       "rarity": "Rare",
       "value": 700,
@@ -6238,6 +6452,7 @@
     {
       "id": "medium_shield",
       "name": "Medium Shield",
+      "imageFilename": "v2/medium_shield.png",
       "type": "Shield",
       "rarity": "Rare",
       "value": 2000,
@@ -6263,6 +6478,7 @@
     {
       "id": "metal_brackets",
       "name": "Metal Brackets",
+      "imageFilename": "v2/metal_brackets.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -6275,6 +6491,7 @@
     {
       "id": "metal_parts",
       "name": "Metal Parts",
+      "imageFilename": "v2/metal_parts.png",
       "type": "Basic Material",
       "rarity": "Common",
       "value": 75,
@@ -6307,6 +6524,7 @@
     {
       "id": "microscope",
       "name": "Microscope",
+      "imageFilename": "v2/microscope.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 3000,
@@ -6320,6 +6538,7 @@
     {
       "id": "mini_centrifuge",
       "name": "Mini Centrifuge",
+      "imageFilename": "v2/mini_centrifuge.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 3000,
@@ -6333,6 +6552,7 @@
     {
       "id": "mod_components",
       "name": "Mod Components",
+      "imageFilename": "v2/mod_components.png",
       "type": "Refined Material",
       "rarity": "Rare",
       "value": 1750,
@@ -6354,6 +6574,7 @@
     {
       "id": "moisture_meter",
       "name": "Moisture Meter",
+      "imageFilename": "v2/moisture_meter.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -6375,6 +6596,7 @@
     {
       "id": "moss",
       "name": "Moss",
+      "imageFilename": "v2/moss.png",
       "type": "Topside Material",
       "rarity": "Rare",
       "value": 500,
@@ -6396,6 +6618,7 @@
     {
       "id": "motor",
       "name": "Motor",
+      "imageFilename": "v2/motor.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
@@ -6417,6 +6640,7 @@
     {
       "id": "mushroom",
       "name": "Mushroom",
+      "imageFilename": "v2/mushroom.png",
       "type": "Nature",
       "rarity": "Uncommon",
       "value": 1000,
@@ -6434,6 +6658,7 @@
     {
       "id": "music_album",
       "name": "Music Album",
+      "imageFilename": "v2/music_album.png",
       "type": "Trinket",
       "rarity": "Rare",
       "value": 3000,
@@ -6443,6 +6668,7 @@
     {
       "id": "music_box",
       "name": "Music Box",
+      "imageFilename": "v2/music_box.png",
       "type": "Trinket",
       "rarity": "Rare",
       "value": 5000,
@@ -6452,6 +6678,7 @@
     {
       "id": "muzzle_brake_i",
       "name": "Muzzle Brake I",
+      "imageFilename": "v2/muzzle_brake_i.png",
       "type": "Modification",
       "rarity": "Common",
       "value": 640,
@@ -6472,7 +6699,7 @@
     {
       "id": "muzzle_brake_ii_blueprint",
       "name": "Muzzle Brake II Blueprint",
-      "imageFilename": "muzzle_brake_ii.png",
+      "imageFilename": "v2/muzzle_brake_ii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -6482,6 +6709,7 @@
     {
       "id": "muzzle_brake_ii",
       "name": "Muzzle Brake II",
+      "imageFilename": "v2/muzzle_brake_ii.png",
       "type": "Modification",
       "rarity": "Uncommon",
       "value": 2000,
@@ -6503,7 +6731,7 @@
     {
       "id": "muzzle_brake_iii_blueprint",
       "name": "Muzzle Brake III Blueprint",
-      "imageFilename": "muzzle_brake_iii.png",
+      "imageFilename": "v2/muzzle_brake_iii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -6513,6 +6741,7 @@
     {
       "id": "muzzle_brake_iii",
       "name": "Muzzle Brake III",
+      "imageFilename": "v2/muzzle_brake_iii.png",
       "type": "Modification",
       "rarity": "Rare",
       "value": 5000,
@@ -6534,6 +6763,7 @@
     {
       "id": "noisemaker",
       "name": "Noisemaker",
+      "imageFilename": "v2/noisemaker.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 640,
@@ -6553,6 +6783,7 @@
     {
       "id": "number_plate",
       "name": "Number Plate",
+      "imageFilename": "v2/number_plate.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 270,
@@ -6565,6 +6796,7 @@
     {
       "id": "nutrient_meter",
       "name": "Nutrient Meter",
+      "imageFilename": "v2/nutrient_meter.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -6586,6 +6818,7 @@
     {
       "id": "official_shutdown_documentation",
       "name": "Official Shutdown Documentation",
+      "imageFilename": "v2/official_shutdown_documentation.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -6607,6 +6840,7 @@
     {
       "id": "oil",
       "name": "Oil",
+      "imageFilename": "v2/oil.png",
       "type": "Topside Material",
       "rarity": "Uncommon",
       "value": 300,
@@ -6628,6 +6862,7 @@
     {
       "id": "old_world_books",
       "name": "Old World Books",
+      "imageFilename": "v2/old_world_books.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -6649,6 +6884,7 @@
     {
       "id": "olives",
       "name": "Olives",
+      "imageFilename": "v2/olives.png",
       "type": "Nature",
       "rarity": "Uncommon",
       "value": 640,
@@ -6669,6 +6905,7 @@
     {
       "id": "osprey_blueprint",
       "name": "Osprey Blueprint",
+      "imageFilename": "v2/osprey_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -6679,7 +6916,7 @@
       "id": "osprey_i",
       "name": "Osprey I",
       "description": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
-      "imageFilename": "osprey.png",
+      "imageFilename": "v2/osprey_i.png",
       "type": "Sniper Rifle",
       "rarity": "Rare",
       "value": 7000,
@@ -6723,7 +6960,7 @@
       "id": "osprey_ii",
       "name": "Osprey II",
       "description": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
-      "imageFilename": "osprey.png",
+      "imageFilename": "v2/osprey_ii.png",
       "type": "Sniper Rifle",
       "rarity": "Rare",
       "value": 10000,
@@ -6767,7 +7004,7 @@
       "id": "osprey_iii",
       "name": "Osprey III",
       "description": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
-      "imageFilename": "osprey.png",
+      "imageFilename": "v2/osprey_iii.png",
       "type": "Sniper Rifle",
       "rarity": "Rare",
       "value": 13000,
@@ -6811,7 +7048,7 @@
       "id": "osprey_iv",
       "name": "Osprey IV",
       "description": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
-      "imageFilename": "osprey.png",
+      "imageFilename": "v2/osprey_iv.png",
       "type": "Sniper Rifle",
       "rarity": "Rare",
       "value": 17000,
@@ -6854,7 +7091,7 @@
     {
       "id": "padded_stock_blueprint",
       "name": "Padded Stock Blueprint",
-      "imageFilename": "padded_stock.png",
+      "imageFilename": "v2/padded_stock_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -6864,6 +7101,7 @@
     {
       "id": "padded_stock",
       "name": "Padded Stock",
+      "imageFilename": "v2/padded_stock.png",
       "type": "Modification",
       "rarity": "Epic",
       "value": 5000,
@@ -6885,6 +7123,7 @@
     {
       "id": "painted_box",
       "name": "Painted Box",
+      "imageFilename": "v2/painted_box.png",
       "type": "Trinket",
       "rarity": "Uncommon",
       "value": 2000,
@@ -6894,6 +7133,7 @@
     {
       "id": "patrol_car_key",
       "name": "Patrol Car Key",
+      "imageFilename": "v2/patrol_car_key.png",
       "type": "Key",
       "rarity": "Uncommon",
       "value": 100,
@@ -6903,10 +7143,11 @@
     {
       "id": "photoelectric_cloak",
       "name": "Photoelectric Cloak",
+      "imageFilename": "v2/photoelectric_cloak.png",
       "type": "Quick Use",
       "rarity": "Epic",
       "value": 5000,
-      "weightKg": 1,
+      "weightKg": 3,
       "stackSize": 1,
       "recipe": {
         "advanced_electrical_components": 2,
@@ -6929,7 +7170,7 @@
     {
       "id": "pilgrims_peak_security_code",
       "name": "Pilgrim's Peak Security Code",
-      "imageFilename": "security_code.png",
+      "imageFilename": "v2/pilgrims_peak_security_code.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -6939,6 +7180,7 @@
     {
       "id": "plastic_parts",
       "name": "Plastic Parts",
+      "imageFilename": "v2/plastic_parts.png",
       "type": "Basic Material",
       "rarity": "Common",
       "value": 60,
@@ -6962,6 +7204,7 @@
     {
       "id": "playing_cards",
       "name": "Playing Cards",
+      "imageFilename": "v2/playing_cards.png",
       "type": "Trinket",
       "rarity": "Rare",
       "value": 5000,
@@ -6971,6 +7214,7 @@
     {
       "id": "polluted_air_filter",
       "name": "Polluted Air Filter",
+      "imageFilename": "v2/polluted_air_filter.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -6984,6 +7228,7 @@
     {
       "id": "pop_trigger",
       "name": "Pop Trigger",
+      "imageFilename": "v2/pop_trigger.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -7014,6 +7259,7 @@
     {
       "id": "portable_tv",
       "name": "Portable TV",
+      "imageFilename": "v2/portable_tv.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
@@ -7046,6 +7292,7 @@
     {
       "id": "possibly_toxic_plant",
       "name": "Possibly Toxic Plant",
+      "imageFilename": "v2/possibly_toxic_plant.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -7067,6 +7314,7 @@
     {
       "id": "poster_of_natural_wonders",
       "name": "Poster of Natural Wonders",
+      "imageFilename": "v2/poster_of_natural_wonders.png",
       "type": "Trinket",
       "rarity": "Uncommon",
       "value": 2000,
@@ -7076,6 +7324,7 @@
     {
       "id": "pottery",
       "name": "Pottery",
+      "imageFilename": "v2/pottery.png",
       "type": "Trinket",
       "rarity": "Uncommon",
       "value": 2000,
@@ -7085,6 +7334,7 @@
     {
       "id": "power_bank",
       "name": "Power Bank",
+      "imageFilename": "v2/power_bank.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -7098,6 +7348,7 @@
     {
       "id": "power_cable",
       "name": "Power Cable",
+      "imageFilename": "v2/power_cable.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -7118,6 +7369,7 @@
     {
       "id": "power_rod",
       "name": "Power Rod",
+      "imageFilename": "v2/power_rod.png",
       "type": "Refined Material",
       "rarity": "Epic",
       "value": 5000,
@@ -7149,6 +7401,7 @@
     {
       "id": "powered_descender_blueprint",
       "name": "Powered Descender Blueprint",
+      "imageFilename": "v2/powered_descender_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -7158,6 +7411,7 @@
     {
       "id": "powered_descender",
       "name": "Powered Descender",
+      "imageFilename": "v2/powered_descender.png",
       "type": "Quick Use",
       "rarity": "Epic",
       "value": 10000,
@@ -7179,6 +7433,7 @@
     {
       "id": "precision_gimbal",
       "name": "Precision Gimbal",
+      "imageFilename": "v2/precision_gimbal.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -7200,6 +7455,7 @@
     {
       "id": "prickly_pear",
       "name": "Prickly Pear",
+      "imageFilename": "v2/prickly_pear.png",
       "type": "Nature",
       "rarity": "Common",
       "value": 640,
@@ -7220,6 +7476,7 @@
     {
       "id": "processor",
       "name": "Processor",
+      "imageFilename": "v2/processor.png",
       "type": "Topside Material",
       "rarity": "Rare",
       "value": 500,
@@ -7233,6 +7490,7 @@
     {
       "id": "project_heartwood_blueprints",
       "name": "Project Heartwood Blueprints",
+      "imageFilename": "v2/project_heartwood_blueprints.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -7254,6 +7512,7 @@
     {
       "id": "projector",
       "name": "Projector",
+      "imageFilename": "v2/projector.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -7267,7 +7526,7 @@
     {
       "id": "pulse_mine_blueprint",
       "name": "Pulse Mine Blueprint",
-      "imageFilename": "pulse_mine.png",
+      "imageFilename": "v2/pulse_mine_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -7277,6 +7536,7 @@
     {
       "id": "pulse_mine",
       "name": "Pulse Mine",
+      "imageFilename": "v2/pulse_mine.png",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 470,
@@ -7297,7 +7557,7 @@
     {
       "id": "queen_reactor",
       "name": "Queen Reactor",
-      "imageFilename": "queen_part.png",
+      "imageFilename": "v2/queen_reactor.png",
       "type": "Recyclable",
       "rarity": "Legendary",
       "value": 11000,
@@ -7320,6 +7580,7 @@
     {
       "id": "radio_relay",
       "name": "Radio Relay",
+      "imageFilename": "v2/radio_relay.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 3000,
@@ -7333,6 +7594,7 @@
     {
       "id": "radio",
       "name": "Radio",
+      "imageFilename": "v2/radio.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -7346,6 +7608,7 @@
     {
       "id": "raider_flag",
       "name": "Raider Flag",
+      "imageFilename": "v2/raider_flag.png",
       "type": "Trinket",
       "rarity": "Common",
       "weightKg": 0.5,
@@ -7354,6 +7617,7 @@
     {
       "id": "raider_hatch_key",
       "name": "Raider Hatch Key",
+      "imageFilename": "v2/raider_hatch_key.png",
       "type": "Key",
       "rarity": "Rare",
       "value": 2000,
@@ -7372,7 +7636,7 @@
     {
       "id": "raiders_refuge_security_code",
       "name": "Raider's Refuge Security Code",
-      "imageFilename": "security_code.png",
+      "imageFilename": "v2/raiders_refuge_security_code.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -7383,7 +7647,7 @@
       "id": "rattler_i",
       "name": "Rattler I",
       "description": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
-      "imageFilename": "rattler.png",
+      "imageFilename": "v2/rattler_i.png",
       "type": "Assault Rifle",
       "rarity": "Common",
       "value": 1750,
@@ -7423,7 +7687,7 @@
       "id": "rattler_ii",
       "name": "Rattler II",
       "description": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
-      "imageFilename": "rattler.png",
+      "imageFilename": "v2/rattler_ii.png",
       "type": "Assault Rifle",
       "rarity": "Common",
       "value": 3000,
@@ -7462,7 +7726,7 @@
       "id": "rattler_iii",
       "name": "Rattler III",
       "description": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
-      "imageFilename": "rattler.png",
+      "imageFilename": "v2/rattler_iii.png",
       "type": "Assault Rifle",
       "rarity": "Common",
       "value": 5000,
@@ -7503,7 +7767,7 @@
       "id": "rattler_iv",
       "name": "Rattler IV",
       "description": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
-      "imageFilename": "rattler.png",
+      "imageFilename": "v2/rattler_iv.png",
       "type": "Assault Rifle",
       "rarity": "Common",
       "value": 7000,
@@ -7542,6 +7806,7 @@
     {
       "id": "recorder",
       "name": "Recorder",
+      "imageFilename": "v2/recorder.png",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 1000,
@@ -7558,6 +7823,7 @@
     {
       "id": "red_coral_jewelry",
       "name": "Red Coral Jewelry",
+      "imageFilename": "v2/red_coral_jewelry.png",
       "type": "Trinket",
       "rarity": "Rare",
       "value": 5000,
@@ -7576,7 +7842,7 @@
     {
       "id": "red_light_stick_blueprint",
       "name": "Red Light Stick Blueprint",
-      "imageFilename": "red_light_stick.png",
+      "imageFilename": "v2/red_light_stick_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -7586,6 +7852,7 @@
     {
       "id": "red_light_stick",
       "name": "Red Light Stick",
+      "imageFilename": "v2/red_light_stick.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 150,
@@ -7605,7 +7872,7 @@
     {
       "id": "reinforced_reception_security_code",
       "name": "Reinforced Reception Security Code",
-      "imageFilename": "security_code.png",
+      "imageFilename": "v2/reinforced_reception_security_code.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -7615,6 +7882,7 @@
     {
       "id": "remote_control",
       "name": "Remote Control",
+      "imageFilename": "v2/remote_control.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -7628,7 +7896,7 @@
     {
       "id": "remote_raider_flare_blueprint",
       "name": "Remote Raider Flare Blueprint",
-      "imageFilename": "remote_raider_flare.png",
+      "imageFilename": "v2/remote_raider_flare_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -7638,6 +7906,7 @@
     {
       "id": "remote_raider_flare",
       "name": "Remote Raider Flare",
+      "imageFilename": "v2/remote_raider_flare.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 270,
@@ -7660,7 +7929,7 @@
       "id": "renegade_i",
       "name": "Renegade I",
       "description": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
-      "imageFilename": "renegade.png",
+      "imageFilename": "v2/renegade_i.png",
       "type": "Battle Rifle",
       "rarity": "Rare",
       "value": 7000,
@@ -7702,7 +7971,7 @@
       "id": "renegade_ii",
       "name": "Renegade II",
       "description": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
-      "imageFilename": "renegade.png",
+      "imageFilename": "v2/renegade_ii.png",
       "type": "Battle Rifle",
       "rarity": "Rare",
       "value": 10000,
@@ -7744,7 +8013,7 @@
       "id": "renegade_iii",
       "name": "Renegade III",
       "description": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
-      "imageFilename": "renegade.png",
+      "imageFilename": "v2/renegade_iii.png",
       "type": "Battle Rifle",
       "rarity": "Rare",
       "value": 13000,
@@ -7786,7 +8055,7 @@
       "id": "renegade_iv",
       "name": "Renegade IV",
       "description": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
-      "imageFilename": "renegade.png",
+      "imageFilename": "v2/renegade_iv.png",
       "type": "Battle Rifle",
       "rarity": "Rare",
       "value": 17000,
@@ -7827,6 +8096,7 @@
     {
       "id": "resin",
       "name": "Resin",
+      "imageFilename": "v2/resin.png",
       "type": "Nature",
       "rarity": "Common",
       "value": 1000,
@@ -7836,6 +8106,7 @@
     {
       "id": "ripped_safety_vest",
       "name": "Ripped Safety Vest",
+      "imageFilename": "v2/ripped_safety_vest.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 1000,
@@ -7849,7 +8120,7 @@
     {
       "id": "riven_tides_classifed_records_keycard",
       "name": "Riven Tides Classifed Records Keycard",
-      "imageFilename": "riven_tides_classified_records_keycard.png",
+      "imageFilename": "v2/riven_tides_classified_records_keycard.png",
       "type": "Key",
       "rarity": "Uncommon",
       "value": 100,
@@ -7859,6 +8130,7 @@
     {
       "id": "riven_tides_classified_records_keycard",
       "name": "Riven Tides Classified Records Keycard",
+      "imageFilename": "v2/riven_tides_classified_records_keycard.png",
       "type": "Key",
       "rarity": "Uncommon",
       "value": 100,
@@ -7868,6 +8140,7 @@
     {
       "id": "riven_tides_crane_house_keycard",
       "name": "Riven Tides Crane House Keycard",
+      "imageFilename": "v2/riven_tides_crane_house_keycard.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -7877,7 +8150,7 @@
     {
       "id": "riven_tides_hotel_keycard_no_102",
       "name": "Riven Tides Hotel Keycard No. 102",
-      "imageFilename": "riven_tide_keycard_generic.png",
+      "imageFilename": "v2/riven_tides_hotel_keycard_no_102.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -7887,7 +8160,7 @@
     {
       "id": "riven_tides_hotel_keycard_no_107",
       "name": "Riven Tides Hotel Keycard No. 107",
-      "imageFilename": "riven_tide_keycard_generic.png",
+      "imageFilename": "v2/riven_tides_hotel_keycard_no_107.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -7897,7 +8170,7 @@
     {
       "id": "riven_tides_hotel_keycard_no_113",
       "name": "Riven Tides Hotel Keycard No. 113",
-      "imageFilename": "riven_tide_keycard_generic.png",
+      "imageFilename": "v2/riven_tides_hotel_keycard_no_113.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -7907,7 +8180,7 @@
     {
       "id": "riven_tides_hotel_keycard_no_205",
       "name": "Riven Tides Hotel Keycard No. 205",
-      "imageFilename": "riven_tide_keycard_generic.png",
+      "imageFilename": "v2/riven_tides_hotel_keycard_no_205.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -7917,7 +8190,7 @@
     {
       "id": "riven_tides_hotel_keycard_no_208",
       "name": "Riven Tides Hotel Keycard No. 208",
-      "imageFilename": "riven_tide_keycard_generic.png",
+      "imageFilename": "v2/riven_tides_hotel_keycard_no_208.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -7927,7 +8200,7 @@
     {
       "id": "riven_tides_hotel_keycard_no_311",
       "name": "Riven Tides Hotel Keycard No. 311",
-      "imageFilename": "riven_tide_keycard_generic.png",
+      "imageFilename": "v2/riven_tides_hotel_keycard_no_311.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -7937,7 +8210,7 @@
     {
       "id": "riven_tides_hotel_keycard_no_404",
       "name": "Riven Tides Hotel Keycard No. 404",
-      "imageFilename": "riven_tide_keycard_generic.png",
+      "imageFilename": "v2/riven_tides_hotel_keycard_no_404.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -7947,6 +8220,7 @@
     {
       "id": "riven_tides_secure_storage_keycard",
       "name": "Riven Tides Secure Storage Keycard",
+      "imageFilename": "v2/riven_tides_secure_storage_keycard.png",
       "type": "Key",
       "rarity": "Epic",
       "value": 100,
@@ -7956,6 +8230,7 @@
     {
       "id": "rocket_thruster",
       "name": "Rocket Thruster",
+      "imageFilename": "v2/rocket_thruster.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
@@ -7969,6 +8244,7 @@
     {
       "id": "rocketeer_driver",
       "name": "Rocketeer Driver",
+      "imageFilename": "v2/rocketeer_driver.png",
       "type": "Recyclable",
       "rarity": "Epic",
       "value": 3000,
@@ -8014,6 +8290,7 @@
     {
       "id": "roots",
       "name": "Roots",
+      "imageFilename": "v2/roots.png",
       "type": "Nature",
       "rarity": "Uncommon",
       "value": 640,
@@ -8035,6 +8312,7 @@
     {
       "id": "rope",
       "name": "Rope",
+      "imageFilename": "v2/rope.png",
       "type": "Topside Material",
       "rarity": "Rare",
       "value": 500,
@@ -8047,6 +8325,7 @@
     {
       "id": "rosary",
       "name": "Rosary",
+      "imageFilename": "v2/rosary.png",
       "type": "Trinket",
       "rarity": "Rare",
       "value": 2000,
@@ -8056,6 +8335,7 @@
     {
       "id": "rotary_encoder",
       "name": "Rotary Encoder",
+      "imageFilename": "v2/rotary_encoder.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 3000,
@@ -8081,6 +8361,7 @@
     {
       "id": "rubber_duck",
       "name": "Rubber Duck",
+      "imageFilename": "v2/rubber_duck.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 1000,
@@ -8090,6 +8371,7 @@
     {
       "id": "rubber_pad",
       "name": "Rubber Pad",
+      "imageFilename": "v2/rubber_pad.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -8102,6 +8384,7 @@
     {
       "id": "rubber_parts",
       "name": "Rubber Parts",
+      "imageFilename": "v2/rubber_parts.png",
       "type": "Basic Material",
       "rarity": "Common",
       "value": 50,
@@ -8119,6 +8402,7 @@
     {
       "id": "ruined_accordion",
       "name": "Ruined Accordion",
+      "imageFilename": "v2/ruined_accordion.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
@@ -8132,6 +8416,7 @@
     {
       "id": "ruined_augment",
       "name": "Ruined Augment",
+      "imageFilename": "v2/ruined_augment.png",
       "type": "Recyclable",
       "rarity": "Common",
       "value": 270,
@@ -8145,6 +8430,7 @@
     {
       "id": "ruined_baton",
       "name": "Ruined Baton",
+      "imageFilename": "v2/ruined_baton.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -8158,6 +8444,7 @@
     {
       "id": "ruined_handcuffs",
       "name": "Ruined Handcuffs",
+      "imageFilename": "v2/ruined_handcuffs.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -8170,6 +8457,7 @@
     {
       "id": "ruined_parachute",
       "name": "Ruined Parachute",
+      "imageFilename": "v2/ruined_parachute.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -8182,6 +8470,7 @@
     {
       "id": "ruined_riot_shield",
       "name": "Ruined Riot Shield",
+      "imageFilename": "v2/ruined_riot_shield.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -8195,6 +8484,7 @@
     {
       "id": "ruined_tactical_vest",
       "name": "Ruined Tactical Vest",
+      "imageFilename": "v2/ruined_tactical_vest.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -8208,6 +8498,7 @@
     {
       "id": "rusted_bolts",
       "name": "Rusted Bolts",
+      "imageFilename": "v2/rusted_bolts.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -8229,6 +8520,7 @@
     {
       "id": "rusted_gear",
       "name": "Rusted Gear",
+      "imageFilename": "v2/rusted_gear.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
@@ -8250,6 +8542,7 @@
     {
       "id": "rusted_shut_medical_kit",
       "name": "Rusted Shut Medical Kit",
+      "imageFilename": "v2/rusted_shut_medical_kit.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
@@ -8271,6 +8564,7 @@
     {
       "id": "rusted_tools",
       "name": "Rusted Tools",
+      "imageFilename": "v2/rusted_tools.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -8301,6 +8595,7 @@
     {
       "id": "rusty_arc_steel",
       "name": "Rusty ARC Steel",
+      "imageFilename": "v2/rusty_arc_steel.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -8313,6 +8608,7 @@
     {
       "id": "sample_cleaner",
       "name": "Sample Cleaner",
+      "imageFilename": "v2/sample_cleaner.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 3000,
@@ -8326,6 +8622,7 @@
     {
       "id": "scout_patrol_note",
       "name": "Scout Patrol Note",
+      "imageFilename": "v2/scout_patrol_note.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -8347,6 +8644,7 @@
     {
       "id": "secret_meeting_info",
       "name": "Secret Meeting Info",
+      "imageFilename": "v2/secret_meeting_info.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -8368,6 +8666,7 @@
     {
       "id": "seed_vault_box_key",
       "name": "Seed Vault Box Key",
+      "imageFilename": "v2/seed_vault_box_key.png",
       "type": "Key",
       "rarity": "Common",
       "value": 100,
@@ -8377,7 +8676,7 @@
     {
       "id": "seeker_grenade_blueprint",
       "name": "Seeker Grenade Blueprint",
-      "imageFilename": "seeker_grenade.png",
+      "imageFilename": "v2/seeker_grenade_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -8387,6 +8686,7 @@
     {
       "id": "seeker_grenade",
       "name": "Seeker Grenade",
+      "imageFilename": "v2/seeker_grenade.png",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 640,
@@ -8407,6 +8707,7 @@
     {
       "id": "sensors",
       "name": "Sensors",
+      "imageFilename": "v2/sensors.png",
       "type": "Topside Material",
       "rarity": "Rare",
       "value": 500,
@@ -8420,6 +8721,7 @@
     {
       "id": "sentinel_firing_core",
       "name": "Sentinel Firing Core",
+      "imageFilename": "v2/sentinel_firing_core.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
@@ -8441,6 +8743,7 @@
     {
       "id": "shaker",
       "name": "Shaker",
+      "imageFilename": "v2/shaker.png",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 1000,
@@ -8464,6 +8767,7 @@
     {
       "id": "shield_recharger",
       "name": "Shield Recharger",
+      "imageFilename": "v2/shield_recharger.png",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 520,
@@ -8486,6 +8790,7 @@
     {
       "id": "shotgun_ammo",
       "name": "Shotgun Ammo",
+      "imageFilename": "v2/shotgun_ammo.png",
       "type": "Ammunition",
       "rarity": "Common",
       "value": 20,
@@ -8503,6 +8808,7 @@
     {
       "id": "shotgun_choke_i",
       "name": "Shotgun Choke I",
+      "imageFilename": "v2/shotgun_choke_i.png",
       "type": "Modification",
       "rarity": "Common",
       "value": 640,
@@ -8523,7 +8829,7 @@
     {
       "id": "shotgun_choke_ii_blueprint",
       "name": "Shotgun Choke II Blueprint",
-      "imageFilename": "shotgun_choke_ii.png",
+      "imageFilename": "v2/shotgun_choke_ii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -8533,6 +8839,7 @@
     {
       "id": "shotgun_choke_ii",
       "name": "Shotgun Choke II",
+      "imageFilename": "v2/shotgun_choke_ii.png",
       "type": "Modification",
       "rarity": "Uncommon",
       "value": 2000,
@@ -8554,7 +8861,7 @@
     {
       "id": "shotgun_choke_iii_blueprint",
       "name": "Shotgun Choke III Blueprint",
-      "imageFilename": "shotgun_choke_iii.png",
+      "imageFilename": "v2/shotgun_choke_iii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -8564,6 +8871,7 @@
     {
       "id": "shotgun_choke_iii",
       "name": "Shotgun Choke III",
+      "imageFilename": "v2/shotgun_choke_iii.png",
       "type": "Modification",
       "rarity": "Rare",
       "value": 5000,
@@ -8585,7 +8893,7 @@
     {
       "id": "shotgun_silencer_blueprint",
       "name": "Shotgun Silencer Blueprint",
-      "imageFilename": "shotgun_silencer.png",
+      "imageFilename": "v2/shotgun_silencer_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -8595,6 +8903,7 @@
     {
       "id": "shotgun_silencer",
       "name": "Shotgun Silencer",
+      "imageFilename": "v2/shotgun_silencer.png",
       "type": "Modification",
       "rarity": "Epic",
       "value": 5000,
@@ -8616,7 +8925,7 @@
     {
       "id": "showstopper_blueprint",
       "name": "Showstopper Blueprint",
-      "imageFilename": "showstopper.png",
+      "imageFilename": "v2/showstopper_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -8626,6 +8935,7 @@
     {
       "id": "showstopper",
       "name": "Showstopper",
+      "imageFilename": "v2/showstopper.png",
       "type": "Quick Use",
       "rarity": "Rare",
       "value": 2100,
@@ -8648,6 +8958,7 @@
     {
       "id": "shrapnel_grenade",
       "name": "Shrapnel Grenade",
+      "imageFilename": "v2/shrapnel_grenade.png",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 800,
@@ -8669,6 +8980,7 @@
     {
       "id": "shredder_gyro",
       "name": "Shredder Gyro",
+      "imageFilename": "v2/shredder_gyro.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
@@ -8691,6 +9003,7 @@
     {
       "id": "signal_amplifier",
       "name": "Signal Amplifier",
+      "imageFilename": "v2/signal_amplifier.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 3000,
@@ -8704,7 +9017,7 @@
     {
       "id": "silencer_i_blueprint",
       "name": "Silencer I Blueprint",
-      "imageFilename": "silencer_i.png",
+      "imageFilename": "v2/silencer_i_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -8714,6 +9027,7 @@
     {
       "id": "silencer_i",
       "name": "Silencer I",
+      "imageFilename": "v2/silencer_i.png",
       "type": "Modification",
       "rarity": "Uncommon",
       "value": 2000,
@@ -8735,7 +9049,7 @@
     {
       "id": "silencer_ii_blueprint",
       "name": "Silencer II Blueprint",
-      "imageFilename": "silencer_ii.png",
+      "imageFilename": "v2/silencer_ii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -8745,6 +9059,7 @@
     {
       "id": "silencer_ii",
       "name": "Silencer II",
+      "imageFilename": "v2/silencer_ii.png",
       "type": "Modification",
       "rarity": "Rare",
       "value": 5000,
@@ -8766,6 +9081,7 @@
     {
       "id": "silencer_iii",
       "name": "Silencer III",
+      "imageFilename": "v2/silencer_iii.png",
       "type": "Modification",
       "rarity": "Epic",
       "value": 7000,
@@ -8779,6 +9095,7 @@
     {
       "id": "silver_teaspoon_set",
       "name": "Silver Teaspoon Set",
+      "imageFilename": "v2/silver_teaspoon_set.png",
       "type": "Trinket",
       "rarity": "Rare",
       "value": 3000,
@@ -8788,6 +9105,7 @@
     {
       "id": "simple_gun_parts",
       "name": "Simple Gun Parts",
+      "imageFilename": "v2/simple_gun_parts.png",
       "type": "Topside Material",
       "rarity": "Uncommon",
       "value": 330,
@@ -8800,6 +9118,7 @@
     {
       "id": "sirena_dorata_ship_model",
       "name": "\"Sirena Dorata\" Ship Model",
+      "imageFilename": "v2/sirena_dorata_ship_model.png",
       "type": "Trinket",
       "rarity": "Epic",
       "value": 7000,
@@ -8825,7 +9144,7 @@
     {
       "id": "smoke_grenade_blueprint",
       "name": "Smoke Grenade Blueprint",
-      "imageFilename": "smoke_grenade.png",
+      "imageFilename": "v2/smoke_grenade_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -8835,6 +9154,7 @@
     {
       "id": "smoke_grenade_trap",
       "name": "Smoke Grenade Trap",
+      "imageFilename": "v2/smoke_grenade_trap.png",
       "type": "Quick Use",
       "rarity": "Rare",
       "value": 640,
@@ -8853,6 +9173,7 @@
     {
       "id": "smoke_grenade",
       "name": "Smoke Grenade",
+      "imageFilename": "v2/smoke_grenade.png",
       "type": "Quick Use",
       "rarity": "Rare",
       "value": 1000,
@@ -8874,6 +9195,7 @@
     {
       "id": "snap_blast_grenade",
       "name": "Snap Blast Grenade",
+      "imageFilename": "v2/snap_blast_grenade.png",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 800,
@@ -8895,7 +9217,7 @@
     {
       "id": "snap_hook_blueprint",
       "name": "Snap Hook Blueprint",
-      "imageFilename": "snap_hook.png",
+      "imageFilename": "v2/snap_hook_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -8905,6 +9227,7 @@
     {
       "id": "snap_hook",
       "name": "Snap Hook",
+      "imageFilename": "v2/snap_hook.png",
       "type": "Quick Use",
       "rarity": "Legendary",
       "value": 14000,
@@ -8932,6 +9255,7 @@
     {
       "id": "snitch_scanner",
       "name": "Snitch Scanner",
+      "imageFilename": "v2/snitch_scanner.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 1000,
@@ -8968,6 +9292,7 @@
     {
       "id": "snowball",
       "name": "Snowball",
+      "imageFilename": "v2/snowball.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 10,
@@ -8977,7 +9302,7 @@
     {
       "id": "spaceport_container_storage_key",
       "name": "Spaceport Container Storage Key",
-      "imageFilename": "spaceport_control_tower_key.png",
+      "imageFilename": "v2/spaceport_container_storage_key.png",
       "type": "Key",
       "rarity": "Rare",
       "value": 100,
@@ -8987,6 +9312,7 @@
     {
       "id": "spaceport_control_tower_key",
       "name": "Spaceport Control Tower Key",
+      "imageFilename": "v2/spaceport_control_tower_key.png",
       "type": "Key",
       "rarity": "Rare",
       "value": 100,
@@ -8996,6 +9322,7 @@
     {
       "id": "spaceport_trench_tower_key",
       "name": "Spaceport Trench Tower Key",
+      "imageFilename": "v2/spaceport_trench_tower_key.png",
       "type": "Key",
       "rarity": "Uncommon",
       "value": 100,
@@ -9005,7 +9332,7 @@
     {
       "id": "spaceport_warehouse_key",
       "name": "Spaceport Warehouse Key",
-      "imageFilename": "spaceport_trench_tower_key.png",
+      "imageFilename": "v2/spaceport_warehouse_key.png",
       "type": "Key",
       "rarity": "Uncommon",
       "value": 100,
@@ -9015,6 +9342,7 @@
     {
       "id": "speaker_component",
       "name": "Speaker Component",
+      "imageFilename": "v2/speaker_component.png",
       "type": "Topside Material",
       "rarity": "Rare",
       "value": 500,
@@ -9037,6 +9365,7 @@
     {
       "id": "spectrometer",
       "name": "Spectrometer",
+      "imageFilename": "v2/spectrometer.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 3000,
@@ -9050,6 +9379,7 @@
     {
       "id": "spectrum_analyzer",
       "name": "Spectrum Analyzer",
+      "imageFilename": "v2/spectrum_analyzer.png",
       "type": "Recyclable",
       "rarity": "Epic",
       "value": 3500,
@@ -9063,6 +9393,7 @@
     {
       "id": "spotter_relay",
       "name": "Spotter Relay",
+      "imageFilename": "v2/spotter_relay.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 1000,
@@ -9097,6 +9428,7 @@
     {
       "id": "spring_cushion",
       "name": "Spring Cushion",
+      "imageFilename": "v2/spring_cushion.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
@@ -9110,6 +9442,7 @@
     {
       "id": "stable_stock_i",
       "name": "Stable Stock I",
+      "imageFilename": "v2/stable_stock_i.png",
       "type": "Modification",
       "rarity": "Common",
       "value": 640,
@@ -9130,7 +9463,7 @@
     {
       "id": "stable_stock_ii_blueprint",
       "name": "Stable Stock II Blueprint",
-      "imageFilename": "stable_stock_ii.png",
+      "imageFilename": "v2/stable_stock_ii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -9140,6 +9473,7 @@
     {
       "id": "stable_stock_ii",
       "name": "Stable Stock II",
+      "imageFilename": "v2/stable_stock_ii.png",
       "type": "Modification",
       "rarity": "Uncommon",
       "value": 2000,
@@ -9161,7 +9495,7 @@
     {
       "id": "stable_stock_iii_blueprint",
       "name": "Stable Stock III Blueprint",
-      "imageFilename": "stable_stock_iii.png",
+      "imageFilename": "v2/stable_stock_iii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -9171,6 +9505,7 @@
     {
       "id": "stable_stock_iii",
       "name": "Stable Stock III",
+      "imageFilename": "v2/stable_stock_iii.png",
       "type": "Modification",
       "rarity": "Rare",
       "value": 5000,
@@ -9192,6 +9527,7 @@
     {
       "id": "stack_of_movie_tapes",
       "name": "Stack of Movie Tapes",
+      "imageFilename": "v2/stack_of_movie_tapes.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 100,
@@ -9211,6 +9547,7 @@
     {
       "id": "statuette",
       "name": "Statuette",
+      "imageFilename": "v2/statuette.png",
       "type": "Trinket",
       "rarity": "Rare",
       "value": 3000,
@@ -9220,6 +9557,7 @@
     {
       "id": "steel_spring",
       "name": "Steel Spring",
+      "imageFilename": "v2/steel_spring.png",
       "type": "Topside Material",
       "rarity": "Uncommon",
       "value": 300,
@@ -9232,6 +9570,7 @@
     {
       "id": "stella_montis_archives_key",
       "name": "Stella Montis Archives Key",
+      "imageFilename": "v2/stella_montis_archives_key.png",
       "type": "Key",
       "rarity": "Epic",
       "value": 100,
@@ -9241,6 +9580,7 @@
     {
       "id": "stella_montis_assembly_admin_key",
       "name": "Stella Montis Assembly Admin Key",
+      "imageFilename": "v2/stella_montis_assembly_admin_key.png",
       "type": "Key",
       "rarity": "Uncommon",
       "value": 100,
@@ -9250,6 +9590,7 @@
     {
       "id": "stella_montis_medical_storage_key",
       "name": "Stella Montis Medical Storage Key",
+      "imageFilename": "v2/stella_montis_medical_storage_key.png",
       "type": "Key",
       "rarity": "Uncommon",
       "value": 100,
@@ -9259,6 +9600,7 @@
     {
       "id": "stella_montis_security_checkpoint_key",
       "name": "Stella Montis Security Checkpoint Key",
+      "imageFilename": "v2/stella_montis_security_checkpoint_key.png",
       "type": "Key",
       "rarity": "Rare",
       "value": 100,
@@ -9268,6 +9610,7 @@
     {
       "id": "sterilized_bandage",
       "name": "Sterilized Bandage",
+      "imageFilename": "v2/sterilized_bandage.png",
       "type": "Quick Use",
       "rarity": "Rare",
       "value": 2000,
@@ -9290,7 +9633,7 @@
       "id": "stitcher_i",
       "name": "Stitcher I",
       "description": "Deals good damage, but has quite a low fire-rate and can be hard to control.",
-      "imageFilename": "stitcher.png",
+      "imageFilename": "v2/stitcher_i.png",
       "type": "SMG",
       "rarity": "Common",
       "value": 800,
@@ -9333,7 +9676,7 @@
       "id": "stitcher_ii",
       "name": "Stitcher II",
       "description": "Deals good damage, but has quite a low fire-rate and can be hard to control.",
-      "imageFilename": "stitcher.png",
+      "imageFilename": "v2/stitcher_ii.png",
       "type": "SMG",
       "rarity": "Common",
       "value": 2000,
@@ -9376,7 +9719,7 @@
       "id": "stitcher_iii",
       "name": "Stitcher III",
       "description": "Full automatic SMG. Deals good damage, but has quite a low fire-rate and can be hard to control.",
-      "imageFilename": "stitcher.png",
+      "imageFilename": "v2/stitcher_iii.png",
       "type": "SMG",
       "rarity": "Common",
       "value": 3000,
@@ -9419,7 +9762,7 @@
       "id": "stitcher_iv",
       "name": "Stitcher IV",
       "description": "Full automatic SMG. Deals good damage, but has quite a low fire-rate and can be hard to control.",
-      "imageFilename": "stitcher.png",
+      "imageFilename": "v2/stitcher_iv.png",
       "type": "SMG",
       "rarity": "Common",
       "value": 5000,
@@ -9461,6 +9804,7 @@
     {
       "id": "surge_coil_blueprint",
       "name": "Surge Coil Blueprint",
+      "imageFilename": "v2/surge_coil_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -9470,6 +9814,7 @@
     {
       "id": "surge_coil",
       "name": "Surge Coil",
+      "imageFilename": "v2/surge_coil.png",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 2100,
@@ -9492,6 +9837,7 @@
     {
       "id": "surge_shield_recharger",
       "name": "Surge Shield Recharger",
+      "imageFilename": "v2/surge_shield_recharger.png",
       "type": "Quick Use",
       "rarity": "Rare",
       "value": 1200,
@@ -9512,6 +9858,7 @@
     {
       "id": "surveyor_vault",
       "name": "Surveyor Vault",
+      "imageFilename": "v2/surveyor_vault.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -9557,6 +9904,7 @@
     {
       "id": "synthesized_fuel",
       "name": "Synthesized Fuel",
+      "imageFilename": "v2/synthesized_fuel.png",
       "type": "Topside Material",
       "rarity": "Rare",
       "value": 700,
@@ -9578,6 +9926,7 @@
     {
       "id": "syringe",
       "name": "Syringe",
+      "imageFilename": "v2/syringe.png",
       "type": "Topside Material",
       "rarity": "Rare",
       "value": 500,
@@ -9601,7 +9950,7 @@
     {
       "id": "tactical_mk1",
       "name": "Tactical Mk. 1",
-      "imageFilename": "tactical_i.png",
+      "imageFilename": "v2/tactical_mk1.png",
       "type": "Augment",
       "rarity": "Uncommon",
       "value": 640,
@@ -9628,7 +9977,7 @@
     {
       "id": "tactical_mk2",
       "name": "Tactical Mk. 2",
-      "imageFilename": "tactical_i.png",
+      "imageFilename": "v2/tactical_mk2.png",
       "type": "Augment",
       "rarity": "Rare",
       "value": 2000,
@@ -9655,7 +10004,7 @@
     {
       "id": "tactical_mk3_defensive_blueprint",
       "name": "Tactical Mk. 3 (Defensive) Blueprint",
-      "imageFilename": "tactical_mk3_defensive.png",
+      "imageFilename": "v2/tactical_mk3_defensive_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -9665,6 +10014,7 @@
     {
       "id": "tactical_mk3_defensive",
       "name": "Tactical Mk. 3 (Defensive)",
+      "imageFilename": "v2/tactical_mk3_defensive.png",
       "type": "Augment",
       "rarity": "Epic",
       "value": 5000,
@@ -9691,6 +10041,7 @@
     {
       "id": "tactical_mk3_healing_blueprint",
       "name": "Tactical Mk. 3 (Healing) Blueprint",
+      "imageFilename": "v2/tactical_mk3_healing_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -9700,6 +10051,7 @@
     {
       "id": "tactical_mk3_healing",
       "name": "Tactical Mk. 3 (Healing)",
+      "imageFilename": "v2/tactical_mk3_healing.png",
       "type": "Augment",
       "rarity": "Epic",
       "value": 5000,
@@ -9726,7 +10078,7 @@
     {
       "id": "tactical_mk3_revival_blueprint",
       "name": "Tactical Mk. 3 (Revival) Blueprint",
-      "imageFilename": "tactical_mk3_revival.png",
+      "imageFilename": "v2/tactical_mk3_revival_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -9736,6 +10088,7 @@
     {
       "id": "tactical_mk3_revival",
       "name": "Tactical Mk. 3 (Revival)",
+      "imageFilename": "v2/tactical_mk3_revival.png",
       "type": "Augment",
       "rarity": "Epic",
       "value": 5000,
@@ -9757,6 +10110,7 @@
     {
       "id": "tactical_mk3_smoke_blueprint",
       "name": "Tactical Mk. 3 (Smoke) Blueprint",
+      "imageFilename": "v2/tactical_mk3_smoke_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -9766,6 +10120,7 @@
     {
       "id": "tactical_mk3_smoke",
       "name": "Tactical Mk. 3 (Smoke)",
+      "imageFilename": "v2/tactical_mk3_smoke.png",
       "type": "Augment",
       "rarity": "Epic",
       "value": 5000,
@@ -9792,7 +10147,7 @@
     {
       "id": "tagging_grenade_blueprint",
       "name": "Tagging Grenade Blueprint",
-      "imageFilename": "tagging_grenade.png",
+      "imageFilename": "v2/tagging_grenade_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -9802,6 +10157,7 @@
     {
       "id": "tagging_grenade",
       "name": "Tagging Grenade",
+      "imageFilename": "v2/tagging_grenade.png",
       "type": "Quick Use",
       "rarity": "Rare",
       "value": 1000,
@@ -9823,6 +10179,7 @@
     {
       "id": "tattered_arc_lining",
       "name": "Tattered Arc Lining",
+      "imageFilename": "v2/tattered_arc_lining.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -9835,6 +10192,7 @@
     {
       "id": "tattered_clothes",
       "name": "Tattered Clothes",
+      "imageFilename": "v2/tattered_clothes.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -9847,6 +10205,7 @@
     {
       "id": "telemetry_transceiver",
       "name": "Telemetry Transceiver",
+      "imageFilename": "v2/telemetry_transceiver.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 3000,
@@ -9860,7 +10219,7 @@
     {
       "id": "tempest_blueprint",
       "name": "Tempest Blueprint",
-      "imageFilename": "tempest.png",
+      "imageFilename": "v2/tempest_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -9871,7 +10230,7 @@
       "id": "tempest_i",
       "name": "Tempest I",
       "description": "Fully automatic assault rifle with moderate fire rate and accuracy.",
-      "imageFilename": "tempest.png",
+      "imageFilename": "v2/tempest_i.png",
       "type": "Assault Rifle",
       "rarity": "Epic",
       "value": 13000,
@@ -9913,7 +10272,7 @@
       "id": "tempest_ii",
       "name": "Tempest II",
       "description": "Fully automatic assault rifle with moderate fire rate and accuracy.",
-      "imageFilename": "tempest.png",
+      "imageFilename": "v2/tempest_ii.png",
       "type": "Assault Rifle",
       "rarity": "Epic",
       "value": 17000,
@@ -9955,7 +10314,7 @@
       "id": "tempest_iii",
       "name": "Tempest III",
       "description": "Fully automatic assault rifle with moderate fire rate and accuracy.",
-      "imageFilename": "tempest.png",
+      "imageFilename": "v2/tempest_iii.png",
       "type": "Assault Rifle",
       "rarity": "Epic",
       "value": 22000,
@@ -9997,7 +10356,7 @@
       "id": "tempest_iv",
       "name": "Tempest IV",
       "description": "Fully automatic assault rifle with moderate fire rate and accuracy.",
-      "imageFilename": "tempest.png",
+      "imageFilename": "v2/tempest_iv.png",
       "type": "Assault Rifle",
       "rarity": "Epic",
       "value": 27000,
@@ -10038,6 +10397,7 @@
     {
       "id": "thermostat",
       "name": "Thermostat",
+      "imageFilename": "v2/thermostat.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -10051,6 +10411,7 @@
     {
       "id": "tick_pod",
       "name": "Tick Pod",
+      "imageFilename": "v2/tick_pod.png",
       "type": "Recyclable",
       "rarity": "Uncommon",
       "value": 640,
@@ -10088,6 +10449,7 @@
     {
       "id": "toaster",
       "name": "Toaster",
+      "imageFilename": "v2/toaster.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -10109,6 +10471,7 @@
     {
       "id": "torn_blanket",
       "name": "Torn Blanket",
+      "imageFilename": "v2/torn_blanket.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 640,
@@ -10121,6 +10484,7 @@
     {
       "id": "torn_book",
       "name": "Torn Book",
+      "imageFilename": "v2/torn_book.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 1000,
@@ -10130,7 +10494,7 @@
     {
       "id": "torrente_blueprint",
       "name": "Torrente Blueprint",
-      "imageFilename": "torrente.png",
+      "imageFilename": "v2/torrente_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -10141,7 +10505,7 @@
       "id": "torrente_i",
       "name": "Torrente I",
       "description": "Has a large ammo capacity, but is only accurate while crouched",
-      "imageFilename": "torrente.png",
+      "imageFilename": "v2/torrente_i.png",
       "type": "LMG",
       "rarity": "Rare",
       "value": 7000,
@@ -10183,7 +10547,7 @@
       "id": "torrente_ii",
       "name": "Torrente II",
       "description": "Has a large ammo capacity, but is only accurate while crouched.",
-      "imageFilename": "torrente.png",
+      "imageFilename": "v2/torrente_ii.png",
       "type": "LMG",
       "rarity": "Rare",
       "value": 10000,
@@ -10224,7 +10588,7 @@
       "id": "torrente_iii",
       "name": "Torrente III",
       "description": "Has a large ammo capacity, but is only accurate while crouched.",
-      "imageFilename": "torrente.png",
+      "imageFilename": "v2/torrente_iii.png",
       "type": "LMG",
       "rarity": "Rare",
       "value": 13000,
@@ -10265,7 +10629,7 @@
       "id": "torrente_iv",
       "name": "Torrente IV",
       "description": "Has a large ammo capacity, but is only accurate while crouched.",
-      "imageFilename": "torrente.png",
+      "imageFilename": "v2/torrente_iv.png",
       "type": "LMG",
       "rarity": "Rare",
       "value": 17000,
@@ -10305,7 +10669,7 @@
     {
       "id": "trailblazer_blueprint",
       "name": "Trailblazer Blueprint",
-      "imageFilename": "trailblazer.png",
+      "imageFilename": "v2/trailblazer_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -10315,6 +10679,7 @@
     {
       "id": "trailblazer",
       "name": "Trailblazer",
+      "imageFilename": "v2/trailblazer.png",
       "type": "Quick Use",
       "rarity": "Rare",
       "value": 2200,
@@ -10336,6 +10701,7 @@
     {
       "id": "trigger_nade_blueprint",
       "name": "Trigger Nade Blueprint",
+      "imageFilename": "v2/trigger_nade_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -10345,6 +10711,7 @@
     {
       "id": "trigger_nade",
       "name": "Trigger 'Nade",
+      "imageFilename": "v2/trigger_nade.png",
       "type": "Quick Use",
       "rarity": "Rare",
       "value": 1000,
@@ -10366,6 +10733,7 @@
     {
       "id": "tropical_duck",
       "name": "Tropical Duck",
+      "imageFilename": "v2/tropical_duck.png",
       "type": "Trinket",
       "rarity": "Uncommon",
       "value": 1000,
@@ -10375,6 +10743,7 @@
     {
       "id": "turbine_compressor",
       "name": "Turbine Compressor",
+      "imageFilename": "v2/turbine_compressor.png",
       "type": "Recyclable",
       "rarity": "Epic",
       "value": 5000,
@@ -10388,6 +10757,7 @@
     {
       "id": "turbo_pump",
       "name": "Turbo Pump",
+      "imageFilename": "v2/turbo_pump.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
@@ -10401,6 +10771,7 @@
     {
       "id": "twilight_compass_ship_model",
       "name": "\"Twilight Compass\" Ship Model",
+      "imageFilename": "v2/twilight_compass_ship_model.png",
       "type": "Trinket",
       "rarity": "Uncommon",
       "value": 1000,
@@ -10419,6 +10790,7 @@
     {
       "id": "unusable_weapon",
       "name": "Unusable Weapon",
+      "imageFilename": "v2/unusable_weapon.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 2000,
@@ -10432,6 +10804,7 @@
     {
       "id": "vaporizer_regulator",
       "name": "Vaporizer Regulator",
+      "imageFilename": "v2/vaporizer_regulator.png",
       "type": "Recyclable",
       "rarity": "Epic",
       "value": 6000,
@@ -10461,6 +10834,7 @@
     {
       "id": "vase",
       "name": "Vase",
+      "imageFilename": "v2/vase.png",
       "type": "Trinket",
       "rarity": "Rare",
       "value": 3000,
@@ -10470,6 +10844,7 @@
     {
       "id": "velocity_ship_model",
       "name": "\"Velocity\" Ship Model",
+      "imageFilename": "v2/velocity_ship_model.png",
       "type": "Trinket",
       "rarity": "Rare",
       "value": 3000,
@@ -10488,7 +10863,7 @@
     {
       "id": "venator_blueprint",
       "name": "Venator Blueprint",
-      "imageFilename": "venator.png",
+      "imageFilename": "v2/venator_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -10498,7 +10873,7 @@
       "id": "venator_i",
       "name": "Venator I",
       "description": "Semi-automatic pistol. Fires two shots at a time.",
-      "imageFilename": "venator.png",
+      "imageFilename": "v2/venator_i.png",
       "type": "Pistol",
       "rarity": "Rare",
       "value": 7000,
@@ -10540,7 +10915,7 @@
       "id": "venator_ii",
       "name": "Venator II",
       "description": "Semi-automatic pistol. Fires two shots at a time.",
-      "imageFilename": "venator.png",
+      "imageFilename": "v2/venator_ii.png",
       "type": "Pistol",
       "rarity": "Rare",
       "value": 10000,
@@ -10582,7 +10957,7 @@
       "id": "venator_iii",
       "name": "Venator III",
       "description": "Semi-automatic pistol. Fires two shots at a time.",
-      "imageFilename": "venator.png",
+      "imageFilename": "v2/venator_iii.png",
       "type": "Pistol",
       "rarity": "Rare",
       "value": 13000,
@@ -10624,7 +10999,7 @@
       "id": "venator_iv",
       "name": "Venator IV",
       "description": "Semi-automatic pistol. Fires two shots at a time.",
-      "imageFilename": "venator.png",
+      "imageFilename": "v2/venator_iv.png",
       "type": "Pistol",
       "rarity": "Rare",
       "value": 17000,
@@ -10665,6 +11040,7 @@
     {
       "id": "vertical_grip_i",
       "name": "Vertical Grip I",
+      "imageFilename": "v2/vertical_grip_i.png",
       "type": "Modification",
       "rarity": "Common",
       "value": 640,
@@ -10685,7 +11061,7 @@
     {
       "id": "vertical_grip_ii_blueprint",
       "name": "Vertical Grip II Blueprint",
-      "imageFilename": "vertical_grip_ii.png",
+      "imageFilename": "v2/vertical_grip_ii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -10695,6 +11071,7 @@
     {
       "id": "vertical_grip_ii",
       "name": "Vertical Grip II",
+      "imageFilename": "v2/vertical_grip_ii.png",
       "type": "Modification",
       "rarity": "Uncommon",
       "value": 2000,
@@ -10716,6 +11093,7 @@
     {
       "id": "vertical_grip_iii_blueprint",
       "name": "Vertical Grip III Blueprint",
+      "imageFilename": "v2/vertical_grip_iii_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -10725,6 +11103,7 @@
     {
       "id": "vertical_grip_iii",
       "name": "Vertical Grip III",
+      "imageFilename": "v2/vertical_grip_iii.png",
       "type": "Modification",
       "rarity": "Rare",
       "value": 5000,
@@ -10746,6 +11125,7 @@
     {
       "id": "very_comfortable_pillow",
       "name": "Very Comfortable Pillow",
+      "imageFilename": "v2/very_comfortable_pillow.png",
       "type": "Trinket",
       "rarity": "Uncommon",
       "value": 2000,
@@ -10763,7 +11143,7 @@
     {
       "id": "vita_shot_blueprint",
       "name": "Vita Shot Blueprint",
-      "imageFilename": "vita_shot.png",
+      "imageFilename": "v2/vita_shot_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -10773,6 +11153,7 @@
     {
       "id": "vita_shot",
       "name": "Vita Shot",
+      "imageFilename": "v2/vita_shot.png",
       "type": "Quick Use",
       "rarity": "Rare",
       "value": 2200,
@@ -10794,7 +11175,7 @@
     {
       "id": "vita_spray_blueprint",
       "name": "Vita Spray Blueprint",
-      "imageFilename": "vita_spray.png",
+      "imageFilename": "v2/vita_spray_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -10803,6 +11184,7 @@
     {
       "id": "vita_spray",
       "name": "Vita Spray",
+      "imageFilename": "v2/vita_spray.png",
       "type": "Quick Use",
       "rarity": "Epic",
       "value": 3400,
@@ -10830,6 +11212,7 @@
     {
       "id": "volcanic_rock",
       "name": "Volcanic Rock",
+      "imageFilename": "v2/volcanic_rock.png",
       "type": "Misc",
       "rarity": "Common",
       "value": 270,
@@ -10839,6 +11222,7 @@
     {
       "id": "voltage_converter",
       "name": "Voltage Converter",
+      "imageFilename": "v2/voltage_converter.png",
       "type": "Topside Material",
       "rarity": "Rare",
       "value": 500,
@@ -10852,7 +11236,7 @@
     {
       "id": "vulcano_blueprint",
       "name": "Vulcano Blueprint",
-      "imageFilename": "vulcano.png",
+      "imageFilename": "v2/vulcano_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -10863,7 +11247,7 @@
       "id": "vulcano_i",
       "name": "Vulcano I",
       "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
-      "imageFilename": "vulcano.png",
+      "imageFilename": "v2/vulcano_i.png",
       "type": "Shotgun",
       "rarity": "Epic",
       "value": 10000,
@@ -10906,7 +11290,7 @@
       "id": "vulcano_ii",
       "name": "Vulcano II",
       "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
-      "imageFilename": "vulcano.png",
+      "imageFilename": "v2/vulcano_ii.png",
       "type": "Shotgun",
       "rarity": "Epic",
       "value": 13000,
@@ -10949,7 +11333,7 @@
       "id": "vulcano_iii",
       "name": "Vulcano III",
       "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
-      "imageFilename": "vulcano.png",
+      "imageFilename": "v2/vulcano_iii.png",
       "type": "Shotgun",
       "rarity": "Epic",
       "value": 17000,
@@ -10994,7 +11378,7 @@
       "id": "vulcano_iv",
       "name": "Vulcano IV",
       "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
-      "imageFilename": "vulcano.png",
+      "imageFilename": "v2/vulcano_iv.png",
       "type": "Shotgun",
       "rarity": "Epic",
       "value": 22000,
@@ -11036,6 +11420,7 @@
     {
       "id": "wasp_driver",
       "name": "Wasp Driver",
+      "imageFilename": "v2/wasp_driver.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 640,
@@ -11080,6 +11465,7 @@
     {
       "id": "water_filter",
       "name": "Water Filter",
+      "imageFilename": "v2/water_filter.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -11102,6 +11488,7 @@
     {
       "id": "water_pump",
       "name": "Water Pump",
+      "imageFilename": "v2/water_pump.png",
       "type": "Recyclable",
       "rarity": "Rare",
       "value": 1000,
@@ -11115,7 +11502,7 @@
     {
       "id": "white_flag_blueprint",
       "name": "White Flag Blueprint",
-      "imageFilename": "white_flag.png",
+      "imageFilename": "v2/white_flag_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -11125,6 +11512,7 @@
     {
       "id": "white_flag",
       "name": "White Flag",
+      "imageFilename": "v2/white_flag.png",
       "type": "Quick Use",
       "rarity": "Uncommon",
       "value": 640,
@@ -11147,6 +11535,7 @@
     {
       "id": "wind_sprite_ship_model",
       "name": "\"Wind Sprite\" Ship Model",
+      "imageFilename": "v2/wind_sprite_ship_model.png",
       "type": "Trinket",
       "rarity": "Common",
       "value": 1000,
@@ -11156,6 +11545,7 @@
     {
       "id": "wires",
       "name": "Wires",
+      "imageFilename": "v2/wires.png",
       "type": "Topside Material",
       "rarity": "Uncommon",
       "value": 200,
@@ -11208,6 +11598,7 @@
     {
       "id": "wolfpack_blueprint",
       "name": "Wolfpack Blueprint",
+      "imageFilename": "v2/wolfpack_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -11217,6 +11608,7 @@
     {
       "id": "wolfpack",
       "name": "Wolfpack",
+      "imageFilename": "v2/wolfpack.png",
       "type": "Quick Use",
       "rarity": "Epic",
       "value": 6000,
@@ -11239,7 +11631,7 @@
     {
       "id": "yellow_light_stick_blueprint",
       "name": "Yellow Light Stick Blueprint",
-      "imageFilename": "yellow_light_stick.png",
+      "imageFilename": "v2/yellow_light_stick_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
       "value": 5000,
@@ -11249,6 +11641,7 @@
     {
       "id": "yellow_light_stick",
       "name": "Yellow Light Stick",
+      "imageFilename": "v2/yellow_light_stick.png",
       "type": "Quick Use",
       "rarity": "Common",
       "value": 150,
@@ -11268,6 +11661,7 @@
     {
       "id": "zipline",
       "name": "Zipline",
+      "imageFilename": "v2/zipline.png",
       "type": "Quick Use",
       "rarity": "Rare",
       "value": 1000,
