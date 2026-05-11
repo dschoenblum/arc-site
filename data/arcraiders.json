@@ -10752,7 +10752,23 @@
       "recyclesInto": {
         "arc_circuitry": 1,
         "arc_motion_core": 1
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "avian_alarm_project",
+          "projectName": "Avian Alarm",
+          "phase": 5,
+          "phaseName": "Critical Warning Birds",
+          "quantity": 2
+        },
+        {
+          "projectId": "expedition_project_s4",
+          "projectName": "Expedition (Expedition 4)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "turbo_pump",
