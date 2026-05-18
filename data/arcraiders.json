@@ -4282,7 +4282,7 @@
           "trader": "Tian Wen",
           "questOrder": 5,
           "mapNames": [
-            "stella_montis"
+            "Stella Montis"
           ],
           "quantity": 1
         }
@@ -5420,7 +5420,7 @@
           "trader": "Shani",
           "questOrder": 32,
           "mapNames": [
-            "stella_montis"
+            "Stella Montis"
           ],
           "quantity": 1
         }
@@ -6288,7 +6288,7 @@
           "trader": "Tian Wen",
           "questOrder": 5,
           "mapNames": [
-            "stella_montis"
+            "Stella Montis"
           ],
           "quantity": 1
         }
@@ -6831,7 +6831,7 @@
           "trader": "Shani",
           "questOrder": 26,
           "mapNames": [
-            "stella_montis"
+            "Stella Montis"
           ],
           "quantity": 1
         }
@@ -6875,7 +6875,7 @@
           "trader": "Shani",
           "questOrder": 4,
           "mapNames": [
-            "stella_montis"
+            "Stella Montis"
           ],
           "quantity": 1
         }
@@ -7446,7 +7446,7 @@
           "trader": "Tian Wen",
           "questOrder": 3,
           "mapNames": [
-            "riven_tide"
+            "Riven Tides"
           ],
           "quantity": 1
         }
@@ -7503,7 +7503,7 @@
           "trader": "Tian Wen",
           "questOrder": 6,
           "mapNames": [
-            "stella_montis"
+            "Stella Montis"
           ],
           "quantity": 1
         }
@@ -8352,7 +8352,7 @@
           "trader": "Shani",
           "questOrder": 32,
           "mapNames": [
-            "stella_montis"
+            "Stella Montis"
           ],
           "quantity": 1
         }
@@ -8657,7 +8657,7 @@
           "trader": "Shani",
           "questOrder": 25,
           "mapNames": [
-            "stella_montis"
+            "Stella Montis"
           ],
           "quantity": 1
         }
@@ -12336,7 +12336,7 @@
       "name": "Battening Down",
       "trader": "Apollo",
       "map": [
-        "riven_tide"
+        "Riven Tides"
       ],
       "description": "We’d hoped the seawalls at Riven Tides might offer us some protection from the elements, but it seems the hurricanes were not kind to this place, either.",
       "objectives": [
@@ -12629,7 +12629,7 @@
       "name": "Cold Storage",
       "trader": "Shani",
       "map": [
-        "stella_montis"
+        "Stella Montis"
       ],
       "description": "Reports about Stella Montis keep coming in, and it’s unlike anything we’ve seen before. There may be records or relics from the past in there, and if so, I want them.",
       "objectives": [
@@ -13191,7 +13191,7 @@
       "name": "Fragmented Logs",
       "trader": "Shani",
       "map": [
-        "stella_montis"
+        "Stella Montis"
       ],
       "description": "Now that we’ve found our footing on Stella Montis, several parties are interested in digging a bit deeper and seeing what we can find out about the past of this place. To do so, however, we’ll need to power up some of these old machines so we can start to sift through the data. ",
       "objectives": [
@@ -13223,7 +13223,7 @@
       "name": "Furtive Meetings",
       "trader": "Shani",
       "map": [
-        "stella_montis"
+        "Stella Montis"
       ],
       "description": "I’m still sorting through the data you found in Stella Montis, but something’s caught my eye. I’d like you to look into it.",
       "objectives": [
@@ -13367,7 +13367,7 @@
       "name": "In My Image",
       "trader": "Lance",
       "map": [
-        "stella_montis"
+        "Stella Montis"
       ],
       "description": "I just treated one of the first Raiders who visited Stella Montis, and she said that she saw... others. Androids, very much like me.",
       "objectives": [
@@ -13547,7 +13547,7 @@
       "name": "Last Entry",
       "trader": "Shani",
       "map": [
-        "stella_montis"
+        "Stella Montis"
       ],
       "description": "More mentions of Mantikor, and more clear signs of dissent among the researchers. I suspect tensions eventually escalated.",
       "objectives": [
@@ -13920,7 +13920,7 @@
       "name": "On Deaf Ears",
       "trader": "Lance",
       "map": [
-        "stella_montis"
+        "Stella Montis"
       ],
       "description": "Seems like every other Raider here has some serious hearing damage.\r\n\r\nI heard rumors they developed some extra advanced hearing aids at Stella Montis. If you can track them down, we might all be able to use our indoor voices, for once.",
       "objectives": [
@@ -14299,7 +14299,7 @@
       "name": "Safe Harbor",
       "trader": "Tian Wen",
       "map": [
-        "riven_tide"
+        "Riven Tides"
       ],
       "description": "Seems like news of the train derailment spread fast… And drove many workers to stash some very tasty technology away from prying eyes.",
       "objectives": [
@@ -14412,7 +14412,7 @@
       "name": "Shoring Up Defenses",
       "trader": "Apollo",
       "map": [
-        "riven_tide"
+        "Riven Tides"
       ],
       "description": "The wide-open coastline used to mean danger, but now it's the only place we can spot new threats moving into the Rust Belt.\r\n\r\nSo we'll have to make our own cover, and reinforce what few defenses we can find.",
       "objectives": [
@@ -14451,7 +14451,7 @@
       "name": "Snap and Salvage",
       "trader": "Tian Wen",
       "map": [
-        "stella_montis"
+        "Stella Montis"
       ],
       "description": "All of Speranza is buzzing about Stella Montis right now, and I admit it’s caught my attention. Let the others sort out the whats and hows; I’m interested in the tech inside.",
       "objectives": [
@@ -14582,7 +14582,7 @@
       "name": "Stable Housing",
       "trader": "Tian Wen",
       "map": [
-        "stella_montis"
+        "Stella Montis"
       ],
       "description": "You like a certain amount of uncertainty, right? A client wants the contents of a locked safe in Stella Montis. It's intact, so whatever's inside has been there since before the Exodus. Interested?",
       "objectives": [
@@ -15407,7 +15407,7 @@
       "name": "With a View",
       "trader": "Shani",
       "map": [
-        "stella_montis"
+        "Stella Montis"
       ],
       "description": "Have you ever noticed those streaks of light darting across the skies? \r\n\r\nI’ve seen too much to believe they’re natural, but it’ll take more than a hunch to convince Celeste.",
       "objectives": [
