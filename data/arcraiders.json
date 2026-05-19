@@ -3517,8 +3517,54 @@
       "stationLevelRequired": 3
     },
     {
-      "id": "extended_barrel_blueprint",
-      "name": "Extended Barrel Blueprint",
+      "id": "extended_barrel_i",
+      "name": "Extended Barrel I",
+      "type": "Modification",
+      "rarity": "Common",
+      "value": 1000,
+      "recipe": {
+        "metal_parts": 6,
+        "wires": 3
+      },
+      "recyclesInto": {
+        "metal_parts": 5
+      },
+      "craftBench": [
+        "weapon_bench"
+      ],
+      "stationLevelRequired": 1
+    },
+    {
+      "id": "extended_barrel_ii_blueprint",
+      "name": "Extended Barrel II Blueprint",
+      "type": "Blueprint",
+      "rarity": "Common",
+      "value": 5000,
+      "weightKg": 0,
+      "stackSize": 1
+    },
+    {
+      "id": "extended_barrel_ii",
+      "name": "Extended Barrel II",
+      "type": "Modification",
+      "rarity": "Common",
+      "value": 3000,
+      "recipe": {
+        "mechanical_components": 3,
+        "wires": 6
+      },
+      "recyclesInto": {
+        "mechanical_components": 1,
+        "wires": 1
+      },
+      "craftBench": [
+        "weapon_bench"
+      ],
+      "stationLevelRequired": 2
+    },
+    {
+      "id": "extended_barrel_iii_blueprint",
+      "name": "Extended Barrel III Blueprint",
       "imageFilename": "v2/extended_barrel_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
@@ -3527,8 +3573,8 @@
       "stackSize": 1
     },
     {
-      "id": "extended_barrel",
-      "name": "Extended Barrel",
+      "id": "extended_barrel_iii",
+      "name": "Extended Barrel III",
       "imageFilename": "v2/extended_barrel.png",
       "type": "Modification",
       "rarity": "Epic",
@@ -4317,7 +4363,7 @@
       "imageFilename": "v2/free_loadout_augment.png",
       "type": "Augment",
       "rarity": "Common",
-      "value": 100,
+      "value": 660,
       "weightKg": 1,
       "stackSize": 1,
       "recyclesInto": {
@@ -7642,6 +7688,113 @@
       "value": 100,
       "weightKg": 0.25,
       "stackSize": 1
+    },
+    {
+      "id": "rascal_blueprint",
+      "name": "Rascal Blueprint",
+      "imageFilename": "v2/rascal.png",
+      "type": "Blueprint",
+      "rarity": "Common",
+      "value": 5000,
+      "weightKg": 0,
+      "stackSize": 1
+    },
+    {
+      "id": "rascal_i",
+      "name": "Rascal I",
+      "description": "Fires explosive projectiles that only detonate when hitting ARC.",
+      "imageFilename": "v2/rascal.png",
+      "type": "Special",
+      "rarity": "Rare",
+      "value": 7000,
+      "weightKg": 4,
+      "isWeapon": true,
+      "effects": {
+        "Ammo Type": "Launcher Ammo",
+        "ARC Armor Penetration": "Very Strong",
+        "Durability": "100/100",
+        "Firing Mode": "Break-Action",
+        "Magazine Size": 1
+      },
+      "recipe": {
+        "advanced_mechanical_components": 2,
+        "canister": 5,
+        "heavy_gun_parts": 3
+      },
+      "recyclesInto": {
+        "advanced_mechanical_components": 1,
+        "heavy_gun_parts": 2
+      },
+      "craftBench": [
+        "weapon_bench"
+      ],
+      "stationLevelRequired": 2
+    },
+    {
+      "id": "rascal_ii",
+      "name": "Rascal II",
+      "description": "Fires explosive projectiles that only detonate when hitting ARC.",
+      "imageFilename": "v2/rascal.png",
+      "type": "Special",
+      "rarity": "Rare",
+      "value": 10000,
+      "weightKg": 4,
+      "isWeapon": true,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "heavy_gun_parts": 2
+      },
+      "upgradeCost": {
+        "advanced_mechanical_components": 1,
+        "heavy_gun_parts": 2
+      },
+      "craftBench": [
+        "weapon_bench"
+      ]
+    },
+    {
+      "id": "rascal_iii",
+      "name": "Rascal III",
+      "description": "Fires explosive projectiles that only detonate when hitting ARC.",
+      "imageFilename": "v2/rascal.png",
+      "type": "Special",
+      "rarity": "Rare",
+      "value": 13000,
+      "weightKg": 4,
+      "isWeapon": true,
+      "recyclesInto": {
+        "advanced_mechanical_components": 2,
+        "heavy_gun_parts": 3
+      },
+      "upgradeCost": {
+        "advanced_mechanical_components": 1,
+        "heavy_gun_parts": 2
+      },
+      "craftBench": [
+        "weapon_bench"
+      ]
+    },
+    {
+      "id": "rascal_iv",
+      "name": "Rascal IV",
+      "description": "Fires explosive projectiles that only detonate when hitting ARC.",
+      "imageFilename": "v2/rascal.png",
+      "type": "Special",
+      "rarity": "Rare",
+      "value": 17000,
+      "weightKg": 4,
+      "isWeapon": true,
+      "recyclesInto": {
+        "advanced_mechanical_components": 3,
+        "heavy_gun_parts": 3
+      },
+      "upgradeCost": {
+        "advanced_mechanical_components": 2,
+        "heavy_gun_parts": 2
+      },
+      "craftBench": [
+        "weapon_bench"
+      ]
     },
     {
       "id": "rattler_i",
