@@ -158,16 +158,7 @@
       "stackSize": 10,
       "recyclesInto": {
         "assorted_seeds": 3
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "avian_alarm_project",
-          "projectName": "Avian Alarm",
-          "phase": 4,
-          "phaseName": "Heightened Alert Birds",
-          "quantity": 8
-        }
-      ]
+      }
     },
     {
       "id": "air_freshener",
@@ -2090,13 +2081,6 @@
       },
       "projectsRequiredFor": [
         {
-          "projectId": "avian_alarm_project",
-          "projectName": "Avian Alarm",
-          "phase": 2,
-          "phaseName": "Preliminary Signal Birds",
-          "quantity": 20
-        },
-        {
           "projectId": "expedition_project_s4",
           "projectName": "Expedition (Expedition 4)",
           "phase": 1,
@@ -2418,15 +2402,6 @@
           "questOrder": 1,
           "mapNames": [],
           "quantity": 1
-        }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "avian_alarm_project",
-          "projectName": "Avian Alarm",
-          "phase": 3,
-          "phaseName": "Secondary Validation Birds",
-          "quantity": 3
         }
       ]
     },
@@ -4067,16 +4042,7 @@
       "stackSize": 5,
       "recyclesInto": {
         "assorted_seeds": 2
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "avian_alarm_project",
-          "projectName": "Avian Alarm",
-          "phase": 3,
-          "phaseName": "Secondary Validation Birds",
-          "quantity": 10
-        }
-      ]
+      }
     },
     {
       "id": "film_reel",
@@ -5853,16 +5819,7 @@
       "rarity": "Legendary",
       "value": 10000,
       "weightKg": 0.5,
-      "stackSize": 1,
-      "projectsRequiredFor": [
-        {
-          "projectId": "avian_alarm_project",
-          "projectName": "Avian Alarm",
-          "phase": 5,
-          "phaseName": "Critical Warning Birds",
-          "quantity": 1
-        }
-      ]
+      "stackSize": 1
     },
     {
       "id": "library_book",
@@ -6650,16 +6607,7 @@
       "stackSize": 10,
       "recyclesInto": {
         "assorted_seeds": 3
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "avian_alarm_project",
-          "projectName": "Avian Alarm",
-          "phase": 2,
-          "phaseName": "Preliminary Signal Birds",
-          "quantity": 12
-        }
-      ]
+      }
     },
     {
       "id": "motor",
@@ -7981,16 +7929,7 @@
       "rarity": "Rare",
       "value": 5000,
       "weightKg": 0.3,
-      "stackSize": 3,
-      "projectsRequiredFor": [
-        {
-          "projectId": "avian_alarm_project",
-          "projectName": "Avian Alarm",
-          "phase": 5,
-          "phaseName": "Critical Warning Birds",
-          "quantity": 3
-        }
-      ]
+      "stackSize": 3
     },
     {
       "id": "red_light_stick_blueprint",
@@ -8441,16 +8380,7 @@
       "stackSize": 10,
       "recyclesInto": {
         "assorted_seeds": 1
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "avian_alarm_project",
-          "projectName": "Avian Alarm",
-          "phase": 5,
-          "phaseName": "Critical Warning Birds",
-          "quantity": 4
-        }
-      ]
+      }
     },
     {
       "id": "rope",
@@ -8723,15 +8653,6 @@
           "hideoutName": "Gunsmith",
           "level": 2,
           "quantity": 3
-        }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "avian_alarm_project",
-          "projectName": "Avian Alarm",
-          "phase": 3,
-          "phaseName": "Secondary Validation Birds",
-          "quantity": 8
         }
       ]
     },
@@ -9268,13 +9189,6 @@
       "weightKg": 0.5,
       "stackSize": 1,
       "projectsRequiredFor": [
-        {
-          "projectId": "avian_alarm_project",
-          "projectName": "Avian Alarm",
-          "phase": 4,
-          "phaseName": "Heightened Alert Birds",
-          "quantity": 5
-        },
         {
           "projectId": "expedition_project_s4",
           "projectName": "Expedition (Expedition 4)",
@@ -10579,13 +10493,6 @@
           "phase": 1,
           "phaseName": "Roaming Threats",
           "quantity": 15
-        },
-        {
-          "projectId": "avian_alarm_project",
-          "projectName": "Avian Alarm",
-          "phase": 2,
-          "phaseName": "Preliminary Signal Birds",
-          "quantity": 7
         }
       ]
     },
@@ -10898,13 +10805,6 @@
       },
       "projectsRequiredFor": [
         {
-          "projectId": "avian_alarm_project",
-          "projectName": "Avian Alarm",
-          "phase": 5,
-          "phaseName": "Critical Warning Birds",
-          "quantity": 2
-        },
-        {
           "projectId": "expedition_project_s4",
           "projectName": "Expedition (Expedition 4)",
           "phase": 3,
@@ -10935,16 +10835,7 @@
       "rarity": "Uncommon",
       "value": 1000,
       "weightKg": 0.5,
-      "stackSize": 1,
-      "projectsRequiredFor": [
-        {
-          "projectId": "avian_alarm_project",
-          "projectName": "Avian Alarm",
-          "phase": 2,
-          "phaseName": "Preliminary Signal Birds",
-          "quantity": 5
-        }
-      ]
+      "stackSize": 1
     },
     {
       "id": "unusable_weapon",
@@ -10975,13 +10866,6 @@
       },
       "projectsRequiredFor": [
         {
-          "projectId": "avian_alarm_project",
-          "projectName": "Avian Alarm",
-          "phase": 4,
-          "phaseName": "Heightened Alert Birds",
-          "quantity": 1
-        },
-        {
           "projectId": "expedition_project_s4",
           "projectName": "Expedition (Expedition 4)",
           "phase": 4,
@@ -11008,16 +10892,7 @@
       "rarity": "Rare",
       "value": 3000,
       "weightKg": 0.5,
-      "stackSize": 1,
-      "projectsRequiredFor": [
-        {
-          "projectId": "avian_alarm_project",
-          "projectName": "Avian Alarm",
-          "phase": 3,
-          "phaseName": "Secondary Validation Birds",
-          "quantity": 5
-        }
-      ]
+      "stackSize": 1
     },
     {
       "id": "venator_blueprint",
@@ -11633,16 +11508,7 @@
       "recyclesInto": {
         "canister": 3,
         "rubber_parts": 2
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "avian_alarm_project",
-          "projectName": "Avian Alarm",
-          "phase": 4,
-          "phaseName": "Heightened Alert Birds",
-          "quantity": 3
-        }
-      ]
+      }
     },
     {
       "id": "water_pump",
