@@ -2102,12 +2102,20 @@
     {
       "id": "canto_i",
       "name": "Canto I",
+      "description": "Fully automatic submachine gun with a larger caliber.",
       "imageFilename": "v2/canto_i.png",
       "type": "SMG",
       "rarity": "Rare",
       "value": 7000,
       "weightKg": 6.5,
       "stackSize": 1,
+      "isWeapon": true,
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recipe": {
         "advanced_mechanical_components": 2,
         "magnet": 5,
@@ -2125,12 +2133,20 @@
     {
       "id": "canto_ii",
       "name": "Canto II",
+      "description": "Fully automatic submachine gun with a larger caliber.",
       "imageFilename": "v2/canto_ii.png",
       "type": "SMG",
       "rarity": "Rare",
       "value": 10000,
       "weightKg": 6.5,
       "stackSize": 1,
+      "isWeapon": true,
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "medium_gun_parts": 2
@@ -2143,12 +2159,20 @@
     {
       "id": "canto_iii",
       "name": "Canto III",
+      "description": "Fully automatic submachine gun with a larger caliber.",
       "imageFilename": "v2/canto_iii.png",
       "type": "SMG",
       "rarity": "Rare",
       "value": 13000,
       "weightKg": 6.5,
       "stackSize": 1,
+      "isWeapon": true,
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 2,
         "medium_gun_parts": 3
@@ -2161,12 +2185,20 @@
     {
       "id": "canto_iv",
       "name": "Canto IV",
+      "description": "Fully automatic submachine gun with a larger caliber.",
       "imageFilename": "v2/canto_iv.png",
       "type": "SMG",
       "rarity": "Rare",
       "value": 17000,
       "weightKg": 6.5,
       "stackSize": 1,
+      "isWeapon": true,
+      "modSlots": [
+        "grip",
+        "magazine",
+        "muzzle",
+        "stock"
+      ],
       "recyclesInto": {
         "advanced_mechanical_components": 3,
         "medium_gun_parts": 3
@@ -3495,7 +3527,7 @@
       "id": "extended_barrel_i",
       "name": "Extended Barrel I",
       "type": "Modification",
-      "rarity": "Common",
+      "rarity": "Uncommon",
       "value": 1000,
       "recipe": {
         "metal_parts": 6,
@@ -3522,7 +3554,7 @@
       "id": "extended_barrel_ii",
       "name": "Extended Barrel II",
       "type": "Modification",
-      "rarity": "Common",
+      "rarity": "Rare",
       "value": 3000,
       "recipe": {
         "mechanical_components": 3,
