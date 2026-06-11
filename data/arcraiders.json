@@ -2999,7 +2999,8 @@
       "rarity": "Uncommon",
       "value": 1000,
       "weightKg": 1,
-      "stackSize": 1
+      "stackSize": 1,
+      "repairDurability": 0.5
     },
     {
       "id": "dodgers_note",
@@ -7637,6 +7638,7 @@
       "imageFilename": "v2/raider_flag.png",
       "type": "Trinket",
       "rarity": "Common",
+      "value": 100,
       "weightKg": 0.5,
       "stackSize": 1
     },
