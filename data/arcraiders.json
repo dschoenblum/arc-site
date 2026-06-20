@@ -168,7 +168,16 @@
       "rarity": "Uncommon",
       "value": 2000,
       "weightKg": 0.3,
-      "stackSize": 5
+      "stackSize": 5,
+      "projectsRequiredFor": [
+        {
+          "projectId": "converging_paths_project",
+          "projectName": "Converging Paths",
+          "phase": 2,
+          "phaseName": "Collect Supplies",
+          "quantity": 2
+        }
+      ]
     },
     {
       "id": "alarm_clock",
@@ -683,7 +692,16 @@
       "stackSize": 3,
       "recyclesInto": {
         "chemicals": 16
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "converging_paths_project",
+          "projectName": "Converging Paths",
+          "phase": 4,
+          "phaseName": "Create Emergency Caches",
+          "quantity": 9
+        }
+      ]
     },
     {
       "id": "arc_flex_rubber",
@@ -754,6 +772,13 @@
           "phase": 3,
           "phaseName": "Ferocious Foes",
           "quantity": 10
+        },
+        {
+          "projectId": "converging_paths_project",
+          "projectName": "Converging Paths",
+          "phase": 3,
+          "phaseName": "Procure Relics",
+          "quantity": 7
         }
       ]
     },
@@ -806,6 +831,13 @@
           "phase": 4,
           "phaseName": "Dominant Dangers",
           "quantity": 10
+        },
+        {
+          "projectId": "converging_paths_project",
+          "projectName": "Converging Paths",
+          "phase": 5,
+          "phaseName": "Finish the Cabinet of Curiosities",
+          "quantity": 10
         }
       ]
     },
@@ -820,7 +852,16 @@
       "stackSize": 3,
       "recyclesInto": {
         "fabric": 16
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "converging_paths_project",
+          "projectName": "Converging Paths",
+          "phase": 2,
+          "phaseName": "Collect Supplies",
+          "quantity": 6
+        }
+      ]
     },
     {
       "id": "arpeggio_i",
@@ -2286,6 +2327,33 @@
       "stackSize": 3
     },
     {
+      "id": "colorful_shoes_green",
+      "name": "Colorful Shoes (Green)",
+      "imageFilename": "v2/colorful_shoes_green.png",
+      "type": "Trinket",
+      "rarity": "Epic",
+      "value": 7000,
+      "stackSize": 1
+    },
+    {
+      "id": "colorful_shoes_red",
+      "name": "Colorful Shoes (Red)",
+      "imageFilename": "v2/colorful_shoes_red.png",
+      "type": "Trinket",
+      "rarity": "Rare",
+      "value": 3000,
+      "stackSize": 1
+    },
+    {
+      "id": "colorful_shoes_silver",
+      "name": "Colorful Shoes (Silver)",
+      "imageFilename": "v2/colorful_shoes_silver.png",
+      "type": "Trinket",
+      "rarity": "Legendary",
+      "value": 10000,
+      "stackSize": 1
+    },
+    {
       "id": "combat_mk1",
       "name": "Combat Mk. 1",
       "imageFilename": "v2/combat_mk1.png",
@@ -3252,6 +3320,24 @@
       ]
     },
     {
+      "id": "elephant_obelisk",
+      "name": "Elephant Obelisk",
+      "imageFilename": "v2/elephant_obelisk.png",
+      "type": "Trinket",
+      "rarity": "Legendary",
+      "value": 10000,
+      "stackSize": 1,
+      "projectsRequiredFor": [
+        {
+          "projectId": "converging_paths_project",
+          "projectName": "Converging Paths",
+          "phase": 4,
+          "phaseName": "Create Emergency Caches",
+          "quantity": 1
+        }
+      ]
+    },
+    {
       "id": "empty_wine_bottle",
       "name": "Empty Wine Bottle",
       "imageFilename": "v2/empty_wine_bottle.png",
@@ -3324,6 +3410,24 @@
         "magnetic_accelerator": 2
       },
       "repairDurability": 0.5
+    },
+    {
+      "id": "equatorial_sundial",
+      "name": "Equatorial Sundial",
+      "imageFilename": "v2/equatorial_sundial.png",
+      "type": "Trinket",
+      "rarity": "Rare",
+      "value": 3000,
+      "stackSize": 1,
+      "projectsRequiredFor": [
+        {
+          "projectId": "converging_paths_project",
+          "projectName": "Converging Paths",
+          "phase": 3,
+          "phaseName": "Procure Relics",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "espresso_machine_parts",
@@ -5923,7 +6027,16 @@
       "rarity": "Uncommon",
       "value": 2000,
       "weightKg": 0.2,
-      "stackSize": 3
+      "stackSize": 3,
+      "projectsRequiredFor": [
+        {
+          "projectId": "converging_paths_project",
+          "projectName": "Converging Paths",
+          "phase": 4,
+          "phaseName": "Create Emergency Caches",
+          "quantity": 6
+        }
+      ]
     },
     {
       "id": "light_gun_parts_blueprint",
@@ -6522,7 +6635,16 @@
       "stackSize": 3,
       "recyclesInto": {
         "metal_parts": 8
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "converging_paths_project",
+          "projectName": "Converging Paths",
+          "phase": 3,
+          "phaseName": "Procure Relics",
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "metal_parts",
@@ -8839,6 +8961,24 @@
       ]
     },
     {
+      "id": "sextant",
+      "name": "Sextant",
+      "imageFilename": "v2/sextant.png",
+      "type": "Trinket",
+      "rarity": "Uncommon",
+      "value": 2000,
+      "stackSize": 1,
+      "projectsRequiredFor": [
+        {
+          "projectId": "converging_paths_project",
+          "projectName": "Converging Paths",
+          "phase": 3,
+          "phaseName": "Procure Relics",
+          "quantity": 4
+        }
+      ]
+    },
+    {
       "id": "shaker",
       "name": "Shaker",
       "imageFilename": "v2/shaker.png",
@@ -9221,7 +9361,7 @@
       "rarity": "Epic",
       "value": 7000,
       "weightKg": 0.5,
-      "stackSize": 1,
+      "stackSize": 3,
       "projectsRequiredFor": [
         {
           "projectId": "expedition_project_s4",
@@ -10308,6 +10448,24 @@
       }
     },
     {
+      "id": "tellurion",
+      "name": "Tellurion",
+      "imageFilename": "v2/tellurion.png",
+      "type": "Trinket",
+      "rarity": "Epic",
+      "value": 7000,
+      "stackSize": 1,
+      "projectsRequiredFor": [
+        {
+          "projectId": "converging_paths_project",
+          "projectName": "Converging Paths",
+          "phase": 4,
+          "phaseName": "Create Emergency Caches",
+          "quantity": 3
+        }
+      ]
+    },
+    {
       "id": "tempest_blueprint",
       "name": "Tempest Blueprint",
       "imageFilename": "v2/tempest_blueprint.png",
@@ -10783,6 +10941,24 @@
       "stationLevelRequired": 3
     },
     {
+      "id": "train_model",
+      "name": "Train Model",
+      "imageFilename": "v2/train_model.png",
+      "type": "Trinket",
+      "rarity": "Common",
+      "value": 1000,
+      "stackSize": 1,
+      "projectsRequiredFor": [
+        {
+          "projectId": "converging_paths_project",
+          "projectName": "Converging Paths",
+          "phase": 2,
+          "phaseName": "Collect Supplies",
+          "quantity": 3
+        }
+      ]
+    },
+    {
       "id": "trigger_nade_blueprint",
       "name": "Trigger Nade Blueprint",
       "imageFilename": "v2/trigger_nade_blueprint.png",
@@ -10869,7 +11045,7 @@
       "rarity": "Uncommon",
       "value": 1000,
       "weightKg": 0.5,
-      "stackSize": 1
+      "stackSize": 5
     },
     {
       "id": "unusable_weapon",
@@ -10926,7 +11102,7 @@
       "rarity": "Rare",
       "value": 3000,
       "weightKg": 0.5,
-      "stackSize": 1
+      "stackSize": 3
     },
     {
       "id": "venator_blueprint",
@@ -11205,6 +11381,24 @@
           "hideoutName": "Scrappy",
           "level": 5,
           "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "vintage_steering_wheel",
+      "name": "Vintage Steering Wheel",
+      "imageFilename": "v2/vintage_steering_wheel.png",
+      "type": "Trinket",
+      "rarity": "Uncommon",
+      "value": 2000,
+      "stackSize": 1,
+      "projectsRequiredFor": [
+        {
+          "projectId": "converging_paths_project",
+          "projectName": "Converging Paths",
+          "phase": 2,
+          "phaseName": "Collect Supplies",
+          "quantity": 2
         }
       ]
     },
@@ -11599,7 +11793,7 @@
       "rarity": "Common",
       "value": 1000,
       "weightKg": 0.5,
-      "stackSize": 1
+      "stackSize": 10
     },
     {
       "id": "wires",
