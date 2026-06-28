@@ -2333,7 +2333,16 @@
       "type": "Trinket",
       "rarity": "Epic",
       "value": 7000,
-      "stackSize": 1
+      "stackSize": 1,
+      "projectsRequiredFor": [
+        {
+          "projectId": "converging_paths_project",
+          "projectName": "Converging Paths",
+          "phase": 5,
+          "phaseName": "Finish the Cabinet of Curiosities",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "colorful_shoes_red",
@@ -2342,7 +2351,16 @@
       "type": "Trinket",
       "rarity": "Rare",
       "value": 3000,
-      "stackSize": 1
+      "stackSize": 1,
+      "projectsRequiredFor": [
+        {
+          "projectId": "converging_paths_project",
+          "projectName": "Converging Paths",
+          "phase": 5,
+          "phaseName": "Finish the Cabinet of Curiosities",
+          "quantity": 6
+        }
+      ]
     },
     {
       "id": "colorful_shoes_silver",
@@ -2351,7 +2369,16 @@
       "type": "Trinket",
       "rarity": "Legendary",
       "value": 10000,
-      "stackSize": 1
+      "stackSize": 1,
+      "projectsRequiredFor": [
+        {
+          "projectId": "converging_paths_project",
+          "projectName": "Converging Paths",
+          "phase": 5,
+          "phaseName": "Finish the Cabinet of Curiosities",
+          "quantity": 2
+        }
+      ]
     },
     {
       "id": "combat_mk1",
