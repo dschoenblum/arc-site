@@ -89,15 +89,6 @@
           "level": 3,
           "quantity": 5
         }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s4",
-          "projectName": "Expedition (Expedition 4)",
-          "phase": 4,
-          "phaseName": "Outfitting",
-          "quantity": 5
-        }
       ]
     },
     {
@@ -642,15 +633,6 @@
           "level": 1,
           "quantity": 6
         }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s4",
-          "projectName": "Expedition (Expedition 4)",
-          "phase": 1,
-          "phaseName": "Foundation",
-          "quantity": 80
-        }
       ]
     },
     {
@@ -741,15 +723,6 @@
           "hideoutName": "Refiner",
           "level": 2,
           "quantity": 5
-        }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s4",
-          "projectName": "Expedition (Expedition 4)",
-          "phase": 3,
-          "phaseName": "Framework",
-          "quantity": 20
         }
       ]
     },
@@ -2119,16 +2092,7 @@
       "stackSize": 15,
       "recyclesInto": {
         "plastic_parts": 3
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s4",
-          "projectName": "Expedition (Expedition 4)",
-          "phase": 1,
-          "phaseName": "Foundation",
-          "quantity": 15
-        }
-      ]
+      }
     },
     {
       "id": "canto_blueprint",
@@ -2304,15 +2268,6 @@
           "hideoutName": "Explosives Station",
           "level": 1,
           "quantity": 50
-        }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s4",
-          "projectName": "Expedition (Expedition 4)",
-          "phase": 1,
-          "phaseName": "Foundation",
-          "quantity": 100
         }
       ]
     },
@@ -3268,15 +3223,6 @@
           "level": 2,
           "quantity": 5
         }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s4",
-          "projectName": "Expedition (Expedition 4)",
-          "phase": 2,
-          "phaseName": "Core Systems",
-          "quantity": 30
-        }
       ]
     },
     {
@@ -3334,15 +3280,6 @@
           "hideoutName": "Utility Station",
           "level": 2,
           "quantity": 5
-        }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s4",
-          "projectName": "Expedition (Expedition 4)",
-          "phase": 2,
-          "phaseName": "Core Systems",
-          "quantity": 20
         }
       ]
     },
@@ -3520,13 +3457,6 @@
           "phase": 5,
           "phaseName": "Imposing Behemoths",
           "quantity": 5
-        },
-        {
-          "projectId": "expedition_project_s4",
-          "projectName": "Expedition (Expedition 4)",
-          "phase": 3,
-          "phaseName": "Framework",
-          "quantity": 2
         }
       ]
     },
@@ -5551,16 +5481,7 @@
       "recyclesInto": {
         "metal_parts": 5,
         "voltage_converter": 1
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s4",
-          "projectName": "Expedition (Expedition 4)",
-          "phase": 2,
-          "phaseName": "Core Systems",
-          "quantity": 3
-        }
-      ]
+      }
     },
     {
       "id": "industrial_magnet",
@@ -6695,15 +6616,6 @@
           "level": 1,
           "quantity": 20
         }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s4",
-          "projectName": "Expedition (Expedition 4)",
-          "phase": 1,
-          "phaseName": "Foundation",
-          "quantity": 150
-        }
       ]
     },
     {
@@ -7024,16 +6936,7 @@
       "stackSize": 15,
       "recyclesInto": {
         "chemicals": 3
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s4",
-          "projectName": "Expedition (Expedition 4)",
-          "phase": 2,
-          "phaseName": "Core Systems",
-          "quantity": 25
-        }
-      ]
+      }
     },
     {
       "id": "old_world_books",
@@ -7452,15 +7355,6 @@
           "trader": "Apollo",
           "questOrder": 6,
           "mapNames": [],
-          "quantity": 1
-        }
-      ],
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s4",
-          "projectName": "Expedition (Expedition 4)",
-          "phase": 4,
-          "phaseName": "Outfitting",
           "quantity": 1
         }
       ]
@@ -9388,16 +9282,7 @@
       "rarity": "Epic",
       "value": 7000,
       "weightKg": 0.5,
-      "stackSize": 3,
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s4",
-          "projectName": "Expedition (Expedition 4)",
-          "phase": 4,
-          "phaseName": "Outfitting",
-          "quantity": 2
-        }
-      ]
+      "stackSize": 3
     },
     {
       "id": "smoke_grenade_blueprint",
@@ -9609,16 +9494,7 @@
       "recyclesInto": {
         "plastic_parts": 2,
         "rubber_parts": 3
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s4",
-          "projectName": "Expedition (Expedition 4)",
-          "phase": 3,
-          "phaseName": "Framework",
-          "quantity": 15
-        }
-      ]
+      }
     },
     {
       "id": "spectrometer",
@@ -11039,16 +10915,7 @@
       "recyclesInto": {
         "arc_circuitry": 1,
         "arc_motion_core": 1
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s4",
-          "projectName": "Expedition (Expedition 4)",
-          "phase": 3,
-          "phaseName": "Framework",
-          "quantity": 5
-        }
-      ]
+      }
     },
     {
       "id": "turbo_pump",
@@ -11100,16 +10967,7 @@
       "recyclesInto": {
         "advanced_electrical_components": 1,
         "arc_circuitry": 2
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "expedition_project_s4",
-          "projectName": "Expedition (Expedition 4)",
-          "phase": 4,
-          "phaseName": "Outfitting",
-          "quantity": 3
-        }
-      ]
+      }
     },
     {
       "id": "vase",
