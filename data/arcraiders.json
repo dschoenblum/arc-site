@@ -119,6 +119,15 @@
           "level": 3,
           "quantity": 5
         }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s5",
+          "projectName": "Expedition (Season 5)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 5
+        }
       ]
     },
     {
@@ -633,6 +642,15 @@
           "level": 1,
           "quantity": 6
         }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s5",
+          "projectName": "Expedition (Season 5)",
+          "phase": 1,
+          "phaseName": "Foundation",
+          "quantity": 80
+        }
       ]
     },
     {
@@ -660,6 +678,15 @@
           "hideoutName": "Refiner",
           "level": 3,
           "quantity": 10
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s5",
+          "projectName": "Expedition (Season 5)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 20
         }
       ]
     },
@@ -1120,6 +1147,13 @@
           "projectName": "Trophy Display",
           "phase": 3,
           "phaseName": "Ferocious Foes",
+          "quantity": 5
+        },
+        {
+          "projectId": "expedition_project_s5",
+          "projectName": "Expedition (Season 5)",
+          "phase": 3,
+          "phaseName": "Framework",
           "quantity": 5
         }
       ]
@@ -3185,7 +3219,16 @@
       "stackSize": 15,
       "recyclesInto": {
         "fabric": 3
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s5",
+          "projectName": "Expedition (Season 5)",
+          "phase": 2,
+          "phaseName": "Core Systems",
+          "quantity": 25
+        }
+      ]
     },
     {
       "id": "durable_cloth",
@@ -3222,6 +3265,15 @@
           "hideoutName": "Medical Lab",
           "level": 2,
           "quantity": 5
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s5",
+          "projectName": "Expedition (Season 5)",
+          "phase": 2,
+          "phaseName": "Core Systems",
+          "quantity": 30
         }
       ]
     },
@@ -5809,7 +5861,16 @@
       "rarity": "Epic",
       "value": 10000,
       "weightKg": 0.2,
-      "stackSize": 3
+      "stackSize": 3,
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s5",
+          "projectName": "Expedition (Season 5)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 2
+        }
+      ]
     },
     {
       "id": "launcher_ammo",
@@ -6332,7 +6393,16 @@
       "stackSize": 15,
       "recyclesInto": {
         "metal_parts": 2
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s5",
+          "projectName": "Expedition (Season 5)",
+          "phase": 1,
+          "phaseName": "Foundation",
+          "quantity": 15
+        }
+      ]
     },
     {
       "id": "magnetic_accelerator",
@@ -6362,6 +6432,13 @@
           "phase": 4,
           "phaseName": "Dominant Dangers",
           "quantity": 10
+        },
+        {
+          "projectId": "expedition_project_s5",
+          "projectName": "Expedition (Season 5)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 3
         }
       ]
     },
@@ -6496,6 +6573,15 @@
           "level": 2,
           "quantity": 5
         }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s5",
+          "projectName": "Expedition (Season 5)",
+          "phase": 2,
+          "phaseName": "Core Systems",
+          "quantity": 20
+        }
       ]
     },
     {
@@ -6615,6 +6701,15 @@
           "hideoutName": "Gunsmith",
           "level": 1,
           "quantity": 20
+        }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s5",
+          "projectName": "Expedition (Season 5)",
+          "phase": 1,
+          "phaseName": "Foundation",
+          "quantity": 150
         }
       ]
     },
@@ -7278,6 +7373,15 @@
           "level": 1,
           "quantity": 50
         }
+      ],
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s5",
+          "projectName": "Expedition (Season 5)",
+          "phase": 1,
+          "phaseName": "Foundation",
+          "quantity": 100
+        }
       ]
     },
     {
@@ -7673,7 +7777,16 @@
       "recyclesInto": {
         "sensors": 1,
         "speaker_component": 1
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s5",
+          "projectName": "Expedition (Season 5)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 2
+        }
+      ]
     },
     {
       "id": "raider_flag",
@@ -8443,6 +8556,13 @@
           "phase": 4,
           "phaseName": "Dominant Dangers",
           "quantity": 8
+        },
+        {
+          "projectId": "expedition_project_s5",
+          "projectName": "Expedition (Season 5)",
+          "phase": 4,
+          "phaseName": "Outfitting",
+          "quantity": 3
         }
       ]
     },
@@ -9494,7 +9614,16 @@
       "recyclesInto": {
         "plastic_parts": 2,
         "rubber_parts": 3
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s5",
+          "projectName": "Expedition (Season 5)",
+          "phase": 3,
+          "phaseName": "Framework",
+          "quantity": 15
+        }
+      ]
     },
     {
       "id": "spectrometer",
@@ -11378,7 +11507,16 @@
       "recyclesInto": {
         "rubber_parts": 1,
         "wires": 1
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "expedition_project_s5",
+          "projectName": "Expedition (Season 5)",
+          "phase": 2,
+          "phaseName": "Core Systems",
+          "quantity": 10
+        }
+      ]
     },
     {
       "id": "vulcano_blueprint",
