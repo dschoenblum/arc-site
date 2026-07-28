@@ -168,16 +168,7 @@
       "rarity": "Uncommon",
       "value": 2000,
       "weightKg": 0.3,
-      "stackSize": 5,
-      "projectsRequiredFor": [
-        {
-          "projectId": "converging_paths_project",
-          "projectName": "Converging Paths",
-          "phase": 2,
-          "phaseName": "Collect Supplies",
-          "quantity": 2
-        }
-      ]
+      "stackSize": 5
     },
     {
       "id": "alarm_clock",
@@ -701,16 +692,7 @@
       "stackSize": 3,
       "recyclesInto": {
         "chemicals": 16
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "converging_paths_project",
-          "projectName": "Converging Paths",
-          "phase": 4,
-          "phaseName": "Create Emergency Caches",
-          "quantity": 9
-        }
-      ]
+      }
     },
     {
       "id": "arc_flex_rubber",
@@ -772,13 +754,6 @@
           "phase": 3,
           "phaseName": "Ferocious Foes",
           "quantity": 10
-        },
-        {
-          "projectId": "converging_paths_project",
-          "projectName": "Converging Paths",
-          "phase": 3,
-          "phaseName": "Procure Relics",
-          "quantity": 7
         }
       ]
     },
@@ -831,13 +806,6 @@
           "phase": 4,
           "phaseName": "Dominant Dangers",
           "quantity": 10
-        },
-        {
-          "projectId": "converging_paths_project",
-          "projectName": "Converging Paths",
-          "phase": 5,
-          "phaseName": "Finish the Cabinet of Curiosities",
-          "quantity": 10
         }
       ]
     },
@@ -852,16 +820,7 @@
       "stackSize": 3,
       "recyclesInto": {
         "fabric": 16
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "converging_paths_project",
-          "projectName": "Converging Paths",
-          "phase": 2,
-          "phaseName": "Collect Supplies",
-          "quantity": 6
-        }
-      ]
+      }
     },
     {
       "id": "arpeggio_i",
@@ -2322,16 +2281,7 @@
       "type": "Trinket",
       "rarity": "Epic",
       "value": 7000,
-      "stackSize": 1,
-      "projectsRequiredFor": [
-        {
-          "projectId": "converging_paths_project",
-          "projectName": "Converging Paths",
-          "phase": 5,
-          "phaseName": "Finish the Cabinet of Curiosities",
-          "quantity": 3
-        }
-      ]
+      "stackSize": 1
     },
     {
       "id": "colorful_shoes_red",
@@ -2340,16 +2290,7 @@
       "type": "Trinket",
       "rarity": "Rare",
       "value": 3000,
-      "stackSize": 1,
-      "projectsRequiredFor": [
-        {
-          "projectId": "converging_paths_project",
-          "projectName": "Converging Paths",
-          "phase": 5,
-          "phaseName": "Finish the Cabinet of Curiosities",
-          "quantity": 6
-        }
-      ]
+      "stackSize": 1
     },
     {
       "id": "colorful_shoes_silver",
@@ -2358,16 +2299,7 @@
       "type": "Trinket",
       "rarity": "Legendary",
       "value": 10000,
-      "stackSize": 1,
-      "projectsRequiredFor": [
-        {
-          "projectId": "converging_paths_project",
-          "projectName": "Converging Paths",
-          "phase": 5,
-          "phaseName": "Finish the Cabinet of Curiosities",
-          "quantity": 2
-        }
-      ]
+      "stackSize": 1
     },
     {
       "id": "combat_mk1",
@@ -3342,16 +3274,7 @@
       "type": "Trinket",
       "rarity": "Legendary",
       "value": 10000,
-      "stackSize": 1,
-      "projectsRequiredFor": [
-        {
-          "projectId": "converging_paths_project",
-          "projectName": "Converging Paths",
-          "phase": 4,
-          "phaseName": "Create Emergency Caches",
-          "quantity": 1
-        }
-      ]
+      "stackSize": 1
     },
     {
       "id": "empty_wine_bottle",
@@ -3434,16 +3357,7 @@
       "type": "Trinket",
       "rarity": "Rare",
       "value": 3000,
-      "stackSize": 1,
-      "projectsRequiredFor": [
-        {
-          "projectId": "converging_paths_project",
-          "projectName": "Converging Paths",
-          "phase": 3,
-          "phaseName": "Procure Relics",
-          "quantity": 3
-        }
-      ]
+      "stackSize": 1
     },
     {
       "id": "espresso_machine_parts",
@@ -6036,16 +5950,7 @@
       "rarity": "Uncommon",
       "value": 2000,
       "weightKg": 0.2,
-      "stackSize": 3,
-      "projectsRequiredFor": [
-        {
-          "projectId": "converging_paths_project",
-          "projectName": "Converging Paths",
-          "phase": 4,
-          "phaseName": "Create Emergency Caches",
-          "quantity": 6
-        }
-      ]
+      "stackSize": 3
     },
     {
       "id": "light_gun_parts_blueprint",
@@ -6669,16 +6574,7 @@
       "stackSize": 3,
       "recyclesInto": {
         "metal_parts": 8
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "converging_paths_project",
-          "projectName": "Converging Paths",
-          "phase": 3,
-          "phaseName": "Procure Relics",
-          "quantity": 5
-        }
-      ]
+      }
     },
     {
       "id": "metal_parts",
@@ -9008,16 +8904,7 @@
       "type": "Trinket",
       "rarity": "Uncommon",
       "value": 2000,
-      "stackSize": 1,
-      "projectsRequiredFor": [
-        {
-          "projectId": "converging_paths_project",
-          "projectName": "Converging Paths",
-          "phase": 3,
-          "phaseName": "Procure Relics",
-          "quantity": 4
-        }
-      ]
+      "stackSize": 1
     },
     {
       "id": "shaker",
@@ -10486,16 +10373,7 @@
       "type": "Trinket",
       "rarity": "Epic",
       "value": 7000,
-      "stackSize": 1,
-      "projectsRequiredFor": [
-        {
-          "projectId": "converging_paths_project",
-          "projectName": "Converging Paths",
-          "phase": 4,
-          "phaseName": "Create Emergency Caches",
-          "quantity": 3
-        }
-      ]
+      "stackSize": 1
     },
     {
       "id": "tempest_blueprint",
@@ -10979,16 +10857,7 @@
       "type": "Trinket",
       "rarity": "Common",
       "value": 1000,
-      "stackSize": 1,
-      "projectsRequiredFor": [
-        {
-          "projectId": "converging_paths_project",
-          "projectName": "Converging Paths",
-          "phase": 2,
-          "phaseName": "Collect Supplies",
-          "quantity": 3
-        }
-      ]
+      "stackSize": 1
     },
     {
       "id": "trigger_nade_blueprint",
@@ -11405,16 +11274,7 @@
       "type": "Trinket",
       "rarity": "Uncommon",
       "value": 2000,
-      "stackSize": 1,
-      "projectsRequiredFor": [
-        {
-          "projectId": "converging_paths_project",
-          "projectName": "Converging Paths",
-          "phase": 2,
-          "phaseName": "Collect Supplies",
-          "quantity": 2
-        }
-      ]
+      "stackSize": 1
     },
     {
       "id": "vita_shot_blueprint",
