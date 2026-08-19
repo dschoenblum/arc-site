@@ -53,7 +53,16 @@
       "stackSize": 5,
       "recyclesInto": {
         "arc_powercell": 2
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "phantom_targets_part_2_project",
+          "projectName": "Phantom Targets",
+          "phase": 1,
+          "phaseName": "Bring In Glitched Wasp Parts for Testing",
+          "quantity": 10
+        }
+      ]
     },
     {
       "id": "advanced_electrical_components",
@@ -678,6 +687,13 @@
           "phase": 3,
           "phaseName": "Framework",
           "quantity": 20
+        },
+        {
+          "projectId": "phantom_targets_part_2_project",
+          "projectName": "Phantom Targets",
+          "phase": 2,
+          "phaseName": "Perform Final Tests on Glitched Wasp Parts",
+          "quantity": 10
         }
       ]
     },
@@ -820,7 +836,16 @@
       "stackSize": 3,
       "recyclesInto": {
         "fabric": 16
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "phantom_targets_part_2_project",
+          "projectName": "Phantom Targets",
+          "phase": 2,
+          "phaseName": "Perform Final Tests on Glitched Wasp Parts",
+          "quantity": 10
+        }
+      ]
     },
     {
       "id": "arpeggio_i",
@@ -2290,7 +2315,7 @@
       "type": "Trinket",
       "rarity": "Rare",
       "value": 3000,
-      "stackSize": 1
+      "stackSize": 3
     },
     {
       "id": "colorful_shoes_silver",
@@ -3357,7 +3382,7 @@
       "type": "Trinket",
       "rarity": "Rare",
       "value": 3000,
-      "stackSize": 1
+      "stackSize": 3
     },
     {
       "id": "espresso_machine_parts",
@@ -4582,6 +4607,120 @@
       "value": 1000,
       "weightKg": 0.3,
       "stackSize": 15
+    },
+    {
+      "id": "glitched_arc_circuitry",
+      "name": "Glitched ARC Circuitry",
+      "imageFilename": "v2/glitched_arc_circuitry.png",
+      "type": "Recyclable",
+      "rarity": "Legendary",
+      "value": 5000,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "recyclesInto": {
+        "arc_alloy": 6,
+        "exodus_modules": 1
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "phantom_targets_part_2_project",
+          "projectName": "Phantom Targets",
+          "phase": 2,
+          "phaseName": "Perform Final Tests on Glitched Wasp Parts",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "glitched_arc_light_ring",
+      "name": "Glitched ARC Light Ring",
+      "imageFilename": "v2/glitched_arc_light_ring.png",
+      "type": "Recyclable",
+      "rarity": "Epic",
+      "value": 3000,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "recyclesInto": {
+        "advanced_electrical_components": 1,
+        "arc_alloy": 3
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "phantom_targets_part_2_project",
+          "projectName": "Phantom Targets",
+          "phase": 2,
+          "phaseName": "Perform Final Tests on Glitched Wasp Parts",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "glitched_arc_phased_array",
+      "name": "Glitched ARC Phased Array",
+      "imageFilename": "v2/glitched_arc_phased_array.png",
+      "type": "Recyclable",
+      "rarity": "Rare",
+      "value": 2000,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "recyclesInto": {
+        "arc_alloy": 3,
+        "sensors": 2
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "phantom_targets_part_2_project",
+          "projectName": "Phantom Targets",
+          "phase": 1,
+          "phaseName": "Bring In Glitched Wasp Parts for Testing",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "glitched_arc_power_converter",
+      "name": "Glitched ARC Power Converter",
+      "imageFilename": "v2/glitched_arc_power_converter.png",
+      "type": "Recyclable",
+      "rarity": "Common",
+      "value": 640,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "recyclesInto": {
+        "arc_alloy": 3
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "phantom_targets_part_2_project",
+          "projectName": "Phantom Targets",
+          "phase": 1,
+          "phaseName": "Bring In Glitched Wasp Parts for Testing",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "glitched_arc_transmitter",
+      "name": "Glitched ARC Transmitter",
+      "imageFilename": "v2/glitched_arc_transmitter.png",
+      "type": "Recyclable",
+      "rarity": "Uncommon",
+      "value": 1000,
+      "weightKg": 0.5,
+      "stackSize": 1,
+      "recyclesInto": {
+        "arc_alloy": 1,
+        "electrical_components": 1
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "phantom_targets_part_2_project",
+          "projectName": "Phantom Targets",
+          "phase": 1,
+          "phaseName": "Bring In Glitched Wasp Parts for Testing",
+          "quantity": 10
+        }
+      ]
     },
     {
       "id": "great_mullein",
@@ -8904,7 +9043,7 @@
       "type": "Trinket",
       "rarity": "Uncommon",
       "value": 2000,
-      "stackSize": 1
+      "stackSize": 5
     },
     {
       "id": "shaker",
@@ -10857,7 +10996,7 @@
       "type": "Trinket",
       "rarity": "Common",
       "value": 1000,
-      "stackSize": 1
+      "stackSize": 10
     },
     {
       "id": "trigger_nade_blueprint",
@@ -11274,7 +11413,7 @@
       "type": "Trinket",
       "rarity": "Uncommon",
       "value": 2000,
-      "stackSize": 1
+      "stackSize": 5
     },
     {
       "id": "vita_shot_blueprint",
