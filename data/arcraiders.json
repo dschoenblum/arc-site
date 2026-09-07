@@ -53,16 +53,7 @@
       "stackSize": 5,
       "recyclesInto": {
         "arc_powercell": 2
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "phantom_targets_part_2_project",
-          "projectName": "Phantom Targets",
-          "phase": 1,
-          "phaseName": "Bring In Glitched Wasp Parts for Testing",
-          "quantity": 10
-        }
-      ]
+      }
     },
     {
       "id": "advanced_electrical_components",
@@ -687,13 +678,6 @@
           "phase": 3,
           "phaseName": "Framework",
           "quantity": 20
-        },
-        {
-          "projectId": "phantom_targets_part_2_project",
-          "projectName": "Phantom Targets",
-          "phase": 2,
-          "phaseName": "Perform Final Tests on Glitched Wasp Parts",
-          "quantity": 10
         }
       ]
     },
@@ -836,16 +820,7 @@
       "stackSize": 3,
       "recyclesInto": {
         "fabric": 16
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "phantom_targets_part_2_project",
-          "projectName": "Phantom Targets",
-          "phase": 2,
-          "phaseName": "Perform Final Tests on Glitched Wasp Parts",
-          "quantity": 10
-        }
-      ]
+      }
     },
     {
       "id": "arpeggio_i",
@@ -4620,16 +4595,7 @@
       "recyclesInto": {
         "arc_alloy": 6,
         "exodus_modules": 1
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "phantom_targets_part_2_project",
-          "projectName": "Phantom Targets",
-          "phase": 2,
-          "phaseName": "Perform Final Tests on Glitched Wasp Parts",
-          "quantity": 10
-        }
-      ]
+      }
     },
     {
       "id": "glitched_arc_light_ring",
@@ -4643,16 +4609,7 @@
       "recyclesInto": {
         "advanced_electrical_components": 1,
         "arc_alloy": 3
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "phantom_targets_part_2_project",
-          "projectName": "Phantom Targets",
-          "phase": 2,
-          "phaseName": "Perform Final Tests on Glitched Wasp Parts",
-          "quantity": 10
-        }
-      ]
+      }
     },
     {
       "id": "glitched_arc_phased_array",
@@ -4666,16 +4623,7 @@
       "recyclesInto": {
         "arc_alloy": 3,
         "sensors": 2
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "phantom_targets_part_2_project",
-          "projectName": "Phantom Targets",
-          "phase": 1,
-          "phaseName": "Bring In Glitched Wasp Parts for Testing",
-          "quantity": 10
-        }
-      ]
+      }
     },
     {
       "id": "glitched_arc_power_converter",
@@ -4688,16 +4636,7 @@
       "stackSize": 1,
       "recyclesInto": {
         "arc_alloy": 3
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "phantom_targets_part_2_project",
-          "projectName": "Phantom Targets",
-          "phase": 1,
-          "phaseName": "Bring In Glitched Wasp Parts for Testing",
-          "quantity": 10
-        }
-      ]
+      }
     },
     {
       "id": "glitched_arc_transmitter",
@@ -4711,16 +4650,7 @@
       "recyclesInto": {
         "arc_alloy": 1,
         "electrical_components": 1
-      },
-      "projectsRequiredFor": [
-        {
-          "projectId": "phantom_targets_part_2_project",
-          "projectName": "Phantom Targets",
-          "phase": 1,
-          "phaseName": "Bring In Glitched Wasp Parts for Testing",
-          "quantity": 10
-        }
-      ]
+      }
     },
     {
       "id": "great_mullein",
