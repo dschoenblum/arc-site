@@ -321,7 +321,8 @@
       "type": "Design",
       "rarity": "Epic",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "amplification_module_mk_i",
@@ -1756,7 +1757,8 @@
       "type": "Design",
       "rarity": "Epic",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "arpeggio_i",
@@ -2183,7 +2185,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "barricade_kit",
@@ -2233,7 +2236,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "base_room",
@@ -2344,7 +2348,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "battered_bureau_chair",
@@ -2364,7 +2369,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "battered_bureau_sofa",
@@ -2384,7 +2390,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "battered_den_bed",
@@ -2445,7 +2452,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "battered_faculty_table",
@@ -2465,7 +2473,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "battered_lab_cabinet",
@@ -2485,7 +2494,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "battered_lab_cabinet_wide",
@@ -2505,7 +2515,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "battered_lab_chair",
@@ -2525,7 +2536,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "battered_paperback",
@@ -2564,7 +2576,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "battered_stash",
@@ -3165,7 +3178,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "blue_light_stick",
@@ -3706,7 +3720,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "bureau_desk_lamp",
@@ -4254,7 +4269,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "calculator",
@@ -4820,7 +4836,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "chambers_nightstand",
@@ -4840,7 +4857,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "chambers_shelf",
@@ -4880,7 +4898,8 @@
       "type": "Design",
       "rarity": "Legendary",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "chemicals",
@@ -4936,7 +4955,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "coffee_pot",
@@ -5306,7 +5326,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "coolant",
@@ -5831,7 +5852,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "diner_cupboard",
@@ -5851,7 +5873,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "diner_shelf",
@@ -5871,7 +5894,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "diner_sofa",
@@ -5891,7 +5915,8 @@
       "type": "Design",
       "rarity": "Epic",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "diner_stool",
@@ -5911,7 +5936,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "diner_table",
@@ -5931,7 +5957,8 @@
       "type": "Design",
       "rarity": "Epic",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "diving_goggles",
@@ -7354,7 +7381,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "faculty_dresser",
@@ -7374,7 +7402,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "faded_photograph",
@@ -7855,7 +7884,8 @@
       "type": "Design",
       "rarity": "Epic",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "flow_controller",
@@ -8245,7 +8275,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "glass_ceiling_lamp",
@@ -8265,7 +8296,8 @@
       "type": "Design",
       "rarity": "Epic",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "glitched_arc_circuitry",
@@ -8421,7 +8453,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "green_geometric_sofa",
@@ -8441,7 +8474,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "green_lab_sofa",
@@ -8461,7 +8495,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "green_light_stick",
@@ -9033,7 +9068,8 @@
       "type": "Design",
       "rarity": "Epic",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "horizontal_grip",
@@ -9134,7 +9170,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "household_cleaner",
@@ -10630,7 +10667,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "lab_stool",
@@ -10650,7 +10688,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "laboratory_reagents",
@@ -12002,7 +12041,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "mushroom",
@@ -12356,7 +12396,8 @@
       "type": "Design",
       "rarity": "Epic",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "osprey_amplified",
@@ -13066,7 +13107,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "polished_faculty_chair",
@@ -13086,7 +13128,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "polished_faculty_table",
@@ -13106,7 +13149,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "polished_round_sofa",
@@ -13126,7 +13170,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "polished_stash",
@@ -13166,7 +13211,8 @@
       "type": "Design",
       "rarity": "Epic",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "polished_wardrobe",
@@ -13186,7 +13232,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "polished_weapon_rack",
@@ -13538,7 +13585,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "printed_lab_sofa",
@@ -13558,7 +13606,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "processor",
@@ -14673,7 +14722,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "reinforced_reception_security_code",
@@ -15058,7 +15108,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "resin",
@@ -15088,7 +15139,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "ripped_safety_vest",
@@ -15811,7 +15863,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "seed_vault_box_key",
@@ -16539,7 +16592,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "smoke_grenade",
@@ -16737,7 +16791,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "spaceport_container_storage_key",
@@ -17534,7 +17589,8 @@
       "type": "Design",
       "rarity": "Legendary",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "study_ceiling_lamp",
@@ -17554,7 +17610,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "study_piano",
@@ -17574,7 +17631,8 @@
       "type": "Design",
       "rarity": "Legendary",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "study_tv_stand",
@@ -17594,7 +17652,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "sturdy_aviary_table",
@@ -17614,7 +17673,8 @@
       "type": "Design",
       "rarity": "Epic",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "sturdy_bureau_chair",
@@ -17634,7 +17694,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "sturdy_bureau_sofa",
@@ -17654,7 +17715,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "sturdy_den_bed",
@@ -17714,7 +17776,8 @@
       "type": "Design",
       "rarity": "Rare",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "sturdy_faculty_table",
@@ -17734,7 +17797,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "sturdy_lab_cabinet",
@@ -17754,7 +17818,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "sturdy_lab_cabinet_wide",
@@ -17774,7 +17839,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "sturdy_lab_chair",
@@ -17794,7 +17860,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "sturdy_shelf",
@@ -17814,7 +17881,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "sturdy_stash",
@@ -17854,7 +17922,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "sturdy_weapon_rack",
@@ -19016,7 +19085,8 @@
       "type": "Design",
       "rarity": "Epic",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "turbine_compressor",
@@ -19374,7 +19444,8 @@
       "type": "Design",
       "rarity": "Epic",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "verdigris",
@@ -19842,7 +19913,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "warehouse_desk",
@@ -19862,7 +19934,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "warehouse_dresser",
@@ -19882,7 +19955,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "wasp_driver",
@@ -19970,7 +20044,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "weather_station_table",
@@ -19990,7 +20065,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "white_flag",
@@ -20053,7 +20129,8 @@
       "type": "Design",
       "rarity": "Uncommon",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "wires",
@@ -20189,7 +20266,8 @@
       "type": "Design",
       "rarity": "Common",
       "value": 5000,
-      "stackSize": 1
+      "stackSize": 1,
+      "lootDrop": true
     },
     {
       "id": "yank_grenade",
