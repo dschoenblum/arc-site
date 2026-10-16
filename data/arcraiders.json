@@ -1407,14 +1407,6 @@
           "quantity": 5
         },
         {
-          "researchId": "looting_mk3_survivor_blueprint",
-          "researchName": "Looting Mk. 3 (Survivor) Blueprint",
-          "category": "blueprints",
-          "level": 3,
-          "points": 3000,
-          "quantity": 5
-        },
-        {
           "researchId": "lure_grenade_blueprint",
           "researchName": "Lure Grenade Blueprint",
           "category": "blueprints",
@@ -1433,14 +1425,6 @@
         {
           "researchId": "tactical_mk3_revival_blueprint",
           "researchName": "Tactical Mk. 3 (Revival) Blueprint",
-          "category": "blueprints",
-          "level": 3,
-          "points": 3000,
-          "quantity": 5
-        },
-        {
-          "researchId": "tactical_mk3_smoke_blueprint",
-          "researchName": "Tactical Mk. 3 (Smoke) Blueprint",
           "category": "blueprints",
           "level": 3,
           "points": 3000,
@@ -7650,14 +7634,6 @@
       ],
       "researchRequiredFor": [
         {
-          "researchId": "blaze_grenade",
-          "researchName": "Blaze Grenade",
-          "category": "other",
-          "level": 2,
-          "points": 2000,
-          "quantity": 3
-        },
-        {
           "researchId": "targeted_component_trial",
           "researchName": "Targeted Component Trial",
           "category": "weapon_research",
@@ -9848,17 +9824,7 @@
       "stackSize": 3,
       "recyclesInto": {
         "chemicals": 12
-      },
-      "researchRequiredFor": [
-        {
-          "researchId": "blaze_grenade",
-          "researchName": "Blaze Grenade",
-          "category": "other",
-          "level": 2,
-          "points": 2000,
-          "quantity": 5
-        }
-      ]
+      }
     },
     {
       "id": "industrial_battery",
@@ -10732,14 +10698,6 @@
         "steel_spring": 2
       },
       "researchRequiredFor": [
-        {
-          "researchId": "battered_aviary_table",
-          "researchName": "Battered Aviary Table",
-          "category": "other",
-          "level": 3,
-          "points": 1500,
-          "quantity": 1
-        },
         {
           "researchId": "diner_shelf_design",
           "researchName": "Diner Shelf Design",
@@ -16603,17 +16561,7 @@
       "craftBench": [
         "utility_bench"
       ],
-      "stationLevelRequired": 2,
-      "researchRequiredFor": [
-        {
-          "researchId": "tactical_mk3_smoke_blueprint",
-          "researchName": "Tactical Mk. 3 (Smoke) Blueprint",
-          "category": "blueprints",
-          "level": 3,
-          "points": 3000,
-          "quantity": 5
-        }
-      ]
+      "stationLevelRequired": 2
     },
     {
       "id": "smoke_grenade_blueprint",
@@ -18094,14 +18042,6 @@
           "level": 2,
           "points": 2000,
           "quantity": 3
-        },
-        {
-          "researchId": "looting_mk3_survivor_blueprint",
-          "researchName": "Looting Mk. 3 (Survivor) Blueprint",
-          "category": "blueprints",
-          "level": 3,
-          "points": 3000,
-          "quantity": 2
         },
         {
           "researchId": "vita_shot_blueprint",
