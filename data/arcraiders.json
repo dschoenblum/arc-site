@@ -53,7 +53,17 @@
         "in_raid",
         "med_station"
       ],
-      "stationLevelRequired": 1
+      "stationLevelRequired": 1,
+      "researchRequiredFor": [
+        {
+          "researchId": "defibrillator_blueprint",
+          "researchName": "Defibrillator Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "advanced_arc_powercell",
@@ -66,7 +76,25 @@
       "stackSize": 5,
       "recyclesInto": {
         "arc_powercell": 2
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "jolt_mine_blueprint",
+          "researchName": "Jolt Mine Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 3
+        },
+        {
+          "researchId": "tactical_mk3_defensive_blueprint",
+          "researchName": "Tactical Mk. 3 (Defensive) Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 2
+        }
+      ]
     },
     {
       "id": "advanced_camera",
@@ -143,6 +171,16 @@
           "phaseName": "Gather building materials",
           "quantity": 3
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "powered_descender_blueprint",
+          "researchName": "Powered Descender Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 1
+        }
       ]
     },
     {
@@ -172,6 +210,32 @@
           "hideoutName": "Gunsmith",
           "level": 3,
           "quantity": 5
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "complex_gun_parts_blueprint",
+          "researchName": "Complex Gun Parts Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 1
+        },
+        {
+          "researchId": "silencer_ii_blueprint",
+          "researchName": "Silencer II Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 1
+        },
+        {
+          "researchId": "vertical_grip_iii_blueprint",
+          "researchName": "Vertical Grip III Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 1
         }
       ]
     },
@@ -465,6 +529,24 @@
           "hideoutName": "Medical Lab",
           "level": 3,
           "quantity": 8
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "tactical_mk3_revival_blueprint",
+          "researchName": "Tactical Mk. 3 (Revival) Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 3
+        },
+        {
+          "researchId": "vita_spray_blueprint",
+          "researchName": "Vita Spray Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 5
         }
       ]
     },
@@ -1258,6 +1340,16 @@
           "phaseName": "Gather building materials",
           "quantity": 10
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "rascal_blueprint",
+          "researchName": "Rascal Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 3000,
+          "quantity": 15
+        }
       ]
     },
     {
@@ -1295,6 +1387,64 @@
           "hideoutName": "Refiner",
           "level": 3,
           "quantity": 10
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "combat_mk3_flanking_blueprint",
+          "researchName": "Combat Mk. 3 (Flanking) Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 5
+        },
+        {
+          "researchId": "looting_mk3_safekeeper_blueprint",
+          "researchName": "Looting Mk. 3 (Safekeeper) Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 5
+        },
+        {
+          "researchId": "looting_mk3_survivor_blueprint",
+          "researchName": "Looting Mk. 3 (Survivor) Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 5
+        },
+        {
+          "researchId": "lure_grenade_blueprint",
+          "researchName": "Lure Grenade Blueprint",
+          "category": "blueprints",
+          "level": 1,
+          "points": 1000,
+          "quantity": 6
+        },
+        {
+          "researchId": "tactical_mk3_defensive_blueprint",
+          "researchName": "Tactical Mk. 3 (Defensive) Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 5
+        },
+        {
+          "researchId": "tactical_mk3_revival_blueprint",
+          "researchName": "Tactical Mk. 3 (Revival) Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 5
+        },
+        {
+          "researchId": "tactical_mk3_smoke_blueprint",
+          "researchName": "Tactical Mk. 3 (Smoke) Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 5
         }
       ]
     },
@@ -1347,6 +1497,7 @@
           "hideoutId": "research_station",
           "hideoutName": "Research Station",
           "level": 4,
+          "outpostRooms": 4,
           "quantity": 3
         }
       ]
@@ -1362,7 +1513,33 @@
       "stackSize": 3,
       "recyclesInto": {
         "rubber_parts": 16
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "angled_grip_ii_blueprint",
+          "researchName": "Angled Grip II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 3000,
+          "quantity": 5
+        },
+        {
+          "researchId": "stable_stock_ii_blueprint",
+          "researchName": "Stable Stock II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
+        },
+        {
+          "researchId": "vertical_grip_ii_blueprint",
+          "researchName": "Vertical Grip II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "arc_insulated_coupler",
@@ -1409,6 +1586,16 @@
           "level": 2,
           "quantity": 5
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "vertical_grip_iii_blueprint",
+          "researchName": "Vertical Grip III Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 6
+        }
       ]
     },
     {
@@ -1440,6 +1627,16 @@
           "phase": 3,
           "phaseName": "Ferocious Foes",
           "quantity": 10
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "silencer_ii_blueprint",
+          "researchName": "Silencer II Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 5
         }
       ]
     },
@@ -2122,6 +2319,27 @@
           "phaseName": "Ferocious Foes",
           "quantity": 5
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "magazine_geometry_101",
+          "researchName": "Magazine Geometry 101",
+          "category": "weapon_research",
+          "level": 4,
+          "points": 5000,
+          "questIds": [
+            "magazine_geometry_101"
+          ],
+          "quantity": 5
+        },
+        {
+          "researchId": "torrente_blueprint",
+          "researchName": "Torrente Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 3000,
+          "quantity": 3
+        }
       ]
     },
     {
@@ -2339,6 +2557,7 @@
           "hideoutId": "research_station",
           "hideoutName": "Research Station",
           "level": 1,
+          "outpostRooms": 1,
           "quantity": 5
         }
       ]
@@ -2443,6 +2662,16 @@
           "questOrder": 32,
           "mapNames": [],
           "quantity": 1
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "surge_coil_blueprint",
+          "researchName": "Surge Coil Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 10
         }
       ]
     },
@@ -3240,6 +3469,35 @@
           "phaseName": "Imposing Behemoths",
           "quantity": 8
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "compact_combustion_charges",
+          "researchName": "Compact Combustion Charges",
+          "category": "weapon_research",
+          "level": 4,
+          "points": 5000,
+          "questIds": [
+            "compact_combustion_charges"
+          ],
+          "quantity": 5
+        },
+        {
+          "researchId": "hullcracker_blueprint",
+          "researchName": "Hullcracker Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 4500,
+          "quantity": 5
+        },
+        {
+          "researchId": "rascal_blueprint",
+          "researchName": "Rascal Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 3000,
+          "quantity": 2
+        }
       ]
     },
     {
@@ -3285,7 +3543,33 @@
       "recyclesInto": {
         "battery": 2,
         "metal_parts": 6
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "bureau_ceiling_lamp_design",
+          "researchName": "Bureau Ceiling Lamp Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 1
+        },
+        {
+          "researchId": "chambers_lamp_design",
+          "researchName": "Chambers Lamp Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 1
+        },
+        {
+          "researchId": "lab_ceiling_light_design",
+          "researchName": "Lab Ceiling Light Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "broken_guidance_system",
@@ -3298,7 +3582,17 @@
       "stackSize": 3,
       "recyclesInto": {
         "processor": 4
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "tagging_grenade_blueprint",
+          "researchName": "Tagging Grenade Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 2
+        }
+      ]
     },
     {
       "id": "broken_handheld_radio",
@@ -3326,7 +3620,25 @@
       "recyclesInto": {
         "battery": 2,
         "wires": 2
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "diner_ceiling_lamp_design",
+          "researchName": "Diner Ceiling Lamp Design",
+          "category": "designs",
+          "level": 3,
+          "points": 1500,
+          "quantity": 3
+        },
+        {
+          "researchId": "study_ceiling_lamp_design",
+          "researchName": "Study Ceiling Lamp Design",
+          "category": "designs",
+          "level": 3,
+          "points": 1500,
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "bronze_statuette",
@@ -3368,7 +3680,18 @@
           "hideoutId": "research_station",
           "hideoutName": "Research Station",
           "level": 3,
+          "outpostRooms": 3,
           "quantity": 6
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "anvil_blueprint",
+          "researchName": "Anvil Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 3000,
+          "quantity": 5
         }
       ]
     },
@@ -3916,7 +4239,17 @@
       "stackSize": 15,
       "recyclesInto": {
         "metal_parts": 2
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "faculty_dresser_design",
+          "researchName": "Faculty Dresser Design",
+          "category": "designs",
+          "level": 3,
+          "points": 1500,
+          "quantity": 2
+        }
+      ]
     },
     {
       "id": "cafeteria_table",
@@ -3957,6 +4290,7 @@
           "hideoutId": "research_station",
           "hideoutName": "Research Station",
           "level": 2,
+          "outpostRooms": 2,
           "quantity": 3
         }
       ]
@@ -3972,7 +4306,17 @@
       "stackSize": 5,
       "recyclesInto": {
         "plastic_parts": 8
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "osprey_blueprint",
+          "researchName": "Osprey Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 3000,
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "candle_holder",
@@ -3998,7 +4342,17 @@
       "stackSize": 10,
       "recyclesInto": {
         "assorted_seeds": 2
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "holly_bush_design",
+          "researchName": "Holly Bush Design",
+          "category": "designs",
+          "level": 3,
+          "points": 2000,
+          "quantity": 20
+        }
+      ]
     },
     {
       "id": "canister",
@@ -4011,7 +4365,25 @@
       "stackSize": 15,
       "recyclesInto": {
         "plastic_parts": 3
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "extended_medium_mag_ii_blueprint",
+          "researchName": "Extended Medium Mag II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 3
+        },
+        {
+          "researchId": "looting_mk3_safekeeper_blueprint",
+          "researchName": "Looting Mk. 3 (Safekeeper) Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "canto_amplified",
@@ -4542,6 +4914,24 @@
           "level": 1,
           "quantity": 50
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "remote_raider_flare_blueprint",
+          "researchName": "Remote Raider Flare Blueprint",
+          "category": "blueprints",
+          "level": 1,
+          "points": 500,
+          "quantity": 25
+        },
+        {
+          "researchId": "vita_spray_blueprint",
+          "researchName": "Vita Spray Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 50
+        }
       ]
     },
     {
@@ -4732,6 +5122,35 @@
           "mapNames": [],
           "quantity": 3
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "deadline_blueprint",
+          "researchName": "Deadline Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 5
+        },
+        {
+          "researchId": "explosive_mine_blueprint",
+          "researchName": "Explosive Mine Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 3
+        },
+        {
+          "researchId": "extended_burst_cycles",
+          "researchName": "Extended Burst Cycles",
+          "category": "weapon_research",
+          "level": 4,
+          "points": 5000,
+          "questIds": [
+            "extended_burst_cycles"
+          ],
+          "quantity": 10
+        }
       ]
     },
     {
@@ -4847,7 +5266,33 @@
       "craftBench": [
         "refiner"
       ],
-      "stationLevelRequired": 3
+      "stationLevelRequired": 3,
+      "researchRequiredFor": [
+        {
+          "researchId": "bettina_blueprint",
+          "researchName": "Bettina Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 4500,
+          "quantity": 1
+        },
+        {
+          "researchId": "complex_gun_parts_blueprint",
+          "researchName": "Complex Gun Parts Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 2
+        },
+        {
+          "researchId": "hullcracker_blueprint",
+          "researchName": "Hullcracker Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 4500,
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "complex_gun_parts_blueprint",
@@ -4905,7 +5350,25 @@
       "recyclesInto": {
         "chemicals": 6,
         "steel_spring": 2
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "compensator_ii_blueprint",
+          "researchName": "Compensator II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 1
+        },
+        {
+          "researchId": "silencer_i_blueprint",
+          "researchName": "Silencer I Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "cooling_fan",
@@ -4919,7 +5382,25 @@
       "recyclesInto": {
         "plastic_parts": 14,
         "wires": 4
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "powered_descender_blueprint",
+          "researchName": "Powered Descender Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 2
+        },
+        {
+          "researchId": "torrente_blueprint",
+          "researchName": "Torrente Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 3000,
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "cracked_bioscanner",
@@ -5000,6 +5481,16 @@
           "hideoutId": "explosives_bench",
           "hideoutName": "Explosives Station",
           "level": 2,
+          "quantity": 5
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "trailblazer_blueprint",
+          "researchName": "Trailblazer Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
           "quantity": 5
         }
       ]
@@ -5333,6 +5824,7 @@
           "hideoutId": "research_station",
           "hideoutName": "Research Station",
           "level": 3,
+          "outpostRooms": 3,
           "quantity": 3
         }
       ]
@@ -5743,7 +6235,33 @@
       "stackSize": 3,
       "recyclesInto": {
         "plastic_parts": 9
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "extended_light_mag_ii_blueprint",
+          "researchName": "Extended Light Mag II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
+        },
+        {
+          "researchId": "extended_medium_mag_ii_blueprint",
+          "researchName": "Extended Medium Mag II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
+        },
+        {
+          "researchId": "extended_shotgun_mag_ii_blueprint",
+          "researchName": "Extended Shotgun Mag II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "duct_tape",
@@ -5792,6 +6310,16 @@
           "hideoutId": "med_station",
           "hideoutName": "Medical Lab",
           "level": 2,
+          "quantity": 5
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "crash_mat_blueprint",
+          "researchName": "Crash Mat Blueprint",
+          "category": "blueprints",
+          "level": 1,
+          "points": 1000,
           "quantity": 5
         }
       ]
@@ -5860,6 +6388,16 @@
           "hideoutName": "Utility Station",
           "level": 2,
           "quantity": 5
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "work_light_design",
+          "researchName": "Work Light Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 3
         }
       ]
     },
@@ -5946,6 +6484,7 @@
           "hideoutId": "weapon_bench",
           "hideoutName": "Gunsmith",
           "level": 4,
+          "outpostRooms": 4,
           "quantity": 1
         }
       ]
@@ -6310,6 +6849,7 @@
           "hideoutId": "research_station",
           "hideoutName": "Research Station",
           "level": 3,
+          "outpostRooms": 3,
           "quantity": 3
         }
       ]
@@ -7107,6 +7647,27 @@
           "level": 2,
           "quantity": 8
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "blaze_grenade",
+          "researchName": "Blaze Grenade",
+          "category": "other",
+          "level": 2,
+          "points": 2000,
+          "quantity": 3
+        },
+        {
+          "researchId": "targeted_component_trial",
+          "researchName": "Targeted Component Trial",
+          "category": "weapon_research",
+          "level": 4,
+          "points": 5000,
+          "questIds": [
+            "targeted_component_trial"
+          ],
+          "quantity": 20
+        }
       ]
     },
     {
@@ -7151,6 +7712,19 @@
           "questOrder": 18,
           "mapNames": [],
           "quantity": 1
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "thermite_tipped_rounds",
+          "researchName": "Thermite-Tipped Rounds",
+          "category": "weapon_research",
+          "level": 4,
+          "points": 5000,
+          "questIds": [
+            "thermite_tipped_rounds"
+          ],
+          "quantity": 5
         }
       ]
     },
@@ -7403,7 +7977,17 @@
       "stackSize": 1,
       "recyclesInto": {
         "explosive_compound": 3
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "deadline_blueprint",
+          "researchName": "Deadline Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "free_loadout_augment",
@@ -7483,6 +8067,7 @@
           "hideoutId": "research_station",
           "hideoutName": "Research Station",
           "level": 4,
+          "outpostRooms": 4,
           "quantity": 1
         }
       ]
@@ -7570,7 +8155,17 @@
       "craftBench": [
         "explosives_bench"
       ],
-      "stationLevelRequired": 1
+      "stationLevelRequired": 1,
+      "researchRequiredFor": [
+        {
+          "researchId": "smoke_grenade_blueprint",
+          "researchName": "Smoke Grenade Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "gas_grenade_trap",
@@ -8353,7 +8948,17 @@
       "craftBench": [
         "refiner"
       ],
-      "stationLevelRequired": 2
+      "stationLevelRequired": 2,
+      "researchRequiredFor": [
+        {
+          "researchId": "shotgun_choke_ii_blueprint",
+          "researchName": "Shotgun Choke II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "heavy_gun_parts_blueprint",
@@ -8507,6 +9112,32 @@
           "phaseName": "Soaring Menaces",
           "quantity": 15
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "bantam_blueprint",
+          "researchName": "Bantam Blueprint",
+          "category": "blueprints",
+          "level": 1,
+          "points": 3000,
+          "quantity": 8
+        },
+        {
+          "researchId": "showstopper_blueprint",
+          "researchName": "Showstopper Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
+        },
+        {
+          "researchId": "surge_coil_blueprint",
+          "researchName": "Surge Coil Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 3
+        }
       ]
     },
     {
@@ -8540,7 +9171,25 @@
       "stackSize": 3,
       "recyclesInto": {
         "chemicals": 11
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "gas_mine_blueprint",
+          "researchName": "Gas Mine Blueprint",
+          "category": "blueprints",
+          "level": 1,
+          "points": 1000,
+          "quantity": 3
+        },
+        {
+          "researchId": "smoke_grenade_blueprint",
+          "researchName": "Smoke Grenade Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "hullcracker_amplified",
@@ -9199,7 +9848,17 @@
       "stackSize": 3,
       "recyclesInto": {
         "chemicals": 12
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "blaze_grenade",
+          "researchName": "Blaze Grenade",
+          "category": "other",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "industrial_battery",
@@ -9234,6 +9893,32 @@
           "hideoutId": "equipment_bench",
           "hideoutName": "Gear Bench",
           "level": 3,
+          "quantity": 3
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "jolt_mine_blueprint",
+          "researchName": "Jolt Mine Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 1
+        },
+        {
+          "researchId": "pulse_mine_blueprint",
+          "researchName": "Pulse Mine Blueprint",
+          "category": "blueprints",
+          "level": 1,
+          "points": 1000,
+          "quantity": 3
+        },
+        {
+          "researchId": "showstopper_blueprint",
+          "researchName": "Showstopper Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
           "quantity": 3
         }
       ]
@@ -10045,7 +10730,41 @@
       "recyclesInto": {
         "mechanical_components": 2,
         "steel_spring": 2
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "battered_aviary_table",
+          "researchName": "Battered Aviary Table",
+          "category": "other",
+          "level": 3,
+          "points": 1500,
+          "quantity": 1
+        },
+        {
+          "researchId": "diner_shelf_design",
+          "researchName": "Diner Shelf Design",
+          "category": "designs",
+          "level": 3,
+          "points": 1500,
+          "quantity": 1
+        },
+        {
+          "researchId": "polished_faculty_table_design",
+          "researchName": "Polished Faculty Table Design",
+          "category": "designs",
+          "level": 3,
+          "points": 1500,
+          "quantity": 1
+        },
+        {
+          "researchId": "restaurant_table_design",
+          "researchName": "Restaurant Table Design",
+          "category": "designs",
+          "level": 3,
+          "points": 1500,
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "launcher_ammo",
@@ -10109,6 +10828,27 @@
           "phase": 3,
           "phaseName": "Ferocious Foes",
           "quantity": 10
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "high_voltage_exposure",
+          "researchName": "High-Voltage Exposure",
+          "category": "weapon_research",
+          "level": 4,
+          "points": 5000,
+          "questIds": [
+            "high_voltage_exposure"
+          ],
+          "quantity": 5
+        },
+        {
+          "researchId": "venator_blueprint",
+          "researchName": "Venator Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 3000,
+          "quantity": 3
         }
       ]
     },
@@ -10604,6 +11344,7 @@
           "hideoutId": "weapon_bench",
           "hideoutName": "Gunsmith",
           "level": 4,
+          "outpostRooms": 4,
           "quantity": 3
         }
       ],
@@ -10728,6 +11469,19 @@
           "phaseName": "Imposing Behemoths",
           "quantity": 3
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "shield_stress_testing",
+          "researchName": "Shield Stress Testing",
+          "category": "weapon_research",
+          "level": 4,
+          "points": 5000,
+          "questIds": [
+            "shield_stress_testing"
+          ],
+          "quantity": 2
+        }
       ]
     },
     {
@@ -10757,6 +11511,120 @@
           "hideoutName": "Gunsmith",
           "level": 2,
           "quantity": 5
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "angled_grip_ii_blueprint",
+          "researchName": "Angled Grip II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 3000,
+          "quantity": 1
+        },
+        {
+          "researchId": "battered_bureau_chair_design",
+          "researchName": "Battered Bureau Chair Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 3
+        },
+        {
+          "researchId": "battered_lab_cabinet_design",
+          "researchName": "Battered Lab Cabinet Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 3
+        },
+        {
+          "researchId": "battered_lab_cabinet_wide_design",
+          "researchName": "Battered Lab Cabinet (Wide) Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 3
+        },
+        {
+          "researchId": "battered_lab_chair_design",
+          "researchName": "Battered Lab Chair Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 3
+        },
+        {
+          "researchId": "combat_mk3_flanking_blueprint",
+          "researchName": "Combat Mk. 3 (Flanking) Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 3
+        },
+        {
+          "researchId": "extended_shotgun_mag_ii_blueprint",
+          "researchName": "Extended Shotgun Mag II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 1
+        },
+        {
+          "researchId": "lab_stool_design",
+          "researchName": "Lab Stool Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 1
+        },
+        {
+          "researchId": "security_chair_design",
+          "researchName": "Security Chair Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 5
+        },
+        {
+          "researchId": "sturdy_faculty_table_design",
+          "researchName": "Sturdy Faculty Table Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 5
+        },
+        {
+          "researchId": "sturdy_lab_chair_design",
+          "researchName": "Sturdy Lab Chair Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 3
+        },
+        {
+          "researchId": "venator_blueprint",
+          "researchName": "Venator Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 3000,
+          "quantity": 1
+        },
+        {
+          "researchId": "vertical_grip_ii_blueprint",
+          "researchName": "Vertical Grip II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 1
+        },
+        {
+          "researchId": "weather_station_chair_design",
+          "researchName": "Weather Station Chair Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 1
         }
       ]
     },
@@ -10846,7 +11714,49 @@
       "stackSize": 3,
       "recyclesInto": {
         "metal_parts": 8
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "battered_faculty_table_design",
+          "researchName": "Battered Faculty Table Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 2
+        },
+        {
+          "researchId": "cafeteria_table_design",
+          "researchName": "Cafeteria Table Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 2
+        },
+        {
+          "researchId": "study_tv_stand_design",
+          "researchName": "Study TV Stand Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 1
+        },
+        {
+          "researchId": "sturdy_lab_cabinet_design",
+          "researchName": "Sturdy Lab Cabinet Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 2
+        },
+        {
+          "researchId": "sturdy_lab_cabinet_wide_design",
+          "researchName": "Sturdy Lab Cabinet (Wide) Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "metal_parts",
@@ -10870,6 +11780,64 @@
           "level": 1,
           "quantity": 20
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "barstool_design",
+          "researchName": "Barstool Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 15
+        },
+        {
+          "researchId": "battered_diner_chair_design",
+          "researchName": "Battered Diner Chair Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 15
+        },
+        {
+          "researchId": "diner_stool_design",
+          "researchName": "Diner Stool Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 15
+        },
+        {
+          "researchId": "polished_diner_chair_design",
+          "researchName": "Polished Diner Chair Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 15
+        },
+        {
+          "researchId": "small_lab_cabinet_design",
+          "researchName": "Small Lab Cabinet Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 15
+        },
+        {
+          "researchId": "sturdy_bureau_chair_design",
+          "researchName": "Sturdy Bureau Chair Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 10
+        },
+        {
+          "researchId": "warehouse_chair_design",
+          "researchName": "Warehouse Chair Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 15
+        }
       ]
     },
     {
@@ -10884,7 +11852,17 @@
       "recyclesInto": {
         "advanced_mechanical_components": 1,
         "magnet": 3
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "vita_shot_blueprint",
+          "researchName": "Vita Shot Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 2
+        }
+      ]
     },
     {
       "id": "milky_terraccota",
@@ -10927,6 +11905,7 @@
           "hideoutId": "research_station",
           "hideoutName": "Research Station",
           "level": 1,
+          "outpostRooms": 1,
           "quantity": 3
         }
       ]
@@ -11970,6 +12949,7 @@
           "hideoutId": "research_station",
           "hideoutName": "Research Station",
           "level": 1,
+          "outpostRooms": 1,
           "quantity": 35
         }
       ],
@@ -11980,6 +12960,48 @@
           "phase": 2,
           "phaseName": "Gather building materials",
           "quantity": 3
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "clinic_medical_cabinet_design",
+          "researchName": "Clinic Medical Cabinet Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 20
+        },
+        {
+          "researchId": "diner_cupboard_design",
+          "researchName": "Diner Cupboard Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 40
+        },
+        {
+          "researchId": "polished_faculty_chair_design",
+          "researchName": "Polished Faculty Chair Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 5
+        },
+        {
+          "researchId": "white_flag_blueprint",
+          "researchName": "White Flag Blueprint",
+          "category": "blueprints",
+          "level": 1,
+          "points": 500,
+          "quantity": 5
+        },
+        {
+          "researchId": "winter_table_design",
+          "researchName": "Winter Table Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 40
         }
       ]
     },
@@ -12281,6 +13303,27 @@
           "phase": 1,
           "phaseName": "Roaming Threats",
           "quantity": 15
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "burst_assembly_recovery",
+          "researchName": "Burst Assembly Recovery",
+          "category": "weapon_research",
+          "level": 4,
+          "points": 5000,
+          "questIds": [
+            "burst_assembly_recovery"
+          ],
+          "quantity": 20
+        },
+        {
+          "researchId": "trigger_nade_blueprint",
+          "researchName": "Trigger Nade Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 2
         }
       ]
     },
@@ -12724,6 +13767,19 @@
           "phaseName": "Dominant Dangers",
           "quantity": 3
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "beam_resonance_tech",
+          "researchName": "Beam Resonance Tech",
+          "category": "weapon_research",
+          "level": 4,
+          "points": 5000,
+          "questIds": [
+            "beam_resonance_tech"
+          ],
+          "quantity": 2
+        }
       ]
     },
     {
@@ -12743,7 +13799,26 @@
           "hideoutId": "weapon_bench",
           "hideoutName": "Gunsmith",
           "level": 4,
+          "outpostRooms": 4,
           "quantity": 3
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "chambers_nightstand_design",
+          "researchName": "Chambers Nightstand Design",
+          "category": "designs",
+          "level": 3,
+          "points": 1500,
+          "quantity": 1
+        },
+        {
+          "researchId": "sturdy_faculty_chair_design",
+          "researchName": "Sturdy Faculty Chair Design",
+          "category": "designs",
+          "level": 3,
+          "points": 1500,
+          "quantity": 1
         }
       ]
     },
@@ -12759,7 +13834,17 @@
       "recyclesInto": {
         "sensors": 1,
         "speaker_component": 1
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "trigger_nade_blueprint",
+          "researchName": "Trigger Nade Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 2
+        }
+      ]
     },
     {
       "id": "radio_relay",
@@ -12818,6 +13903,7 @@
           "hideoutId": "research_station",
           "hideoutName": "Research Station",
           "level": 2,
+          "outpostRooms": 2,
           "quantity": 3
         }
       ]
@@ -14227,6 +15313,35 @@
           "phaseName": "Dominant Dangers",
           "quantity": 8
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "bettina_blueprint",
+          "researchName": "Bettina Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 4500,
+          "quantity": 5
+        },
+        {
+          "researchId": "embedded_blast_engineering",
+          "researchName": "Embedded Blast Engineering",
+          "category": "weapon_research",
+          "level": 4,
+          "points": 5000,
+          "questIds": [
+            "embedded_blast_engineering"
+          ],
+          "quantity": 5
+        },
+        {
+          "researchId": "seeker_grenade_blueprint",
+          "researchName": "Seeker Grenade Blueprint",
+          "category": "blueprints",
+          "level": 1,
+          "points": 1000,
+          "quantity": 1
+        }
       ]
     },
     {
@@ -14253,7 +15368,17 @@
       "stackSize": 5,
       "recyclesInto": {
         "fabric": 3
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "grappling_hook_blueprint",
+          "researchName": "Grappling Hook Blueprint",
+          "category": "blueprints",
+          "level": 1,
+          "points": 2000,
+          "quantity": 10
+        }
+      ]
     },
     {
       "id": "rosary",
@@ -14312,7 +15437,17 @@
       "stackSize": 3,
       "recyclesInto": {
         "rubber_parts": 18
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "stable_stock_ii_blueprint",
+          "researchName": "Stable Stock II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "rubber_parts",
@@ -14458,6 +15593,40 @@
           "phaseName": "Roaming Threats",
           "quantity": 3
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "battered_shelf_design",
+          "researchName": "Battered Shelf Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 1
+        },
+        {
+          "researchId": "blue_lab_cabinet_design",
+          "researchName": "Blue Lab Cabinet Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 1
+        },
+        {
+          "researchId": "faculty_closet_design",
+          "researchName": "Faculty Closet Design",
+          "category": "designs",
+          "level": 3,
+          "points": 1500,
+          "quantity": 3
+        },
+        {
+          "researchId": "sturdy_shelf_design",
+          "researchName": "Sturdy Shelf Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 1
+        }
       ]
     },
     {
@@ -14524,6 +15693,16 @@
           "level": 2,
           "quantity": 3
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "anvil_blueprint",
+          "researchName": "Anvil Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 3000,
+          "quantity": 1
+        }
       ]
     },
     {
@@ -14537,7 +15716,57 @@
       "stackSize": 3,
       "recyclesInto": {
         "metal_parts": 8
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "barricade_kit_blueprint",
+          "researchName": "Barricade Kit Blueprint",
+          "category": "blueprints",
+          "level": 1,
+          "points": 1000,
+          "quantity": 3
+        },
+        {
+          "researchId": "compensator_ii_blueprint",
+          "researchName": "Compensator II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
+        },
+        {
+          "researchId": "extended_barrel_ii_blueprint",
+          "researchName": "Extended Barrel II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
+        },
+        {
+          "researchId": "muzzle_brake_ii_blueprint",
+          "researchName": "Muzzle Brake II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
+        },
+        {
+          "researchId": "shotgun_choke_ii_blueprint",
+          "researchName": "Shotgun Choke II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
+        },
+        {
+          "researchId": "silencer_i_blueprint",
+          "researchName": "Silencer I Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "sacrifice",
@@ -14679,7 +15908,25 @@
       "recyclesInto": {
         "metal_parts": 1,
         "wires": 1
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "explosive_mine_blueprint",
+          "researchName": "Explosive Mine Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 2
+        },
+        {
+          "researchId": "tagging_grenade_blueprint",
+          "researchName": "Tagging Grenade Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 2
+        }
+      ]
     },
     {
       "id": "sentinel_firing_core",
@@ -14714,6 +15961,27 @@
           "hideoutName": "Gunsmith",
           "level": 3,
           "quantity": 4
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "action_economy",
+          "researchName": "Action Economy",
+          "category": "weapon_research",
+          "level": 4,
+          "points": 5000,
+          "questIds": [
+            "action_economy"
+          ],
+          "quantity": 8
+        },
+        {
+          "researchId": "osprey_blueprint",
+          "researchName": "Osprey Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 3000,
+          "quantity": 3
         }
       ]
     },
@@ -14776,6 +16044,32 @@
           "phase": 2,
           "phaseName": "Gather building materials",
           "quantity": 5
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "sturdy_bureau_sofa_design",
+          "researchName": "Sturdy Bureau Sofa Design",
+          "category": "designs",
+          "level": 1,
+          "points": 500,
+          "quantity": 15
+        },
+        {
+          "researchId": "warehouse_dresser_design",
+          "researchName": "Warehouse Dresser Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 30
+        },
+        {
+          "researchId": "weather_station_table_design",
+          "researchName": "Weather Station Table Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 30
         }
       ]
     },
@@ -15023,6 +16317,16 @@
           "phaseName": "Ferocious Foes",
           "quantity": 5
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "il_toro_blueprint",
+          "researchName": "Il Toro Blueprint",
+          "category": "blueprints",
+          "level": 1,
+          "points": 1500,
+          "quantity": 5
+        }
       ]
     },
     {
@@ -15138,7 +16442,41 @@
       "stackSize": 10,
       "recyclesInto": {
         "metal_parts": 2
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "burletta_blueprint",
+          "researchName": "Burletta Blueprint",
+          "category": "blueprints",
+          "level": 1,
+          "points": 2000,
+          "quantity": 8
+        },
+        {
+          "researchId": "heavy_gun_parts_blueprint",
+          "researchName": "Heavy Gun Parts Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
+        },
+        {
+          "researchId": "light_gun_parts_blueprint",
+          "researchName": "Light Gun Parts Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
+        },
+        {
+          "researchId": "medium_gun_parts_blueprint",
+          "researchName": "Medium Gun Parts Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "sirena_dorata_ship_model",
@@ -15190,7 +16528,29 @@
           "hideoutId": "research_station",
           "hideoutName": "Research Station",
           "level": 2,
+          "outpostRooms": 2,
           "quantity": 5
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "canto_blueprint",
+          "researchName": "Canto Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 10
+        },
+        {
+          "researchId": "mobile_fire_grip_fittings",
+          "researchName": "Mobile-Fire Grip Fittings",
+          "category": "weapon_research",
+          "level": 4,
+          "points": 5000,
+          "questIds": [
+            "sprint_shooting"
+          ],
+          "quantity": 20
         }
       ]
     },
@@ -15243,7 +16603,17 @@
       "craftBench": [
         "utility_bench"
       ],
-      "stationLevelRequired": 2
+      "stationLevelRequired": 2,
+      "researchRequiredFor": [
+        {
+          "researchId": "tactical_mk3_smoke_blueprint",
+          "researchName": "Tactical Mk. 3 (Smoke) Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "smoke_grenade_blueprint",
@@ -15367,6 +16737,19 @@
           "hideoutName": "Utility Station",
           "level": 2,
           "quantity": 6
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "top_mounted_optics_retrofittings",
+          "researchName": "Top Mounted Optics Retrofittings",
+          "category": "weapon_research",
+          "level": 4,
+          "points": 5000,
+          "questIds": [
+            "top_mounted_optics_retrofittings"
+          ],
+          "quantity": 14
         }
       ]
     },
@@ -15547,7 +16930,17 @@
       "recyclesInto": {
         "durable_cloth": 2,
         "steel_spring": 2
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "hotel_chair_design",
+          "researchName": "Hotel Chair Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "stable_stock_i",
@@ -15664,7 +17057,17 @@
       "rarity": "Rare",
       "value": 3000,
       "weightKg": 0.3,
-      "stackSize": 3
+      "stackSize": 3,
+      "researchRequiredFor": [
+        {
+          "researchId": "diner_table_design",
+          "researchName": "Diner Table Design",
+          "category": "designs",
+          "level": 3,
+          "points": 2000,
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "steel_cable",
@@ -15677,7 +17080,41 @@
       "stackSize": 5,
       "recyclesInto": {
         "wires": 1
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "extended_barrel_ii_blueprint",
+          "researchName": "Extended Barrel II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 1
+        },
+        {
+          "researchId": "muzzle_brake_ii_blueprint",
+          "researchName": "Muzzle Brake II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 1
+        },
+        {
+          "researchId": "tether_launcher_blueprint",
+          "researchName": "Tether Launcher Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 3
+        },
+        {
+          "researchId": "yank_grenade_blueprint",
+          "researchName": "Yank Grenade Blueprint",
+          "category": "blueprints",
+          "level": 1,
+          "points": 1000,
+          "quantity": 8
+        }
+      ]
     },
     {
       "id": "steel_spring",
@@ -15690,7 +17127,17 @@
       "stackSize": 15,
       "recyclesInto": {
         "metal_parts": 2
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "canto_blueprint",
+          "researchName": "Canto Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "stella_montis_archives_key",
@@ -16638,6 +18085,32 @@
           "mapNames": [],
           "quantity": 1
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "defibrillator_blueprint",
+          "researchName": "Defibrillator Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 3
+        },
+        {
+          "researchId": "looting_mk3_survivor_blueprint",
+          "researchName": "Looting Mk. 3 (Survivor) Blueprint",
+          "category": "blueprints",
+          "level": 3,
+          "points": 3000,
+          "quantity": 2
+        },
+        {
+          "researchId": "vita_shot_blueprint",
+          "researchName": "Vita Shot Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 2
+        }
       ]
     },
     {
@@ -17169,6 +18642,7 @@
           "hideoutId": "research_station",
           "hideoutName": "Research Station",
           "level": 4,
+          "outpostRooms": 4,
           "quantity": 3
         }
       ]
@@ -17223,6 +18697,19 @@
           "phase": 1,
           "phaseName": "Roaming Threats",
           "quantity": 15
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "solid_core_casting_tech",
+          "researchName": "Solid-Core Casting Tech",
+          "category": "weapon_research",
+          "level": 4,
+          "points": 5000,
+          "questIds": [
+            "solid_core_casting_tech"
+          ],
+          "quantity": 20
         }
       ]
     },
@@ -17603,7 +19090,17 @@
       "recyclesInto": {
         "arc_circuitry": 1,
         "arc_motion_core": 1
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "trailblazer_blueprint",
+          "researchName": "Trailblazer Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "turbo_pump",
@@ -17650,7 +19147,41 @@
       "recyclesInto": {
         "metal_parts": 4,
         "simple_gun_parts": 5
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "heavy_gun_parts_blueprint",
+          "researchName": "Heavy Gun Parts Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 1
+        },
+        {
+          "researchId": "light_gun_parts_blueprint",
+          "researchName": "Light Gun Parts Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 1
+        },
+        {
+          "researchId": "medium_gun_parts_blueprint",
+          "researchName": "Medium Gun Parts Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 1
+        },
+        {
+          "researchId": "tether_launcher_blueprint",
+          "researchName": "Tether Launcher Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "vaporizer_regulator",
@@ -17664,7 +19195,20 @@
       "recyclesInto": {
         "advanced_electrical_components": 1,
         "arc_circuitry": 2
-      }
+      },
+      "researchRequiredFor": [
+        {
+          "researchId": "trigger_reset_systems",
+          "researchName": "Trigger Reset Systems",
+          "category": "weapon_research",
+          "level": 4,
+          "points": 5000,
+          "questIds": [
+            "trigger_reset_systems"
+          ],
+          "quantity": 4
+        }
+      ]
     },
     {
       "id": "vase",
@@ -18000,6 +19544,48 @@
           "hideoutId": "scrappy",
           "hideoutName": "Scrappy",
           "level": 5,
+          "quantity": 3
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "battered_bureau_sofa_design",
+          "researchName": "Battered Bureau Sofa Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 1
+        },
+        {
+          "researchId": "polished_round_sofa_design",
+          "researchName": "Polished Round Sofa Design",
+          "category": "designs",
+          "level": 3,
+          "points": 1500,
+          "quantity": 1
+        },
+        {
+          "researchId": "red_study_sofa_design",
+          "researchName": "Red Study Sofa Design",
+          "category": "designs",
+          "level": 3,
+          "points": 1500,
+          "quantity": 1
+        },
+        {
+          "researchId": "res_sofa_01_y150_a_design",
+          "researchName": "Study Armchair Design",
+          "category": "designs",
+          "level": 2,
+          "points": 1000,
+          "quantity": 1
+        },
+        {
+          "researchId": "tufted_sofa_design",
+          "researchName": "Tufted Sofa Design",
+          "category": "designs",
+          "level": 3,
+          "points": 2000,
           "quantity": 3
         }
       ]
@@ -18386,6 +19972,16 @@
           "phaseName": "Soaring Menaces",
           "quantity": 20
         }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "stiletto_blueprint",
+          "researchName": "Stiletto Blueprint",
+          "category": "blueprints",
+          "level": 1,
+          "points": 3000,
+          "quantity": 15
+        }
       ]
     },
     {
@@ -18589,6 +20185,16 @@
           "questOrder": 32,
           "mapNames": [],
           "quantity": 6
+        }
+      ],
+      "researchRequiredFor": [
+        {
+          "researchId": "extended_light_mag_ii_blueprint",
+          "researchName": "Extended Light Mag II Blueprint",
+          "category": "blueprints",
+          "level": 2,
+          "points": 2000,
+          "quantity": 5
         }
       ]
     },
