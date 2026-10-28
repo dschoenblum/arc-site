@@ -2,7 +2,7 @@
   "meta": {
     "source": "arctracker.io",
     "sourceUrl": "https://arctracker.io",
-    "dataUpdatedAt": "2026-10-23"
+    "dataUpdatedAt": "2026-10-27"
   },
   "items": [
     {
@@ -77,6 +77,15 @@
       "recyclesInto": {
         "arc_powercell": 2
       },
+      "projectsRequiredFor": [
+        {
+          "projectId": "souls_offering_project",
+          "projectName": "Soul's Offering",
+          "phase": 2,
+          "phaseName": "Construct Ferrovia's Offering",
+          "quantity": 15
+        }
+      ],
       "researchRequiredFor": [
         {
           "researchId": "jolt_mine_blueprint",
@@ -535,7 +544,7 @@
       "researchRequiredFor": [
         {
           "researchId": "tactical_mk3_revival_blueprint",
-          "researchName": "Tactical Mk. 3 (Revival) Blueprint",
+          "researchName": "Tactical Mk.3 (Revival) Blueprint",
           "category": "blueprints",
           "level": 3,
           "points": 3000,
@@ -827,7 +836,7 @@
     },
     {
       "id": "anvil_splitter",
-      "name": "Anvil Splitter",
+      "name": "Deprecated Anvil Splitter",
       "imageFilename": "v2/anvil_splitter.png",
       "type": "Modification",
       "rarity": "Legendary",
@@ -1340,6 +1349,13 @@
           "phase": 2,
           "phaseName": "Gather building materials",
           "quantity": 10
+        },
+        {
+          "projectId": "souls_offering_project",
+          "projectName": "Soul's Offering",
+          "phase": 1,
+          "phaseName": "Construct Vaulto's Offering",
+          "quantity": 15
         }
       ],
       "researchRequiredFor": [
@@ -1425,7 +1441,7 @@
         },
         {
           "researchId": "tactical_mk3_revival_blueprint",
-          "researchName": "Tactical Mk. 3 (Revival) Blueprint",
+          "researchName": "Tactical Mk.3 (Revival) Blueprint",
           "category": "blueprints",
           "level": 3,
           "points": 3000,
@@ -1447,7 +1463,7 @@
           "questId": "sizing_things_up",
           "questName": "Sizing Things Up",
           "trader": "Celeste",
-          "questOrder": 17,
+          "questOrder": 16,
           "mapNames": [
             "Pendola Pass"
           ],
@@ -4793,7 +4809,7 @@
           "questId": "celestes_journals",
           "questName": "Celeste’s Journals",
           "trader": "Celeste",
-          "questOrder": 7,
+          "questOrder": 6,
           "mapNames": [
             "Dam Battlegrounds"
           ],
@@ -5697,6 +5713,32 @@
       "stackSize": 3
     },
     {
+      "id": "dead_flowers",
+      "name": "Dead Flowers",
+      "imageFilename": "v2/dead_flowers.png",
+      "type": "Trinket",
+      "rarity": "Uncommon",
+      "value": 640,
+      "weightKg": 0.5,
+      "stackSize": 5,
+      "projectsRequiredFor": [
+        {
+          "projectId": "souls_offering_project",
+          "projectName": "Soul's Offering",
+          "phase": 1,
+          "phaseName": "Construct Vaulto's Offering",
+          "quantity": 1
+        },
+        {
+          "projectId": "souls_offering_project",
+          "projectName": "Soul's Offering",
+          "phase": 2,
+          "phaseName": "Construct Ferrovia's Offering",
+          "quantity": 3
+        }
+      ]
+    },
+    {
       "id": "deadline",
       "name": "Deadline",
       "imageFilename": "v2/deadline.png",
@@ -6457,7 +6499,19 @@
       "craftBench": [
         "workbench"
       ],
-      "stationLevelRequired": 1
+      "stationLevelRequired": 1,
+      "questsRequiredFor": [
+        {
+          "questId": "belly_of_the_beast",
+          "questName": "Belly of the Beast",
+          "trader": "Shani",
+          "questOrder": 31,
+          "mapNames": [
+            "Pendola Pass"
+          ],
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "emperor_gateway_conduit_blueprint",
@@ -6879,7 +6933,7 @@
           "questId": "the_root_of_the_matter",
           "questName": "The Root of the Matter",
           "trader": "Celeste",
-          "questOrder": 26,
+          "questOrder": 25,
           "mapNames": [
             "Buried City"
           ],
@@ -6911,6 +6965,13 @@
         "rubber_parts": 8
       },
       "projectsRequiredFor": [
+        {
+          "projectId": "souls_offering_project",
+          "projectName": "Soul's Offering",
+          "phase": 1,
+          "phaseName": "Construct Vaulto's Offering",
+          "quantity": 1
+        },
         {
           "projectId": "trophy_display_project",
           "projectName": "Trophy Display",
@@ -7426,6 +7487,25 @@
       "stackSize": 15
     },
     {
+      "id": "fancy_plate",
+      "name": "Fancy Plate",
+      "imageFilename": "v2/fancy_plate.png",
+      "type": "Trinket",
+      "rarity": "Epic",
+      "value": 7000,
+      "weightKg": 0.5,
+      "stackSize": 3,
+      "projectsRequiredFor": [
+        {
+          "projectId": "souls_offering_project",
+          "projectName": "Soul's Offering",
+          "phase": 3,
+          "phaseName": "Construct Murteta's Offering",
+          "quantity": 2
+        }
+      ]
+    },
+    {
       "id": "ferro_i",
       "name": "Ferro I",
       "description": "Heavy break-action rifle. Packs a punch, but must be reloaded between every shot.",
@@ -7608,7 +7688,16 @@
       "stackSize": 5,
       "recyclesInto": {
         "assorted_seeds": 2
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "souls_offering_project",
+          "projectName": "Soul's Offering",
+          "phase": 3,
+          "phaseName": "Construct Murteta's Offering",
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": "film_reel",
@@ -9965,7 +10054,16 @@
       "stackSize": 3,
       "recyclesInto": {
         "durable_cloth": 2
-      }
+      },
+      "projectsRequiredFor": [
+        {
+          "projectId": "souls_offering_project",
+          "projectName": "Soul's Offering",
+          "phase": 3,
+          "phaseName": "Construct Murteta's Offering",
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "ion_sputter",
@@ -9985,7 +10083,7 @@
           "questId": "with_a_view",
           "questName": "With a View",
           "trader": "Shani",
-          "questOrder": 37,
+          "questOrder": 38,
           "mapNames": [
             "Stella Montis"
           ],
@@ -11417,7 +11515,7 @@
           "questId": "echoes_of_victory_ridge",
           "questName": "Echoes of Victory Ridge",
           "trader": "Celeste",
-          "questOrder": 21,
+          "questOrder": 20,
           "mapNames": [
             "Dam Battlegrounds"
           ],
@@ -11434,6 +11532,25 @@
       "value": 100,
       "weightKg": 0.5,
       "stackSize": 1
+    },
+    {
+      "id": "mask_fragment",
+      "name": "Mask Fragment",
+      "imageFilename": "v2/mask_fragment.png",
+      "type": "Trinket",
+      "rarity": "Epic",
+      "value": 7000,
+      "weightKg": 0.5,
+      "stackSize": 3,
+      "projectsRequiredFor": [
+        {
+          "projectId": "souls_offering_project",
+          "projectName": "Soul's Offering",
+          "phase": 3,
+          "phaseName": "Construct Murteta's Offering",
+          "quantity": 1
+        }
+      ]
     },
     {
       "id": "matriarch_reactor",
@@ -12238,6 +12355,22 @@
       "type": "Stencil",
       "rarity": "Uncommon",
       "value": 5000,
+      "stackSize": 1
+    },
+    {
+      "id": "offering_display_table",
+      "name": "Offering Display Table",
+      "imageFilename": "v2/offering_display_table.png",
+      "type": "Outpost Furniture",
+      "rarity": "Legendary",
+      "stackSize": 1
+    },
+    {
+      "id": "offering_display_table_design",
+      "name": "Offering Display Table Design",
+      "imageFilename": "v2/offering_display_table.png",
+      "type": "Design",
+      "rarity": "Legendary",
       "stackSize": 1
     },
     {
@@ -13471,7 +13604,7 @@
           "questId": "tribute_to_toledo",
           "questName": "Tribute to Toledo",
           "trader": "Celeste",
-          "questOrder": 22,
+          "questOrder": 21,
           "mapNames": [],
           "quantity": 1
         }
@@ -13924,6 +14057,25 @@
       "value": 100,
       "weightKg": 0.25,
       "stackSize": 1
+    },
+    {
+      "id": "railway_lantern",
+      "name": "Railway Lantern",
+      "imageFilename": "v2/railway_lantern.png",
+      "type": "Trinket",
+      "rarity": "Rare",
+      "value": 3000,
+      "weightKg": 0.5,
+      "stackSize": 3,
+      "projectsRequiredFor": [
+        {
+          "projectId": "souls_offering_project",
+          "projectName": "Soul's Offering",
+          "phase": 2,
+          "phaseName": "Construct Ferrovia's Offering",
+          "quantity": 2
+        }
+      ]
     },
     {
       "id": "rascal_amplified",
@@ -14769,7 +14921,16 @@
       "craftBench": [
         "utility_bench"
       ],
-      "stationLevelRequired": 1
+      "stationLevelRequired": 1,
+      "projectsRequiredFor": [
+        {
+          "projectId": "souls_offering_project",
+          "projectName": "Soul's Offering",
+          "phase": 2,
+          "phaseName": "Construct Ferrovia's Offering",
+          "quantity": 10
+        }
+      ]
     },
     {
       "id": "remote_raider_flare_blueprint",
@@ -15257,6 +15418,25 @@
       "stackSize": 1
     },
     {
+      "id": "rock_salt",
+      "name": "Rock Salt",
+      "imageFilename": "v2/rock_salt.png",
+      "type": "Trinket",
+      "rarity": "Uncommon",
+      "value": 640,
+      "weightKg": 0.3,
+      "stackSize": 5,
+      "projectsRequiredFor": [
+        {
+          "projectId": "souls_offering_project",
+          "projectName": "Soul's Offering",
+          "phase": 1,
+          "phaseName": "Construct Vaulto's Offering",
+          "quantity": 2
+        }
+      ]
+    },
+    {
       "id": "rocket_thruster",
       "name": "Rocket Thruster",
       "imageFilename": "v2/rocket_thruster.png",
@@ -15418,7 +15598,7 @@
           "questId": "with_a_view",
           "questName": "With a View",
           "trader": "Shani",
-          "questOrder": 37,
+          "questOrder": 38,
           "mapNames": [
             "Stella Montis"
           ],
@@ -15957,7 +16137,7 @@
           "questId": "wires_crossed",
           "questName": "Wires Crossed",
           "trader": "Celeste",
-          "questOrder": 30,
+          "questOrder": 29,
           "mapNames": [
             "Buried City",
             "The Spaceport",
@@ -16041,7 +16221,7 @@
     },
     {
       "id": "sheetmetal",
-      "name": "SheetMetal",
+      "name": "Sheet Metal",
       "imageFilename": "v2/sheetmetal.png",
       "type": "Basic Material",
       "rarity": "Common",
@@ -16724,7 +16904,7 @@
           "questId": "wires_crossed",
           "questName": "Wires Crossed",
           "trader": "Celeste",
-          "questOrder": 30,
+          "questOrder": 29,
           "mapNames": [
             "Buried City",
             "The Spaceport",
@@ -16904,7 +17084,7 @@
           "questId": "ruins_and_reverberations",
           "questName": "Ruins and Reverberations",
           "trader": "Celeste",
-          "questOrder": 31,
+          "questOrder": 30,
           "mapNames": [
             "Pendola Pass"
           ],
@@ -18031,7 +18211,7 @@
           "questId": "wires_crossed",
           "questName": "Wires Crossed",
           "trader": "Celeste",
-          "questOrder": 30,
+          "questOrder": 29,
           "mapNames": [
             "Buried City",
             "The Spaceport",
@@ -18274,7 +18454,7 @@
     },
     {
       "id": "tactical_mk3_revival_blueprint",
-      "name": "Tactical Mk. 3 (Revival) Blueprint",
+      "name": "Tactical Mk.3 (Revival) Blueprint",
       "imageFilename": "v2/tactical_mk3_revival_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
@@ -18311,7 +18491,7 @@
     },
     {
       "id": "tactical_mk3_smoke_blueprint",
-      "name": "Tactical Mk. 3 (Smoke) Blueprint",
+      "name": "Tactical Mk.3 (Smoke) Blueprint",
       "imageFilename": "v2/tactical_mk3_smoke_blueprint.png",
       "type": "Blueprint",
       "rarity": "Common",
@@ -20146,16 +20326,6 @@
       },
       "questsRequiredFor": [
         {
-          "questId": "belly_of_the_beast",
-          "questName": "Belly of the Beast",
-          "trader": "Shani",
-          "questOrder": 31,
-          "mapNames": [
-            "Pendola Pass"
-          ],
-          "quantity": 1
-        },
-        {
           "questId": "clamoring_for_attention",
           "questName": "Clamoring for Attention",
           "trader": "Shani",
@@ -20179,7 +20349,7 @@
           "questId": "flickering_threat",
           "questName": "Flickering Threat",
           "trader": "Celeste",
-          "questOrder": 15,
+          "questOrder": 14,
           "mapNames": [
             "Dam Battlegrounds"
           ],
@@ -20437,7 +20607,7 @@
       ],
       "description": "All of Speranza is buzzing about Stella Montis right now, and I admit it’s caught my attention. Let the others sort out the whats and hows; I’m interested in the tech inside.",
       "objectives": [
-        "Take a Photo of any of the Rovers in the Sandbox",
+        "Inspect any of the Rovers in the Sandbox",
         "Search the papers in the Security Checkpoint room by the Lobby",
         "Deliver a Magnetron to Tian Wen",
         "Deliver a Flow Controller to Tian Wen"
@@ -20634,11 +20804,11 @@
           "quantity": 1
         },
         {
-          "itemId": "anvil_splitter",
+          "itemId": "extended_barrel_iii",
           "quantity": 1
         },
         {
-          "itemId": "extended_barrel_iii",
+          "itemId": "silencer_ii",
           "quantity": 1
         },
         {
@@ -20663,7 +20833,7 @@
       "objectives": [
         "Return to the water intake below the Water Treatment Control building",
         "Search the swamp for traces of the barrel's origins",
-        "Take a photo of the barrel truck",
+        "Transmit the location of the barrel truck",
         "Search the truck for clues about the saboteur's identity"
       ],
       "rewardItemIds": [
@@ -20854,7 +21024,7 @@
       ],
       "requiredItemIds": [
         {
-          "itemId": "wires",
+          "itemId": "emperor_gateway_conduit",
           "quantity": 1
         },
         {
@@ -20896,7 +21066,7 @@
     {
       "id": "boarding_the_frigate",
       "name": "Boarding the Frigate",
-      "trader": "Celeste",
+      "trader": "Shani",
       "description": "None of our old tactics work, facing those Frigates. We can’t run. We can’t hide. And there’s no waiting them out.\r\n\r\nWe need to take bold action, and we need to do it now.",
       "objectives": [
         "Find a way on top of the Frigate",
@@ -20947,7 +21117,7 @@
       "nextQuestIds": [
         "disrupting_the_frigate"
       ],
-      "questOrder": 6
+      "questOrder": 34
     },
     {
       "id": "bombing_run",
@@ -21048,7 +21218,7 @@
       "previousQuestIds": [
         "celestes_childhood_drawings"
       ],
-      "questOrder": 8
+      "questOrder": 7
     },
     {
       "id": "clamoring_for_attention",
@@ -21104,7 +21274,7 @@
       "objectives": [
         "Find the Nomad Camp under the Railyard",
         "Search for the polluted item in the Nomad camp",
-        "Bring the Equatiorial Sundial to the top of the Church in Old Town",
+        "Bring the Equatorial Sundial to the top of the Church in Old Town",
         "Deliver the Equatorial Sundial to the Nomadic Envoy"
       ],
       "requiredItemIds": [
@@ -21294,7 +21464,7 @@
       "previousQuestIds": [
         "boarding_the_frigate"
       ],
-      "questOrder": 9
+      "questOrder": 8
     },
     {
       "id": "divided",
@@ -21469,7 +21639,7 @@
         "wires_crossed",
         "tracks_of_the_beast"
       ],
-      "questOrder": 10
+      "questOrder": 9
     },
     {
       "id": "extended_burst_cycles",
@@ -21674,7 +21844,7 @@
       "previousQuestIds": [
         "the_clean_dream"
       ],
-      "questOrder": 12
+      "questOrder": 11
     },
     {
       "id": "last_entry",
@@ -21747,7 +21917,7 @@
       "nextQuestIds": [
         "safe_harbor"
       ],
-      "questOrder": 13
+      "questOrder": 12
     },
     {
       "id": "magazine_geometry_101",
@@ -22131,7 +22301,7 @@
       "nextQuestIds": [
         "divided"
       ],
-      "questOrder": 31
+      "questOrder": 30
     },
     {
       "id": "safe_harbor",
@@ -22317,7 +22487,7 @@
       "nextQuestIds": [
         "belly_of_the_beast"
       ],
-      "questOrder": 17
+      "questOrder": 16
     },
     {
       "id": "solid_core_casting_tech",
@@ -22364,7 +22534,7 @@
       "nextQuestIds": [
         "empathetic_prototypes"
       ],
-      "questOrder": 18
+      "questOrder": 17
     },
     {
       "id": "sprint_shooting",
@@ -22387,6 +22557,14 @@
       "id": "picking_up_the_pieces",
       "name": "Picking Up The Pieces",
       "trader": "Shani",
+      "map": [
+        "Dam Battlegrounds",
+        "The Blue Gate",
+        "The Spaceport",
+        "Riven Tides",
+        "Stella Montis",
+        "Buried City"
+      ],
       "description": "The storm has mostly settled, but much of our infrastructure has taken a proper beating. If you're hoping to stay with us, I'll need you to pull your weight in the repair efforts.",
       "objectives": [
         "Visit any area on your map with a loot category icon",
@@ -22492,7 +22670,7 @@
         "dormant_barons",
         "doctors_orders"
       ],
-      "questOrder": 11
+      "questOrder": 10
     },
     {
       "id": "dormant_barons",
@@ -22869,7 +23047,7 @@
       "nextQuestIds": [
         "keeping_the_memory"
       ],
-      "questOrder": 19
+      "questOrder": 18
     },
     {
       "id": "a_lay_of_the_land",
@@ -23062,7 +23240,7 @@
       "nextQuestIds": [
         "echoes_of_victory_ridge"
       ],
-      "questOrder": 20
+      "questOrder": 19
     },
     {
       "id": "echoes_of_victory_ridge",
@@ -23104,7 +23282,7 @@
       "nextQuestIds": [
         "unexpected_initiative"
       ],
-      "questOrder": 21
+      "questOrder": 20
     },
     {
       "id": "unexpected_initiative",
@@ -23276,7 +23454,7 @@
       "nextQuestIds": [
         "back_on_top"
       ],
-      "questOrder": 7
+      "questOrder": 6
     },
     {
       "id": "the_majors_footlocker",
@@ -23476,7 +23654,7 @@
       "nextQuestIds": [
         "flickering_threat"
       ],
-      "questOrder": 14
+      "questOrder": 13
     },
     {
       "id": "flickering_threat",
@@ -23515,7 +23693,7 @@
       "nextQuestIds": [
         "bees"
       ],
-      "questOrder": 15
+      "questOrder": 14
     },
     {
       "id": "bees",
@@ -23552,7 +23730,7 @@
       "nextQuestIds": [
         "espresso"
       ],
-      "questOrder": 16
+      "questOrder": 15
     },
     {
       "id": "espresso",
@@ -23671,7 +23849,7 @@
       "nextQuestIds": [
         "digging_up_dirt"
       ],
-      "questOrder": 22
+      "questOrder": 21
     },
     {
       "id": "digging_up_dirt",
@@ -23703,7 +23881,7 @@
         "turnabout",
         "building_a_library"
       ],
-      "questOrder": 23
+      "questOrder": 22
     },
     {
       "id": "turnabout",
@@ -23738,7 +23916,7 @@
       "previousQuestIds": [
         "digging_up_dirt"
       ],
-      "questOrder": 24
+      "questOrder": 23
     },
     {
       "id": "building_a_library",
@@ -23855,7 +24033,7 @@
       "nextQuestIds": [
         "the_root_of_the_matter"
       ],
-      "questOrder": 25
+      "questOrder": 24
     },
     {
       "id": "armored_transports",
@@ -23921,7 +24099,7 @@
       "nextQuestIds": [
         "water_troubles"
       ],
-      "questOrder": 26
+      "questOrder": 25
     },
     {
       "id": "water_troubles",
@@ -23959,7 +24137,7 @@
         "into_the_fray",
         "source_of_the_contamination"
       ],
-      "questOrder": 27
+      "questOrder": 26
     },
     {
       "id": "into_the_fray",
@@ -24039,7 +24217,7 @@
       "nextQuestIds": [
         "switching_the_supply"
       ],
-      "questOrder": 28
+      "questOrder": 27
     },
     {
       "id": "switching_the_supply",
@@ -24070,7 +24248,7 @@
       "nextQuestIds": [
         "a_warm_place_to_rest"
       ],
-      "questOrder": 29
+      "questOrder": 28
     },
     {
       "id": "a_warm_place_to_rest",
@@ -24423,7 +24601,7 @@
         "armored_transports",
         "the_clean_dream"
       ],
-      "questOrder": 36
+      "questOrder": 37
     },
     {
       "id": "clearer_skies",
@@ -25397,7 +25575,7 @@
       "previousQuestIds": [
         "dust_on_the_wires"
       ],
-      "questOrder": 34
+      "questOrder": 35
     },
     {
       "id": "when_everything_falls",
@@ -25445,7 +25623,7 @@
       "previousQuestIds": [
         "empathetic_prototypes"
       ],
-      "questOrder": 35
+      "questOrder": 36
     },
     {
       "id": "wires_crossed",
@@ -25501,7 +25679,7 @@
       "nextQuestIds": [
         "ruins_and_reverberations"
       ],
-      "questOrder": 30
+      "questOrder": 29
     },
     {
       "id": "with_a_view",
@@ -25550,7 +25728,7 @@
         "stable_housing",
         "movie_night"
       ],
-      "questOrder": 37
+      "questOrder": 38
     },
     {
       "id": "worth_your_salt",
@@ -25580,7 +25758,7 @@
       "nextQuestIds": [
         "on_deaf_ears"
       ],
-      "questOrder": 32
+      "questOrder": 31
     }
   ]
 }
